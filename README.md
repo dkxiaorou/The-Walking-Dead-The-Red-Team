@@ -10,7 +10,7 @@
 **DISCLAIMER: I MAY OR MAY NOT FINISH THIS PROJECT DUE TO SOME PERSONAL REASON BUT I WILL TRY MY BEST TO FINISH THE TRANSLATION BEACAUSE I LOVE THE GAME WITH MY HEART AND SOUL
 
 Season 1:
-- Episode 1: ✔️ (doesn't exist due havent provided)
+- Episode 1: ✔️ (doesn't exist due haven't been provided)
 - Episode 2: Translating
 - Episode 3: ❌
 - Episode 4: ❌
