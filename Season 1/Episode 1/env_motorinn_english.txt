@@ -1,0 +1,1004 @@
+1) LEE
+{NormalC} Này Glenn!
+2) RADIO
+[over radio] ...Annah đang ở mức báo động 9, trong khi đó tại Atlanta đã tạm thời
+
+bị hạ cấp xuống mức báo động 8 với các cuộc tấn công và bạo loạn được
+
+báo cáo ở tất cả các khu vực. Công dân hiện được khuyến cáo ở lại
+
+nhà của họ hoặc di chuyển đến các thành phố Charlotte, Atlanta và Orlando.
+
+Nếu người dân ở trong nhà nên thường xuyên nghe đài phát thanh và chờ
+
+hướng dẫn thêm. Di chuyển đến các thành phố Charlotte, Atlanta hoặc Orlando
+
+trở nên cần thiết để đảm bảo sự an toàn của tất cả công dân...
+3) RADIO
+[over radio] Với các trường hợp khẩn cấp nghiêm trọng không thể đếm được ở khắp nơi
+
+trong tiểu bang Georgia mức độ thảm họa hiện tại như sau:
+
+Atlanta, thảm họa báo động cấp 9, Augusta, thảm họa báo động cấp 8
+
+Columbus, khu vực lây nhiễm báo động cấp 6, báo động cấp 9 tại Savannah, Athens
+
+báo động cấp 8, báo động cấp 7 tại Sandy Springs, Macon
+
+báo động cấp 9, Roswell, báo động cấp 9, Albany, báo động cấp 9
+
+nhắc lại, Savannah giờ là báo động cấp 9 ...
+4) GLENN
+{NormalB}Tôi nghĩ là tôi phải đi rồi.
+5) LEE
+{SurpriseA}Tới Atlanta ư?
+6) GLENN
+Phải, tôi có bạn ở đó... và{ThinkingA} tôi không thể ở đây trong khi họ bị mắc kẹt.
+7) LEE
+{ThinkingA} Có vẻ như chẳng ai biết chuyện đang xảy ra ở đó cả.
+
+{NormalC} Chúng ta đi được vài ngày rồi, mọi chuyện có lẽ đã tồi tệ hơn.
+8) GLENN
+{NormalB}Tôi hy vọng là còn chút cơ hội.
+9) <<ID
+{269A4908-84ED-44B1-B2DC-3A55670A2A5E}>>
+10) LEE
+{ThinkingA} Tôi nghĩ đấy là cuộc gọi nhầm.
+11) LEE
+{NormalD}Cậu phải làm những gì nên làm thôi.
+14) 
+Cậu phải làm những gì nên làm thôi.
+12) LEE
+{HappyA}Hãy tìm bạn của cậu và bình an nhé!
+13) 
+Tôi nghĩ cậu gọi nhầm số rồi.
+15) 
+Hãy tìm bạn của cậu đi.
+16) LEE
+{NormalC}Tôi tôn trọng điều đó.
+18) LEE
+Tôi tôn trọng điều đó.
+20) LEE
+{NormalC}Tôi tôn trọng điều đó.
+17) GLENN
+{NormalC}Có lẽ đó là một cuộc gọi nhầm chăng? vẫn không thể
+
+{ThinkingA}xác thực được đó có phải thật hay không.
+19) GLENN
+{FearA} Tôi phải đi thôi.
+21) GLENN
+{HappyA}Cảm ơn anh, Lee. Đồng hành cùng mọi người là kỷ niệm đẹp với tôi.
+
+{SadA}Tôi không có ý bỏ lại mọi người, nhưng {NormalC}chuyện này như một
+
+quá trình hệ thống lại xã hội, và mọi thứ sẽ trở lại bình thường sớm thôi.
+22) LEE
+{ThinkingA}Hy vọng là vậy.
+23) GLENN
+Chúng ta sẽ an toàn thôi. Và... cái kết sẽ có hậu giống như cuộc đời của Glenn này vậy.
+24) LARRY
+{NormalC}Lee, lại đây tao bảo.
+25) LEE
+{AngryA} Ông muốn gì?
+26) LARRY
+{DisgustA} Mày thích con gái tao à?
+27) LEE
+{SurpriseA}Phải, cô ấy rất tuyệt vời.
+31) 
+Phải, cô ấy rất tuyệt vời.
+28) LEE
+{AngryC}Bố cô ta đã cố giết tôi, {DisgustA}vậy thì...
+29) LEE
+{NormalB}Không.
+34) 
+Không.
+30) LEE
+{ThinkingA}Cô ấy khá ổn đấy.
+33) 
+Cô ấy khá ổn đấy.
+32) 
+Bố cô ta đã cố giết tôi, vậy thì...
+35) LARRY
+{AngryA}Tránh xa con gái {AngryC}tao ra.
+36) LEE
+{DisgustA}Không thì sao?
+37) LARRY
+mọi người ở đây sẽ biết con người thật của mày, Lee Everett là một tên sát nhân.
+38) LARRY
+{DisgustA}Or, uh, {AngryA}mọi người sẽ biết bộ mặt thật của mày
+
+Lee Everett là  {AngryB}một tên sát nhân. {AngryA} Mày đã làm chuyện đó
+
+trước khi cố gắng sinh tồn ở hiện tại.
+50) LARRY
+{DisgustA}Or, uh, {AngryA}mọi người sẽ biết bộ mặt thật của mày
+
+Lee Everett là  {AngryB}một tên sát nhân. {AngryA} Mày đã làm chuyện đó
+
+trước khi cố gắng sinh tồn ở hiện tại.
+39) LARRY
+[angry] {AngryC}Được, huh. {AngryB}Địt cả lò nhà mày, Lee Everett.
+40) LARRY
+{HappyB}Đúng thế. {AngryA}Tao biết mày là ai,{AngryB} mày là một tên sát nhân.
+
+Nếu mày dám bén mảng tới gần con gái tao{AngryC} thì hãy coi chừng...
+
+{DisgustA}tìm người khác mà ra tay.
+41) LARRY
+{HappyA}Tốt. {AngryB}Tránh xa con bé ra hoặc {AngryA}mọi người ở đây sẽ biết con người thật của mày
+
+{DisgustA} Lee Everett là một tên sát nhân. {AngryB}Mày sẽ được hòa nhập với lũ xác sống ngoài kia
+42) LARRY
+{HappyA}Tao nhắc lại, không ai tin lời {DisgustA}một tên sát nhân như mày đâu.
+43) LARRY
+{DisgustA}Mày nghe rồi chứ?
+47) LARRY
+{DisgustA}Mày nghe rồi chứ?
+44) LARRY
+{AngryB}Tao hỏi mày một câu nhé, thằng nhóc.
+45) LARRY
+{DisgustA}Tao biết mày là ai.
+46) LARRY
+{AngryC}Tao đéo quan tâm mày đã{DisgustA} gặp chuyện gì. {AngryC} Nhưng nếu mày
+
+làm hại con gái tao hay bé gái đó,{DisgustA} heh, thì mày liệu hồn.
+48) LARRY
+{AngryA}Ông ta đã làm thế bởi vì ông ta biết Lee Everett là
+
+{AngryB}một tên sát nhân. {AngryA}Không phải tao thì người khác sẽ băm mày ra.
+49) LARRY
+Câu là trả lời là "đéo".
+51) LILLY
+{body-HoldWrist}{HappyC} {body-B}Bố tôi có thể đã bỏ mạng nếu không có anh.
+52) LEE
+{ThinkingB} {body-C2}Cô phóng viên đó đã mất mạng cũng vì tôi.
+53) LEE
+{ThinkingB} {body-C2}Cậu Doug đã mất mạng bởi vì tôi.
+54) LILLY
+{NormalC} Anh đừng như thế. Anh chỉ có một sự chọn lựa thôi.
+55) LILLY
+{HappyC} Chúng tôi rất may mắn vì có anh bảo vệ.
+56) KENNY
+{body-A}{HappyB}Tôi mong đó là âm thanh kết thúc chuyện quái đản này.
+57) LEE
+{ThinkingB} {body-C2}Tôi chẳng biết nữa...
+58) KENNY
+{HappyB} Chúng ta có giường, có nước và nhu yếu phẩm quan trọng.
+
+{body-B}{HappyA}chúng ta còn có điện. {ThinkingA}Nơi này xứng đáng để ở lại.
+59) LILLY
+{body-HandOnHip}{HappyB} Tôi hoàn toàn đồng ý.
+60) LILLY
+{HappyA}Phải, anh nói đúng. {body-A}{HappyC}Tôi nghĩ mọi chuyện sẽ ổn thôi.
+61) KENNY
+{ThinkingA} Nhà trọ di động này rất dễ bảo vệ. {body-HandsHips}Chúng ta sẽ dùng những chiếc ô tô kia
+
+để chặn lối vào và thay phiên nhau canh gác. {HappyA}Chờ ở đây đến khi quân đội tìm đến.
+62) LILLY
+{HappyA} Tôi đồng ý.
+63) LEE
+{HappyA}Tôi cũng vậy.
+64) LEE
+Có lẽ nên nói chuyện với Doug một chút.
+65) DOUG
+{NormalC}Tôi... tôi biết đúng là ngu ngốc, chúng ta vừa gặp...ThinkingA}chuyện ngu ngốc
+
+nhưng... uh... nó... nó{NormalA}có lẽ cũng chỉ vì sinh tồn, {SadB}nhưng tôi thực sự thích cô ấy.
+66) DOUG
+{SadA}{body-B}Chúng ta không thể cứu cô ấy được sao?
+67) LEE
+{NormalD}Cậu thế nào rồi, Doug?
+68) LEE
+{NormalC} Tôi tiếc là không. Nó xảy đến quá nhanh.
+104) LEE
+{ThinkingA}Tôi tiếc là không. Nó xảy đến quá nhanh.
+69) LEE
+{SurpriseA}Doug?
+70) LEE
+{HappyA}Cô ấy cũng thích cậu đấy.
+73) 
+Cô ấy cũng thích cậu đấy.
+71) LEE
+{NormalD}Tôi rất tiếc, Doug.
+72) LEE
+{NormalC}Cậu sẽ ổn thôi.
+75) 
+Cậu sẽ ổn thôi.
+108) LEE
+{NormalC}Cậu sẽ ổn thôi.
+111) 
+Cậu sẽ ổn thôi.
+74) 
+Tôi rất tiếc.
+76) DOUG
+{HappyA}Cảm ơn anh, Lee.
+77) DOUG
+{SadA}Được rồi. {NormalC}Cảm ơn anh nhé.
+78) DOUG
+[doesn't believe him] {NormalA}Vâng, {SadA}tôi biết.
+79) DOUG
+{SadA}Xin lỗi, thật là ngu ngốc.
+80) DOUG
+Tại sao anh chọn tôi? {SadA}Ý tôi là cả hai đều cần sự giúp đỡ, và anh chọn tôi.
+81) LEE
+Tôi hiểu mà.
+116) LEE
+{NormalC} Tôi hiểu mà.
+82) LEE
+Sao thế anh bạn?
+83) DOUG
+{FearA} Chờ đã, {NormalC}Lee?
+84) DOUG
+{NormalA}Dù sao đi nữa tôi muốn một mình một lát.
+115) CARLEY
+{ThinkingB}Dù sao đi nữa tôi muốn một mình một lát.
+85) LEE
+{NormalC}Tôi không biết.
+88) 
+Tôi không biết.
+120) LEE
+{NormalC} Tôi không biết.
+123) 
+Tôi không biết.
+86) LEE
+{NormalB}Tôi đã nghĩ cậu cần giúp hơn.
+87) LEE
+{NormalD}Tôi đã cố gắng cứu cả hai.
+90) 
+Tôi đã cố gắng cứu cả hai.
+122) LEE
+{NormalD} Tôi đã cố gắng cứu cả hai.
+125) 
+Tôi đã cố gắng cứu cả hai.
+89) 
+Trông như cậu cần giúp hơn.
+91) LEE
+{NormalB}Thi thoảng chúng ta không thể đưa ra sự chọn lựa. {NormalC}Chỉ làm điều có thể thôi.
+127) LEE
+{NormalB}Thi thoảng chúng ta không thể đưa ra sự chọn lựa. {NormalC}Chỉ làm điều có thể thôi.
+92) DOUG
+{SadA}Oh.
+339) LEE
+Oh...
+93) LEE
+Nhưng đó không phải sự lựa chọn gì cả. {ThinkingA}Đó là...
+
+{NormalC}phản xạ tự nhiên của tôi.{NormalB} chả biết tại sao nữa.
+129) LEE
+Nhưng đó không phải sự lựa chọn gì cả. {ThinkingA}Đó là...
+
+{NormalC}phản xạ tự nhiên của tôi.{NormalB} chả biết tại sao nữa.
+94) DOUG
+{NormalC}Oh, I guess that makes sense.
+95) DOUG
+{NormalB}Thượng đế an bài cả thôi. {NormalC}Nhưng anh lại giúp tôi trước.
+96) LEE
+{NormalC}Phải.
+130) LEE
+{NormalC}Phải.
+97) DOUG
+{SadA}Tôi nghĩ tôi không đáng.
+132) CARLEY
+{ThinkingA} Tôi nghĩ tôi không đáng.
+98) DOUG
+{SadB}Tôi ước gì anh chọn cô ta.
+99) LEE
+Có lẽ nên nói chuyện với Carley một chút.
+100) LEE
+{NormalC} Phải. [I'm ok, you know, considering...]
+101) CARLEY
+{NormalA} Tôi ổn. {SadA}Tôi đang suy nghĩ một chút thôi.
+102) CARLEY
+Tôi không ngừng suy nghĩ về Doug. {ThinkingA}Sao ta không cứu được anh ấy chứ?
+103) CARLEY
+{FearA} Tôi biết thật ngớ ngẩn... chúng ta vừa gặp...{ThinkingB}anh ấy đã...
+
+{DisgustA} Tôi nghĩ tôi yêu anh ta mất rồi.
+105) LEE
+{NormalD}Cô thế nào rồi, Carley?
+106) LEE
+[lighthearted] {HappyA}Chà... tôi cũng nghĩ là cậu ta cũng thích cô đấy.
+109) 
+Chà... tôi cũng nghĩ là cậu ta cũng thích cô đấy.
+107) LEE
+{SadA}Tôi rất tiếc, Car.
+110) 
+Tôi rất tiếc, Carley.
+112) CARLEY
+[trying to make light of a tragic situation] {HappyC}Ha, anh ta cũng thế à.
+113) CARLEY
+{SadA}Không sao đâu. {HappyA}Cảm ơn anh nhé. {ThinkingA}Có rất nhiều người bỏ mạng gần đây.
+114) CARLEY
+{NormalB}Phải. {ThinkingA}Đúng vậy!
+117) CARLEY
+{FearA}Chờ đã Lee?
+118) LEE
+{ThinkingA}Sao thế?
+119) CARLEY
+{ThinkingA}Tại sao anh chọn tôi? Trong khi cả hai đều cần giúp... {DisgustA}anh lại chọn tôi.
+121) LEE
+{NormalB}Tôi nghĩ cô cần giúp hơn.
+124) 
+Tôi nghĩ cô cần giúp hơn.
+126) CARLEY
+{ThinkingB}Ah. [asked a question, got a benign answer]
+128) CARLEY
+{NormalC} Ah, đúng là thượng đế an bài.
+131) CARLEY
+{ThinkingA} Nhưng tôi lại được chọn.
+133) LEE
+[heavy]{SadA} Tôi cũng nghĩ vậy, Carley.
+134) CARLEY
+Tôi chỉ muốn cả hai đều thoát được, anh biết đấy!
+135) LEE
+{HappyA}Phải.
+136) KENNY
+{body-HandsHips} {HappyA}Chúng ta phải quan tâm những người khác. [remembering that he let Hershel's son die]
+137) KENNY
+{NormalC} Không vấn đề.
+138) KENNY
+{body-B}{FearA}Có ai gọi ở đấy kìa anh bạn.
+139) LEE
+{body-C}Cảm ơn đã nhắc tôi.
+140) LEE
+{body-A}{NormalA}Này Ken.
+141) LEE
+{body-B} {HappyB}Cảm ơn nhé, Kenny.
+142) LEE
+{HappyA}{body-A}Phải.
+143) LEE
+{NormalD}{body-C2}Phải, tôi biết mà.
+144) KENNY
+{NormalB}{body-B}Anh đã bảo rằng anh muốn có một đứa con.
+145) KENNY
+Chà, {body-B}cô bé không phải {NormalC}con gái anh nên anh không thể
+
+đối xử như con ruột.
+146) KENNY
+Nhưng anh {NormalB}có thể chăm sóc cô bé.
+
+{body-A}Ui chà, {HappyB}có lẽ tốt hơn một người bố thật sự đấy.
+147) KENNY
+{HappyA}Tôi sau lưng này anh bạn.
+148) KENNY
+{SadA}{body-A}Anh nghĩ chuyện đó sẽ xảy ra không?
+149) LEE
+{body-C}{HappyA}Cảm ơn nhé Kenny
+150) LEE
+{ThinkingB}{body-C} Bố mẹ cô bé xuất hiện à? {SadA}{body-C2}Không, tôi không nghĩ vậy.
+151) LEE
+{NormalB}Phải.
+152) KENNY
+{NormalC}Tôi nghĩ anh đã thông suốt rồi đấy.{body-HandsHips} Tôi biết là {ThinkingA}anh sẽ
+
+chăm sóc cô bé rất tốt đấy thôi.
+153) KENNY
+{NormalB}{body-B}Trước đó tôi tự hỏi là sẽ ra sao nếu bố mẹ của Clementine không xuất hiện.
+154) KENNY
+{HappyB}Anh hiểu rồi đấy.
+159) KENNY
+Anh hiểu rồi đấy.
+164) KENNY
+Anh hiểu rồi đấy.
+155) LEE
+{body-A}{HappyB}Trời ạ, {body-B}{ThinkingA}làm gì tổn hại mọi người sao?
+156) LEE
+{HappyA}Cảm ơn nhé Kenny.
+161) LEE
+{HappyA}Cảm ơn nhé Kenny.
+157) KENNY
+{body-HandsHips}{ThinkingA}Tôi nghĩ anh biết mình đang làm gì.
+158) KENNY
+{NormalC}Về cô bé Clementine. {NormalB} {body-A}Trước đó anh bảo anh không biết gì.
+
+Tôi muốn nói rằng {ThinkingA}khi nhìn anh, tôi biết anh là một người {HappyA}rất giỏi
+
+giải quyết vấn đề. {HappyB}{body-B}Cô bé đi với anh sẽ an toàn.
+160) KENNY
+{NormalC}{body-A}Này, chuyện về Clementine.
+162) KENNY
+{NormalB}Trước đó tôi định nói rằng thế giới đầy cạm bẫy ngoài kia
+
+{ThinkingA}có thể khiến cô bé suy sụp.
+163) LEE
+Phải.
+165) KENNY
+{NormalC} Chà... tôi va ãn nghĩ đó là sự thật. Nhưng sau khi{ThinkingA} thấy những gì ngày hôm nay
+
+tôi nghĩ giữa việc {HappyA}cô bé tự lo cho bản thân, {HappyB} {body-B}thì anh đi với cô bé sẽ an toàn hơn.
+166) LEE
+{NormalC}{body-B}Sao?
+167) LEE
+[quiet!] Chết tiệt! cuối người xuống!
+168) CARLEY
+[catching your breath, but quiet, there are zombies around] Anh ta ở đâu vậy?
+169) LEE
+[catching your breath, but quiet, there are zombies around]Tôi không biết... nhưng cậu ta vừa gọi cầu cứu phải không??
+170) CARLEY
+[keeping quiet, zombies around] Sao chứ? Lỡ như anh ta bị tấn công rồi sao? tôi đang nghĩ vậy...
+171) CARLEY
+[hushed] Chúng ta làm gì đây? mở nắp ra rồi bắt thứ bên trong à?
+172) LEE
+[hushed, tense] Chắc thế.
+173) CARLEY
+[hushed] Anh thấy không?
+174) LEE
+[hushed] Để tôi xem một vòng đã!
+175) LEE
+[hushed] Dù đó là gì, chúng ta có thể hạ chúng một cách im lặng.
+176) LEE
+[hushed] Tôi sẽ thử mở nắp ra, cô kê súng chuẩn bị nhé.
+177) CARLEY
+[hushed] Như vậy ồn lắm.
+178) LEE
+[hushed] Phải chấp nhận thôi.
+179) LEE
+[hushed] Chúng ta sẽ thu hút đám xác sống ngoài kia.
+180) LEE
+[Hushed] Nhìn xung quanh và chuẩn bị chạy nào.
+181) LEE
+[hushed] Một... hai...
+182) LEE
+[hushed] Một... hai...
+183) LEE
+[hushed] Một... hai...
+184) GLENN
+[hushed] MỌI NGƯỜI! Trời ơi! tôi mừng mọi người đã đến.
+185) CARLEY
+[hushed, surprised] Chúa ơi là Glenn!
+191) CARLEY
+[hushed, surprised] Chúa ơi là Glenn!
+194) CARLEY
+[hushed, surprised] Chúa ơi là Glenn!
+186) LEE
+[hushed] Carley suýt băng tung đít cậu đấy!
+187) GLENN
+[hushed] Huh?! [carley was going to shoot you]
+188) CARLEY
+[hushed]Glenn! anh đang làm gì ở đây vậy!
+189) LEE
+[hushed] Đó là ý cô ta. [jokingly passng the blame]
+190) CARLEY
+Lee muốn tôi bắn vỡ sọ anh.
+192) LEE
+[hushed] Bọn tôi định dần cho cậu một trận.
+193) GLENN
+[hushed] Mừng là mọi người chưa kịp làm.
+195) LEE
+[hushed] Cái gì thế?
+196) CARLEY
+[hushed] Trời ạ... anh hù chúng tôi sợ chết khiếp.
+197) GLENN
+[hushed] Tôi đang nấp thôi mà.
+198) GLENN
+[hushed] Này, mọi người.
+199) LEE
+[hushed] Tôi cũng vậy.
+200) CARLEY
+[hushed] Chúng ta nên chạy khỏi đây trước khi bọn chúng chú ý tới chúng ta chứ?
+201) GLENN
+[hushed] Chưa. Còn một người đang bị mắc kẹt ở trên đó.
+202) GLENN
+[hushed] Tôi ra ngoài này để tìm nhiên liệu và sẵn tiện lấy một ít đồ dùng
+
+cho cả nhóm như cái gối này. Mọi người thấy đấy.
+203) GLENN
+[hushed] Chúng tôi đã nói chuyện và rồi... cô ta sợ hãi. Tôi cố gắng giúp cô ta nhưng
+
+cô ấy bắt đầu la hét và nói rằng mình bị cắn. Tôi cố gắng thuyết phục rằng
+
+tôi không phải xác sống, sau đó thì có hai tên xác sống suýt tóm được tôi.
+
+Tôi phải chui vào thùng đá để trốn.
+204) GLENN
+[hushed] Sau đó tôi phải chui từ phòng này qua phòng kia, khi đến gần căn phòng
+
+trên gốc phía trên kia thì tôi nghe tiếng khóc của cô ta phía sau cánh cửa.
+205) CARLEY
+[hushed] Anh mắn đấy, giờ ta đi thôi!
+206) GLENN
+[hushed] CHúng ta không bỏ rơi cô ta được.
+207) CARLEY
+[hushed] Sao lại không?
+208) LEE
+Glenn nói đúng, chúng ta phải giúp cô ta.
+209) LEE
+[hushed] Cô nói phải, Carley. Mỗi giây phút lãng phí ở đây là mất một cơ hội.
+210) LEE
+[hushed] Chúng ta nên nhìn xung quanh một lúc đã.
+211) CARLEY
+[hushed] Ugh, được. Chúng ta sẽ cố giải cứu cô gái, cô ta nên kiềm chế lại.
+
+Anh đồng ý không, Lee?
+212) LEE
+[hushed] Phải, nhất trí.
+213) GLENN
+[hushed] Nhưng cô ta đang kẹt trong đó một mình.
+214) LEE
+[hushed] Việc đó không đáng đâu Glenn. Cô ta an toàn trong căn phòng đó mà.
+215) CARLEY
+[hushed] Đi thôi, mọi người.
+239) CARLEY
+Đi thôi, mọi người.
+216) GLENN
+[hushed] Chúng ta thực sự tàn nhẫn vậy sao? Bỏ rơi một cô gái tội nghiệp?
+217) 
+Glenn nói phải, chúng ta phải giúp cô ta.
+218) 
+Cô nói đúng Carley, chúng ta phải quay lại.
+219) 
+Chúng ta nên nhìn xung quanh một chút.
+220) GLENN
+[hushed] Nếu chúng ta giúp cô gái đó, chúng ta sẽ thấy tốt hơn.
+221) LEE
+[hushed] Phải, chúng ta sẽ thấy tốt hơn.
+222) 
+Phải, chúng ta phải quay lại.
+223) 
+Cậu nói đúng, chúng ta nên giúp đỡ.
+224) GLENN
+[hushed,angry] Rồi.
+225) GLENN
+[hushed, angry] Vậy thì đi thôi.
+226) LEE
+[Hushed] Phải, Glenn. Tôi rất tiếc, chúng ta cần trở lại thôi vì cậu an toàn rồi.
+227) CARLEY
+[hushed] Như thế là tốt nhất.
+228) CARLEY
+[hushed] Được rồi Lee. Chúng tôi sẽ theo chỉ dẫn của anh.
+229) GLENN
+[hushed] Càng yên tĩnh càng tốt. Khi một tên lao vào thì cả đám sẽ lao ra từ khu rừng.
+
+Chúng ta không biết được bọn chúng có tất cả bao nhiêu con đâu.
+230) LEE
+[hushed] Chúng ta nên hạn chế gây tiếng động. Nhìn từ đây ta có thể thấy
+
+một con đằng đó, một con bên cạnh ô tô và một con phía trên tầng.
+231) CARLEY
+[hushed] Nếu như làm thì phải làm cho được đấy.
+232) GLENN
+[hushed] Ok, cô ta đang mắc kẹt ở căn phòng phía trên đó.
+
+Chúng ta nên tiến tới đó nhanh và im lặng nhất có thể
+
+cứu cô ta ra ngoài và cả bọn quay lại xe tôi.
+233) CARLEY
+[hushed] Thêm hai con nữa ở cửa trước.
+234) LEE
+[talking through a door] Nếu cô mở cửa, chúng tôi sẽ đưa cô đến nơi an toàn hơn.
+
+Chúng tôi là nhóm người trong thị trấn.
+235) GLENN
+Cô ta đang gặp rắc rối.
+236) LEE
+Chờ một phút.
+237) MOTEL GIRL
+[upset, through door] Không không không! Làm ơn đừng.
+238) LEE
+Xin chào! Chúng tôi đến giúp cô đây.
+240) MOTEL GIRL
+[upset, through door] Làm ơn, hãy đi đi!
+241) LEE
+[talking through door] Cô ơi! Chúng tôi vào nhé!
+242) GLENN
+Có vẻ nên gỡ mấy tấm ván gỗ này ra trước.
+243) MOTEL GIRL
+Đừng, dừng lại. Tôi ra đây!
+244) MOTEL GIRL
+Quá trễ rồi.
+245) LEE
+Cô đang bị thương.
+246) CARLEY
+[terse, under your breath] GLENN.
+247) GLENN
+Gì chứ?
+355) GLENN
+Gì chứ?
+373) LEE
+{DisgustA}Gì chứ?
+248) MOTEL GIRL
+Tôi đã bảo các người hãy đi đi, tôi bị cắn rồi. Nhưng sao lại không đi chứ.
+249) MOTEL GIRL
+Tôi không ổn. Bạn trai tôi bị cắn rồi. Nếu các người bị cắn
+
+sẽ mất mạng sau đó và biến đổi rồi giết hết người còn sống.
+250) CARLEY
+Ôi Chúa ơi!
+251) MOTEL GIRL
+Tôi... tôi bảo tránh xa ra.
+252) GLENN
+Chúng tôi muốn giúp cô.
+253) CARLEY
+Mọi người, cô ta bị cắn rồi.
+254) GLENN
+Cô ở cùng bạn trai ư?
+255) MOTEL GIRL
+Tôi không muốn vậy đâu. Làm ơn hãy tránh xa tôi ra.
+256) LEE
+Bình tĩnh nào, cô sẽ ổn thôi.
+257) 
+Ok, chúng tôi sẽ rời đi.
+258) 
+Hãy theo chúng tôi, chúng tôi sẽ tìm bác sĩ cho cô.
+259) 
+Sẽ ra sau nếu cô biến đổi và đuổi theo chúng tôi?
+260) 
+...
+283) MOTEL GIRL
+[falling yell/scream]
+288) GLENN
+[falling yell/scream]
+293) GLENN
+[puke]
+329) LEE
+[a "i just got bitten on the neck" scream]
+412) LEE
+[a "i just got bitten on the neck" scream]
+261) LEE
+Ok, chúng tôi sẽ đi. Hãy bảo trọng và trân quý những giây phút còn lại.
+262) LEE
+Hãy đi với chúng tôi, tôi sẽ tìm sự giúp đỡ cho cô.
+263) LEE
+Sẽ ra sau nếu cô biến đổi và đuổi theo chúng tôi tới cả nhóm chứ?
+264) MOTEL GIRL
+Tôi biết! Đó là lý do tại sao tôi khóa cửa và ở bên trong một mình.
+
+Tôi không muốn biến đổi.
+265) MOTEL GIR
+Cô có súng.
+266) MOTEL GIRL
+Cho tôi mượn nhé?
+267) CARLEY
+[dubious] Thì sao?
+268) MOTEL GIRL
+Cô có súng.
+269) LEE
+Whoa whoa whoa...
+270) MOTEL GIRL
+Đưa nó cho tôi! Tôi chỉ có thể... tự kết thúc chuyện này.
+271) MOTEL GIRL
+LÀM ƠN ĐI! Tôi không muốn biến thành bọn chúng. Bọn chúng là lũ quái vật.
+272) CARLEY
+"Mượn" là sao?
+273) 
+Đưa súng cho cô ta đi!
+277) LEE
+Đưa súng cho cô ta đi!
+274) 
+Chúng tôi không để cô làm vậy được.
+275) CARLEY
+Gì? Anh nghiêm túc đó chứ?
+276) LEE
+Làm đi!
+278) GLENN
+Thật là điên rồ!
+279) MOTEL GIRL
+Đưa nó cho tôi! LÀM ƠN ĐI!
+280) MOTEL GIRL
+Hoặc là hãy bắn tôi đi!
+281) LEE
+Chúng tôi không thể để cô làm vậy được!
+282) CARLEY
+Chúng ta cần đi thôi.
+284) CARLEY
+Lùi lại!
+285) LEE
+Cô ơi...
+286) MOTEL GIRL
+Chỉ cần 2 giây, 1 viên đạn là tôi có thể đoàn tụ cùng gia đình. Tất cả sẽ ổn.
+287) MOTEL GIRL
+LÀM ƠN ĐI!
+289) CARLEY
+Làm ơn, lùi lại đi!
+290) LEE
+Whoa, bình tĩnh nào, chúng tôi chỉ muốn giúp đỡ.
+291) MOTEL GIRL
+Các người không thể.
+292) LEE
+[running to stop a girl from killing herself] Không không, KHÔNG!
+294) CARLEY
+Ra khỏi đây thôi!
+295) GLENN
+Vào trong đi!
+296) GLENN
+Thật là kỳ lạ! Tên lái xe bị mắc kẹt. Tôi cần phải cho hắn
+
+một chút tình cảm... anh có búa hay gì không?
+297) CARLEY
+Carley ngây người bước vào trong xe.
+298) CARLEY
+Anh đang làm gì thế?
+299) GLENN
+Khỉ thật! Giữ chúng lại!
+307) GLENN
+Khỉ thật! Giữ chúng lại!
+300) LEE
+[mutters, panicked] Trời ơi...
+306) LEE
+[mutters, panicked] Trời ơi...
+301) GLENN
+Nó hoạt động rồi!
+304) GLENN
+Nó hoạt động rồi!
+302) LEE
+Một chút tình cảm đấy à?
+308) LEE
+Một chút tình cảm đấy à?
+303) LEE
+Đây này!
+305) LEE
+Đây này!
+309) GLENN
+Thôi nào, cái đống sắt vụn này!
+310) LEE
+Không có nhiều đạn đâu...[shooting a gun]
+311) GLENN
+Sắp sửa được rồi!
+312) LEE
+Nhanh lên Glenn! Chúng đông quá.
+313) GLENN
+AH! Lại bị kẹt nữa rồi!
+314) GLENN
+HIỂU RỒI!
+315) LEE
+Có cái gối ở đó.
+316) GLENN
+Đấy là đồ tôi làm rơi trong lúc tìm nhu yếu phẩm từ lúc ra ngoài đấy.
+
+để tìm nhu yếu phẩm đấy.
+317) LEE
+Tôi có ý này.
+318) CARLEY
+[pickup1] Chúc anh may mắn đè ngộp thở được chúng nhé.
+319) LEE
+Tôi không nghĩ sẽ làm cách đó.
+320) CARLEY
+[pickup1] Nhưng ồn ào thì sao?
+321) LEE
+Giờ hãy làm theo chỉ dẫn tôi, đi phía sau tôi nhé!
+322) LEE
+Cất súng của cô vào đi.
+323) GLENN
+[hushed, over-excited] Thật là vãi đái.
+324) LEE
+Tôi sẽ đập vỡ sọ tên đó.
+409) LEE
+Tôi sẽ đập vỡ sọ tên đó.
+325) GLENN
+Làm thế sẽ gây sự chút ý đấy.
+407) GLENN
+Làm thế sẽ gây sự chút ý đấy.
+326) CARLEY
+[pickup1] [dubious] Phải...
+408) CARLEY
+[pickup1] [dubious] Phải...
+327) LEE
+Mặc kệ đi, tôi làm đây...
+410) LEE
+Mặc kệ đi, tôi làm đây...
+328) GLENN
+Lee! Phía sau anh!
+411) GLENN
+Lee! Phía sau anh!
+330) LEE
+Đó đúng là những gì tôi đang nghĩ. [with a wink]
+331) GLENN
+Cái đó đập vỡ sọ có vẻ tốt nhỉ.
+332) LEE
+Lee giờ có vũ khí rồi.
+333) GLENN
+Lee! Đập hắn!
+334) GLENN
+Chắc rồi!
+335) LEE
+Cảm ơn vì đã cảnh giới phía sau tôi.
+336) GLENN
+Tuyệt!
+337) GLENN
+Lee! Chúng tới gần quá!
+338) GLENN
+Lee! Ah! AHHH!!! AHHHHHHHH!
+340) GLENN
+...Đệch.
+341) GLENN
+Thật là tuyệt!
+342) LEE
+Giờ hãy chăm sóc 2 tên kia trước khi chúng nhảy vào xé xác chúng ta.
+343) LEE
+Làm vậy sẽ không đánh động lũ xác sống trên tầng.
+
+Dùng cách này cũng hữu ích với bọn xác sống trên phố.
+344) GLENN
+[under his breath] Tôi mong anh đừng bao giờ bị mắc kẹt và cần người giúp như vậy...
+345) 
+Quay lại thôi.
+346) 
+Tôi xin lỗi, ok?
+347) 
+Cô ấy sẽ ổn thôi.
+352) LEE
+Cô ấy sẽ ổn thôi.
+348) 
+Quên chuyện đấy đi, ok?
+358) LEE
+Quên chuyện đấy đi, ok?
+349) LEE
+Chúng ta quay lại thôi.
+354) LEE
+Chúng ta quay lại thôi.
+359) LEE
+Chúng ta quay lại thôi.
+350) GLENN
+Sao cũng được cả.
+351) LEE
+Tôi xin lỗi, được chưa?
+353) GLENN
+Tôi nghĩ là cô ta vừa ra khỏi phòng mà không gặp vấn đề gì cả.
+356) GLENN
+Đồ vô tâm.
+357) LEE
+Tôi đã bảo là quên chuyện đó đi. Cậu không thể giúp cả nhân loại.
+
+Chúng ta còn những người cần giúp đang đợi chúng ta hơn là cô gái đó.
+360) LEE
+Hai con nữa.
+361) GLENN
+Cái này sẽ có ích. [with a wink]
+362) GLENN
+Nó có thể tốt hơn đấy.
+363) LEE
+Chúng ta phải giết tên đó theo cách thông thường.
+364) CARLEY
+[pickup1] Lee!! KHÔNG!!!
+365) LEE
+CHẾT TIỆT!
+366) CARLEY
+[pickup1] Này, chúng ta không biết chuyện gì đang xảy ra trên đó.
+
+Tôi yêu cầu các anh quay lại thôi.
+368) LILLY
+{body-HoldWrist}{HappyA}Này Lee! anh có rảnh không?
+369) LILLY
+{body-HoldWrist}{HappyA}Này Lee! anh có rảnh không?
+370) LEE
+{HappyA}Chúng tôi sẽ cố gắng.
+371) GLENN
+{NormalB}Mọi người bảo trọng nhé.
+372) GLENN
+{NormalA}Phải, tôi biết. Nhưng đôi khi...{NormalC} anh biết đấy...
+374) GLENN
+{ThinkingA}Không phải lúc nào chúng ta cũng {FearA}được an toàn cả. {NormalC}Hẹn gặp lại mọi người.
+375) GLENN
+[Ugh] Hãy làm đi chứ Lee?
+376) 
+Chúng ta phải cứu cô gái đó.
+377) 
+Phải, chúng ta nên quay lại.
+378) CARLEY
+[pickup1] Đi thôi, chúng ta sẽ đi giải cứu cô bạn chết tiệt của Glenn.
+379) LEE
+Tôi đang định nói thế.
+380) LEE
+Không, chúng ta sẽ đi giải cứu cô gái đó, nếu cô muốn thì hãy quay lại một mình.
+381) CARLEY
+[pickup1] Các anh không thấy tội một cô gái như tôi à?
+382) LEE
+Tôi cảm thấy không ổn chuyện này. Chúng ta cần quay lại với mọi người thôi.
+383) GLENN
+Tôi không thể... cái gì chứ? Tôi sẽ không quay lại đâu.
+384) GLENN
+Thật sao?!
+385) CARLEY
+[pickup1] Vậy thì chúng tôi sẽ lấy xe anh. Đưa Lee cái bộ đàm rồi
+
+anh tự giải quyết chuyện này một mình đi.
+386) GLENN
+Nhưng...
+387) LEE
+Tôi xin lỗi, Glenn. Hãy bảo vệ người mà ta biết thì hơn.
+388) LEE
+Chúng ta quay lại thôi.
+389) GLENN
+Thật là...
+390) LEE
+Chúng ta có thể làm gì đó với chiếc ô tô nếu không có
+
+tên xác sống đứng phía trước.
+391) LEE
+Tên đó sẽ không đi chỗ khác đâu.
+392) LEE
+Ok, chúng ta sẽ có hai lần do thám xung quanh chiếc RV.
+
+Chúng ta có thể nấp ở đó chờ đến thời điểm thích hợp.
+393) LEE
+Tôi không chắc là có hạ được hết hai tên đó không
+
+thậm chí là có vũ khí đi chăng nữa.
+394) GLENN
+Tôi có thể trông chừng phía sau anh, nếu tôi có vũ khí thì sẽ tốt hơn.
+395) LEE
+Cách này sẽ hữu dụng nhất. Tôi sẽ hạ tên xác sống đó khi hắn đến
+
+góc khuất của chiếc RV.
+396) LEE
+Nếu chúng ta canh đúng thời gian, chúng ta có thể hạ một lúc hai tên
+
+một cách im lặng. Glenn, cậu canh chừng những tên khác nhé!
+397) GLENN
+Dễ như ăn kẹo.
+398) LEE
+Chà, chúng ta đã dùng cái gối hạ được hai tên.
+399) GLENN
+Tên đó cứ quay đi quay lại.
+400) LEE
+Hắn chỉ đi lòng vòng ở đấy.
+401) LEE
+Chúng ta nên hạ hắn theo cách thông thường.
+402) LEE
+[observational] Cho một nhát vào cái lỗ to như cái kẹp đá đó.
+403) GLENN
+Anh bạn, vũ khí của anh đâu rồi?
+404) GLENN
+Tuyệt vời, chúng ta nhặt được đồ ngon.
+405) CARLEY
+[pickup1] Hai anh xong chưa?
+406) GLENN
+Haha, vãi đái.
+413) CARLEY
+[pickup1] Tạ ơn Chúa.
+414) LEE
+Chúng chưa thấy chúng ta.
+415) LEE
+Chúng đang cố vào căn phòng đó.
+416) GLENN
+Giờ chúng ta phải đến đó một cách im lặng.
+417) LEE
+I think I found a pretty damn good way to stop these guys quietly.
+418) GLENN
+Hey man, that drew some attention. Be careful.
+419) LEE
+Ow!
+420) LEE
+Tôi phá cửa ô tô xong rồi.
+421) LEE
+Một trong những điều đó buộc phải làm.
+422) GLENN
+Chúng chưa nghe thấy!
+423) LEE
+Chết tiệt! tôi không dám làm vậy nữa.
+424) GLENN
+Whoa, anh bạn! Tiếng ồn lớn quá. Lũ xác sống nghe đấy.
+425) GLENN
+LEE! nghiêm túc đấy anh bạn! Chúng bắt đầu nghe thấy rồi!
+426) GLENN
+Đừng làm ồn nữa, toang cả bọn đấy... anh phải...
+427) LEE
+Tôi không biết sao nữa. Cậu có cách nào để vào bên trong chiếc ô tô đó không?
+428) GLENN
+Nếu không có dụng cụ thì sẽ gây tiếng ồn rất lớn. Dùng gối sẽ tốt đấy.
+429) GLENN
+Anh định làm gì với nó thế?
+430) LEE
+[hushed] Tôi đếm đến ba là đẩy! Một, hai... ba!
+431) LEE
+Phải, trước khi đám xác sống tràn ra từ khu rừng, hãy lấy cái rìu rồi rời khỏi đây thôi.
+432) GLENN
+Nhìn này!
+433) GLENN
+Anh... anh nghĩ gì thế?
+434) LEE
+Tôi không biết nữa Glenn ạ, chúng ta phải đi thôi.
+435) USE_CAR_DOOR DIR
+(<<author>>Sean Vanaman, Mon Sep 26 19:04:18 2011<<date:1317089058>>) Lee opens the car door quietly and can see inside.
+436) LEE
+[pickup1] [hushed, sharp] Bảo vệ tôi.
+437) LEE
+[pickup1][hushed] Không nên đi dường đó.
+438) LEE
+[pickup1][hushed] Đường đó không an toàn.
+439) LEE
+[pickup1][hushed] Carley, ở yên đây.
+440) LEE
+[pickup1][hushed] Glenn, ở yên đây.
+441) LEE
+[pickup1][hushed] Glenn, đi thôi. [running to a new station - quick and fast]

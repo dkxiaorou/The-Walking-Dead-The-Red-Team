@@ -1,0 +1,560 @@
+1) GLENN
+{NormalB}Tôi phải hy vọng còn chút cơ hội thôi.
+2) GLENN
+Phải... Tôi có những người bạn ở đó, và{ThinkingA} tôi không thể
+
+ở lại đây khi họ có thể đang bị mắc kẹt ở trong thành phố.
+3) GLENN
+{NormalB}Tôi nghĩ là tôi phải đi rồi.
+4) LEE
+{NormalC} Này Glenn!
+5) LEE
+{ThinkingA} Nghe có vẻ như chưa ai biết chuyện gì đã xảy ra ở đó rồi.
+
+{NormalC}Khi chúng tôi rời khỏi đó thì nơi đó đã toang lắm rồi.
+6) RADIO
+[over radio] ...Annah đang ở mức báo động 9, trong khi đó tại Atlanta đã tạm thời
+
+bị hạ cấp xuống mức báo động 8 với các cuộc tấn công và bạo loạn được
+
+báo cáo ở tất cả các khu vực. Công dân hiện được khuyến cáo ở lại
+
+nhà của họ hoặc di chuyển đến các thành phố Charlotte, Atlanta và Orlando.
+
+Nếu người dân ở trong nhà nên thường xuyên nghe đài phát thanh và chờ
+
+hướng dẫn thêm. Di chuyển đến các thành phố Charlotte, Atlanta hoặc Orlando
+
+trở nên cần thiết để đảm bảo sự an toàn của tất cả công dân...
+7) LEE
+{SurpriseA}Tới Atlanta?
+8) RADIO
+[over radio] Với các trường hợp khẩn cấp nghiêm trọng không thể đếm được ở khắp nơi
+
+trong tiểu bang Georgia mức độ thảm họa hiện tại như sau:
+
+Atlanta, thảm họa báo động cấp 9, Augusta, thảm họa báo động cấp 8
+
+Columbus, khu vực lây nhiễm báo động cấp 6, báo động cấp 9 tại Savannah, Athens
+
+báo động cấp 8, báo động cấp 7 tại Sandy Springs, Macon
+
+báo động cấp 9, Roswell, báo động cấp 9, Albany, báo động cấp 9
+
+nhắc lại, Savannah giờ là báo động cấp 9 ...
+9) LEE
+{HappyA}Chúng tôi sẽ cố.
+10) GLENN
+{NormalB}Chúc mọi người an toàn.
+11) GLENN
+{ThinkingA}Thi thoảng lúc nào cũng phải gặp {FearA}mạo hiểm.
+
+{NormalC}Dù sao đi nữa thì cũng hẹn gặp lại mọi người nhé.
+12) GLENN
+{NormalA}Phải, tôi biết. Nhưng thi thoảng...{NormalC} anh biết đấy...
+13) LEE
+{DisgustA}Cái gì?
+14) 
+Tôi nghĩ đấy là cuộc gọi nhầm.
+15) GLENN
+{NormalC}Có lẽ đó là một cuộc gọi nhầm chăng? vẫn không thể
+
+{ThinkingA}xác thực được đó có phải thật hay không.
+16) LEE
+{ThinkingA} Tôi nghĩ cậu gọi nhầm số rồi.
+17) LEE
+{NormalC}Tôi tôn trọng điều đó.
+21) LEE
+{NormalC}Tôi tôn trọng điều đó.
+18) 
+Cậu phải làm những gì nên làm thôi.
+20) LEE
+{NormalD}Cậu phải làm những gì nên làm thôi.
+19) GLENN
+{FearA} Tôi buộc phải đi thôi.
+22) 
+Hãy đi tìm bạn của cậu.
+23) LEE
+{ThinkingA}Mong là vậy.
+24) LEE
+{HappyA}Hãy đi tìm bạn của cậu, nhớ cẩn thận đấy.
+25) GLENN
+{HappyA}Cảm ơn nhé Lee! tôi thấy nhẹ người hẵng đi.
+
+{SadA}Tôi không có ý muốn rời bỏ mọi người, nhưng {NormalC}mọi chuyện
+
+có thể đang dần khả quan hơn. Mọi thứ có thể sẽ trở lại
+
+bình thường sau thời gian ngắn nữa.
+26) LARRY
+{NormalC}Lee, đến đây tao bảo.
+204) LARRY
+{NormalC}Lee, lại đây một chút.
+27) LEE
+{AngryA} Ông muốn gì?
+28) LARRY
+{DisgustA} Mày thích con gái tao à?
+29) LARRY
+{AngryC}Tao sẽ đéo quan tâm những gì {DisgustA}xảy đến với mày.
+
+{AngryC} Nhưng nếu con gái tao gặp chuyện gì hoặc bé gái đi với mày gặp chuyện
+
+{DisgustA} heh, mày liệu hồn đấy.
+30) LARRY
+{DisgustA}Tao biết rõ về mày đấy.
+31) 
+Phải, cô ấy rất tuyệt vời.
+33) LEE
+{SurpriseA}Phải, cô ấy rất tuyệt vời.
+32) LARRY
+{DisgustA}Or, uh, {AngryA}mọi người sẽ biết bộ mặt thật của mày
+
+Lee Everett là  {AngryB}một tên sát nhân. {AngryA} Mày đã làm chuyện đó
+
+trước khi cố gắng sinh tồn ở hiện tại.
+50) LARRY
+{DisgustA}Or, uh, {AngryA}mọi người sẽ biết bộ mặt thật của mày
+
+Lee Everett là {AngryB}một tên sát nhân. {AngryA} Mày đã làm chuyện đó
+
+trước khi cố gắng sinh tồn ở hiện tại.
+34) LARRY
+{AngryA}Thế thì hãy tránh {AngryC}xa khỏi con gái tao.
+35) LEE
+{DisgustA}Nếu không thì sao?
+36) 
+Bố cô ta đã cố giết tôi, vậy thì...
+37) LARRY
+{AngryA}Chà... hắn đã làm thế bởi vì hắn biết Lee Everett là {AngryB}một tên giết người.
+
+{AngryA}Liệu mày còn giết ai nữa khi đến gần con gái tao chứ?.
+38) LEE
+{AngryC}Bố cô ta đã cố đoạt mạng tôi, {DisgustA}vì thế...
+39) LARRY
+{DisgustA} Mày nghe rồi chứ?
+48) LARRY
+{DisgustA}Mày nghe rồi chứ?
+40) 
+Cô ấy rất tốt.
+41) LEE
+{ThinkingA}Cô ấy rất tốt.
+42) LARRY
+[angry] {AngryC}Được, huh. {AngryB}Địt cả lò nhà mày, Lee Everett.
+43) LARRY
+{HappyB}Đúng thế. {AngryA}Tao biết mày là ai,{AngryB} mày là một tên sát nhân.
+
+Nếu mày dám bén mảng tới gần con gái tao{AngryC} thì hãy coi chừng...
+
+{DisgustA}tìm người khác mà ra tay.
+44) 
+Không.
+46) LEE
+{NormalB}Không.
+45) LARRY
+{HappyA}Tốt. {AngryB}Tránh xa con bé ra hoặc {AngryA}mọi người ở đây sẽ biết con người thật của mày
+
+{DisgustA} Lee Everett là một tên sát nhân. {AngryB}Mày sẽ được hòa nhập với lũ xác sống ngoài kia
+47) LARRY
+{HappyA}Tao nhắc lại, không ai tin lời {DisgustA}một tên sát nhân như mày đâu.
+49) LARRY
+{AngryB}I Tao hỏi mày một câu nhé.
+51) LARRY
+Câu trả lời luôn luôn là "đéo."
+52) LILLY
+{body-HoldWrist}{HappyC} {body-B}Bố tôi có thể mất mạng nếu không có anh.
+53) LILLY
+{NormalC} Anh đừng như vậy. Anh cũng chỉ là người bình thường thôi.
+54) LEE
+{ThinkingB} {body-C2}Tôi chẳng biết nữa...
+55) LILLY
+{HappyC} Chúng tôi may mắn vì có anh.
+56) KENNY
+{body-A}{HappyB}Tôi mong đó là tín hiệu tốt để giải quyết tất cả vấn đề.
+57) LILLY
+{HappyA} Tôi cũng vậy.
+60) LEE
+{HappyA}Tôi cũng vậy.
+58) KENNY
+{ThinkingA} Khu nhà nghỉ này là một nơi hoàn hảo để tá túc.
+
+{body-HandsHips}Chúng ta sẽ chặn cổng ra vào bằng những chiếc ô tô rồi phân chia
+
+mọi người canh gác và sau đó {HappyA}chúng ta sẽ chờ
+
+cho đến khi quân đội tìm thấy chúng ta..
+59) LILLY
+{body-HandOnHip}{HappyB} Tôi hoàn toàn đồng ý với kế hoạch của ông.
+61) KENNY
+{HappyB} Chúng ta có giường ngủ, hầu hết những thứ cần thiết, {body-B}{HappyA}chúng ta có điện.
+
+{ThinkingA} Đủ để gọi đấy là "Nhà".
+62) LILLY
+{HappyA}Phải, ông nói đúng.
+
+{body-A}{HappyC}Tất cả mọi chuyện rồi cũng sẽ ổn thôi.
+63) LEE
+{ThinkingB} {body-C2}Cô phóng viên đó bỏ mạng cũng tại tôi.
+64) LEE
+{ThinkingB} {body-C2}Cậu Doug bỏ mạng cũng tại tôi cả.
+66) LILLY
+{body-HoldWrist}{HappyA}Này Lee! anh có rảnh một chút không?
+67) LILLY
+{body-HoldWrist}{HappyA}Này Lee! anh có rảnh một chút không?
+68) LEE
+Tôi nên nói chuyện với Doug một lát.
+69) LEE
+{NormalD}Cậu sao rồi Doug?
+70) LEE
+{SurpriseA}Doug?
+71) DOUG
+{SadA}{body-B}Chúng ta không cứu được cô ấy sao chứ?
+72) LEE
+{NormalC} Thật sự là không thể. Vì mọi chuyện diễn ra quá nhanh.
+108) LEE
+{ThinkingA}Thật sự là không thể. Vì mọi chuyện diễn ra quá nhanh.
+73) DOUG
+{NormalC}Tôi... tôi biết thật là ngu ngốc, chúng ta vừa gặp phải...
+
+{ThinkingA}một chuyện tồi tệ... ý tôi là...{NormalA} chúng ta làm vậy
+
+vì sinh tồn, {SadB}nhưng tôi thật sự thích cô ấy.
+74) DOUG
+{NormalA}Dù sao đi nữa, có lẽ tôi thích một mình hơn.
+110) CARLEY
+{ThinkingB}Dù sao đi nữa, có lẽ tôi thích một mình hơn..
+75) LEE
+Tôi hiểu rồi.
+111) LEE
+{NormalC} Tôi hiểu rồi.
+76) DOUG
+{FearA} Chờ đã, {NormalC}Lee?
+77) LEE
+Sao thế anh bạn?
+78) DOUG
+Tại sao anh chọn tôi? {SadA}Ý tôi là, cả hai đều cấu cứu nhưng anh chọn tôi.
+79) DOUG
+{SadB}Tôi chỉ ước gì anh chọn cô ấy.
+80) 
+Tôi không biết nữa.
+81) LEE
+{NormalC}Tôi không biết nữa.
+117) 
+Tôi không biết nữa.
+118) LEE
+{NormalC} Tôi không biết nữa.
+82) DOUG
+{SadA}Oh.
+83) LEE
+{NormalB}Thi thoảng chúng ta không thể lựa chọn được. {NormalC}Chúng ta chỉ làm gì có thể thôi.
+120) LEE
+{NormalB}Thi thoảng chúng ta không thể lựa chọn được. {NormalC}Chúng ta chỉ làm gì có thể thôi.
+84) 
+Và có vẻ như cậu cần giúp đỡ hơn.
+85) LEE
+{NormalB}Tôi biết ai thật sự cần giúp đỡ.
+86) DOUG
+{NormalC}Oh, ra là như vậy.
+87) LEE
+Nhưng đó không phải sự chọn lựa. {ThinkingA}Đó là...
+
+{NormalC}bất thình lình tôi làm thôi.{NormalB} Tôi chẳng biết tại sao nữa.
+124) LEE
+Nhưng đó không phải sự chọn lựa. {ThinkingA}Đó là...
+
+{NormalC}bất thình lình tôi làm thôi.{NormalB} Tôi chẳng biết tại sao nữa.
+88) 
+Tôi định cố gắng cứu cả hai.
+89) LEE
+{NormalD}Tôi định cố gắng cứu cả hai..
+125) 
+Tôi định cố gắng cứu cả hai.
+126) LEE
+{NormalD} Tôi định cố gắng cứu cả hai.
+90) DOUG
+{NormalB}Ra là như vậy. {NormalC} Nhưng anh lại cứu tôi trước.
+91) LEE
+{NormalC}Phải, tôi đã làm vậy.
+128) LEE
+{NormalC}Phải, tôi đã làm vậy.
+92) DOUG
+{SadA}Tôi đoán chuyện đó không quan trọng.
+129) CARLEY
+{ThinkingA} Tôi đoán chuyện đó không quan trọng.
+211) CARLEY
+{ThinkingA} Tôi đoán chuyện đó không quan trọng.
+212) DOUG
+{SadA}Tôi đoán chuyện đó không quan trọng.
+93) 
+Cô ấy cũng thích cậu.
+94) LEE
+{HappyA}Cô ấy cũng thích cậu.
+95) DOUG
+{HappyA}Cảm ơn anh, Lee.
+96) 
+Tôi rất tiếc!
+97) LEE
+{NormalD}Tôi rất tiếc! Doug.
+98) DOUG
+{SadA}It's ok. {NormalC}Thanks, though.
+99) 
+Sẽ ổn thôi.
+100) LEE
+{NormalC}Sẽ ổn thôi.
+137) LEE
+{NormalC}Sẽ ổn thôi.
+101) DOUG
+[doesn't believe him] {NormalA}Phải, {SadA}tôi hiểu.
+102) DOUG
+{SadA}Xin lỗi, thật là điên rồ.
+210) DOUG
+{SadA}Xin lỗi, thật là điên rồ.
+103) LEE
+Có lẽ nên trò chuyện với Carley một chút.
+104) LEE
+{NormalD}Cô thấy sao rồi Carley?
+105) CARLEY
+{NormalA} Tôi ổn. {SadA}Anh biết đấy, tôi đang cắn rứt.
+106) LEE
+{NormalC} Tôi hiểu. [I'm ok, you know, considering...]
+107) CARLEY
+Tôi không thể ngừng suy nghĩ về Doug. {ThinkingA}Chúng ta thật sự
+
+không thể cứu được anh ấy sao chứ?
+109) CARLEY
+{FearA} Tôi biết thật là ngu xuẩn... chuyện chúng vừa gặp phải...
+
+{ThinkingB}anh ấy... ý tôi là...{DisgustA} tôi nghĩ tôi thích anh ta.
+112) CARLEY
+{FearA}Chờ đã, Lee?
+113) LEE
+{ThinkingA}Sao thế?
+114) CARLEY
+{ThinkingA}Tại sao anh lại chọn lựa cứu tôi...
+
+{DisgustA}trong khi cả hai chúng tôi cần giúp.
+115) CARLEY
+Tôi chỉ ước là lúc đó cả hai chúng tôi đều thoát được.
+116) LEE
+[heavy]{SadA} Tôi cũng ước vậy, Carley.
+119) CARLEY
+{ThinkingB}Ah. [asked a question, got a benign answer]
+121) 
+Tôi chọn người nào cần giúp đỡ hơn thôi.
+122) LEE
+{NormalB}Tôi chọn người nào cần giúp đỡ hơn thôi.
+123) CARLEY
+{NormalC} Ah, ra là vậy.
+127) CARLEY
+{ThinkingA} Nhưng anh lại giúp tôi trước.
+130) 
+Tôi chắc là cậu ta rất thích cô.
+131) LEE
+[lighthearted] {HappyA}Chà, tôi chắc là cậu ta rất thích cô.
+132) CARLEY
+[trying to make light of a tragic situation] {HappyC}Ha, thật vậy sao.
+133) 
+Tôi rất tiếc! Carley.
+134) LEE
+{SadA}Tôi rất tiếc! Car.
+135) CARLEY
+{SadA}Không sao cả. {HappyA}Cảm ơn anh.
+
+{ThinkingA}Có nhiều người đã phải bỏ mạng trong mấy ngày vừa qua.
+136) 
+Cô sẽ ổn thôi mà.
+138) CARLEY
+{NormalB}Vâng. {ThinkingA}Definitely.
+139) LEE
+{body-A}{NormalA}Này Ken.
+140) KENNY
+{body-B}{FearA}Anh làm tôi giật mình đấy!
+141) LEE
+{body-C}Cảm ơn anh đã quay lại cứu tôi.
+142) KENNY
+{NormalC} Không có chi.
+143) KENNY
+{body-HandsHips} {HappyA}Chúng ta phải bảo vệ những người khác. [remembering that he let Hershel's son die]
+144) LEE
+{HappyA}Phải, chúng ta sẽ làm.
+145) KENNY
+{NormalB}{body-B}Anh bảo với tôi anh muốn có một đứa con nhỉ?
+146) LEE
+{HappyA}{body-A}Phải rồi.
+147) KENNY
+Chà, {body-B}cô bé đó không phải {NormalC}con gái anh nên anh
+
+không thể đối xử như con gái ruột mình.
+148) LEE
+{NormalD}{body-C2}Phải, tôi biết điều đó.
+149) KENNY
+Nhưng anh {NormalB}có thể chăm sóc cô bé. {body-A}Thú thật...
+
+{HappyB}anh có thể chăm sóc còn tốt hơn cha ruột của cô bé.
+150) LEE
+{body-B} {HappyB}Cảm ơn nhé Kenny.
+151) KENNY
+{HappyA}Tôi luôn ủng hộ anh. Bạn tốt ạ.
+152) KENNY
+{NormalB}{body-B}Lúc trước tôi định hỏi anh là anh sẽ làm gì với cô bé Clementine
+
+nếu bố mẹ nó không xuất hiện.
+153) LEE
+{NormalB}Phải.
+154) KENNY
+{SadA}{body-A}Anh nghĩ có chuyện đó xảy ra không?
+155) LEE
+{ThinkingB}{body-C} Bố mẹ cô bé xuất hiện ư? {SadA}{body-C2}Không, tôi không nghĩ thế.
+156) KENNY
+{NormalC}Tôi chỉ muốn anh hiểu rằng anh biết mình đang làm gì.
+
+{body-HandsHips} Tôi {ThinkingA}nghĩ anh chăm sóc cô bé rất ổn mà..
+157) LEE
+{body-C}{HappyA}Cảm ơn anh, Kenny.
+158) KENNY
+{HappyB}Anh hiểu rồi đấy.
+163) KENNY
+Anh hiểu rồi đấy.
+170) KENNY
+Anh hiểu rồi đấy.
+159) KENNY
+{body-HandsHips}{ThinkingA}Tôi nghĩ anh biết mình đang làm gì.
+160) LEE
+{body-A}{HappyB}Gì vậy anh bạn, {body-B}{ThinkingA}làm gì là làm gì với chúng ta à?
+161) KENNY
+{NormalC}Với cô bé Clementine, ý tôi là vậy. {NormalB} {body-A}Trước đó anh bảo là anh không biết chuyện gì.
+
+Tôi chỉ mong anh hiểu rằng khi tôi {ThinkingA}nhìn anh, tôi biết anh là một người
+
+{HappyA}giỏi giải quyết vấn đề. {HappyB}{body-B}Cô bé sẽ được chăm sóc tốt thôi.
+162) LEE
+{HappyA}Cảm ơn anh, Kenny.
+169) LEE
+{HappyA}Cảm ơn anh, Kenny.
+164) KENNY
+{NormalC}{body-A}Này, chuyện về cô bé Clementine.
+165) LEE
+{NormalC}{body-B}Sao cơ?
+166) KENNY
+{NormalB}Lúc trước tôi định nói bên ngoài thế giới kia đầy cạm bẫy {ThinkingA}với một cô bé như vậy.
+167) LEE
+Phải.
+168) KENNY
+{NormalC} Chà, tôi vẫn nghĩ thế cho đến khi {ThinkingA}tôi chứng kiến những gì ngày hôm nay
+
+tôi nghĩ giữa việc {HappyA}anh chăm sóc cô bé và nó tự lo cho bản thân
+
+{HappyB} {body-B}thì cả hai người đi với nhau là tốt nhất.
+171) GLENN
+[pickup1] Và Lee, anh biết đấy! nếu mọi chuyện không khả quan hơn
+
+tất cả mọi người có thể sẽ đầu hàng số phận...
+
+giống cô gái chúng ta gặp ở dãy trọ.
+172) GLENN
+[pickup1] Rồi anh có để mọi người tự kết liễu như thế không?
+
+Như cách mà anh bảo Carley đưa súng cho cô gái đó vậy.
+173) GLENN
+[pickup1] Có lẽ anh làm đúng. Tôi không biết xử lý tình huống đó ra sao nữa.
+174) GLENN
+[pickup1]Dù sao đi nữa... hẹn gặp lại mọi người. [final goodbye]
+175) 
+Nhìn
+177) 
+Nhìn
+176) 
+Trò chuyện với
+178) 
+Trò chuyện với
+179) DUCK
+[pickup1] Và rồi lần này Derek và Siêu khủng long bị phục kích bởi SQUIDIOUS!
+
+Nhưng Derek phát hiện dưới nước có một tia sáng...
+180) DUCK
+[pickup1] Thật tuyệt vời! SD đã có một bộ đồ phản lực có thể đi rất nhanh dưới nước
+
+thật tuyệt vời!
+181) DUCK
+[pickup1] Ôi trời, xem này! DOOMetron có khẩu súng nhỏ trên vai
+
+tất cả đều giống như pow pow và siêu khủng long là đồng minh
+
+nhưng cậu biết không? Anh ấy không hề.
+182) LEE
+[pickup3] {NormalB}Chú có mặt giải cứu cháu mà.
+183) CLEMENTINE
+[pickup2] Cháu bị ngã... và {SadB}bộ đàm của cháu bị vỡ mất rồi.
+
+{ThinkingA}Chú Glenn thì giữ một cái khác của cháu.
+184) LEE
+[pickup3]{NormalD}Chú xin lỗi, do là ở đây không có nhiều trẻ con.
+185) CLEMENTINE
+[pickup2] {ThinkingA} Không ạ, cháu không để tâm chuyện đó, cháu chỉ nghĩ...
+
+{SadA}Mình lại vừa bị xác sống tóm được lần nữa ạ.
+186) LEE
+[pickup3] {NormalC}{Body-F}Này Duck! cháu có thể để cô bé bình yên một phút không?
+187) DUCK
+[pickup1] {SadA}Dạ vâng! cháu xin lỗi.
+188) DUCK
+[pickup1] {HappyC}Oh! VÀ RỒI THÌ SAO NÀO?
+189) 
+[Remain Silent]
+190) 
+Aww, Chú rất tiếc.
+193) LEE
+[pickup3] {NormalD}Aww, Chú rất tiếc.
+191) 
+Chỉ là cái bộ đàm thôi mà...
+192) 
+Thì sao nào? nó đâu giúp gì được.
+194) CLEMENTINE
+[pickup2] {NormalA}Cảm ơn chú. Cháu biết cháu cần phải {SadB}mạnh mẽ
+
+cháu chỉ cảm thấy hơi buồn thôi ạ.
+195) CLEMENTINE
+[pickup2] {AngryA}Nó không đơn giản chỉ là cái bộ đàm đâu ạ.
+196) LEE
+[pickup3] Nó cũng chỉ là cái bộ đàm thôi, từ đầu tới giờ
+
+chú thấy nó không hữu dụng cho lắm.
+197) CLEMENTINE
+[pickup2] {FearB}Nhưng...[verge of tears] cháu biết,{ThinkingA} cháu chỉ...{CryingA}cần nó thôi ạ.
+198) LEE
+[pickup3] {HappyB}Thì sao? {ThinkingA}Nó có giúp ít được gì đâu chứ.
+199) CLEMENTINE
+[pickup2] {SadC} Chú nghĩ cháu thật ngu ngốc ạ?
+213) CLEMENTINE
+[pickup2] {SadC} Chú nghĩ cháu thật ngu ngốc ạ?
+200) LEE
+[pickup3] {NormalD}Chúng ta có thể tìm thấy một cái khác mà cháu.
+201) CLEMENTINE
+[pickup2] {SadB}Cháu sẽ chỉ giữ cái này thôi ạ.
+202) LEE
+[pickup3] [ugh] {AngryA}Để chú{NormalB} xem thế nào nhé.
+203) CLEMENTINE
+[pickup2] {SadB}Cháu biết nó chẳng có tác dụng gì cả...{CryingA}nhưng đó là
+
+cách duy nhất cháu có thể liên lạc với bố mẹ...
+
+{CryingB}giờ nó hỏng mất rồi.
+205) KATJAA
+[pickup1] Anh tìm thấy hộp đựng găng tay chưa? Em luôn tìm thấy trước anh
+
+anh chả bao giờ để ý mình cất đồ ở đâu cả.
+206) KATJAA
+[pickup1] Ken, anh thử nhìn ở đó xem? Em để anh một mình là y như rằng bị mất đồ.
+207) KATJAA
+[pickup1] Em không biết việc nhớ chỗ cất đồ khó thế nào với anh.
+
+Có khó khăn gì đâu chứ?
+208) KATJAA
+[pickup1]  Em nhớ khi đóng gói đồ đạc em đã nói, "Ồ, những thứ này sẽ rất
+
+quan trọng và Kenny sẽ làm mất, vì vậy em sẽ để chúng ngay
+
+trong túi này" và sau đó anh lại cất nó đi mất.
+209) DUCK
+[pickup1] Ôi trời, Clementine! Một chuyện khác nữa...!
+214) DUCK
+Ôi trời, Clementine!

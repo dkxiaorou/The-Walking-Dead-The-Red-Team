@@ -1,0 +1,282 @@
+1) LEE
+{NormalB}{body-A}Này Carley.
+2) LEE
+{NormalB}{body-A}Này.
+3) CARLEY
+{ThinkingA}{body-StandA}Anh đừng đùa với phóng viên, {HappyA}đặc biệt là một phóng viên
+
+không được uống cafe trong 3 ngày.
+4) LEE
+{HappyA}{body-E}Cô bắn khá tốt đấy.
+6) CARLEY
+{NormalB}{Body-StandA}Anh thì sao? {ThinkingA}Đi chứ?
+7) LEE
+{SadA}{body-C}Cô sẵn sàng ra ngoài chưa nào?
+8) LEE
+{ThinkingA}{body-B}Được. [let's go]
+9) LEE
+{ThinkingB}{body-A}Chờ một phút.
+10) CARLEY
+{NormalC}Chúng ta đi thôi.
+11) CARLEY
+{HappyA}Ok, let me know.
+12) 
+Exit
+14) 
+Topic in sequence
+15) LEE
+{HappyA}{body-E}Cô xử lý tình huống rất tốt đấy.
+16) LEE
+{ThinkingA}{body-A}Cô đang làm gì ở đây thế?
+17) CARLEY
+{SadA}Cô ta là đồ khốn nhưng... {SadB}anh biết đấy.
+18) LEE
+{HappyB}{body-E}Tôi không giải thích được.
+19) CARLEY
+{HappyA}{Body-StandA}Ha, thật vậy à? tôi đúng là thảm họa.
+20) LEE
+{SadA}{body-C}Phải.
+21) LEE
+{SadB}{body-C}Tôi rất tiếc.
+22) CARLEY
+{SadA}Biên tập viên đã bị xơi tái cách tôi chỉ 5 feet, và {FearA}tôi suýt
+
+cũng bỏ mạng theo nếu {SadA}không có anh bạn canh chừng ở đó.
+23) 
+Cô xử lý tình huống rất giỏi.
+24) 
+Cậu ấy đã giải cứu cô à?
+25) LEE
+{DisgustB}{body-C}Cậu ấy đã giải cứu cô à?
+26) LEE
+{HappyA}{body-C}Có lẽ cô sẽ không bao giờ biết ai là anh hùng thực sự.
+27) LEE
+{SurpriseA}{body-B}Huh?
+28) CARLEY
+{HappyA}Anh ấy thật đáng mến, {ThinkingA}kiểu như trụ cột gia đình vậy.
+29) CARLEY
+{HappyB}{body-B}Phải, anh có tin không? {FearA}quái vật, ma cà rồng{AngryB} hay cái quái gì đó
+
+đã xé toạc chiếc xe của chúng tôi ra và rồi anh ấy
+
+{FearA}Doug {HappyA}xuất hiện giải cứu kịp lúc.
+30) CARLEY
+{FearA}Huh? {HappyA}Oh...không có gì.
+31) CARLEY
+{ThinkingB}Phải.
+32) CARLEY
+{HappyA}Người địa phương?
+33) CARLEY
+{NormalC}{Body-StandB}Chúng tôi lái xe đến lễ hội hoa Anh đào để làm phóng sự.
+
+{ThinkingA}Một chương trình rất khó khai thác.
+34) LEE
+{FearA}{body-C}Không thực sự vậy.
+35) CARLEY
+{ThinkingA}Huh, phải rồi.
+36) LEE
+{HappyA}{body-A}Nghe hợp lý đấy.
+37) LEE
+{NormalA}{body-E}Athens.
+38) LEE
+{ThinkingB}{body-B}Tôi có chút việc.
+39) CARLEY
+{NormalB}Yep.
+40) CARLEY
+{HappyB}Đúng thế! {ThinkingB}Chà, một số tên Chính trị gia khốn nạn đã
+
+giật tài trợ của chúng tôi và {ThinkingA}tôi đã đăng tải tin tức để tố cáo.
+41) 3L. LEE
+Cảm ơn nhé!
+42) CARLEY
+{SadA}{Body-StandA}Phải, tôi có đồ nghề để thu âm và{HappyA} anh có thể thấy
+
+tôi không thiếu bất kỳ món đồ nghề nào.
+43) LEE
+{ThinkingA}{body-E}Cô đang nghe radio à?
+44) CARLEY
+Đừng bận tâm. Nhớ những gì tôi nói với anh thôi.
+45) LEE
+Được rồi, tôi sẽ thế.
+46) LEE
+{NormalD}{body-E}Thời sự thập kỷ à?
+48) 
+Thời sự thập kỷ à?
+66) 
+Thời sự thập kỷ à?
+68) 
+Thời sự thập kỷ à?
+49) LEE
+{NormalD}{body-A}Cảm ơn nhé!.
+50) CARLEY
+{NormalA}{body-StandA}Đừng bận tâm. {AngryA}Nhớ những gì tôi nói với anh là được.
+51) LEE
+{HappyA}{body-E}Được rồi, tôi sẽ thế.
+52) CARLEY
+{ThinkingA}Anh có chắc là cô bé sẽ không cần chứ?
+128) CARLEY
+{ThinkingA}Anh có chắc là cô bé sẽ không cần chứ?
+53) LEE
+{HappyA}{body-A}Không có gì.
+131) LEE
+{HappyA}{body-A}Không có gì.
+54) CARLEY
+{ThinkingB}{Body-StandA}Oh, uh, cảm ơn nhé.
+130) CARLEY
+{ThinkingB}{Body-StandA}Oh, uh, cảm ơn nhé.
+55) LEE
+{NormalB}{body-A}Đây, tôi tìm thấy vài thứ có thể ăn chóng đói.
+129) LEE
+{NormalB}{body-A}Đây, tôi tìm thấy vài thứ có thể ăn chóng đói.
+56) LEE
+{NormalD}{body-B}Cảm ơn cô.
+132) LEE
+{NormalD}{body-B}Cảm ơn cô.
+57) LEE
+{NormalD}{body-A}Con bé vẫn ổn.{SadA} Tôi đang cố gắng cho nó ăn uống đầy đủ.
+133) LEE
+{NormalD}{body-A}Con bé vẫn ổn.{SadA} Tôi đang cố gắng cho nó ăn uống đầy đủ.
+58) CARLEY
+{HappyB}{Body-StandA}Anh đúng là người chăm trẻ tốt.
+134) CARLEY
+{HappyB}{Body-StandA}Anh đúng là người chăm trẻ tốt.
+59) CARLEY
+{HappyA}{Body-StandB}Phải, đưa cô bé ăn đi. {ThinkingA}Tôi tự lo được.
+135) CARLEY
+{HappyA}{Body-StandB}Phải, đưa cô bé ăn đi. {ThinkingA}Tôi tự lo được.
+60) LEE
+{HappyA}{body-B}Ok.
+136) LEE
+{HappyA}{body-B}Ok.
+61) LEE
+{NormalA}{body-A}Oh, uh, {ThinkingB}Có thể vậy.
+137) LEE
+{NormalA}{body-A}Oh, uh, {ThinkingB}Có thể vậy.
+62) LEE
+[pickup1] Tôi giúp gì được cho cô chứ, Carley?
+63) CARLEY
+[pickup1] [DIstrusting] Tôi ổn, cảm ơn anh.
+64) 
+Được.
+65) 
+Chờ một phút.
+67) 
+Cô sẵn sàng ra ngoài chưa nào?
+69) 
+Trò chuyện với
+70) 
+Đưa thức ăn cho
+71) 
+Cô đang làm gì đấy?
+72) 
+Cô đang làm gì đấy?
+74) 
+Cô ổn không?
+75) LEE
+[pickup3] Nah. [couldn't figure it out]
+76) CARLEY
+[pickup1] Không sửa được nó à?
+77) LEE
+[pickup3] Được, tôi sẽ thử.
+78) CARLEY
+[pickup1] Eh, tôi đang tiếp tục thử đây.
+79) LEE
+[pickup3] Cô đang mài mò gì với cái đó vậy?
+80) CARLEY
+[pickup1] Một cái radio. Tôi không bật nó lên được.
+81) LEE
+[pickup3] Đưa đây tôi xem sao nào.
+82) LEE
+[pickup3] Tôi sẽ thử tìm xung quanh. Cần hai cục pin.
+83) CARLEY
+[pickup1] Phải, tất nhiên rồi, ý tôi là... phải. [a beat] Không.
+84) LEE
+[pickup3] Cái máy này không có pin bên trong, cô biết đấy.
+85) CARLEY
+[pickup1] Cảm ơn, tôi cũng không biết tìm ở đâu nữa.
+86) 
+Tôi sẽ tìm pin để lắp cái radio đó cho cô.
+87) LEE
+[pickup3] Tôi vẫn đang tìm pin để lắp cái máy đó.
+88) CARLEY
+[pickup1] Cảm ơn, rất cảm kích.
+89) LEE
+[pickup3] Cho tôi xem một chút nào..
+119) LEE
+[pickup3] Cho tôi xem một chút nào..
+90) LEE
+[pickup3] Yeah, these are no good.
+91) CARLEY
+[pickup1] Cần những cái to to ấy.
+92) LEE
+[pickup3] Tôi tìm thấy cái điều khiển ở trong phòng nhưng chắc là
+
+pin của nó sẽ nhét không vừa.
+93) CARLEY
+[pickup1] Ngay đây.
+120) CARLEY
+[pickup1] Ngay đây.
+94) LEE
+[pickup3]
+97) 
+[Remain Silent]
+95) CARLEY
+[pickup1] [stern]Tôi ổn.
+96) LEE
+[pickup3] Cái radio đó có vẻ không ổn cho lắm. Cô làm được chứ?
+98) 
+Cô không cần phải..
+99) 
+Thật không? mọi người chết cả rồi ư?
+100) 
+Được rồi.
+101) LEE
+[pickup3] Cô không cần phải như vậy... dó là nổi đau tinh thần.
+102) CARLEY
+[pickup1] Tôi thấy một vài người chạy khỏi, có thể họ đã được giải cứu
+
+hoặc là không.
+103) LEE
+[pickup3] Cô thực sự ổn chứ? Tất cả đồng nghiệp của cô có thể chết cả rồi.
+104) CARLEY
+[pickup1] Anh nghĩ tôi không biết vậy sao? Tất nhiên là
+
+tôi đéo ổn rồi! làm ơn để tôi một mình đi Lee ạ!
+105) LEE
+[pickup3] Được rồi, chúng ta sẽ không nhắc lại nữa.
+106) CARLEY
+[pickup1] Cảm ơn. Giờ tôi không muốn làm gì cả.
+107) CARLEY
+[pickup1] [follow up, emotional] ...Tôi ổn... [sigh] Tôi sẽ ổn.
+108) CARLEY
+[pickup1] Anh muốn cái gì đây? Tôi đã bảo anh để tôi yên cơ mà?
+110) CARLEY
+[pickup1] Tuyệt, cảm ơn anh.
+111) LEE
+[pickup3] Viên pin này có thể lắp được cho Radio.
+112) LEE
+[pickup3] Tôi sẽ tìm một cục nữa.
+113) CARLEY
+[pickup1] Lắp vào là nó hoạt động được ngay nhỉ?
+114) LEE
+[pickup3] Và đây một cục pin nữa.
+115) 
+Vẫn không được à?
+116) 
+Cho tôi xem tí nào.
+117) CARLEY
+[pickup1][frustrated] Phải, tôi không biết nó bị hỏng gì nữa.
+118) LEE
+[pickup3] Nó vẫn không hoạt động sao?
+121) 
+Đưa điều khiển cho
+122) 
+Đưa viên pin cho
+124) 
+Tôi tìm thấy pin rồi.
+126) 
+Tôi tìm thấy pin rồi.
+125) 
+Đây là cục pin nữa này.
+127) 
+Đây là cục pin nữa này.

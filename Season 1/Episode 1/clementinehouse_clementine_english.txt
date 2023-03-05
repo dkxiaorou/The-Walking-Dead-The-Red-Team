@@ -1,0 +1,110 @@
+1) LEE
+[gathering himself] {fearA} Trời ơi...
+2) CLEMENTINE
+{fearA} Chú giết cô ấy chưa?
+3) 
+Rồi.
+4) 
+Chú không biết nữa. Chắc là rồi.
+5) 
+Cô ấy chết trước đó rồi.
+7) LEE
+{normalD}{body-c2}Rồi.
+8) LEE
+{normalB} Chú cũng nghĩ thế.
+9) CLEMENTINE
+{sadA} {body-handsopen} Ổn rồi ạ. Cháu nghĩ cô ấy đã biến thành quái vật.
+10) CLEMENTINE
+{fearB} {body-handonwrist} Thi thoảng bọn chúng quay lại.
+11) LEE
+[disbelief] {surpriseA} Cháu đã giết ai chưa?
+12) LEE
+{thinkingB} {body-c2} Chú không biết nữa. {sadA} Chú nghĩ là rồi.
+13) LEE
+{thinkingB} {body-c2}Cô ấy chết trước đó rồi..{normalD} Trước khi chú ra tay, {sadA} chú nghĩ vậy.
+14) CLEMENTINE
+{sadC} {body-handonwrist}Cháu nghe cô ấy hét hai đêm liền.{fearA} Có lẽ cô ấy bị bọn quái vật tóm được.
+15) LEE
+[delicately, talking to a little girl about how she heard someone get eaten by a zombie, she says maybe that person is dead.] {surpriseB} 2 đêm liền ư?{sadB}Phải rồi, có lẽ cô ta bị tóm.
+16) LEE
+Có ai đó bên ngoài.
+17) CLEMENTINE
+{cryingA} Vâng.
+18) CLEMENTINE
+{sadA} {body-handsopen}Vâng ạ.{sadC} Cháu chỉ muốn bố mẹ về nhà ngay thôi.
+19) CLEMENTINE
+Ai đó còn sống kìa chú!
+20) LEE
+Phải, chúng ta đi xem nào!
+21) LEE
+{sadC} Chú nghĩ sẽ cần chút thời gian đấy, {normalD} cháu biết mà?
+22) LEE
+{sadA} {body-c2}Cháu trải qua những chuyện thế này một mình ư?
+23) CLEMENTINE
+[No] {sadB}{body-fists} Chưa ạ. {fearA} Nhưng họ bị bắn chết nhiều lắm.
+24) LEE
+{disgustA} Nhưng mà chú phải ngồi một lúc... để bình tĩnh lại, cháu biết đấy.
+25) LEE
+{normalC} Nghe chú này, chú không biết đã xảy ra chuyện gì.
+
+{thinkingA}Nhưng chú sẽ bảo vệ cháu đến khi bố mẹ cháu về.
+26) CLEMENTINE
+{fearB}Không! Nơi này không an toàn đâu ạ! {fearA}nhất là khi đêm đến.
+27) CLEMENTINE
+[tentative] {sadB} Ok... Chú đoán là ổn.
+28) LEE
+{surpriseA} Khi nào?
+29) LEE
+{normalD} Chào cháu.
+30) 
+Tìm sự giúp đỡ trước khi trời tối.
+31) CLEMENTINE
+[pickup1] [nervous, scared] Chúng ta nên làm gì bây giờ hả chú?
+32) 
+Đợi đến tối rồi rời khỏi đây.
+33) LEE
+[pickup3] Chúng ta nên tìm sự giúp đỡ... [follows up with "now" or "later"]
+34) CLEMENTINE
+[pickup1] Vâng ạ, buổi tối rất nguy hiểm.
+45) CLEMENTINE
+[pickup1] Vâng ạ, buổi tối rất nguy hiểm.
+35) LEE
+[pickup3] Chúng ta đi thôi. Theo sát chú nhé.
+41) LEE
+[pickup3] Chúng ta đi thôi. Theo sát chú nhé.
+44) LEE
+[pickup3] Chúng ta đi thôi. Theo sát chú nhé.
+50) LEE
+[pickup3] Chúng ta đi thôi. Theo sát chú nhé.
+36) LEE
+[pickup3] Chúng ta nên tìm người giúp trước khi trời tối.
+43) LEE
+[pickup3] Chúng ta nên tìm người giúp trước khi trời tối.
+37) CLEMENTINE
+[pickup1] Nghe ổn đấy ạ. Chúng ta có thể trốn ở ngôi nhà trên cây.
+49) CLEMENTINE
+[pickup1] Nghe ổn đấy ạ. Chúng ta có thể trốn ở ngôi nhà trên cây.
+38) LEE
+[pickup3] Chúng ta cần phải rời khỏi khu phố này, nơi này không an toàn.
+
+Chúng ta sẽ âm thầm đi vào ban đêm sẽ không bị phát hiện.
+48) LEE
+[pickup3] Chúng ta cần phải rời khỏi khu phố này, nơi này không an toàn.
+
+Chúng ta sẽ âm thầm đi vào ban đêm sẽ không bị phát hiện.
+39) CLEMENTINE
+[pickup1] [nervous]Bố mẹ cháu có thể sẽ về.
+47) CLEMENTINE
+[pickup1] [nervous]Bố mẹ cháu có thể sẽ về.
+40) LEE
+[pickup3] Chúng ta không đi đâu xa cả. Chúng ta sẽ tìm sự trợ giúp và quay lại đây
+
+với những người khác nữa.
+51) LEE
+[pickup3] Chúng ta không đi đâu xa cả. Chúng ta sẽ tìm sự trợ giúp và quay lại đây
+
+với những người khác nữa.
+42) LEE
+[pickup3] [talking to clementine] Nghe có vẻ rất khó khăn nhưng đó là một ý tưởng không tồi.
+46) LEE
+[pickup3] [talking to clementine] Nghe có vẻ rất khó khăn nhưng đó là một ý tưởng không tồi.

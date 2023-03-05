@@ -1,0 +1,1261 @@
+1) JAKE
+Trời ơi tôi đúng là thằng tồi! THẬT KHỐN KIẾP!
+2) HERSHEL
+[pickup1][utterly relieved]Tạ ơn Chúa, con vẫn an toàn.
+3) SHAWN
+{sadA}{body-standB} Con cũng lo lắng về trang trại nhà chúng ta đấy.
+4) HERSHEL
+{thinkingA} Chúng ta chưa thấy chuyện gì xảy ra cả. Dường như chỉ
+
+xảy ra ở thành phố.{happyA}{body-standhandships} Con mang hai vị khách này tới.
+
+Chúng ta có thể giúp gì cho họ?
+5) LEE
+{normalD}{body-A} Con trai ông cứu mạng chúng tôi..
+6) LEE
+{sadA} Chúng tôi... cần một nơi để tá túc.
+7) LEE
+{thinkingA} Chúng tôi chỉ cần... giúp đỡ một chút thôi.
+
+Chúng tôi không ở lại đây lâu đâu.
+8) LEE
+{sadA} Chúng tôi đang tìm nơi an toàn để tá túc qua đêm.
+12) 
+Chúng tôi đang tìm nơi an toàn để tá túc qua đêm.
+9) 
+Con trai ông cứu mạng chúng tôi.
+10) 
+Chúng tôi cần nơi tá túc.
+11) 
+Chúng tôi chỉ cần giúp đỡ một chút thôi.
+13) HERSHEL
+[sarcastic] {normalB} Mừng vì con trai ta biết giúp đỡ người khác.
+14) HERSHEL
+{normalA} Anh và cô bé có thể ở lại đây, nhưng chỉ đêm nay thôi.
+
+{disgustA} Tôi không có giường và bữa sáng đâu nhé.
+16) HERSHEL
+{normalA} Anh và cô bé có thể ở lại đây, nhưng chỉ đêm nay thôi.
+
+{disgustA} Tôi không có giường và bữa sáng đâu nhé.
+17) HERSHEL
+{normalA} Anh và cô bé có thể ở lại đây, nhưng chỉ đêm nay thôi.
+
+{disgustA} Tôi không có giường và bữa sáng đâu nhé.
+18) HERSHEL
+{normalA} Anh và cô bé có thể ở lại đây, nhưng chỉ đêm nay thôi.
+
+{disgustA} Tôi không có giường và bữa sáng đâu nhé.
+368) HERSHEL
+{normalA} Anh và cô bé có thể ở lại đây, nhưng chỉ đêm nay thôi.
+
+{disgustA} Tôi không có giường và bữa sáng đâu nhé.
+534) HERSHEL
+{normalA} Anh và cô bé có thể ở lại đây, nhưng chỉ đêm nay thôi.
+
+{disgustA} Tôi không có giường và bữa sáng đâu nhé.
+15) HERSHEL
+{normalA} Tốt.
+19) SHAWN
+{normalC} Anh ta đang bị thương và đang trên đường tới Macon.
+
+Con có bảo với anh ta rằng chúng ta có thể giúp.
+20) LEE
+{disgustA} Chân của tôi bị đập mạnh.
+{fearA}Shawn bảo rằng ông có thể giúp tôi băng bó.
+21) HERSHEL
+{happyA}{body-standA} Tôi có thể băng bó cho anh. Shawn, đi vào xem chị con thế nào đi.
+
+Anh thì ngồi xuống hiên để tôi xem anh bị thương thế nào.
+22) HERSHEL
+{normalC} Để xem nào. [a beat...] {disgustA}Chà, vết thương sưng to khiếp đấy.
+23) LEE
+{thinkingB} Đau khủng khiếp.
+30) 
+Đau khủng khiếp.
+24) LEE
+{normalC} Không đau lắm.
+31) 
+Không đau lắm.
+25) LEE
+{normalC} Có thể tệ hơn thế nữa.
+32) 
+Có thể tệ hơn thế nữa.
+26) HERSHEL
+{sadA} Tôi cá là thế mà.
+27) HERSHEL
+[Rhetorical] {happyA} Cậu trai trẻ này mạnh mẽ gớm nhỉ?
+28) HERSHEL
+{thinkingA} Nghe đâu thành phố bây giờ tràn ngập những thứ quái quỷ.
+29) HERSHEL
+{normalA} Anh có vẻ ít nói nhỉ? {happyA}Ước gì tôi được một nửa tính cách này.
+523) HERSHEL
+{normalA} Anh có vẻ ít nói nhỉ? {happyA}Ước gì tôi được một nửa tính cách này.
+33) HERSHEL
+{thinkingA} Anh nói tên anh là gì nhỉ?
+34) LEE
+{happyA} Tôi tên Lee.
+37) 
+Tôi tên Lee.
+42) LEE
+{thinkingA} Tôi tên Lee.
+46) LEE
+{normalB} Tôi tên Lee.
+525) LEE
+{normalB} Tôi tên Lee.
+543) LEE
+{normalB} Tôi tên Lee.
+35) LEE
+{angryA} Không quan trọng lắm, phải không?
+36) LEE
+{angryA} Tôi chưa giới thiệu.
+39) 
+Tôi chưa giới thiệu.
+38) 
+Không quan trọng chứ.
+40) HERSHEL
+{happyA} Rất vui khi biết anh, Lee. Tôi là Hershel Greene.
+48) HERSHEL
+{happyA} Rất vui khi biết anh, Lee. Tôi là Hershel Greene.
+524) HERSHEL
+{happyA} Rất vui khi biết anh, Lee. Tôi là Hershel Greene.
+544) HERSHEL
+{happyA} Rất vui khi biết anh, Lee. Tôi là Hershel Greene.
+41) HERSHEL
+{disgustA} Huh. Nếu anh muốn tá túc tại đây qua đêm thì tôi cần phải biết
+
+tên anh. {angryA} Trừ khi anh muốn ngủ ngoài đường.
+43) HERSHEL
+{happyA} Chà, Lee ư? -- chỉ một chữ thôi sao? Tôi là Hershel Greene.
+44) HERSHEL
+{angryA} Chà, phí thời giờ quá đấy.
+45) HERSHEL
+{angryA} Tôi cần biết tên anh là gì.
+526) HERSHEL
+{angryA} Tôi cần biết tên anh là gì.
+542) HERSHEL
+{angryA} Tôi cần biết tên anh là gì.
+47) HERSHEL
+{normalC} Đâu quá khó để anh trả lời đâu cơ chứ?
+527) HERSHEL
+{normalC} Đâu quá khó để anh trả lời đâu cơ chứ?
+545) HERSHEL
+{normalC} Đâu quá khó để anh trả lời đâu cơ chứ?
+49) HERSHEL
+{sadA} Anh làm gì mà bị thương thế này?
+50) LEE
+[Lie] {thinkingA} Tôi ngã do chạy trốn đám quái vật đó.
+51) LEE
+[short] {sadA} Tai nạn ô tô.
+55) 
+Tôi gặp tai nạn ô tô.
+52) LEE
+{sadA} Tôi vô tình tự làm mình bị thương.
+53) LEE
+{thinkingA} Tôi không nhớ nữa. {sadA} Một chuyện nhãm nhí lúc ở thành phố.
+528) LEE
+{thinkingA} Tôi không nhớ nữa. {sadA} Một chuyện nhãm nhí lúc ở thành phố.
+54) 
+Tôi bị ngã.
+56) 
+Do nhảy qua hàng rào.
+409) LEE
+Do nhảy qua hàng rào.
+57) 
+Tôi không nhớ.
+58) HERSHEL
+{thinkingA} Vậy sao? [doubting]
+59) HERSHEL
+{thinkingA} Vậy sao?. [doubting]
+60) HERSHEL
+{thinkingA} Vậy sao? [doubting]
+61) HERSHEL
+{thinkingA} Huh. Ra là vậy.
+62) HERSHEL
+Huh. Ra là vậy.
+529) HERSHEL
+{thinkingA} Huh. Ra là vậy.
+63) LEE
+{sadA} Tôi thấy con bé một mình ở Atlanta.
+64) LEE
+{happyA} Cảm ơn nhé. Nhưng con bé{thinkingA} không phải con gái tôi.
+65) HERSHEL
+{thinkingA} Ồ!
+66) SHAWN
+{sadA} {body-standB} Này bố, {thinkingB} con đang nghĩ việc cần làm vào ngày mai
+
+là đóng rào chắn quanh trang trại lại.
+67) HERSHEL
+[pickup1]Ngôi nhà này do tôi quản. Có một gia đình khác gồm 3 người
+
+đang ngủ trong nhà kho. Anh và cô bé có thể nghỉ ngơi ở đó
+
+sau khi tôi băng bó xong cho anh.
+68) LEE
+{normalB} Tôi đang chăm sóc con bé cho đến khi {normalC}tìm thấy bố mẹ nó.
+69) HERSHEL
+{disgustA} Cái đấy chưa cần thiết lắm đâu con trai.
+70) SHAWN
+[pickup1] Con không biết bố đã xem gì trên TV hay là nghe radio
+
+nhưng có một số vấn đề {fearA}rất quan trọng...
+
+[keeps it down with a kid around] {thinkingA} kia chỉ là toàn tin vịt.
+71) 
+Con trai ông nói đúng đấy.
+72) 
+Tôi không lo lắng quá nhiều.
+73) LEE
+{normalA} Con trai ông nói đúng đấy. {angryA} You're going to want to fortify this place.
+74) LEE
+{thinkingA} Tôi không lo lắng quá nhiều về chuyện đó. Chúng ta đang
+
+ở khá xa thành phố, có vẻ như nơi đó đang tồi tệ nhất đấy.
+75) SHAWN
+{angryA} Con nghiêm túc đấy thưa cha. {sadA}Thôi nào Lee!
+
+kể cho bố tôi nghe anh thấy gì ở đó đi anh bạn.
+76) HERSHEL
+{happyA} Những chuyện như vậy chưa xảy ra xung quanh đây, Shawn ạ.
+77) LEE
+{fearA} Tôi thấy một gã đàn ông lao ra giữa đường.
+78) LEE
+{fearA} Tôi thấy viên cảnh sát sống lại sau khi chết.
+79) LEE
+{fearA} Tôi bị đuổi bởi hai xác sống. Zombie!
+
+{thinkingA}hình như mọi người gọi như thế.
+80) LEE
+{fearA} Một cô gái với nội tạng lòi hết ra ngoài
+
+sống lại từ cõi chết cố xồm lên để cắn xé tôi!
+81) 
+Tôi thấy một người đàn ông lao ra giữa đường.
+82) 
+Một người đàn ông chạy vụt qua.
+83) 
+Một viên cảnh sát đã chết nhưng vẫn cử động.
+84) 
+Người chết biết đi.
+85) 
+Một cô gái bị lòi ruột gan ra ngoài.
+86) SHAWN
+{sadB} Thôi nào, kể cho ông ấy nghe đi.
+87) SHAWN
+{angryA} Kể cho ông ấy nghe đi!
+88) LEE
+[giving in] {normalD} Được rồi.
+89) HERSHEL
+{happyA} Tôi băng bó cho anh xong rồi đấy.
+
+Vào ngày mai anh sẽ thấy đỡ hơn.
+90) LEE
+{normalA} Được rồi.
+91) LEE
+{happyA} Cảm ơn.
+164) CLEMENTINE
+[shy, quiet] Cảm ơn ạ.
+92) HERSHEL
+{normalB} Có mấy cái chăn trong nhà kho. Chúng ta sẽ gặp lại
+
+vào sáng ngày mai.
+93) HERSHEL
+{happyB} Ngủ ngon nhé! Clementine.
+94) HERSHEL
+{angryA} Chẳng phải bố bảo được rồi sao?
+95) CLEMENTINE
+{happyB} Chú ngủ ngon ạ!
+96) HERSHEL
+{sadA} Chà, thôi cứ làm những gì mà con muốn.
+
+{normalA}Chúng ta còn rất nhiều việc khác cần làm.
+97) SHAWN
+{normalA} Lee và những người bạn chúng ta có thể giúp đỡ vào sáng mai.
+
+{thinkingA} Chúng ta thực sự cần làm đấy bố ạ.
+98) CLEMENTINE
+[mumbled sleep talk] {fearB} Bọn-bọn chúng đầy ngoài kia... chúng đang ăn thịt...
+
+Cháu không muốn đi đâu...
+99) LEE
+[kind of to himself] {normalA} Cái kho này an toàn đấy {thinkingA}nhưng chẳng thoải mái tí nào cả.
+100) LEE
+{happyA} Chú biết mùi như nào mà.
+101) LEE
+[quiet] {sadA} Shh. You're dreaming.
+102) CLEMENTINE
+[dreaming, asleep, mumbled] Con xin lỗi bố!.
+103) CLEMENTINE
+{normalA} Cháu mừng vì không phải ngủ ở cái nhà trên cây nữa...
+104) CLEMENTINE
+{thinkingB} Mùi ở đây giống như...
+105) MAN
+Lee! anh là một người tốt, anh biết chứ?
+106) OTHER MAN
+[SCREAM]
+109) WOMAN
+[Laughs]
+112) WOMAN
+[SCREAM]
+113) GIRL
+[SCREAM]
+114) MAN
+[SCREAM]
+125) CLEMENTINE
+{fearB} [gasp]
+242) 
+...
+278) LEE
+[you bash into something with your shoulder]
+279) LEE
+[Lee hits something with his fist]
+283) LEE
+[you bash into something with your shoulder]
+284) LEE
+[Lee hits something with his fist]
+294) DUCK
+[a bunch of panicked/trapped/I don't want to die sounds1]
+295) DUCK
+[a bunch of panicked/trapped/I don't want to die sounds1]
+491) 
+[Remain Silent]
+492) 
+[Remain silent]
+493) 
+[Remain Silent]
+107) MAN
+Cái gì? Anh định làm gì thế kia?
+108) WOMAN
+[Screaming, horribly][WHAT DID YOU DO?]
+110) KENNY
+Này, dậy đi anh bạn.
+547) KENNY
+Này, dậy đi anh bạn.
+548) KENNY
+Này, dậy đi anh bạn.
+111) WOMAN
+Em yêu anh, cưng à.
+115) WOMAN
+Ôi cưng à! đừng làm quá như thế!... Em sẽ về sớm thôi...
+116) OTHER MAN
+[Authoritative, like a cop] Thưa ngài, dậy đi.
+117) KENNY
+{happyA} Chúng ta nên bắt tay vào việc hoặc là
+
+cứ nghe làm nhàm về việc này đấy.
+118) KENNY
+{happyB} Nhưng ta cá là bố cháu sợ nhện lắm nhỉ?
+119) KENNY
+{normalB} Tôi là Kenny.
+120) KENNY
+{happyA}{body-standA} Chào buổi sáng anh bạn! {thinkingA}Có một số việc cần phải làm
+
+ngoài kia và {happyB}tôi nghĩ là chúng ta phải bắt tay vào làm.
+121) LEE
+{thinkingA} Tôi không phải bố con bé, {happyA}tôi là Lee.
+122) CLEMENTINE
+{thinkingB} Cháu ngứa quá.
+123) LEE
+[groggy] [Yawns]
+124) KENNY
+{happyC} Cháu ngủ ở cái kho rơm mà cháu bé.
+
+Cũng may là nhện chưa bâu vào tóc cháu đấy.
+126) DUCK
+Bố ơi! chúng ta sẽ xây hàng rào! Máy kéo chuẩn bị hết rồi ạ!
+127) KENNY
+{happyB} Đó là con trai tôi, Ken Junior. Chúng ta có thể gọi nó là Duck cũng được.
+128) LEE
+{thinkingB} Duck?
+131) 
+Duck?
+331) 
+Duck
+129) LEE
+{happyA} "Chó" hay là "Vịt"?
+132) 
+Phát âm tên như "Chó" hay là "Vịt"?
+130) LEE
+{thinkingB} Ở đâu mà họ đặt tên con là Vịt vậy?
+133) 
+Ở đâu mà họ đặt tên con là "Vịt" vậy?
+134) LEE
+{normalC} Đó là cái tên độc nhất đấy.
+135) KENNY
+{normalB} Chà, đừng bận tâm về tên thằng bé.
+
+{happyA}Như "nước đổ đầu vịt", anh biết đấy.
+136) KENNY
+{thinkingA} Không đùa. {sadA}Nhưng mà nói thật là...
+
+Thằng bé đần độn như cái túi đựng búa.
+137) KENNY
+{happyC} Nhưng bù lại nó rất lanh lẹ đấy.
+138) DUCK
+[from offscreen] BỐỐỐỐỐ! (Duck gọi Daddy nghe như "DUCK")
+140) DUCK
+[from offscreen] BỐỐỐỐỐ! (Duck gọi Daddy nghe như "DUCK")
+139) KENNY
+{happyA} "Vịt".
+141) KENNY
+{thinkingA} Đó! thấy chưa?
+142) KENNY
+{happyA} Chúng tôi đến từ Fort Lauderdale.
+
+{normalC}Mọi thứ xảy ra khi chúng tôi đang trên đường trở về nhà.
+143) KENNY
+{normalC} Tôi cũng cùng đường tới Macon, nếu như chúng ta đi cùng nhau
+
+thì hai người đàn ông {thinkingA}có thể xử lý tình huống tốt hơn đấy.
+315) KENNY
+{normalC} Tôi cũng cùng đường tới Macon, nếu như chúng ta đi cùng nhau
+
+thì hai người đàn ông {thinkingA}có thể xử lý tình huống tốt hơn đấy.
+321) KENNY
+{normalC} Tôi cũng cùng đường tới Macon, nếu như chúng ta đi cùng nhau
+
+thì hai người đàn ông {thinkingA}có thể xử lý tình huống tốt hơn đấy.
+322) KENNY
+{normalC} Tôi cũng cùng đường tới Macon, nếu như chúng ta đi cùng nhau
+
+thì hai người đàn ông {thinkingA}có thể xử lý tình huống tốt hơn đấy.
+326) KENNY
+{normalC} Tôi cũng cùng đường tới Macon, nếu như chúng ta đi cùng nhau
+
+thì hai người đàn ông {thinkingA}có thể xử lý tình huống tốt hơn đấy.
+522) KENNY
+{normalC} Tôi cũng cùng đường tới Macon, nếu như chúng ta đi cùng nhau
+
+thì hai người đàn ông {thinkingA}có thể xử lý tình huống tốt hơn đấy.
+538) KENNY
+{normalC} Tôi cũng cùng đường tới Macon, nếu như chúng ta đi cùng nhau
+
+thì hai người đàn ông {thinkingA}có thể xử lý tình huống tốt hơn đấy.
+144) KENNY
+{happyA} Hình như  là anh đang trên đường về Macon thì phải.
+317) KENNY
+{happyA} Hình như  là anh đang trên đường về Macon thì phải.
+319) KENNY
+{happyA} Hình như  là anh đang trên đường về Macon thì phải.
+323) KENNY
+{happyA} Hình như  là anh đang trên đường về Macon thì phải.
+329) KENNY
+{happyA} Hình như  là anh đang trên đường về Macon thì phải.
+521) KENNY
+{happyA} Hình như  là anh đang trên đường về Macon thì phải.
+539) KENNY
+{happyA} Hình như  là anh đang trên đường về Macon thì phải.
+145) LEE
+{normalC} Gia đình tôi sống ở đó đấy.
+314) LEE
+{normalC} Gia đình tôi sống ở đó đấy.
+320) LEE
+{normalC} Gia đình tôi sống ở đó đấy.
+324) LEE
+{normalC} Gia đình tôi sống ở đó đấy.
+327) LEE
+{normalC} Gia đình tôi sống ở đó đấy.
+519) LEE
+{normalC} Gia đình tôi sống ở đó đấy.
+541) LEE
+{normalC} Gia đình tôi sống ở đó đấy.
+146) KENNY
+{normalB} Dù sao thì ông Hershel cũng cần giúp đỡ và chiếc xe của tôi
+
+thì đang bị rò rỉ nhớt. Có một số việc chúng ta
+
+phải làm trước khi rời đi.
+316) KENNY
+{normalB} Dù sao thì ông Hershel cũng cần giúp đỡ và chiếc xe của tôi
+
+thì đang bị rò rỉ nhớt. Có một số việc chúng ta
+
+phải làm trước khi rời đi.
+318) KENNY
+{normalB} Dù sao thì ông Hershel cũng cần giúp đỡ và chiếc xe của tôi
+
+thì đang bị rò rỉ nhớt. Có một số việc chúng ta
+
+phải làm trước khi rời đi.
+325) KENNY
+{normalB} Dù sao thì ông Hershel cũng cần giúp đỡ và chiếc xe của tôi
+
+thì đang bị rò rỉ nhớt. Có một số việc chúng ta
+
+phải làm trước khi rời đi.
+328) KENNY
+{normalB} Dù sao thì ông Hershel cũng cần giúp đỡ và chiếc xe của tôi
+
+thì đang bị rò rỉ nhớt. Có một số việc chúng ta
+
+phải làm trước khi rời đi.
+520) KENNY
+{normalB} Dù sao thì ông Hershel cũng cần giúp đỡ và chiếc xe của tôi
+
+thì đang bị rò rỉ nhớt. Có một số việc chúng ta
+
+phải làm trước khi rời đi.
+540) KENNY
+{normalB} Dù sao thì ông Hershel cũng cần giúp đỡ và chiếc xe của tôi
+
+thì đang bị rò rỉ nhớt. Có một số việc chúng ta
+
+phải làm trước khi rời đi.
+147) LEE
+{happyA} Chắc chắn rồi, chúng ta sẽ đồng hành.
+151) 
+Chắc chắn rồi, chúng ta sẽ đồng hành.
+148) LEE
+{normalD} Có lẽ được đấy. Để xem thanh niên nhà Hershel sao đã.
+149) LEE
+{normalC} Tôi sẽ hỏi xem cháu gái muốn sao.
+150) LEE
+{happyA} Không, cảm ơn.
+152) 
+Có lẽ được. Để xem mọi chuyện thế nào đã
+153) 
+Tôi sẽ hỏi cháu gái.
+154) 
+Không, cảm ơn.
+155) KENNY
+{happyB} Chốt như vậy nhé.
+156) KENNY
+{happyC} Chúc may mắn anh bạn, tên đó khá là khó chịu.
+157) KENNY
+{happyC} Ah, [sarcasm, he's talking about a little girl]hỏi ý con bé à? {happyA} Tôi hiểu.
+158) KENNY
+{sadA} Anh bạn à... {normalB}Anh bạn phải là siêu nhân hay
+
+cái gì đó mới nghĩ là có thể sinh tồn ngoài kia với hai người.
+159) KENNY
+[introducing someone after hearing her name for the first time] {happyC} Clementine.
+165) LEE
+{normalB} Clementine.
+160) DUCK
+{surprisedA} Ngồi trên máy kéo ư? {happyC}Tuyệt vời ạ!
+161) SHAWN
+{normalB}{body-standA} Chúng ta nên bắt đầu làm thôi. {sadA}Mọi người cũng biết
+
+bọn quái vật đó như thế nào rồi đấy.
+
+Chúng ta cần phải xây hàng rào càng nhanh càng tốt.
+162) SHAWN
+{happyC} Chú cần một người giám sát. {sadA}Cháu có thể ngồi trên máy kéo và quát chú nếu chú lười.
+163) KATJAA
+{happyA} Tôi có thể trông chừng bé gái này ở bên hiên nhà.
+
+Anh có thể tới bất kỳ lúc nào.
+166) KATJAA
+{happyD} Cái tên thật dễ thương làm sao.
+167) SHAWN
+{normalC} Bố tôi đang có việc ngoài kho rơm, có lẽ ông ấy sẽ cần
+
+người phụ giúp đấy. {happyA} Còn bây giờ thì tôi và
+
+nhóc Duck sẽ bắt tay vào làm việc.
+168) KENNY
+{happyA} Em yêu, Duck! Đây là Lee và ờ... {thinkingA}bé gái tên gì nhỉ?
+169) DUCK
+{happyB}{body-standA}  Con muốn dựng cái hàng rào.
+170) LEE
+{happyA} Ok, I'd appreciate that.
+171) LEE
+{thinkingA} I don't know if that's a good idea.
+174) 
+I don't know if that's a good idea.
+172) LEE
+{sadA} If you see anything, you get inside and lock the door.
+173) 
+Ok, thanks.
+175) 
+If you see anything, get inside.
+176) KATJAA
+{happyC} My pleasure.
+177) KENNY
+{normalA} Bà ấy sẽ ổn thôi, Lee. Vợ tôi trông vậy chứ không hiền đâu!
+
+{happyA}Tôi thà gặp bọn quái vật ngoài kia còn hơn là đối mặt bà ấy đang nổi cáu.
+181) KENNY
+{normalA} Bà ấy sẽ ổn thôi, Lee. Vợ tôi trông vậy chứ không hiền đâu!
+
+{happyA}Tôi thà gặp bọn quái vật ngoài kia còn hơn là đối mặt bà ấy đang nổi cáu.
+178) KATJAA
+{normalA} Tốt hơn là bảo vệ con bé tránh khỏi rắc rối.
+
+{happyA}Chúng ta cứ ở gần trang trại thì sẽ an toàn hơn.
+179) LEE
+{happyA} Điều đó ổn với cháu chứ Clementine?
+180) KATJAA
+{fearA} Tất nhiên.
+182) KENNY
+[overcome, having just saved his son] Bố bắt được con rồi!
+191) KENNY
+[overcome, having just saved his son] Bố bắt được con rồi!
+194) KENNY
+[overcome, having just saved his son] Bố bắt được con rồi!
+288) KENNY
+[overcome, having just saved his son] Bố bắt được con rồi!
+306) KENNY
+[overcome, having just saved his son] Bố bắt được con rồi!
+311) KENNY
+[overcome, having just saved his son] Bố bắt được con rồi!
+551) KENNY
+[overcome, having just saved his son] Bố bắt được con rồi!
+183) SHAWN
+KENNY! GIÚP ĐỠ LEE!
+189) SHAWN
+KENNY! GIÚP ĐỠ LEE!
+264) SHAWN
+KENNY! GIÚP ĐỠ LEE!
+338) SHAWN
+KENNY! GIÚP ĐỠ LEE!
+341) SHAWN
+KENNY! GIÚP ĐỠ LEE!
+345) SHAWN
+KENNY! GIÚP ĐỠ LEE!
+184) LEE
+Tôi không thể nhấc nổi một mình!
+190) LEE
+Tôi không thể nhấc nổi một mình!
+263) LEE
+Tôi không thể nhấc nổi một mình!
+340) LEE
+Tôi không thể nhấc nổi một mình!
+343) LEE
+Tôi không thể nhấc nổi một mình!
+348) LEE
+Tôi không thể nhấc nổi một mình!
+185) SHAWN
+KENNY!!!
+187) SHAWN
+KENNY!!!
+261) SHAWN
+KENNY!!!
+330) 
+Kenny
+335) 
+Kenny
+337) SHAWN
+KENNY!!!
+344) SHAWN
+KENNY!!!
+346) SHAWN
+KENNY!!!
+186) LEE
+[pushing with all of his might] Tôi đang cố...
+188) LEE
+[pushing with all of his might] Tôi đang cố...
+262) LEE
+[pushing with all of his might] Tôi đang cố...
+339) LEE
+[pushing with all of his might] Tôi đang cố...
+342) LEE
+[pushing with all of his might] Tôi đang cố...
+347) LEE
+[pushing with all of his might] Tôi đang cố...
+192) SHAWN
+LEE, CỨU TÔI ĐI! LÀM ƠN!
+292) SHAWN
+LEE, CỨU TÔI ĐI! LÀM ƠN!
+308) SHAWN
+LEE, CỨU TÔI ĐI! LÀM ƠN!
+310) SHAWN
+LEE, CỨU TÔI ĐI! LÀM ƠN!
+352) SHAWN
+LEE, CỨU TÔI ĐI! LÀM ƠN!
+353) SHAWN
+LEE, CỨU TÔI ĐI! LÀM ƠN!
+357) SHAWN
+LEE, CỨU TÔI ĐI! LÀM ƠN!
+193) SHAWN
+Bọn chúng sắp tràn qua rồi!
+290) SHAWN
+Bọn chúng sắp tràn qua rồi!
+305) SHAWN
+Bọn chúng sắp tràn qua rồi!
+312) SHAWN
+Bọn chúng sắp tràn qua rồi!
+350) SHAWN
+Bọn chúng sắp tràn qua rồi!
+356) SHAWN
+Bọn chúng sắp tràn qua rồi!
+359) SHAWN
+Bọn chúng sắp tràn qua rồi!
+195) SHAWN
+ĐẨY CHIẾC MÁY KÉO RA KHỎI NGƯỜI TÔI!
+291) SHAWN
+ĐẨY CHIẾC MÁY KÉO RA KHỎI NGƯỜI TÔI!
+304) SHAWN
+ĐẨY CHIẾC MÁY KÉO RA KHỎI NGƯỜI TÔI!
+309) SHAWN
+ĐẨY CHIẾC MÁY KÉO RA KHỎI NGƯỜI TÔI!
+349) SHAWN
+ĐẨY CHIẾC MÁY KÉO RA KHỎI NGƯỜI TÔI!
+355) SHAWN
+ĐẨY CHIẾC MÁY KÉO RA KHỎI NGƯỜI TÔI!
+360) SHAWN
+ĐẨY CHIẾC MÁY KÉO RA KHỎI NGƯỜI TÔI!
+196) LEE
+Tới ngay đây! Shawn!
+289) LEE
+Tới ngay đây! Shawn!
+197) SHAWN
+AHHHH!
+362) SHAWN
+AHHHH!
+198) SHAWN
+AAHH! [gurgling, being eaten all over the neck and face] AHH!!!
+363) SHAWN
+AAHH! [gurgling, being eaten all over the neck and face] AHH!!!
+199) SHAWN
+Nó đang lăn qua người tôi! AHHH!
+200) LEE
+Chúng ta có thể lái nó ra không?
+201) SHAWN
+Hãy đẩy nó ra!
+202) LEE
+Tôi có biết lái máy kéo đâu chứ?
+203) SHAWN
+MAU ĐẨY ĐI!
+204) KENNY
+Chúng sắp bắt Duck! CHÚNG BẮT THẰNG BÉ MẤT!
+274) KENNY
+Chúng sắp bắt Duck! CHÚNG BẮT THẰNG BÉ MẤT!
+205) LEE
+KENNY, tôi cần ông giúp!
+273) LEE
+KENNY, tôi cần ông giúp!
+206) LEE
+Cứu thằng bé trước!
+207) LEE
+KENNY, LÀM ƠN! Tôi cần ông giúp!
+208) LEE
+NHANH NÀO... NHANH NÀO...
+277) LEE
+NHANH NÀO... NHANH NÀO...
+209) LEE
+GRRRRR! [pushing tractor hard]
+272) LEE
+GRRRRR! [pushing tractor hard]
+210) LEE
+GRRRRAAAA!!! [pushing as hard as you can]
+211) LEE
+Lái cái máy kéo này như thế nào nhỉ?
+212) DUCK
+Tuyệt vời![how is that to drive?]
+213) SHAWN
+Cái máy này ngồi đau mông kinh khủng, lại còn vừa to vừa chậm.
+214) SHAWN
+Đó là thứ mà tôi tìm thấy trong tất cả những gì tại đây.
+215) SHAWN
+Bố đã bảo tôi chở những thứ đó tới bãi rác mấy tuần rồi.
+
+Cũng may là tôi vẫn chưa chở đi.
+216) KENNY
+Đây không phải là chiếc xe đáng tin cậy nhất thế giới
+
+nhưng mà nó đã làm tốt nhất có thể rồi.
+217) KENNY
+Đây có thể là đống sắt vụn, nhưng không sao, dùng tốt.
+218) LEE
+Anh có nghĩ... hàng rào gỗ này chặn được bọn chúng không?
+219) SHAWN
+Chưa đâu, tôi sẽ còn cải tạo và đóng thêm cho chắc chắn hơn.
+220) HERSHEL
+[explodes] {angryD} CÚT KHỎI ĐÂY!
+221) HERSHEL
+{angryC} XIN LỖI SAO? {angryB}Con trai anh vẫn sống trơ ra đấy thôi! cần gì phải xin lỗi?
+222) KENNY
+{sadB}{body-standA} Tôi xin lỗi.
+223) HERSHEL
+[quiet, snarling, about to explode] {disgustA}{body-standB} Cút mau!
+224) HERSHEL
+{angryD} Còn anh... Anh thậm chí không hề giúp đỡ.
+225) LEE
+{sadC}{body-A} Tôi xin lỗi!.
+226) LEE
+{sadB}{body-A} Tôi rất hoảng sợ.
+227) LEE
+{sadA}{body-A} Tôi lo lắng cho thằng bé quá.
+228) LEE
+{sadB}{body-A} Tôi đã nghĩ là tôi sẽ cứu được cả hai.
+229) 
+Tôi xin lỗi.
+230) 
+Tôi rất hoảng sợ.
+231) 
+Tôi lo lắng về cho thằng bé hơn.
+232) 
+Tôi đã nghĩ là tôi sẽ cứu được cả hai.
+233) HERSHEL
+{disgustA} Nhìn nó mà xem!.
+234) HERSHEL
+{angryC} NHÌN NÓ MÀ XEM!.
+235) HERSHEL
+{angryB} Xin lỗi chả được cái khỉ gì cả!.
+236) HERSHEL
+{angryC} Hãy nhớ cho kỹ khi lần sau anh thấy hoảng sợ.
+237) HERSHEL
+{angryC} Nhưng anh không hề lo lắng gì cả.
+238) HERSHEL
+{disgustA} Anh nghĩ sai rồi. {fearA} Và bây giờ...
+239) HERSHEL
+{disgustA} Anh không còn gì để nói với nó nữa phải không?
+240) HERSHEL
+Anh còn gì để nói nữa không?
+241) HERSHEL
+{fearA} Anh cố gắng giúp thằng bé, {angryC}nhưng tên khốn nạn này để nó chết.
+243) 
+Lỗi do tôi.
+244) 
+Không phải lỗi ai cả.
+245) 
+Đó là lỗi của Kenny.
+246) LEE
+{sadC}{body-A} Tôi không sức cứu anh ta, tôi xin lỗi.
+247) LEE
+{sadA}{body-A} Ông không thể đỗ lỗi cho Kenny được.
+248) LEE
+{angryA}{body-A} Nếu Kenny giúp đỡ thì con trai ông sẽ sống sót.
+249) HERSHEL
+[crying, losing it] {sadB} Làm ơn, hãy cút hết đi!. {angryD}Cút đi và đừng bao giờ quay lại đây nữa!
+537) HERSHEL
+[crying, losing it] {sadB} Làm ơn, hãy cút hết đi!. {angryD}Cút đi và đừng bao giờ quay lại đây nữa!
+250) KENNY
+{fearA} Anh có thể quá giang đến Macon nếu anh muốn.
+251) HERSHEL
+{sadB} Anh không cần phải nói gì nữa cả. {angryA}Anh đã cố gắng lắm rồi.
+536) HERSHEL
+{sadB} Anh không cần phải nói gì nữa cả. {angryA}Anh đã cố gắng lắm rồi
+252) HERSHEL
+{disgustA} Nếu cô bé của anh bị mắc kẹt, anh hãy hy vọng lúc đó mình
+
+mạnh mẽ hơn vì {angryA}những người bạn của anh là một lũ hèn nhát.
+253) HERSHEL
+{angryC} Tôi không thể... Anh hãy coi chừng đấy!
+
+{disgustA}Sẽ có ngày anh và cô bé gái anh lâm vào đường cùng.
+254) HERSHEL
+{angryB} Tôi muốn tất cả các người hãy biến mất khỏi trang trại gia đình tôi.
+255) SHAWN
+[avoiding a topic of convo] Tôi biết.
+256) LEE
+Chắc chắn không rồi. Tuy nhiên tôi có thể cố vấn
+
+cho anh về cách nó hoạt động ở những Nông Trại Hoa Kỳ.
+257) SHAWN
+Anh có biết lái nó không?
+258) 
+Máy kéo
+259) 
+Xe bán tải
+260) 
+Wood
+265) LEE
+[pickup1] [urgent] Tôi sẽ cứu Shawn! [you save the other guy]
+361) LEE
+[pickup1] [urgent] Tôi sẽ cứu Shawn! [you save the other guy]
+266) KENNY
+[pickup1] [urgent] Tôi sẽ cứu con trai ông!
+267) LEE
+[pickup1] [urgent!]
+268) SHAWN
+Đẩy nó ra khỏi người tôi!
+301) SHAWN
+Đẩy nó ra khỏi người tôi!
+269) KENNY
+[pickup1][panicked] Đẩy thứ này ra khỏi người thằng bé!
+270) LEE
+Chúng tôi sẽ đẩy nó ra!
+271) SHAWN
+Chó chết! chúng tới gần lắm rồi! chúng tới rồi!
+275) SHAWN
+Chết tiệt! Nó sắp nghiền nát tôi rồi! đẩy nó ra!
+297) SHAWN
+Chết tiệt! Nó sắp nghiền nát tôi rồi! đẩy nó ra!
+303) SHAWN
+Chết tiệt! Nó sắp nghiền nát tôi rồi! đẩy nó ra!
+550) SHAWN
+Chết tiệt! Nó sắp nghiền nát tôi rồi! đẩy nó ra!
+276) LEE
+[pickup1] [lee struggles to pull a guy free from underneath a tractor]
+549) LEE
+[pickup1] [lee struggles to pull a guy free from underneath a tractor]
+280) KENNY
+[pickup1] Giúp tôi kéo thằng bé!
+285) KENNY
+[pickup1] Giúp tôi kéo thằng bé!
+281) DUCK
+ĐỪNG ĐỂ CHÚNG BẮT CON!
+286) DUCK
+ĐỪNG ĐỂ CHÚNG BẮT CON!
+282) KENNY
+[pickup1] MAU ĐẠP NÓ LÙI LẠI! [a zombie]
+287) KENNY
+[pickup1] MAU ĐẠP NÓ LÙI LẠI! [a zombie]
+516) KENNY
+[pickup1] MAU ĐẠP NÓ LÙI LẠI! [a zombie]
+293) KENNY
+[pickup1] Anh bị cái chó gì vậy?
+307) KENNY
+[pickup1] Anh bị cái chó gì vậy?
+313) KENNY
+[pickup1] Anh bị cái chó gì vậy?
+351) KENNY
+[pickup1] Anh bị cái chó gì vậy?
+354) KENNY
+[pickup1] Anh bị cái chó gì vậy?
+358) KENNY
+[pickup1] Anh bị cái chó gì vậy?
+296) SHAWN
+Chân tôi mắc kẹt rồi!
+298) SHAWN
+KENNY! CHẾT TIỆT! GIÚP TÔI VỚI!
+299) SHAWN
+LEE, làm ơn giúp tôi với!
+300) SHAWN
+CỨU TÔI! CHẾT TIỆT! CỨU!!!
+302) LEE
+[pickup1] Tôi đang cố gắng kéo anh ra đây.[super panicked]
+332) 
+Zombie
+333) 
+Shawn
+334) 
+Đẩy máy kéo
+336) 
+Giúp Kenny
+364) HERSHEL
+[pickup1] Vẫn yên ắng như mấy ngày qua thôi. Ol' Breckon cứ nghĩ là
+
+con ngựa của cậu ta bị què nhưng thật ra chẳng có gì mới cả.
+365) HERSHEL
+[pickup1]Con đưa hai vị khách về nữa à.
+366) SHAWN
+[pickup1] Con bảo với anh ta rằng chúng ta có thể giúp anh ấy.
+535) SHAWN
+[pickup1] Con bảo với anh ta rằng chúng ta có thể giúp anh ấy.
+367) LEE
+[pickup1] Chúng tôi thực sự rất cảm kích.
+533) LEE
+[pickup1] Chúng tôi thực sự rất cảm kích.
+369) HERSHEL
+[pickup1] Vậy chỉ có anh với con gái anh thôi nhỉ?
+370) SHAWN
+[pickup1] Không phải con gái anh ta đâu, chỉ là người giữ trẻ thôi bố ạ.
+371) SHAWN
+[pickup1] Không phải con gái anh ta đâu, chỉ là hàng xóm thôi bố ạ.
+372) SHAWN
+[pickup1] Không phải con gái anh ta đâu, anh ta là... chà...
+
+Chỉ là một người lạ tình cờ phát hiện cô bé một mình.
+373) SHAWN
+[pickup1] Oh, not his daughter, he's.. a good Samaritan. [sincere]
+374) HERSHEL
+[pickup1][talking to a little girl] Bé gái, cháu có quen người đàn ông này không?
+375) CLEMENTINE
+[pickup1] [small, shy, nervous] Có ạ.
+376) HERSHEL
+[pickup1] Vậy được rồi.
+377) HERSHEL
+[pickup1] Chà, nhìn chân anh có vẻ đang rất tệ.
+378) LEE
+[pickup1] Phải, chân tôi không ổn cho lắm.
+379) LEE
+[pickup1] Khá là xa.
+380) CLEMENTINE
+[pickup1] [laying in bed. breaking the silence] Cháu nhớ mẹ và bố lắm.
+381) CLEMENTINE
+[pickup1] Tới Savannah bao xa ạ?
+382) LEE
+[pickup1] [sincere]Chú biết mà Clem.
+383) CLEMENTINE
+[pickup1][savannah is 'pretty far', quiet, in bed] Vâng ạ.
+384) 
+Phân người.
+385) 
+Im lặng
+386) 
+Cháu biết rồi đấy...
+387) CLEMENTINE
+[pickup1][it smells like...] Doo-dee.
+394) CLEMENTINE
+[pickup1][it smells like...] Doo-dee.
+553) CLEMENTINE
+[pickup1][it smells like...] Doo-dee.
+388) LEE
+[pickup1] Phải, mùi giống như doo-dee.
+552) LEE
+[pickup1] Phải, mùi giống như doo-dee.
+389) 
+Phân gia súc
+395) CLEMENTINE
+[pickup1] Phân gia súc ạ?
+390) LEE
+[pickup1][it smells like...] Phân gia súc.
+391) LEE
+[pickup1][it smells like...] Phân người.
+392) LEE
+[pickup1][it smells like... trying to endear yoursefl to a little girl] Uhh... Phân ng.
+393) LEE
+[pickup1][it smells like...] Chú biết mùi như nào mà.
+396) CLEMENTINE
+[pickup1] Like when a horse... plops?
+397) LEE
+[pickup1] Just like that.
+398) CLEMENTINE
+[pickup1][small, disapointed you has to sleep in a place that smells like poop] Eoo ôi...
+399) CLEMENTINE
+[pickup1] Cháu thề là mùi đấy đấy ạ!.
+400) CLEMENTINE
+[pickup1][a little kid gasp when an adult swears]
+401) LEE
+[pickup1] Chú biết mà.
+402) LEE
+[pickup1] Chú xin lỗi, đáng lẽ không nên nói vậy.
+403) CLEMENTINE
+[pickup1] Bố cháu thì sẽ nói là "cục cứt."
+404) SHAWN
+[pickup1] Con đang nghĩ là mọi người chưa biết vấn đề đó lớn cỡ nào.
+405) HERSHEL
+[pickup1] Rất chào mừng anh và bé gái tá túc tại đây!.
+406) HERSHEL
+[pickup1] Ta vẫn chưa biết tên cháu đấy, cô bé.
+407) CLEMENTINE
+[pickup1] Clem-Clementine ạ.
+408) HERSHEL
+[pickup1] Thật là khó tưởng tượng những gì cháu đã trải qua, Clementine ạ.
+410) HERSHEL
+[pickup1] Chạy trốn ai đó à? [suspicious]
+411) LEE
+Chạy để sinh tồn như những người khác thôi.
+412) HERSHEL
+[pickup1] [Agreeing] Cũng phải.
+413) LEE
+Tôi bị đuổi bởi một đám xác sống.
+414) LEE
+[awkward] Được thôi, miễn là ổn hơn.
+415) HERSHEL
+[pickup1] Chúng ta làm sạch vết thương, thay quần áo khác cho anh
+
+anh sẽ ổn thôi.
+416) HERSHEL
+[pickup1] Nếu mà chân anh thấy nóng rát hoặc là không bớt sưng
+
+thì đấy là do nó đang nhiễm trùng quá nặng.
+417) HERSHEL
+[pickup1] Chúng tôi có thể bắt buộc phải bắn anh.
+418) LEE
+[pickup1] Rồi chúng ta làm gì sau đó?
+419) HERSHEL
+[pickup1] Anh đã đi đâu trước khi bị tai nạn ô tô?
+420) HERSHEL
+[pickup1] {thinkingA} Bé gái đã thấy chuyện kinh khủng gì vậy?
+421) 
+Về nhà.
+425) LEE
+{normalD} Về nhà.
+422) 
+Không đi đâu cả.
+447) LEE
+{thinkingA} Không đi đâu cả.
+530) LEE
+{thinkingA} Không đi đâu cả.
+423) 
+Chỉ vừa ra ngoài.
+424) 
+Rời khỏi Atlanta.
+426) HERSHEL
+[pickup1] Nhà anh ở đâu?
+427) LEE
+Tôi lớn lên ở Macon.
+428) HERSHEL
+[pickup1] Tôi mong gia đình anh vẫn ổn.
+429) LEE
+{thinkingA} Không ai cả.
+436) LEE
+{thinkingA} Không ai cả.
+446) LEE
+{thinkingA} Không ai cả.
+449) LEE
+{thinkingA} Không ai cả.
+494) 
+Không ai cả.
+430) HERSHEL
+[pickup1] Anh đã bảo "chúng ta" nên tôi mới thắc mắc.
+439) HERSHEL
+[pickup1] Anh đã bảo "chúng ta" nên tôi mới thắc mắc.
+444) HERSHEL
+[pickup1] Anh đã bảo "chúng ta" nên tôi mới thắc mắc..
+450) HERSHEL
+[pickup1] Anh đã bảo "chúng ta" nên tôi mới thắc mắc.
+431) HERSHEL
+[pickup1] Trước đó anh đi với ai, bé gái đó à? [puzzled]
+438) HERSHEL
+[pickup1] Trước đó anh đi với ai, bé gái đó à? [puzzled]
+443) HERSHEL
+[pickup1] Trước đó anh đi với ai, bé gái đó à? [puzzled]
+452) HERSHEL
+[pickup1] Trước đó anh đi với ai, bé gái đó à? [puzzled]
+432) LEE
+{fearA} Chúng tôi tông phải người đàn ông
+
+cái thứ mà ông đã nghe nói tới, trên quốc lộ.
+437) LEE
+{fearA} Chúng tôi tông phải người đàn ông
+
+cái thứ mà ông đã nghe nói tới, trên quốc lộ.
+445) LEE
+{fearA} Chúng tôi tông phải người đàn ông
+
+cái thứ mà ông đã nghe nói tới, trên quốc lộ.
+451) LEE
+{fearA} Chúng tôi tông phải người đàn ông
+
+cái thứ mà ông đã nghe nói tới, trên quốc lộ.
+532) LEE
+{fearA} Chúng tôi tông phải người đàn ông
+
+cái thứ mà ông đã nghe nói tới, trên quốc lộ.
+433) HERSHEL
+Dấu hiệu của ngày tận thế rồi sao?
+434) LEE
+Tôi nghĩ là chưa đâu!
+435) LEE
+{normalD} Chỉ ra ngoài lái xe đi dạo thôi.
+440) HERSHEL
+[pickup1] Thời sự khuyên mọi người nên ở nhà.
+441) LEE
+Phải, đó là một sự hiểu lầm thôi.
+442) LEE
+{normalD} Tôi đang trên đường rời khỏi Atlanta.
+448) HERSHEL
+Tôi có nghe qua nhưng chưa tới đấy bao giờ.
+531) HERSHEL
+Tôi có nghe qua nhưng chưa tới đấy bao giờ.
+453) 
+Khá nhiều.
+454) 
+Ai mà biết cơ chứ?
+461) LEE
+{sadA} Ai mà biết cơ chứ?
+455) 
+Con bé bây giờ an toàn rồi.
+467) LEE
+{normalD} Con bé bây giờ an toàn rồi.
+456) 
+Không có gì kinh khủng cả!
+469) LEE
+{normalD} Không có gì kinh khủng cả!
+457) LEE
+{sadA} Loại quái vật đó nhiều vô kể.
+458) HERSHEL
+[pickup1] Tôi không thể tưởng tượng nổi.
+464) HERSHEL
+[pickup1] Tôi không thể tưởng tượng nổi.
+459) LEE
+Ông thật là may mắn đấy.
+463) LEE
+Ông thật là may mắn đấy.
+460) LEE
+She had a few lonely days with nothing but the dead keeping her company.
+462) LEE
+She had a few lonely days with nothing but the dead keeping her company.
+465) LEE
+{surpriseA} What choice is there?
+466) HERSHEL
+[pickup1] Anh có chắc là sẽ chăm sóc được cho con bé không?
+468) LEE
+{angryA} I'm not some kidnapper, all right? I'm just trying to help.
+470) HERSHEL
+[pickup1] I just hope she's not in any now.
+471) HERSHEL
+[pickup1] We can just leave it at that.
+472) LEE
+Tôi không phải bố cô bé, tôi tên Lee.
+473) LEE
+Có lẽ là sẽ đến được Macon.
+474) HERSHEL
+[pickup1] Vào ngày mai, anh nghĩ anh sẽ đối mặt điều gì?
+475) 
+Nhìn
+476) 
+Nhìn
+512) 
+Nhìn
+514) 
+Nhìn
+477) CHET
+Này, Shawn... Giờ tôi phải về đây. Mẹ tôi chắc đang nổi giận.
+478) SHAWN
+[pickup1] Bình tĩnh đi anh bạn. Tôi sẽ đến đón cậu vào tối mai nhé.
+479) CHET
+Rất vui khi gặp cả hai người.
+480) SHAWN
+[pickup1][down] Được.
+481) MITCHELL
+Cẩn thận nhé, cả hai anh.
+482) MITCHELL
+Tôi xin lỗi nhé Shawn. Chet là một người tốt.
+483) SHAWN
+[pickup1][down] Tốt trong những người tốt.
+484) MITCHELL
+Gửi lời chào tới bố cậu giúp tôi nhé.
+485) SHAWN
+[pickup1] Con cũng không thể quay lại được nếu không có Chet.
+486) SHAWN
+[pickup1][down] Con đã chạy thoát khỏi Atlanta cùng với Andre.
+
+Nhưng... Chet đã bị giết mất rồi ạ.
+487) HERSHEL
+[pickup1] Bố rất tiếc, Shawn.
+488) SHAWN
+[pickup1] Con quái vật đấy xé xác anh ta.
+
+Con không biết chuyện gì đang xảy ra nữa bố ạ.
+489) HERSHEL
+[pickup1] Không. Con đang đùa sao?
+490) HERSHEL
+[pickup1] Chà, bố mừng vì con và cậu ta trở về an toàn.
+495) 
+Một người cảnh sát.
+497) HERSHEL
+[pickup1] Anh ấy thật tốt.
+498) LEE
+[pickup3] Tôi đi cùng một người cảnh sát, ông ta chở tôi.
+499) LEE
+[pickup3] Tôi đúng là một kẻ tồi tệ nhỉ.
+500) LEE
+[pickup3] Phải, đúng như vậy.
+501) HERSHEL
+[pickup1] Đúng thế chứ?
+502) HERSHEL
+[pickup1] Anh vừa bảo là "chúng ta". Đó là điều mà tôi thắc mắc.
+503) HERSHEL
+[pickup1] Tôi đã hỏi anh một câu hỏi...
+504) HERSHEL
+[pickup1] Với những gì đã xảy ra thì đó là một ý không tồi.
+505) SHAWN
+[pickup1] Duck và tôi sẽ tới đó.
+506) SHAWN
+[pickup1] [hurt, mortally] Con không sao đâu bố ơi...con sẽ ổn mà...
+507) HERSHEL
+[pickup1] Bố sẽ cứu con, đừng lo nhé! Chúng ta sẽ làm mọi cách để cứu con!.
+508) SHAWN
+[pickup1] Bọn chúng... sắp vồ lấy con, Chúa ơi!. [it did get him]Lee đã cố gắng cứu con.
+509) HERSHEL
+[pickup1] Bố biết mà, con trai.
+510) SHAWN
+[pickup1] Con...[dies]
+511) 
+Đẩy
+513) 
+Đẩy
+515) 
+Giúp đỡ
+517) 
+Tấm ván
+518) 
+2 x 4
+546) 
+Hàng rào
