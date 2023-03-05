@@ -200,7 +200,7 @@ NameFILE|aliased_english.txt
 97) KENNY
 [ambient conversation]Nó không đúng chút nào.  Không đứa trẻ nào nên thấy điều bọn nó thấy.
 98) KATJAA
-[ambient conversation]Kids are resilient, you know?  Tôi ghét khi mà bọn trẻ phải lớn lên như thế này, nhưng mà dưới tình hình hiện tại, Tôi nghĩ bọn nó đang làm rất tốt.
+[ambient conversation]Bọn trẻ rất kiên cường, anh biết không?  Tôi ghét khi mà bọn trẻ phải lớn lên như thế này, nhưng mà dưới tình hình hiện tại, Tôi nghĩ bọn nó đang làm rất tốt.
 99) DANNY
 [ambient conversation]Bọn trẻ đang xử lý với ...mọi thứ như thế nào rồi?
 100) DANNY
@@ -210,7 +210,7 @@ NameFILE|aliased_english.txt
 102) DUCK
 [ambient conversation]Chúng ta sẽ sớm ăn thôi đúng không, mẹ?
 103) LARRY
-[ambient conversation]How long does it takes to wash your damn hands?
+[ambient conversation]Cậu rửa tay mất bao lâu?
 104) KATJAA
 [ambient conversation]Ngay sau khi Lee quay lại.
 105) ANDY
@@ -222,7 +222,7 @@ NameFILE|aliased_english.txt
 108) DANNY
 [ambient conversation]Đó là tại sao ta cần sự giúp đỡ của Katjaa.
 109) DANNY
-[ambient conversation]We'd love to have another healthy calf, but we mostly want to make sure maybelle is okay.
+[ambient conversation]Bọn tôi muốn một con bê khoẻ mạnh, nhưng phần lớn bọn tôi muốn maybelle ổn.
 110) LEE
 [pickup1][hushed but shocked!] Mark?!  Chuyện gì đã xảy ra?!!
 111) MARK
