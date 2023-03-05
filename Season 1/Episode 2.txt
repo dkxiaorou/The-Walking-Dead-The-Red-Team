@@ -1,74 +1,74 @@
 NameFILE|aliased_english.txt
 1) BEN
-{surprisedA} Bitten? No! I swear!
+{surprisedA} Bị cắn à? Không! Tôi thề!
 2) KENNY
-{disgustA} How the hell did he lose this much blood? {fearB} Was he bitten?
+{disgustA} Làm đéo nào mà anh ấy mất nhiều máu vậy? {fearB} Anh ấy bị cắn à?
 3) BEN
 [freaking out] Oh man, oh man....
 4) BEN
-[freaking out] This can't be happening!
+[freaking out] Cái này không thể xảy ra!
 5) BEN
-[freaking out] Come on, DO something!
+[freaking out] Cố lên, LÀM cái gì đi!
 6) BEN
-[freaking out] Why would somebody do this?!
+[freaking out] Tại sao ai lại làm chuyện này?!
 7) BEN
-[freaking out] Oh God, he can't die.
+[freaking out] Trời ơi, anh ấy không thể chết.
 8) BEN
 [nervous] {sadC} O...okay.
 9) LEE
-{sadA} Calm down, kid. We'll get him out of this.
+{sadA} Bình tĩnh nào, cu. Chúng ta sẽ kéo anh ấy ra khỏi chuyện này.
 10) BEN
-{sadC} Ah, crap. Okay.
+{sadC} Ah, chết tiệt. Okay.
 11) LEE
-[stern] {angryA} Kid, we need you to keep an eye on those zombies.
+[stern] {angryA} Cu, ta cần cậy giúp để ý mấy con zombie.
 12) 
 {angryC}黙れ！
 13) BEN
-{fearD} Screw you, man! Just help him!
+{fearD} Kệ mẹ anh, man! Cứ cứu anh ấy đi!
 14) DAVID
-[in pain!] Get it off!!  Get it off, God Dammit, get it off me!!
+[in pain!] Bỏ nó ra!!  Bỏ nó ra, trời mẹ, bỏ nó ra khỏi tôi!!
 15) MARK
-[Examining the leg in the bear trap] {fearB} Jesus Christ...
+[Examining the leg in the bear trap] {fearB} Trời chúa Jesus...
 16) LEE
-{body-B}{ThinkingB}This is too much stuff for just one person.
+{body-B}{ThinkingB}Cái này quá nhiều việc cho một người.
 17) LEE
-{body-B}{ThinkingA}We don't know whose camp this is. {SadA}Might not be bandits.
+{body-B}{ThinkingA}Ta không biết được đây là chỗ cắm trại của ai. {SadA}Chắc không phải của bọn cướp.
 18) DANNY
-[disappointed] {body-A}{AngryB}God dammit.
+[disappointed] {body-A}{AngryB}Trời mẹ.
 19) DANNY
-{ThinkingB}What the hell did you do that for?
+{ThinkingB}Anh làm thế để làm đéo gì?
 20) DANNY
-{body-A}{SurprisedA}Shit!
+{body-A}{SurprisedA}Địt!
 21) LEE
-{body-B}{SurpriseB}She was about to shoot us both!
+{body-B}{SurpriseB}Cô ấy chuẩn bị bắn cả hai chúng ta!
 22) DANNY
-{body-A}{AngryA}You could've just taken her down. {ThinkingA}You didn't have to kill her.
+{body-A}{AngryA}Anh có thể hạ cô ta. {ThinkingA}Anh không cần phải giết cô ấy.
 23) LEE
-{body-B}{AngryA}Justice. {ThinkingA}They've killed too many people.
+{body-B}{AngryA}Công lý. {ThinkingA}Họ đã giết quá nhiều người.
 24) DANNY
-{body-A}{SurprisedA}Jeez. {HappyA}Whatever, Tex.
+{body-A}{SurprisedA}Jeez. {HappyA}Gì cũng được, Tex.
 25) LEE
-{body-B}{AngryC}You heard her. {SurpriseB}She was too far gone.
+{body-B}{AngryC}Anh nghe cô ấy rồi. {SurpriseB}Cô ấy đã đi quá xa.
 26) DANNY
-{body-A}{AngryA}She was a fuckin' freakshow, {SurprisedA}but you didn't have to kill her.
+{body-A}{AngryA}Cô ấy là một con điên mẹ rồi, {SurprisedA}Nhưng anh không phải giết cô ấy.
 27) DANNY
-{body-A}{SadB}I mean, I know she was crazy {AngryB}but... damn!
+{body-A}{SadB}Ý tôi là, tôi biết cô ấy bị điên {AngryB}nhưng... vãi!
 28) DANNY
-{body-A}{AngryA}Lee, don't piss her off.
+{body-A}{AngryA}Lee, đừng làm cô ấy tức giận.
 29) JOLENE
-{CrazyC}Killin' everywhere. {CrazyD}Take all the dead folks you want, we'll make more!
+{CrazyC}Giết mọi nơi. {CrazyD}Cướp tất cả dân chết đi, bọn tao sẽ làm thêm!
 30) JOLENE
-{body-Crossbow}{HappyD}Like you could kill me. {CrazyA}They couldn't kill me. {CrazyD}They tried.
+{body-Crossbow}{HappyD}Làm như anh có thể giết tôi. {CrazyA}Họ không thể giết tôi. {CrazyD}Họ đã cố.
 31) LEE
-{body-B}{AngryB}Screw this.
+{body-B}{AngryB}Kệ nó.
 32) LEE
-{body-B}{SadB}Put down the crossbow.
+{body-B}{SadB}Đặt cái nỏ xuống.
 33) JOLENE
-{body-Crossbow}{AngryB}No, sir, I need it.
+{body-Crossbow}{AngryB}Không, tôi cần nó.
 34) LEE
-[angrily] {body-B}{AngryD}Enough!
+[angrily] {body-B}{AngryD}Đủ rồi!
 35) DANNY
-[fed up]{body-A}{AngryB}Okay, fuck this shit!
+[fed up]{body-A}{AngryB}Okay, địt mẹ chuyện này!
 36) MARK
 [weakly] Lee...
 132) CLEMENTINE
@@ -76,33 +76,33 @@ NameFILE|aliased_english.txt
 133) CLEMENTINE
 [annoyed] {angryA}Lee!
 37) LARRY
-{ThinkingA}How on {HappyB}earth did y'all {HappyC}get barbecue meat?
+{ThinkingA}Làm sao {HappyB}mà mọi người {HappyC}lấy được thịt nướng vậy?
 38) DUCK
-[excited] {HappyB}Barbecue! Oh, boy!
+[excited] {HappyB}Thịt nướng! Trời ơi!
 39) LEE
-{AngryB}Let her go, Brenda!
+{AngryB}Thả cô ấy ra, Brenda!
 40) KATJAA
-[scared]Please, listen to him!
+[scared]Làm ơn, hãy nghe anh ấy!
 41) LEE
-{FearA}Think about what you're doing. {SadC}It doesn't have to end like this.
+{FearA}Nghĩ chuyện cô đang làm đi. {SadC}Nó không phải kết thúc như thế này đâu.
 42) ANDY
-[ambient conversation]What do you do for a living, Kenny?
+[ambient conversation]Anh làm gì để kiếm sống vậy, Kenny?
 43) KENNY
-[ambient conversation]I.. uh... I was a fisherman down in Fort Lauderdale.
+[ambient conversation]Tôi.. uh... Tôi từng là một người câu cá ở Fort Lauderdale.
 44) DANNY
-[ambient conversation]If we were lucky we'd bring in a Sturgeon  or two, but man... Never been out in the deep sea.
+[ambient conversation]Nếu ta may mắn we'd bring in a Sturgeon  hoặc hai, nhưng trời... Chưa từng ở ngoài đại dương.
 45) DANNY
-[ambient conversation]Man, that sounds nice! Daddy used to take us out for large mouth bass when we were kids.
+[ambient conversation]Trời, nó nghe có vẻ thích! Bố thường dẫn chúng tôi đi cho miệng bass lớn khi chúng tôi còn là đứa trẻ.
 46) KENNY
-[ambient conversation]Commercially, Snapper and Yellow fin mostly. But in the summers I'd take tourists out for some sailfish!
+[ambient conversation]Về mặt thương mại, phần lớn là vây của Snapper và Yellow. Nhưng vào mùa hè tôi sẽ dẫn khách tham quan đi bắt cá!
 47) KENNY
-[ambient conversation]I tell ya, there ain't nothing like fresh tuna straight from the sea - to the grill - to the plate!!  Especially the way Kat cooks it up!
+[ambient conversation]Tôi bảo anh, không có gì ngon bằng con cá hồi tươi thẳng từ đại dương ra - vào nướng - vào cái đĩa!!  Nhất là cách Kate nấu nó!
 48) KATJAA
-[ambient conversation]I met Ken after I opened my Veterinary office  and he came in with a sick octopus!
+[ambient conversation]Tôi gặp Ken sau khi tôi mở văn phòng dành cho cựu chiến binh và anh ấy xông vào với một con bạch tuộc bị ốm!
 49) KENNY
-[ambient conversation]What?  Where else was i gonna take it?
+[ambient conversation]Hả?  Tôi có thể mang nó đi đâu?
 50) DANNY
-[ambient conversation]Where are you from Katjaa?  That accent sure ain't from Georgia!
+[ambient conversation]Cô từ đâu vậy Katjaa?  Giọng đó chắc chắn không phải từ Georgia!
 51) KATJAA
 [ambient conversation][friendly]No, definitely not!  My family is from Belgium, but we moved to Florida when I was in my teens.
 52) KENNY
