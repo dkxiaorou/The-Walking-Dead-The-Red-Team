@@ -1,7 +1,7 @@
 ## The Walking Dead - The Red Team - [Discord](https://discord.gg/theredteam)
 <h1 align="center">
   <br>
-  <a href="https://store.steampowered.com/app/1449690/The_Walking_Dead_The_Telltale_Definitive_Series/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/1449690/header.jpg?t=1677270974" alt="The Walking Dead: The Telltale Definitive Series"></a>
+  <a href="https://store.steampowered.com/app/1449690/The_Walking_Dead_The_Telltale_Definitive_Series/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/207610/header.jpg?t=1612901774" alt="The Walking Dead: The Telltale Definitive Series"></a>
 </h1>
 <p align="center">
   This is my effort translating The Walking Dead Game from English to Vietnamese
