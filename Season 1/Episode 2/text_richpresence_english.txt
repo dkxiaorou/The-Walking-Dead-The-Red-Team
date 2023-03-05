@@ -1,19 +1,19 @@
 1) 
-Main Menu
+Menu chính
 2) 
-Episode 1:
+Tập 1:
 A New Day
 3) 
-Episode 2:
+Tập 2:
 Starved For Help
 4) 
-Episode 3:
+Tập 3:
 Long Road Ahead
 5) 
-Episode 4:
+Tập 4:
 Around Every Corner
 6) 
-Episode 5:
+Tập 5:
 No Time Left
 7) 
 RichPresence_Episode_06
