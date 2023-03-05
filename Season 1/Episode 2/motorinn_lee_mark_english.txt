@@ -9,70 +9,70 @@
 44) 
 [Exit]
 5) LEE
-[pickup 2]  Here, eat something.
+[pickup 2]  Này, ăn gì đi.
 46) LEE
-[pickup 2]  Here, eat something.
+[pickup 2]  Này, ăn gì đi.
 6) MARK
-[pickup 2]  Thanks, Lee.
+[pickup 2]  Cảm ơn, Lee.
 7) MARK
-[pickup 2] [a little surprised at Lee's generosity] Wow. Thanks a lot, that's awesome.
+[pickup 2] [a little surprised at Lee's generosity] Wow. Cảm ơn nhiều, nó thật tuyệt vời.
 8) LEE
-[pickup 2]  I got you an apple.
+[pickup 2]  Tôi cho một quả táo này.
 9) LEE
-[pickup 2] Sorry there wasn't enough food to go around.
+[pickup 2] Xin lỗi không có nhiều thức ăn lắm.
 10) MARK
-[pickup 2]  I understand. Got to be hard to make those decisions. Just, get me next time.
+[pickup 2]  Tôi hiểu. Phải làm những lựa chọn khó khăn. Chỉ, cho tôi lần sau.
 11) LEE
-[pickup 2]Lilly's pretty pissed at us.
+[pickup 2]Lilly có vẻ bực chúng ta.
 26) 
-Lilly's pretty pissed at us.
+Lilly có vẻ bực chúng ta.
 12) MARK
-[pickup 2] Well...what did she want us to do, just leave a couple of teenagers to the walkers?
+[pickup 2] Thì...cô ấy đã làm gì với chúng ta, chỉ bỏ rơi mấy đứa thanh thiếu niên cho bọn walkers?
 13) MARK
 [pickup 2] We'll get it.
 14) LEE
-[pickup 2]Well, good luck with that wall.
+[pickup 2]Vậy, chúc may mắn với cái tường nhé.
 15) MARK
-[pickup 2] Listen, I know her intentions are good, but-
+[pickup 2] Nghe này, tôi biết ý định của cô ấy tốt, nhưng-
 16) LARRY
-[pickup2][defending his daughter] [Leaving those teeneages to the walker is-]That's exactly what you should have done.
+[pickup2][defending his daughter] [Leaving those teeneages to the walker is-]Đó là điều chính xác anh cần làm.
 17) LEE
-[pickup2]Need any help with the wall?
+[pickup2]Cần giúp với cái tường không?
 18) LARRY
-[pickup2][flat] Nope.
+[pickup2][flat] Không.
 19) LEE
-[pickup2][casual. Talking to Mark at Motel]You ever miss the Air Force base?  I mean this wall isn't exactly military standard.
+[pickup2][casual. Talking to Mark at Motel]Anh có bao giờ nhớ căn cứ không quân không?  Ý tôi là cái tường không hẳn là tiêu chuẩn quân đội.
 20) MARK
-[pickup2]No way I'm going back there. You saw what it was like when you guys picked me up. {sadA} Completely overrun.
+[pickup2]Không thể nào tôi quay lại chỗ đó. Anh thấy được chính xác chuyện gì đã xảy ra khi mọi người nhặt tôi. {sadA} Hoàn toàn bị chè đẹp.
 21) LARRY
-[pickup2][looking for his food for the day from Lee]Hey, where's mine?
+[pickup2][looking for his food for the day from Lee]Này, của tao đâu?
 22) LEE
-[pickup2] Sorry Larry, I'm out.  That's all there was.
+[pickup2] Xin lỗi Larry, tôi hết rồi.  Đó là tất cả hết rồi.
 23) LARRY
-[pickup2][after not being given food because Lee is "All Out"]Oh really?  Well, that's convenient.
+[pickup2][after not being given food because Lee is "All Out"]Ôi thật à?  Well, thật tiện lợi.
 24) LARRY
-[pickup2][defending Lilly]But nothing!  She's making the smart choice.  Those parasites you guys brought back need to go!
+[pickup2][defending Lilly]Nhưng không có gì!  Cô ấy đang làm một lựa chọn thông minh.  Lũ ký sinh chúng mày mang về phải ra đi!
 25) 
-Ever miss the Air Force base?
+Anh có bao giờ nhớ căn cứ không quân không?
 27) 
-Talk To
+Nói với
 28) 
-Give Food To
+Đưa đồ ăn cho
 29) MARK
-Actually, we could use your axe.  You mind if we take it?
+Thật ra, chúng tôi cần dùng rìu của anh.  Anh có phiền nếu bọn tôi dùng nó không?
 30) 
-Sorry, I'm out of food.
+Xin lỗi, tôi hết đồ ăn rồi.
 31) 
-Want some food? [Give Food]
+Muốn đồ ăn không? [Give Food]
 38) LEE
-[pickup3][casual/tired]Yeah.  I just hope Katjaa can save him.
+[pickup3][casual/tired]Yeah.  Tôi chỉ mong Katjaa có thể cứu anh ấy.
 39) MARK
-[pickup3][greeting Lee]Hey.  You holding up okay Lee?  That was pretty fucked up back there.  Having to cut that guy's leg off.
+[pickup3][greeting Lee]Này.  Anh thế nào rồi Lee?  Nó thực sự rất tệ đằng kia.  Phải chặt chân của ông kia ra.
 40) MARK
-[pickup3]Hey, you know it was an accident right.  I didn't mean to shoot him.
+[pickup3]Này, anh biết đấy là tai nạn mà.  Tôi không có ý bắn anh ta.
 41) LEE
-[pickup3] I know.  It was crazy back there.  The kid acted stupid.
+[pickup3] Tôi biết.  Nó thực sự rất tệ đằng kia.  Thằng cu đấy hành động ngu ngốc.
 42) MARK
-[pickup3][Gretting Lee, whorried about the shot kid]Hey, will the kid make it?
+[pickup3][Gretting Lee, whorried about the shot kid]Này, liệu thằng cu đấy có ổn không?
 43) LEE
-[pickup3]I don't know. [If travis will make it]
+[pickup3]Tôi không biết. [If travis will make it]
