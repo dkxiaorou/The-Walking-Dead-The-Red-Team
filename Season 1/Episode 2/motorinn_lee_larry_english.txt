@@ -1,23 +1,23 @@
 1) LARRY
-[pickup 2] Go piss up a flagpole, Lee.
+[pickup 2] Đi tè vào cột cờ đi, Lee.
 2) LEE
-[pickup 2] [rubbing it in a little that you didn't give him food] I'm sorry Larry.  There's nothing left.
+[pickup 2] [rubbing it in a little that you didn't give him food] Tôi xin lỗi Larry.  Hết đồ ăn rồi.
 3) LEE
-[pickup2]You've got to talk to Lilly about getting along with Kenny.
+[pickup2]Ông nên nói chuyện với Lilly về việc hoà hợp với Kenny.
 4) LARRY
-[pickup2]Lilly can make her own friends.
+[pickup2]Lilly có thể tự kết bạn của mình.
 5) LEE
-[pickup2]It's not about making friends.  We're all in this together, we've gotta start acting like it.
+[pickup2]Nó không phải về việc kết bạn với nhau.  Chúng ta cùng ở trong hoàn cảnh với nhau, chúng ta cần phải cư xử như vậy với nó.
 6) LARRY
-[pickup2]Eh, stuff all that. We'd be fine without you.
+[pickup2]Eh, stuff all that. Bọn tao sống tốt mà không có mày.
 7) LARRY
-[pickup 2]Damn right. There's too many people hanging around here as it is.
+[pickup 2]Đúng rồi. Có nhiều người quá nên mới vậy.
 8) LEE
-[pickup 2] Lilly thinks we should throw these new people out.
+[pickup 2] Lilly nghĩ chúng ta nên bỏ những người mới ra.
 9) LEE
-[pickup 2] Keep up on that fence.
+[pickup 2] Đặt nó ở cái hàng rào.
 10) LARRY
-[pickup 2] Don't tell me what to do, Lee.
+[pickup 2] Đừng bảo tao phải làm gì, Lee.
 11) 
 [Give Half an Apple]
 15) 
@@ -37,44 +37,44 @@
 40) LARRY
 [grunts]
 12) LARRY
-[pickup 2] [sarcastically] I hope you don't think this makes us friends.
+[pickup 2] [sarcastically] Tôi mong điều này không có nghĩa chúng ta có thểa là bạn bè.
 13) LEE
-[pickup 2] I could've gave you nothing.
+[pickup 2] Tôi đã có thể không cho ông đồ ăn.
 14) LEE
-[pickup 2] [a little begrudging at giving Larry food] Here, Larry.
+[pickup 2] [a little begrudging at giving Larry food] Này, Larry.
 39) LEE
-[pickup 2] [a little begrudging at giving Larry food] Here, Larry.
+[pickup 2] [a little begrudging at giving Larry food] Này, Larry.
 18) LEE
-[pickup 2]  Lilly would want you to keep your strength up.
+[pickup 2]  Lilly muốn ông giữ sức.
 19) LARRY
-[pickup 2] That girl needs to quit worrying about me so much.
+[pickup 2] Con đấy cần phải dừng suy nghĩ về ta nhiều vậy.
 20) LARRY
-[pickup 2] I should shove this up your ass, but I'm too hungry.
+[pickup 2] Tôi nên nhét cái này vào đít anh, nhưng tôi quá đói.
 21) 
-Lilly and Kenny need to get along.
+Lilly và Kenny cần với hoà hợp.
 22) 
-Lilly wants to ditch the new people.
+Lilly muốn bỏ rơi nhưng điều cũ.
 23) 
-Talk To
+Nói với
 24) 
-Give Food To
+Đưa đồ ăn cho
 25) 
-Sorry, there's no food left.
+Xin lỗi, hết đồ ăn mất rồi.
 26) 
-Want some food? [Give Food]
+Muốn đồ ăn không? [Give Food]
 27) LEE
-[pickup3][knowing there is only one more piece of food left]Hm.  Maybe I should keep this for myself?
+[pickup3][knowing there is only one more piece of food left]Hm.  Tôi có nên giữ cái này cho bản thân không?
 28) LEE
-[pickup3][to himself - depressed, having only 1 piece of food left]One more piece of food to give out, then it's all gone for today.
+[pickup3][to himself - depressed, having only 1 piece of food left]Một miếng đồ ăn nữa để cho đi, rồi nó sẽ hết trong ngày hôm nay.
 30) LEE
-[pickup3][to himself - keeping the last bit of food for himself]I need to keep up my strength, too.
+[pickup3][to himself - keeping the last bit of food for himself]Tôi cần phải sức khoẻ của tôi nữa.
 32) LEE
-[pickup3][to himself - choosing to save the food for someone else]Nah.  Some of these people have gone longer than me without food.  They're the ones that need it.
+[pickup3][to himself - choosing to save the food for someone else]Không.  Một số người đã trải qua nhiều hơn tôi mà không có đồ ăn.  Họ là những người cần nó.
 33) MARK
-[pickup3]Oh man.  Just seeing the food is driving me crazy.
+[pickup3]Oh man.  Chỉ nhìn đồ ăn đã khiến tôi thèm.
 34) LARRY
-[pickup3]Oh, I am!
+[pickup3]Oh, tôi nè!
 35) DOUG
-[pickup3]Oh wow.  I can smell that food over here!  I hope you're enjoying that Larry.
+[pickup3]Oh wow.  Tôi có thể ngửi thấy đồ ăn từ phìa này!  Tôi mong anh đang tận hưởng nó.
 38) LEE
-Back in a bit.
+Sẽ về trong lát.
