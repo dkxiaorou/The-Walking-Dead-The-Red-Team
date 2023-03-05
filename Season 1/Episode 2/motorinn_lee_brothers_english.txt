@@ -1,8 +1,8 @@
 1) DANNY
-{normalC}Looks like y'all could use it.
+{normalC}Có vẻ như mọi người có thể dùng nó.
 2) ANDY
-{normalC}We've got some food we could share.
+{normalC}Chúng tôi có đồ ăn để chia sẻ.
 3) ANDY
-{happyB}We're from the St. John Dairy.
+{happyB}Bọn tôi từ nông trại St. John.
 4) LEE
-{thinkingB}Where do you fellas come from?
+{thinkingB}Mọi người đến từ đâu?
