@@ -1,7 +1,7 @@
 1) LEE
-[friendly, talking to Duck]{normalD}Have I missed anything?
+[friendly, talking to Duck]{normalD}Chú có bỏ lỡ gì không?
 2) DUCK
-No, not really.
+Không, không hẳn.
 3) KATJAA
 [pickup1]Kids! [dont be rude!...and stop giggling over the word Doo-Dee!]
 4) CLEMENTINE
@@ -11,14 +11,14 @@ No, not really.
 5) CLEMENTINE
 [pickup1][whispered] Doo-dee!
 7) DUCK
-[pickup1][confused]What's "manure"?
+[pickup1][confused]"Phân chuồng" là gì?
 8) CLEMENTINE
-[pickup1][When duck says Lee smells funny, Clem remembers what Lee said at Hershel's Barn][proud that she learned a new word]...Like manure!
+[pickup1][When duck says Lee smells funny, Clem remembers what Lee said at Hershel's Barn][proud that she learned a new word]...Như phân chuồng!
 9) CLEMENTINE
 [pickup1][sad and embarased after being scolded about using swear words]Okay....
 10) CLEMENTINE
-[pickup1][When duck says Lee smells funny, Clem remembers what Lee said at Hershel's Barn]Like... shit, right Lee?
+[pickup1][When duck says Lee smells funny, Clem remembers what Lee said at Hershel's Barn]Như... cứt, đúng không Lee?
 11) LEE
-[pickup3][after Clem says something smells like "shit"] Hey, don't use swear words, okay?
+[pickup3][after Clem says something smells like "shit"] Này, không được dùng từ chửi thề, okay?
 12) CLEMENTINE
-[pickup1][When duck says Lee smells funny, Clem remembers what Lee said at Hershel's Barn]...Like doo-dee!
+[pickup1][When duck says Lee smells funny, Clem remembers what Lee said at Hershel's Barn]...Như doo-dee!
