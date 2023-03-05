@@ -1,50 +1,53 @@
+NameFILE|ui_openingcredits_english.txt
 1) 
-TELLTALE GAMES
-presents
+THE RED TEAM
+
+giới thiệu
 2) 
-in association with
-SKYBOUND ENTERTAINMENT
+Dịch giả & kỹ thuật
+
+SHIN G
 3) 
-NEXT TIME ON
+CHƯƠNG KẾ TIẾP
 4) 
 COMING SOON
 5) 
-This game series adapts to the choices you make.
+Trò chơi phụ thuộc vào sự lựa chọn của bạn.
 
-The story is tailored by how you play.
+Câu chuyện sẽ diễn biến theo cách mà bạn chơi.
 6) 
   2012-18 Telltale, Inc. Based on the Comic Book by Robert Kirkman, Tony Moore and Charlie Adlard. THE WALKING DEAD is
   2012-18 Robert Kirkman, LLC. Telltale and the Telltale Games logo are trademarks of Telltale, Inc. All rights reserved.
 7) 
-art director
+Thiết kế chuyển động
 DEREK SAKAI
 8) 
-lead animator
+Thiết kế điện ảnh
 PETER TSAYKEL
 9) 
-EPISODE TWO
+CHƯƠNG 2
 10) 
 STARVED FOR HELP
 11) 
-written & designed by
+Viết và đạo diễn bởi
 MARK DARIN
 12) 
-directed by
+Đạo diễn bởi
 DENNIS LENART
 13) 
 lead programmer
 RANDY TUDOR
 14) 
-lead cinematic artist
+Trưởng thiết kế điện ảnh
 NICK HERMAN
 15) 
 - EPISODE 3 -
 16) 
 Calle Larga Adelante.
 17) 
-story by
+Truyện bởi
 CHUCK JORDAN
 18) 
-THREE MONTHS LATER
+BA THÁNG SAU
 19) 
 LONG ROAD AHEAD
