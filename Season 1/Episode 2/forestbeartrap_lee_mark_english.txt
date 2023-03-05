@@ -1,16 +1,16 @@
 1) MARK
-{normalA} I thought we'd be fine if we survived the Walkers. {disgustA} Never expected that they'd starve us out.
+{normalA} Tôi nghĩ rằng ta sẽ ổn nếu thoát khỏi bọn Walkers. {disgustA} Never expected that they'd starve us out.
 2) LEE
-{normalD} He thinks I'm a danger to the group.
+{normalD} Ông ấy nghĩ tôi là mối nguy tới nhóm.
 3) MARK
-{sadA} That's bullshit. You've saved his life -- hell, all our lives -- {thinkingA} plenty of times in the last few months.
+{sadA} Vô lý. Anh đã cứu mạng của ấy -- đéo, tất cả mạng của chúng ta -- {thinkingA} hàng khối lần trong vài tháng vừa qua
 4) MARK
-{normalB} I mean -- when you found Clementine, why'd you take on that responsibility?
+{normalB} Ý tôi là -- khi anh tìm thấy Clementine, tại sao anh lại thấy tránh nhiệm đó?
 5) MARK
-{sadA} So why did you do it, Lee?
+{sadA} Vậy tại sao anh lại làm vậy, Lee?
 6) LEE
-{sadA} She would've died without me.
+{sadA} Cô ấy đã chết nếu không có tôi.
 7) MARK
-{normalB} Things can, uh, {thinkingB} get tense back at camp. Lily and Kenny sure got different ways of doing things. {disgustA} It wouldn't have been that way back on Robins.
+{normalB} Mọi thứ có thể, uh, {thinkingB} căng thẳng tại trại. Lily và Kenny chắc chắn có cách xử lý khác nhau. {disgustA} Nó sẽ không như vậy khi ở Robins.
 8) MARK
-{thinkingA} And Larry's not helping. {disgustA} What's that guy's deal?
+{thinkingA} Và Larry không giúp được gì. {disgustA} Ông ấy có vấn đề gì vậy?
