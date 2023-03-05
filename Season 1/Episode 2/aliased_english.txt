@@ -1,73 +1,73 @@
 1) BEN
-{surprisedA} Bitten? No! I swear!
+{surprisedA} Bị cắn à? Không! Tôi thề!
 2) KENNY
-{disgustA} How the hell did he lose this much blood? {fearB} Was he bitten?
+{disgustA} Làm đéo nào mà anh ấy mất nhiều máu vậy? {fearB} Anh ấy bị cắn à?
 3) BEN
 [freaking out] Oh man, oh man....
 4) BEN
-[freaking out] This can't be happening!
+[freaking out] Cái này không thể xảy ra!
 5) BEN
-[freaking out] Come on, DO something!
+[freaking out] Cố lên, LÀM cái gì đi!
 6) BEN
-[freaking out] Why would somebody do this?!
+[freaking out] Tại sao ai lại làm chuyện này?!
 7) BEN
-[freaking out] Oh God, he can't die.
+[freaking out] Trời ơi, anh ấy không thể chết.
 8) BEN
 [nervous] {sadC} O...okay.
 9) LEE
-{sadA} Calm down, kid. We'll get him out of this.
+{sadA} Bình tĩnh nào, cu. Chúng ta sẽ kéo anh ấy ra khỏi chuyện này.
 10) BEN
-{sadC} Ah, crap. Okay.
+{sadC} Ah, chết tiệt. Okay.
 11) LEE
-[stern] {angryA} Kid, we need you to keep an eye on those zombies.
+[stern] {angryA} Cu, ta cần cậy giúp để ý mấy con zombie.
 12) 
 {angryC}黙れ！
 13) BEN
-{fearD} Screw you, man! Just help him!
+{fearD} Kệ mẹ anh, man! Cứ cứu anh ấy đi!
 14) DAVID
-[in pain!] Get it off!!  Get it off, God Dammit, get it off me!!
+[in pain!] Bỏ nó ra!!  Bỏ nó ra, trời mẹ, bỏ nó ra khỏi tôi!!
 15) MARK
-[Examining the leg in the bear trap] {fearB} Jesus Christ...
+[Examining the leg in the bear trap] {fearB} Trời chúa Jesus...
 16) LEE
-{body-B}{ThinkingB}This is too much stuff for just one person.
+{body-B}{ThinkingB}Cái này quá nhiều việc cho một người.
 17) LEE
-{body-B}{ThinkingA}We don't know whose camp this is. {SadA}Might not be bandits.
+{body-B}{ThinkingA}Ta không biết được đây là chỗ cắm trại của ai. {SadA}Chắc không phải của bọn cướp.
 18) DANNY
-[disappointed] {body-A}{AngryB}God dammit.
+[disappointed] {body-A}{AngryB}Trời mẹ.
 19) DANNY
-{ThinkingB}What the hell did you do that for?
+{ThinkingB}Anh làm thế để làm đéo gì?
 20) DANNY
-{body-A}{SurprisedA}Shit!
+{body-A}{SurprisedA}Địt!
 21) LEE
-{body-B}{SurpriseB}She was about to shoot us both!
+{body-B}{SurpriseB}Cô ấy chuẩn bị bắn cả hai chúng ta!
 22) DANNY
-{body-A}{AngryA}You could've just taken her down. {ThinkingA}You didn't have to kill her.
+{body-A}{AngryA}Anh có thể hạ cô ta. {ThinkingA}Anh không cần phải giết cô ấy.
 23) LEE
-{body-B}{AngryA}Justice. {ThinkingA}They've killed too many people.
+{body-B}{AngryA}Công lý. {ThinkingA}Họ đã giết quá nhiều người.
 24) DANNY
-{body-A}{SurprisedA}Jeez. {HappyA}Whatever, Tex.
+{body-A}{SurprisedA}Jeez. {HappyA}Gì cũng được, Tex.
 25) LEE
-{body-B}{AngryC}You heard her. {SurpriseB}She was too far gone.
+{body-B}{AngryC}Anh nghe cô ấy rồi. {SurpriseB}Cô ấy đã đi quá xa.
 26) DANNY
-{body-A}{AngryA}She was a fuckin' freakshow, {SurprisedA}but you didn't have to kill her.
+{body-A}{AngryA}Cô ấy là một con điên mẹ rồi, {SurprisedA}Nhưng anh không phải giết cô ấy.
 27) DANNY
-{body-A}{SadB}I mean, I know she was crazy {AngryB}but... damn!
+{body-A}{SadB}Ý tôi là, tôi biết cô ấy bị điên {AngryB}nhưng... vãi!
 28) DANNY
-{body-A}{AngryA}Lee, don't piss her off.
+{body-A}{AngryA}Lee, đừng làm cô ấy tức giận.
 29) JOLENE
-{CrazyC}Killin' everywhere. {CrazyD}Take all the dead folks you want, we'll make more!
+{CrazyC}Giết mọi nơi. {CrazyD}Cướp tất cả dân chết đi, bọn tao sẽ làm thêm!
 30) JOLENE
-{body-Crossbow}{HappyD}Like you could kill me. {CrazyA}They couldn't kill me. {CrazyD}They tried.
+{body-Crossbow}{HappyD}Làm như anh có thể giết tôi. {CrazyA}Họ không thể giết tôi. {CrazyD}Họ đã cố.
 31) LEE
-{body-B}{AngryB}Screw this.
+{body-B}{AngryB}Kệ nó.
 32) LEE
-{body-B}{SadB}Put down the crossbow.
+{body-B}{SadB}Đặt cái nỏ xuống.
 33) JOLENE
-{body-Crossbow}{AngryB}No, sir, I need it.
+{body-Crossbow}{AngryB}Không, tôi cần nó.
 34) LEE
-[angrily] {body-B}{AngryD}Enough!
+[angrily] {body-B}{AngryD}Đủ rồi!
 35) DANNY
-[fed up]{body-A}{AngryB}Okay, fuck this shit!
+[fed up]{body-A}{AngryB}Okay, địt mẹ chuyện này!
 36) MARK
 [weakly] Lee...
 132) CLEMENTINE
@@ -75,213 +75,213 @@
 133) CLEMENTINE
 [annoyed] {angryA}Lee!
 37) LARRY
-{ThinkingA}How on {HappyB}earth did y'all {HappyC}get barbecue meat?
+{ThinkingA}Làm sao {HappyB}mà mọi người {HappyC}lấy được thịt nướng vậy?
 38) DUCK
-[excited] {HappyB}Barbecue! Oh, boy!
+[excited] {HappyB}Thịt nướng! Trời ơi!
 39) LEE
-{AngryB}Let her go, Brenda!
+{AngryB}Thả cô ấy ra, Brenda!
 40) KATJAA
-[scared]Please, listen to him!
+[scared]Làm ơn, hãy nghe anh ấy!
 41) LEE
-{FearA}Think about what you're doing. {SadC}It doesn't have to end like this.
+{FearA}Nghĩ chuyện cô đang làm đi. {SadC}Nó không phải kết thúc như thế này đâu.
 42) ANDY
-[ambient conversation]What do you do for a living, Kenny?
+[ambient conversation]Anh làm gì để kiếm sống vậy, Kenny?
 43) KENNY
-[ambient conversation]I.. uh... I was a fisherman down in Fort Lauderdale.
+[ambient conversation]Tôi.. uh... Tôi từng là một người câu cá ở Fort Lauderdale.
 44) DANNY
-[ambient conversation]If we were lucky we'd bring in a Sturgeon  or two, but man... Never been out in the deep sea.
+[ambient conversation]Nếu ta may mắn we'd bring in a Sturgeon  hoặc hai, nhưng trời... Chưa từng ở ngoài đại dương.
 45) DANNY
-[ambient conversation]Man, that sounds nice! Daddy used to take us out for large mouth bass when we were kids.
+[ambient conversation]Trời, nó nghe có vẻ thích! Bố thường dẫn chúng tôi đi cho miệng bass lớn khi chúng tôi còn là đứa trẻ.
 46) KENNY
-[ambient conversation]Commercially, Snapper and Yellow fin mostly. But in the summers I'd take tourists out for some sailfish!
+[ambient conversation]Về mặt thương mại, phần lớn là vây của Snapper và Yellow. Nhưng vào mùa hè tôi sẽ dẫn khách tham quan đi bắt cá!
 47) KENNY
-[ambient conversation]I tell ya, there ain't nothing like fresh tuna straight from the sea - to the grill - to the plate!!  Especially the way Kat cooks it up!
+[ambient conversation]Tôi bảo anh, không có gì ngon bằng con cá hồi tươi thẳng từ đại dương ra - vào nướng - vào cái đĩa!!  Nhất là cách Kate nấu nó!
 48) KATJAA
-[ambient conversation]I met Ken after I opened my Veterinary office  and he came in with a sick octopus!
+[ambient conversation]Tôi gặp Ken sau khi tôi mở văn phòng dành cho cựu chiến binh và anh ấy xông vào với một con bạch tuộc bị ốm!
 49) KENNY
-[ambient conversation]What?  Where else was i gonna take it?
+[ambient conversation]Hả?  Tôi có thể mang nó đi đâu?
 50) DANNY
-[ambient conversation]Where are you from Katjaa?  That accent sure ain't from Georgia!
+[ambient conversation]Cô từ đâu vậy Katjaa?  Giọng đó chắc chắn không phải từ Georgia!
 51) KATJAA
-[ambient conversation][friendly]No, definitely not!  My family is from Belgium, but we moved to Florida when I was in my teens.
+[ambient conversation][friendly]Không, chắc chắn không rồi! Gia đình tôi từ Belgium, nhưng tôi chuyển tới Florida khi tôi đang trong tuổi thiếu niên.
 52) KENNY
-[ambient conversation]Dan, did you always work here at the dairy?
+[ambient conversation]Dan, có phải anh luôn làm việc tại cái nông trại này à?
 53) DANNY
-[ambient conversation]Me?  no, that was Daddy's business.  I ran an insurance company over in Decatur.
+[ambient conversation]Tôi?  không, đó là việc của bố.  Tôi từng chạy công ty bảo hiểu ở Decatur.
 54) KENNY
-[ambient conversation]I hear that.
+[ambient conversation]Tôi nghe vậy.
 55) DANNY
-[ambient conversation]Yeah, anyway, it was good business.  But when all this shit went down, I had to come home.  Family is more important, ya know?
+[ambient conversation]Ừ, dù sao, nó vẫn là việc tốt.  Nhưng khi tất cả những chuyện chó này xảy ra, tôi phải quay về nhà.  Gia đình quan trọng hơn, biết không?
 56) ANDY
-[ambient conversation]Yeah, well Dan felt it would be best to get away from Macon for a while. Had some... trouble.
+[ambient conversation]Ừ, dù vậy Dan cảm thấy tốt nhất là ra khỏi Macon trong một khoảng thời gian. Gặp phải vài... vấn đề.
 57) LILLY
 [ambient conversation]Decatur?
 58) ANDY
-[ambient conversation]Well, I took over as business manager eventually. Put that college degree to work.
+[ambient conversation]Dù sao, tôi tiếp quản vai trò quản lý doanh nghiệp. Đặt cái bằng đại học vào việc.
 59) KATJAA
-[ambient conversation]What did you do before that?
+[ambient conversation]Anh làm gì trước đó?
 60) ANDY
-[ambient conversation]I had a real estate business, but, you know... in this economy...
+[ambient conversation]Tôi từng có một doanh nghiệp bất động sản, nhưng, cô biết không... ở cái thu nhập này...
 61) DANNY
-[ambient conversation]Yeah, Daddy always wanted you to take over anyway.
+[ambient conversation]Ừ, dù sao bố luôn muốn anh tiếp quản mà.
 62) ANDY
-[ambient conversation]Just worked out that way, Dan.
+[ambient conversation]Nó chỉ hoạt động vậy thôi, Dan.
 63) LARRY
-[ambient conversation]How long have ya had this Dairy?
+[ambient conversation]Mấy anh đã có nông trại này được bảo giờ rồi?
 64) ANDY
-[ambient conversation]Long as I can remember.  We grew up here.  Dan and I helped out where we could, but really this was a Mom and Pop business.
+[ambient conversation]Quá lâu để tôi nhớ.  Bọn tôi lớn lên ở đây.  Dan và tôi giúp những gì chúng tôi có thể, nhưng thực sự đây là việc của mẹ và bố.
 65) LILLY
-[ambient conversation]So you two didn't work here?
+[ambient conversation]Vậy hai anh không làm ở đây à?
 66) ANDY
-[ambient conversation]So how long have you been a vet?
+[ambient conversation]Vậy cô đã là bác sĩ thú y được bao lâu rồi?
 67) DANNY
-[ambient conversation]You work with many farm animals?
+[ambient conversation]Cô làm với nhiều động vật à?
 68) KATJAA
-[ambient conversation][trying to think back] Ooh... well... a long time now.
+[ambient conversation][trying to think back] Ooh... thì... được một thời gian dài rồi .
 69) KATJAA
-[ambient conversation]Early in my training I did, but them mostly it was household pets.
+[ambient conversation]Tôi từng sớm trong tập huyện của tôi, nhưng phần lớn đều là thú cưng nhà thôi.
 70) KATJAA
-[ambient conversation]I started working in a veterinarian  office in my twenties, then got my license a few years later.
+[ambient conversation]Tôi làm trong văn phòng cựu chiến binh khi còn ở tuổi thiếu niên, sau đó có được bằng một vài năm sau đó.
 71) KATJAA
-[ambient conversation]Oh yes. Wildlife Rescue center was always bringing their injured alligators to me to get patched up before releasing them.
+[ambient conversation]À đúng rồi. Trung tâm Giải cứu Động vật hoang dã đã luôn mang cá sấu bị thương tới tôi để chữa lành trước khi thả chúng.
 72) DUCK
-[ambient conversation]And alligators!
+[ambient conversation]Và cá sấu!
 73) CLEMENTINE
 [ambient conversation]Nu uh!
 74) LILLY
-[ambient conversation]So that fence does a good job of keeping the walkers out, huh?
+[ambient conversation]Vậy cái hàng rào làm một việc tốt để giữ bọn walkers, nhỉ?
 75) DUCK
-[ambient conversation]Once, my dad smashed one in the face with a TV!
+[ambient conversation]Một lần, bố cháu đập một con vào đầu với một cái TV!
 76) DUCK
-[ambient conversation]Sorry.
+[ambient conversation]Xin lỗi.
 77) ANDY
-[ambient conversation]Yeah. Unfortunately we lost most of our livestock before we managed to get the thing rigged up.
+[ambient conversation]Ừ. Tiếc là bọn tôi mất phần lớn of nguồn thức ăn sống trước khi bọn tôi có thể cho thứ đó chạy được.
 78) KATJAA
-[ambient conversation]Kenny Jr!  That is not appropriate talk at the dinner table.
+[ambient conversation]Kenny Jr!  Đó không phải là cách nói phù hơn trên bàn ăn.
 79) DANNY
-[ambient conversation][mumbled]Damned walkers.
+[ambient conversation][mumbled]Địt bọn walkers.
 80) KENNY
-[ambient conversation]Our hunting trips have turned up nothing. The walkers are eating anything living they can get their teeth into.
+[ambient conversation]Mấy cuộc săn bắt của chúng tôi chả ra được gì cả. Bọn walkers đang ăn bất cứ thứ gì còn sống chúng có thể nhét răng vào.
 81) DANNY
-[ambient conversation]Well, ya just have to know what to hunt.  There's meat out there that'll keep you alive if ya know what to look for.
+[ambient conversation]Thì, mọi người chỉ cần biết cách săn thôi.  There's meat out there that'll keep you alive if ya know what to look for.
 82) KATJAA
-[ambient conversation]Thanks again for this meal.  You have no idea how longs it's been!
+[ambient conversation]Cảm ơn một lần nữa vì bữa ăn.  Mọi người không biết nó đã được từ bao giờ!
 83) KENNY
-[ambient conversation]how have you folks managed to find food?
+[ambient conversation]Làm sao mà mọi người tìm được thức ăn vậy?
 84) ANDY
-[ambient conversation]And what do you do Miss Lilly?
+[ambient conversation]Và cô làm gì vậy Nàng Lilly?
 85) LARRY
-[ambient conversation]Lilly's a military woman.  Takes after her old man.
+[ambient conversation]Lilly là một lính nữ.  Học theo ông già.
 86) DANNY
-[ambient conversation]That right?  Ever see any action?
+[ambient conversation]Phải không?  Từng thấy hành động chưa?
 87) LILLY
-[ambient conversation][blunt, emotionless]I have.
+[ambient conversation][blunt, emotionless]Tôi có.
 88) LARRY
-[ambient conversation]Son, you don't ever ask a soldier that question, got it?
+[ambient conversation]Con trai, cậu không bao giờ hỏi một người lính câu hỏi đó, rõ chưa?
 89) LARRY
-[ambient conversation]All you need to know is that you don't wanna fuck with her. Period.
+[ambient conversation]Tất cả những gì cậu cần làm là đừng địt với cô ấy. Chấm hết.
 90) LILLY
-[ambient conversation]Dad...
+[ambient conversation]Bố...
 114) LILLY
-[panicked] DAD?!
+[panicked] BỐ?!
 91) DANNY
-[ambient conversation]Yeah, I'm sorry.
+[ambient conversation]Ừ, tôi rất tiếc.
 92) ANDY
-[ambient conversation]Don't pay my brother no mind.  I swear he makes a hobby of chewing his own foot.
+[ambient conversation]Đừng để ý tới anh tôi.  Anh ấy luôn làm một cái sở thích thích ngậm ngùi lời nói của mình.
 93) ANDY
-[ambient conversation]So did ya'all know each other before the outbreak?
+[ambient conversation]Vậy mọi người biết nhau từ trước à?
 94) LILLY
-[ambient conversation]No. We just sort of found ourselves thrown together.
+[ambient conversation]Không. Bọn tôi kiểu tìm thấy nhau.
 95) LILLY
-[ambient conversation]But now we've gotta stick together if we're gonna survive.
+[ambient conversation]Nhưng chúng ta nên đi cùng nhau nếu muốn sống.
 96) ANDY
-[ambient conversation]I hear ya.  Ya gotta know when to make sacrifices for the greater good, ya know.
+[ambient conversation]Tôi nghe.  Mọi người nên biết khi hi sinh cho cái tốt hơn, biết không.
 97) KENNY
-[ambient conversation]It ain't right though.  No kid should have to see the things they've seen.
+[ambient conversation]Nó không đúng chút nào.  Không đứa trẻ nào nên thấy điều bọn nó thấy.
 98) KATJAA
-[ambient conversation]Kids are resilient, you know?  I hate that this is the way they have to grow up, but under the circumstances, I think they are doing well.
+[ambient conversation]Bọn trẻ rất kiên cường, anh biết không?  Tôi ghét khi mà bọn trẻ phải lớn lên như thế này, nhưng mà dưới tình hình hiện tại, Tôi nghĩ bọn nó đang làm rất tốt.
 99) DANNY
-[ambient conversation]How have the kids been dealing with ...everything?
+[ambient conversation]Bọn trẻ đang xử lý với ...mọi thứ như thế nào rồi?
 100) DANNY
-[ambient conversation]Maybe I should check on him?
+[ambient conversation]Chúng ta có nên kiểm tra anh ây không?
 101) KATJAA
-[ambient conversation]Let the man clean up. He'll be done in a minute.
+[ambient conversation]Hãy để anh ấy rửa đồ đi. Anh ấy sẽ xong trong một phút mà.
 102) DUCK
-[ambient conversation]Are we gonna eat soon, momma?
+[ambient conversation]Chúng ta sẽ sớm ăn thôi đúng không, mẹ?
 103) LARRY
-[ambient conversation]How long does it takes to wash your damn hands?
+[ambient conversation]Cậu rửa tay mất bao lâu?
 104) KATJAA
-[ambient conversation]As soon as Lee gets back.
+[ambient conversation]Ngay sau khi Lee quay lại.
 105) ANDY
-[ambient conversation]Yeah, Maybelle is the only one we have left.
+[ambient conversation]Ừ, Maybelle là con duy nhất ta còn.
 106) DANNY
-[ambient conversation][cont.] She provides the milk.
+[ambient conversation][cont.] Cô ấy cung ấy cấp sữa đó.
 107) CLEMENTINE
-[ambient conversation]I like your cow.  She's pretty.
+[ambient conversation]Cháu thích bò.  Cô ấy trông rất xing.
 108) DANNY
-[ambient conversation]That's why we need Katjaa's help.
+[ambient conversation]Đó là tại sao ta cần sự giúp đỡ của Katjaa.
 109) DANNY
-[ambient conversation]We'd love to have another healthy calf, but we mostly want to make sure maybelle is okay.
+[ambient conversation]Bọn tôi muốn một con bê khoẻ mạnh, nhưng phần lớn bọn tôi muốn maybelle ổn.
 110) LEE
-[pickup1][hushed but shocked!] Mark?!  What the hell happened?!!
+[pickup1][hushed but shocked!] Mark?!  Chuyện gì đã xảy ra?!!
 111) MARK
-[pickup1][weakly..drugged, trying to tell Lee what happened] ... brothers...
+[pickup1][weakly..drugged, trying to tell Lee what happened] ... anh em...
 112) LILLY
-Dad! Please, stop!
+Bố! Làm ơn, dừng lại!
 113) LARRY
-[Having a heart attack!] Hrrrgggttt!!!   Oh God...
+[Having a heart attack!] Hrrrgggttt!!!   Trời ơi...
 115) LILLY
-[worried] No! Dad, come on! DAD!
+[worried] Không! Bố, cố lên! BỐ!
 116) LILLY
-Oh God, he's stopped breathing. I think he's had a heart attack!
+Trời ơi ông ấy dừng thở rồi. Tôi nghĩ ông ấy lên cơn đau tim mất rồi!
 117) KENNY
-Shit!  Is he dead?
+Chết tiệt!  Anh ấy đã chết chưa?
 118) LILLY
-[anguished] Medicine? You had medicine?! You BASTARD!
+[anguished] Thuốc? Anh đã có thuốc à?! Tên khốn này!
 119) LEE
 I...
 120) LILLY
-[pickup2] [pissed] Don't talk to me, Lee. Don't fucking talk to me.
+[pickup2] [pissed] Đừng nói chuyện với tôi, Lee. Địt mẹ đừng nói chuyện với tôi.
 121) LEE
-[pickup2] Lilly, I-
+[pickup2] Lilly, Tôi-
 122) LILLY
-He's not dead.  Somebody help me!
+Ông ấy chưa chết.  Ai giúp tôi với!
 123) KENNY
-[realizing that Larry may turn zombie]Fuuuuuuck... if he's dead...
+[realizing that Larry may turn zombie]Địttt... nếu anh ấy chết rồi...
 124) LILLY
-HE'S NOT DEAD!
+ÔNG ẤY CHƯA CHẾT!
 125) LEE
-We can't kill him if he's not dead, Kenny!
+Ta không thể giết ông ấy khi ông ấy chưa chết, Kenny!
 126) KENNY
 [successfully pulling the AC off the wall]
 166) DUCK
 [scared whimpering as he's held at gunpoint]
 127) KENNY
-[A little brethless/ slightly hushed]Well there's our way out, Lee.
+[A little brethless/ slightly hushed]Thì đó là lối ra của ta đó, Lee.
 128) CLEMENTINE
-{sadA}I had it a couple days ago.
+{sadA}Cháu đã có nó được vài ngày trước rồi.
 129) LEE
-{normalC}When did you lose it?
+{normalC}Cháu mất nó từ khi nào vậy?
 130) LEE
-{normalD}Do you really need it?
+{normalD}Cháu có cần nó không?
 131) LEE
-{sadA}Sorry, hon, I don't have time.
+{sadA}Sorry, Cháu, Chú không có thời gian.
 134) CLEMENTINE
-{sadA}I'm really hungry, Lee.
+{sadA}Cháu thực sự rất đói, Lee.
 135) LEE
-{normalD}How are you doing, Clementine?
+{normalD}Cháu thế nào rồi, Clementine?
 136) LILLY
-{normalB}If the hunting trips nearby don't work, we'll just have to head farther out.
+{normalB}Nếu cuộc đi săn không ra gì, ta đành phải đi xa hơn thôi.
 137) LILLY
-{angryB}But this is a good spot.  {normalB}We're protected, we're close to the drug store, {thinkingA}we have a routine now and it's working.
+{angryB}Nhưng đây là một địa điểm tối.  {normalB}Chúng ta được bảo về, chúng ta gần cửa hàng thuốc, {thinkingA}chúng ta có một lịch trình và nó đang hoạt động.
 138) LILLY
-{angryA}God, not you too.  I know kenny wants to leave.  I think that's why he's so eager to get the RV working.
+{angryA}Trời, đừng còn anh nữa.  Tôi biết Kenny muốn rời đi.  Tôi nghĩ đó là tại sao anh ấy muốn cái xe RV chạy đến thế.
 139) LEE
-{normalC}These generators are enough to power the whole dairy?
+{normalC}Mấy cái máy phát điện này có đủ để phát cho cả cái dairy không?
 140) LEE
-{normalD}Is it just the three of you here?
+{normalD}Chỉ có 3 người ở đây à?
 141) ANDY
-{normalA}'Fraid so. {sadA}We lost Daddy the first month.
+{normalA}Tiếc là vậy. {sadA}Chúng tôi mất bố tháng đầu.
 142) ANDY
 {angryA}Then we had some run-ins with the fuckin' bandits about a month and a half ago, {sadA}killed one of the hands.
 143) ANDY
