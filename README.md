@@ -2,8 +2,9 @@
 This is my effort translating The Walking Dead Game from English to Vietnamese
 <h1 align="center">
   <br>
-  <a href="http://atlasos.net"><img src="https://i.imgur.com/xV08gIt.png" alt="Atlas" width="900"></a>
+  <a href="https://store.steampowered.com/app/1449690/The_Walking_Dead_The_Telltale_Definitive_Series/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/1449690/header.jpg?t=1677270974" alt="The Walking Dead: The Telltale Definitive Series"></a>
 </h1>
+
 Season 1:
 - Episode 1: ✔️ (doesn't exist due havent provided)
 - Episode 2: Translating
