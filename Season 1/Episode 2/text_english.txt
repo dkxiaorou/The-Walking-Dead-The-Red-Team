@@ -15,53 +15,53 @@ Lilly
 8) 
 Katjaa
 9) 
-Zombie
+Xác sống
 10) 
-Look At
+Nhìn
 11) 
-Talk To
+Nói chuyện với
 12) 
-Use
+Dùng
 13) 
-Take
+Lấy
 14) 
-Open
+Mở
 15) 
-Move To
+Di chuyển tới
 16) 
-Push
+Đẩy
 17) 
-Unlock
+Mở khoá
 18) 
-Search
+Tìm
 19) 
-Look Through
+Nhìn qua
 20) 
-Exit
+Rời khỏi
 32) 
-Exit
+Rời khỏi
 21) 
-Examine
+Tìm hiểu
 22) 
-Move
+Di chuyển
 23) 
-Help
+Giúp
 24) 
-Hit
+Đánh
 25) 
-Pick Up
+Nhặt lên
 26) 
-Pull
+Kéo
 27) 
 ...
 28) 
-Stomp
+Giẫm lên
 29) 
-TO BE CONTINUED...
+Còn tiếp...
 30) 
 Ben
 31) 
-Chop
+Chặt
 33) 
 Danny
 34) 
@@ -73,10 +73,10 @@ Brenda
 37) 
 Jolene
 38) 
-Close
+Đóng
 39) 
-Eat
+Ăn
 40) 
-Look Under
+Nhìn dưới
 41) 
-Back
+Lùi
