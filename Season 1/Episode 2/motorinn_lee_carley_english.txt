@@ -69,13 +69,13 @@ I'm out of food
 30) 
 Want some food? [Give Food]
 31) LEE
-[pickup3][knowing there is only one more piece of food left]Hm.  Maybe I should keep this for myself?
+[pickup3][knowing there is only one more piece of food left]Hm.  Tôi có nên giữ cái này cho bản thân không?
 32) LEE
-[pickup3][to himself - depressed, having only 1 piece of food left]One more piece of food to give out, then it's all gone for today.
+[pickup3][to himself - depressed, having only 1 piece of food left]Một miếng đồ ăn nữa để cho đi, rồi nó sẽ hết trong ngày hôm nay.
 34) LEE
-[pickup3][to himself - keeping the last bit of food for himself]I need to keep up my strength, too.
+[pickup3][to himself - keeping the last bit of food for himself]Tôi cần phải sức khoẻ của tôi nữa.
 36) LEE
-[pickup3][to himself - choosing to save the food for someone else]Nah.  Some of these people have gone longer than me without food.  They're the ones that need it.
+[pickup3][to himself - choosing to save the food for someone else]Không.  Một số người đã trải qua nhiều hơn tôi mà không có đồ ăn.  Họ là những người cần nó.
 37) LEE
 [pickup3]Lilly has me handing out the food.
 38) CARLEY
