@@ -17,26 +17,26 @@
 - Episode 5: ❌
 - 400 Days : ❌
 
-Season 2:
+[Season 2](https://github.com/Netxv/The-Walking-Dead-The-Red-Team/tree/main/Season%202):
 - Episode 1: ❌
 - Episode 2: ❌
 - Episode 3: ❌
 - Episode 4: ❌
 - Episode 5: ❌
 
-Season 3:
+[Season 3](https://github.com/Netxv/The-Walking-Dead-The-Red-Team/tree/main/Season%203)
 - Episode 1: ❌
 - Episode 2: ❌
 - Episode 3: ❌
 - Episode 4: ❌
 - Episode 5: ❌
 
-Michonne
+[Michonne](https://github.com/Netxv/The-Walking-Dead-The-Red-Team/tree/main/Michonne)
 - Episode 1: ❌
 - Episode 2: ❌
 - Episode 3: ❌
 
-Season 4:
+[Season 4 Finale](https://github.com/Netxv/The-Walking-Dead-The-Red-Team/tree/main/Season%204)
 - Episode 1: ❌
 - Episode 2: ❌
 - Episode 3: ❌
