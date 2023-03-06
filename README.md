@@ -24,7 +24,7 @@
 - Episode 4: ❌
 - Episode 5: ❌
 
-[Season 3: A New Frontier](https://github.com/Netxv/The-Walking-Dead-The-Red-Team/blob/main/Season%203:%20A%20New%20Frontier):
+[Season 3](https://github.com/Netxv/The-Walking-Dead-The-Red-Team/tree/main/Season%203):
 - Episode 1: ❌
 - Episode 2: ❌
 - Episode 3: ❌
