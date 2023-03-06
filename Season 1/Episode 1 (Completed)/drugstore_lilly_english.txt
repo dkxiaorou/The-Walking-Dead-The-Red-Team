@@ -1,0 +1,294 @@
+1) LEE
+{SadA}Phải.
+20) LILLY
+{ThinkingA}Sao?
+72) LEE
+{ThinkingA}Sao?
+2) LEE
+{sadA}Tôi là Lee.
+3) LILLY
+[pickup1]{normalC}Lilly. {thinkingA}Bố tôi là Larry.
+4) LILLY
+{angryA} Tôi không chắc là tôi biết tên anh.
+5) LEE
+{normalD}{body-f}Ông ta thế nào rồi?
+7) LEE
+{sadA}{body-F}Ông ta thế nào rồi?
+6) LEE
+{normalC}{body-f}Này.
+8) LILLY
+{HappyC}Chúng ta hãy vào trong đó.
+105) LILLY
+{HappyC}Chúng ta hãy vào trong đó.
+9) LILLY
+{HappyD}Tuyệt quá! Chúa ơi, anh thật tuyệt vời..
+106) LILLY
+{HappyD}Tuyệt quá! Chúa ơi, anh thật tuyệt vời..
+10) LEE
+{HappyC}Tôi tìm thấy chìa khóa rồi..
+104) LEE
+{HappyC}Tôi tìm thấy chìa khóa rồi..
+12) LEE
+{SadB}Phải, đó không phải là sự lựa chọn ngay bây giờ.
+13) LEE
+{sadA}Ông ấy gặp chuyện gì thế?
+16) 
+Ông ấy gặp chuyện gì thế?
+14) LILLY
+{sadA}Tôi đang cố gắng giúp bố thả lỏng.
+15) LILLY
+{sadA}Ông ấy lên cơn đau tim, phải uống thuốc giãn tĩnh mạch thường xuyên.
+
+{fearA}Tôi thấy bố lên cơn đau tim cách đây không lâu và không thể
+
+chịu nổi phải đi bệnh viện.
+17) LARRY
+[having bad chest pains, this is an aside] {AngryC}Ah, Địt cụ mày!
+18) LILLY
+{SadB}Phải... ông ấy không cố ý.
+19) LEE
+{ThinkingB}chuyện là thế...
+21) LEE
+{AngryA}Ông ta tự nổi cáu.
+22) 
+Ông ta tự nổi cáu.
+23) LILLY
+{AngryC}Tính ông ấy vậy thôi. {AngryB}Đừng đem ông ấy ra
+
+làm nguyên nhân khiến mọi chuyện rối tung lên.
+24) LILLY
+{NormalB}Ông ấy và tôi là hai bố con.
+25) LEE
+[Whisper, intimate convo distance]{ThinkingA}Chúng tôi có trẻ con {SadA}đi cùng.
+26) LEE
+{SadB}Tôi chỉ muốn nói là không ai chịu nổi cái tính khí điên khùng
+
+như vậy. {AngryA}Chết tiệt thật! nhưng dường như cô lại chịu được.
+27) 
+Chúng tôi có trẻ con đi cùng.
+28) LILLY
+{NormalC}Ông ta chỉ có {SadA}chút vấn đề thôi.
+29) LEE
+{NormalA}Đừng bận tâm, {HappyA}tôi chắc chắn ông ta là người tốt.
+30) 
+Đừng bận tâm, tôi chắc chắn ông ta là người tốt.
+32) 
+Cô là người dân nơi này à?
+36) LEE
+{ThinkingA}Cô là người dân nơi này à?
+33) LEE
+{NormalC}Phải, tôi biết. {HappyA}Là phi công ư?
+34) LEE
+{thinkingB}Tôi làm việc tại UGA.
+35) LILLY
+{HappyA}Chà, chỉ là bảo trì động cơ máy thôi. {AngryA}Tôi phải gặp những
+
+tên sĩ quan và mẫy gã khốn cả ngày.
+
+{HappyA}Thi thoảng gặp may thì tôi được đi theo máy bay.
+37) LILLY
+{HappyA}Anh thì sao?
+38) LILLY
+{ThinkingA}Tôi làm việc tại Warner Robbin. {NormalA}Căn cứ không quân.
+39) 
+Có ai ở đây sẵn khi mọi người vừa tới không?
+40) LILLY
+{SadA}Không, nơi này bị phá hủy khá nhiều. {DisgustA}Chúng tôi kéo
+
+hai cái xác ra khỏi căn phòng kia rồi mới tá túc.
+41) LILLY
+{ThinkingB}Anh ổn chứ?
+42) LILLY
+{SadB}Tôi rất tiếc. Chúng tôi thấy thi thể hai cụ già ở phòng riêng.
+
+{FearA}Bố tôi kéo xác bọn họ ra khi {SadA}xác nhận họ chết cả rồi.
+43) LEE
+[stressed] {SadC}Tôi ổn.
+44) LEE
+{SadA}Phải, chủ nhân căn nhà này... {FearA}{SadB}sống gần nhà tôi.
+45) LEE
+{FearA}Có ai ở đây sẵn khi mọi người vừa tới không?{FearB}
+46) LILLY
+{ThinkingA}Anh biết ai ở đây à?
+47) LILLY
+{ThinkingB}Mẹ của cô bé đâu?
+48) LEE
+{NormalA}Savannah, {ThinkingA}tôi đoán vậy.
+49) LILLY
+{NormalB}Oh, {THinkingB}hai người không ở cùng trước đó à?
+50) LEE
+[pickup1][pauses important ]{NormalD}Oh, không, {ThinkingA}tôi không phải bố con bé. {SadA}Tôi vô tình thấy cô bé
+
+khi trên đường đến Atlanta. Cô bé đã tự lực{SadB} cánh sinh.
+51) LEE
+[pickup1] [quiet, intimate convo distance][pauses important] {FearA}Tôi nghe tin nhắn thoại ở nhà cô bé, bố mẹ cô bé du lịch ở Savannah
+
+{SadA}cô bé ở nhà cùng chị gái. {SadC}Rồi chuyện ập đến.
+52) LEE
+[quiet, intimate convo distance] {SadC}Tôi nghĩ bố mẹ cô bé không qua khỏi.
+53) LILLY
+[intimate convo] {sadA}Chà, {HappyA}cô bé thật may mắn khi gặp anh.
+54) LILLY
+[intimate convo] {SadB}Oh.
+55) 
+Cô mong đợi khi nào thì quân đội sẽ giải quyết xong việc này?
+56) LILLY
+{SadB}Chúa ơi, tôi không biết nữa. {NormalC}Tôi đã không liên lạc nơi
+
+làm việc kể từ khi tôi và bố chạy đến đây tìm sự trợ giúp.
+
+{ThinkingB}Tôi chỉ biết họ tranh giành nhau máy bay.
+
+{FearA}Rồi tôi chẳng biết gì hơn nữa.
+57) LEE
+{THinkingB}Khi nào quân đội xử lý việc này?
+58) LEE
+{FearA}Cô nghĩ là quân đội đang xử lý hoặc đã cố gắng
+
+{FearB}xử lý việc này ư?
+59) LILLY
+{SadB}Thật không may... {SadA}đúng là như vậy.
+60) LEE
+{normalD}Cô nghĩ tất cả mọi việc này thế nào?
+61) LILLY
+{SadB}Chà, tôi đã nổi cáu khi Glenn mở cửa ra nhưng {SadA}tôi mừng
+
+vì anh kịp chạy vào trong. {HappyA}Anh là người đàn ông mạnh mẽ
+
+luôn giữ bình tĩnh.
+62) LILLY
+[pickup1]{FearA}Có gì mà phải nghĩ cơ chứ? Người chết sống lại
+
+"diễu hành" khắp nơi, {AngryA}ăn thịt người còn sống và biến họ
+
+thành xác sống... nhiều hơn nữa, lạy Chúa.
+63) LEE
+{ThinkingB}Chúng ta cần phải đoàn kết vượt qua chuyện này.
+64) 
+Cô nghĩ tất cả mọi việc này thế nào?
+65) 
+Exit
+66) LILLY
+{SadA}Tôi quay lại với bố đây.
+67) LEE
+{SadA}Được thôi.
+68) LILLY
+[pickup1]{ThinkingA}Anh bị đơ người trước tình huống đó...
+
+Khi mà {DisgustA}tên xác sống bước ra khỏi phòng tắm.
+69) LILLY
+{normalC}Đừng bao giờ gục ngã. {happyA}Chúng ta sẽ đoàn kết lại và chúng ta sẽ ổn.
+70) LILLY
+{NormalC}Oh, và Lee?
+71) LEE
+{SadB}Uh, phải.
+73) LEE
+{ThinkingA}Tôi đang làm.
+74) LEE
+{NormalB}Đủ rồi.
+75) LILLY
+{FearA}Tôi nên dành thời gian cho bố tôi nhiều nhất có thể..
+76) LILLY
+{ThinkingA}Làm ơn cố gắng tìm chìa khóa đi Lee!{SadB}Bố tôi đang tiến triển tệ hơn.
+77) LEE
+{HappyA}Tuy là không nhiều, hãy ăn đỡ đói đi.
+78) LILLY
+{ThinkingA}Anh chắc chứ?
+79) LEE
+{HappyA}Chắc! trông cô khá là căng thẳng đấy!
+80) LILLY
+{ThinkingA}Cảm ơn anh. Thật là uh... {happyA}tốt quá.
+81) LEE
+{HappyA}Không có chi.
+82) LEE
+[pickup1] Eh, con bé vẫn bị tóm.
+83) LILLY
+[pickup1] Cách để bảo vệ tất cả mọi người đó là
+
+vứt cái radio đó đi. 
+84) LILLY
+[pickup1] Anh không thể làm mọi thứ.
+92) LILLY
+[pickup1] Anh không thể làm mọi thứ.
+97) LILLY
+[pickup1] Anh không thể làm mọi thứ.
+85) LEE
+[pickup1] Dường như là không.
+91) LEE
+[pickup1] Dường như là không.
+96) LEE
+[pickup1] Dường như là không.
+86) LILLY
+[pickup1] Ngăn chặn những tên xác sống quá khó. Tôi không làm được.
+87) LEE
+[pickup1] Đúng là không thể, nhưng cô nói đúng.
+
+Clementine vẫn bị tóm bởi thứ đó trong nhà vệ sinh.
+88) LILLY
+[pickup1] Chúng ta phải để mắt kỹ hơn
+
+cái radio đó có thể giết sạch chúng ta đấy.
+89) LILLY
+[pickup1] Tôi biết bố tôi thế nào mà...
+
+vượt quá giới hạn, nhưng trước đây thì--
+90) LEE
+[pickup1] [cutting her off] Này, dù sao đi nữa thì hãy bỏ qua đi.
+93) LILLY
+[pickup1] Cuộc ẩu đả giữa bố tôi và bạn của anh thật là nhãm nhí.
+94) LILLY
+[pickup1] Anh nên chắc rằng những người kia không làm gì ngu ngốc
+
+với cái radio đó.
+95) LEE
+[pickup1] Phảim tôi đã thấ mọi chuyện đi xa quá rồi.
+98) LEE
+[pickup1] Chắc rồi, tôi nên dành sự quan tâm cho con bé hơn.
+99) LEE
+[pickup1] Điều gì khiến cô nói vậy?
+100) LILLY
+[pickup1]Nơi này đang toang rồi. Cô bé kia sẽ gặp nhiều trắc trở đấy.
+101) LILLY
+[pickup1] [a little sarcastic] Anh không muốn gặp nhiều rắc rối phải không?
+102) LILLY
+[pickup1] Dường như không.
+103) LEE
+[pickup1] Cô không thể kiểm soát tất cả, thậm chí nếu cố gắng.
+107) LEE
+Also, BALLS.
+108) LILLY
+[pickup1] {angrya}{body-A}Tôi chỉ cố gắng làm mọi thứ dễ thở hơn thôi.
+112) LILLY
+[pickup1] {angrya}{body-A}Tôi chỉ cố gắng làm mọi thứ dễ thở hơn thôi.
+109) LEE
+[pickup1] {thinkingB}{body-B}Ai cũng vậy mà.
+113) LEE
+[pickup1] {thinkingB}{body-B}Ai cũng vậy mà.
+110) LILLY
+[pickup1] {thinkingA}Anh không cần phải gọi tôi
+
+{angryB}là một con khốn trước mặt mọi người như vậy.
+111) LILLY
+[pickup1] {angryC}Tôi không cần thứ vớ vẩn đó, được chứ? {sadA}đã quá khó khăn để đổi lấy
+
+sự sống {angryB}khi phải đấu tranh với những thứ đang đè bẹp anh.
+114) LILLY
+[pickup1] {sadB}Giờ cơn đau tim của bố tôi lại tái phát
+
+và {fearA}tôi thực sự chẳng biết phải làm gì nữa.
+115) LILLY
+[pickup1] {angryB}{body-a}Cứ đánh nhau với bố tôi như vậy cũng chả giải quyết được gì.
+116) LILLY
+[pickup1] {sadB}[quiet] Chắc rồi... tôi đoán vậy.
+117) LILLY
+[pickup1] {fearA}{body-a}Và...[quiet] anh nên {sadA}biết là tôi không nghĩ bố tôi hành xử đúng.
+118) LEE
+[pickup1] {disgustA}Cô cũng chưa nói gì mà.
+
+Và thằng bé Duck có thể bị cắn thật.
+119) 
+Trò chuyện với
+120) 
+Đưa thức ăn cho
+121) LILLY
+[pickup1][pissed] Tôi quay lại với bố tôi đây.

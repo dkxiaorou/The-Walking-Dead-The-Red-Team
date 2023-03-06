@@ -1,0 +1,384 @@
+1) LEE
+{HappyA}{body-A}Chúng ta đang làm gì thế này?
+2) LEE
+{HappyA}{body-C}Này mọi người.
+3) LEE
+{ThinkingA}Sao?
+4) KENNY
+{SadB}{Body-StandB}Trở lại trang trại Hershel..
+5) KENNY
+{SadA}{Body-StandA}Lee, anh rảnh không?
+6) LEE
+{NormalA}{body-A}Có.
+7) KENNY
+{SadB}Tôi đang khá hoang mang. {FearB}Tôi không cảm thấy tự tin.
+8) LEE
+{SadA}{body-E}Nó đang xảy ra.
+9) 
+Nó đang xảy ra..
+10) LEE
+{AngryA}{body-E}Anh để cậu ta bỏ mạng.
+11) 
+Anh để cậu ta bỏ mạng.
+12) KENNY
+{SadB}Tôi đã làm vậy.
+38) KENNY
+{SadB}Tôi đã làm vậy.
+13) LEE
+[distant] {fearA}Phải, thật là lỗ mãn.
+14) KENNY
+{AngryA}Tôi đã giết cậu bé đấy. {AngryB}Chúng ta có thể cùng nhau cứu nó.
+15) KENNY
+{SadA}Tôi đoán vật, {FearA}nhưng tôi không ngừng nghĩ về chuyện ấy.
+33) KENNY
+{SadA}Tôi đoán vật, {FearA}nhưng tôi không ngừng nghĩ về chuyện ấy.
+16) LEE
+{AngryA}Anh không có sự chọn lựa nào khác.
+17) 
+Điều khiển?
+39) 
+Điều khiển?
+18) 
+Để thằng bé yên.
+41) 
+Để thằng bé yên.
+19) LEE
+{FearA}Thử để mọi chuyện yên xuống đi.
+40) LEE
+{FearA}Thử để mọi chuyện yên xuống đi.
+20) KENNY
+[torn up] {FearC}Đó là những gì tôi cứ suy nghĩ trong đầu...{FearA}tôi toàn thấy anh ta.
+44) KENNY
+[torn up] {FearC}Đó là những gì tôi cứ suy nghĩ trong đầu...{FearA}tôi toàn thấy anh ta.
+21) KENNY
+[torn up] {SadB}Tôi biết mà anh bạn. Tôi biết!
+43) KENNY
+[torn up] {SadB}Tôi biết mà anh bạn. Tôi biết!
+22) LEE
+{sadA}Anh bận tâm gì nữa chứ?
+
+{AngryA}Anh cứu được Duck, đâu có gì bận tâm nữa?
+
+{AngryB}và chúng ta cũng đẩy chiếc máy kéo khỏi chân anh bạn kia.
+23) LEE
+{AngryB}{body-e}Tốt! Anh nên vậy. {angryB}Chúng ta cần phải tin tưởng lẫn nhau.
+46) LEE
+{AngryB}{body-e}Tốt! Anh nên vậy. {angryB}Chúng ta cần phải tin tưởng lẫn nhau.
+24) KENNY
+{SadA}Ý tôi là... đó là lỗi tôi phải không?{FearA} Tôi nên giúp anh ta.
+[reshow choices]
+133) KENNY
+{SadA}Ý tôi là... đó là lỗi tôi phải không?{FearA} Tôi nên giúp anh ta.
+[reshow choices]
+136) KENNY
+{SadA}Ý tôi là... đó là lỗi tôi phải không?{FearA} Tôi nên giúp anh ta.
+[reshow choices]
+25) KENNY
+{SadA}Thôi nào, cho tôi ít lời khuyên đi. {SadB}Tôi đang bị dằn vặt.
+[reshow choices]
+134) KENNY
+{SadA}Thôi nào, cho tôi ít lời khuyên đi. {SadB}Tôi đang bị dằn vặt.
+[reshow choices]
+137) KENNY
+{SadA}Thôi nào, cho tôi ít lời khuyên đi. {SadB}Tôi đang bị dằn vặt.
+[reshow choices]
+26) KENNY
+{AngryB}Phải rồi. Anh là người hùng! {AngryC}Anhd đã cố gắng. {AngryB}Được rồi.
+135) KENNY
+{AngryB}Phải rồi. Anh là người hùng! {AngryC}Anhd đã cố gắng. {AngryB}Được rồi.
+138) KENNY
+{AngryB}Phải rồi. Anh là người hùng! {AngryC}Anhd đã cố gắng. {AngryB}Được rồi.
+27) KENNY
+Chúng ta đã không giúp anh ta. Tay chúng ta dính máu đấy, anh biết chứ?
+28) 
+Chuyện đó xảy đến quá nhanh.
+29) LEE
+{SadB}{body-C}Chuyện đó xảy đến quá nhanh.
+30) 
+Chúng ta để chàng trai đó bỏ mạng.
+31) LEE
+{FearA}{body-B}Chúng ta để chàng trai đó bỏ mạng.
+32) 
+Silence
+34) LEE
+{FearA}Chúng ta không thể tự sát như vậy được.
+35) KENNY
+{AngryA}Chúng ta giết cậu ta rồi. {AngryB}Chúng ta không cứu được cậu ta.
+36) LEE
+{AngryA}Chúng ta đã làm những gì có thể rồi. {ThinkingA}Điều tồi tệ xảy ra.
+
+{SadB}Chúng ta không thể cứu được Shawn.
+37) LEE
+Anh nghĩ anh làm được, nhưng sao anh không thử nghĩ lại đi?
+
+{AngryB}Trong lúc đó mọi thứ mất kiểm soát... {AngryA}Anh đâu còn sự chọn lựa.
+42) LEE
+Anh nghĩ anh làm được, nhưng sao anh không thử nghĩ lại đi?
+
+{AngryB}Trong lúc đó mọi thứ mất kiểm soát... {AngryA}Anh đâu còn sự chọn lựa.
+45) LEE
+{SadB}Mất mác không quá nhiều.
+47) 
+Làm ngơ ư?
+48) 
+Sỉ vả tôi?
+49) LEE
+[very stern]{AngryA} Còn gì thì anh cứ thể hiện luôn đi?
+50) LEE
+{DisgustA}{Body-E}[disgust] Hmph.
+51) KENNY
+{FearA}Anh bạn nghe này... {FearB}Tôi không biết tôi có giúp được không.
+52) 
+Duck thế nào rồi?
+53) KATJAA
+{NormalB}Thằng bé ổn, {SadA}chỉ là còn hơi sốc.
+54) LEE
+{SadA}{body-E}Duck thế nào rồi?
+55) LEE
+{HappyA}Không đùa.
+56) KENNY
+{AngryA}Chúng ta thật may mắn vì không ai bị kẹt lại.
+57) KATJAA
+{NormalC}Cô ấy thế nào rồi?
+58) LEE
+{SadA}{body-C}Tôi nghĩ cô ta ổn.
+59) LEE
+{ThinkingB}{body-E}Chà, gia đình cô ấy mất cả rồi...
+60) LEE
+{AngryA}{body-E}Tôi nên hiểu thế nào?
+61) 
+Tôi nghĩ cô ta rất tốt.
+62) 
+Gia đình cô ấy mất cả rồi.
+63) 
+Tôi nên hiểu thế nào?
+64) KENNY
+{HappyA}Không phải bất kỳ cô bé nào cũng làm được.
+65) LEE
+{NormalA}Đúng vậy.
+66) KENNY
+{FearA}Con bé thật là cứng cỏi.
+67) KATJAA
+{AngryA}Nhưng cũng chỉ là một bé gái thôi, Ken.
+71) KATJAA
+{AngryA}Nhưng cũng chỉ là một bé gái thôi, Ken.
+68) KENNY
+{ThinkingA}Anh nói gì cơ Lee? cô bé đã{SurprisedA}tự mình sinh tồn
+
+{ThinkingA}trong vài ngày cơ à?
+69) KATJAA
+{AngryA}Nhưng anh không hiểu nỗi {AngryB}nỗi đau mất mát tinh thần
+
+của con bé {SadA}vì đã mất gia đình đâu.
+70) KATJAA
+{FearA}Thật là tồi tệ Lee ạ!
+72) KENNY
+{SadA}Phải, chà... [he has a point]
+73) KENNY
+{ThinkingA}Lee bảo là con bé ở 1 mình mấy ngày liền. {HappyA}Thật là kiên cường.
+74) KENNY
+{HappyA}Cô bé dường như đã giải quyết tình huống rất tốt.
+75) KATJAA
+{AngryB}Chà, hỏi han con bé đi.
+76) LEE
+{AngryA}Tôi chỉ cố gắng làm hết sức mình thôi.
+83) LEE
+{AngryA}Tôi chỉ cố gắng làm hết sức mình thôi.
+77) KATJAA
+{FearA}Anh là người thân duy nhất còn lại của cô bé.
+
+{SadA}Và trong có vẻ như là,{ThinkingA} một người bố thứ hai.
+81) KATJAA
+{FearA}Anh là người thân duy nhất còn lại của cô bé.
+
+{SadA}Và trong có vẻ như là,{ThinkingA} một người bố thứ hai.
+78) KENNY
+{AngryA}Katjaa, để anh ta nghỉ ngơi một chút đi...
+84) KENNY
+{AngryA}Katjaa, để anh ta nghỉ ngơi một chút đi...
+79) KATJAA
+{AngryB}Không! Ken. Chúng ta không biết chuyện này kéo dài bao lâu.
+
+{AngryA}Cô bé đó cần người thân bên cạnh để chăm sóc và che chở
+
+{ThinkingA}Lee có thể làm cả hai.
+82) KATJAA
+{AngryB}Không! Ken. Chúng ta không biết chuyện này kéo dài bao lâu.
+
+{AngryA}Cô bé đó cần người thân bên cạnh để chăm sóc và che chở
+
+{ThinkingA}Lee có thể làm cả hai.
+80) KATJAA
+{AngryA}Ai đó nên hỏi han con bé đi.
+85) 
+Kế hoạch thế nào chứ?
+86) LEE
+{FearA}{body-B}Đúng thế.
+87) KATJAA
+{ThinkingA}Họ đâu rồi? {FearA}Chúng ta có nên tìm họ không?
+88) KENNY
+{SadB}Tôi cho là vậy. {FearA}Ở ngoài kia khá là nguy hiểm...
+
+{SadA}chúng ta nên chờ đến khi xác sống đi bớt.
+89) KATJAA
+{ThinkingB}Anh bảo gia đình anh sống ở thị trấn Macon này à?
+90) LEE
+{ThinkingA}{body-A}Kế hoạch thế nào?
+91) 
+Tôi không biết.
+92) 
+Họ đi rồi.
+93) 
+Họ là chủ nhân nơi này.
+94) LEE
+{SadB}{body-A}Tôi không biết.
+95) LEE
+{SadC}{body-E}Họ... đi rồi.
+107) LEE
+{SadC}{body-E}Họ... đi rồi.
+96) LEE
+{SadB}{body-A}Họ sở hữu nơi này.
+97) KATJAA
+{ThinkingA}Chà, {SadA}họ sẽ tìm một căn khác thế này nhỉ?
+98) KATJAA
+{FearA}Chà có vẻ như anh chưa biết.
+99) LEE
+{FearB}{body-C}Tôi không chắc họ có vậy không. Chúng tôi đã đi qua một số
+
+ngôi nhà trên đường vào đây... và... {SadA}mọi thứ tồi tệ lắm rồi.
+100) KENNY
+{AngryB}Kat, đó không phải chuyện của em.
+103) KENNY
+{AngryB}Kat, đó không phải chuyện của em.
+110) KENNY
+{AngryA}Kat, đó không phải chuyện của em.
+101) LEE
+{AngryC}Tôi vừa hiểu rồi, được chứ?
+102) KATJAA
+{FearB}Ôi lạy Chúa, {SadA}Anh nghĩ như {SadB}thế nào vậy?
+104) LEE
+{SadC}Chúng kéo vài cái xác ra khỏi căn phòng nơi này
+
+trước khi chúng ta đến đây.
+105) LEE
+Họ là những người tốt. {SadA}Tôi vừa đi xem một vòng
+
+{SadC}họ chết cả rồi.
+106) KENNY
+{SadB}Kat...
+108) KATJAA
+[hearbroken for the players loss] {SadB}Ôi anh yêu...
+109) KENNY
+{SadA}Tôi biết lần cuối họ ở đâu
+
+{HappyA}họ gặp khó khăn hơn chúng ta nhiều. [gives Lee a knowing look].
+111) 
+Mọi người ổn chứ?
+113) 
+Mọi người ổn chứ?
+112) LEE
+{NormalD}{body-A}Mọi người ổn chứ?
+114) LEE
+{HappyA}Cháu thế nào rồi, Duck?
+115) KENNY
+{NormalC}Chúng tôi ổn. {HappyA}Chắc vậy.
+116) KATJAA
+{SadA}Chúng ta trải qua nhiều chuyện quá.
+117) 
+Rời khỏi
+118) KENNY
+{ThinkingA}Hmmph. {AngryA}Hãy nghỉ ngơi đi.
+119) LEE
+{ThinkingB}{body-B}Tốt nhất nên quay lại để tìm thuốc cho lão già đó.
+120) LEE
+{AngryA}Được rồi.
+121) LEE
+{NormalC}Anh hiểu rồi đấy.
+122) KENNY
+{thinkingA}Nếu anh không phiền, {SadA}gia đình tôi sẽ nghỉ ngơi một lát.
+
+{ThinkingA}Hãy gọi tôi nếu {angryA}lũ xác sống ập vào {thinkingA}hoặc mọi chuyện tệ hơn.
+123) KENNY
+{HappyA}Anh biết mà, em yêu.
+124) KATJAA
+{FearA}Chúng ta không được để Duck gặp bất kỳ chuyện gì.
+125) KENNY
+{FearA}Chúng ta đang cố gắng hết sức.
+126) KATJAA
+{SadA}Chúng ta cần trở về Fort Lauderdale.
+127) KATJAA
+{AngryA}Làm sao em nghỉ ngơi được {FearA}khi ngoài kia đầy xác sống?
+128) KENNY
+{NormalA}Cố gắng nghỉ ngơi một chút đi, em yêu.
+129) LEE
+{SadA}Tuy là không nhiều, nhưng cầm lấy đi này.
+130) LEE
+{HappyA}Cho thằng bé ăn đi.
+131) KENNY
+{HappyB}Aw, Cảm ơn nhé Lee! Thằng nhóc vui lắm.
+132) KATJAA
+{HappyA}Tuyệt quá, Lee.
+139) KENNY
+[pickup1] Ổn áp đấy.
+140) KATJAA
+[pickup1] {happyA}Cảm ơn anh, Lee.
+148) KATJAA
+[pickup1] {happyA}Cảm ơn anh, Lee.
+141) KENNY
+[pickup1] {thinkingA}Nói với lão già suýt bị tương vỡ mồm kia đi.
+142) KENNY
+[pickup1] {happyA}Dù sao đi nữa, chúng ta, Kat và tôi rất cảm kích anh.
+145) KENNY
+[pickup1] {happyA}Dù sao đi nữa, chúng ta, Kat và tôi rất cảm kích anh.
+143) KENNY
+[pickup1] {angryA}Này Lee! có lẽ đấm vỡ mồm ông ta không phải ý hay.
+144) LEE
+[pickup1]{disgustA} [conversational] Kế hoạch đó khiến mọi thứ tệ hơn.
+146) LEE
+[pickup1] {angryA}Phải! chúng ta bị {surpriseA}xua đuổi, anh biết đấy.
+147) KENNY
+[pickup1] Anh không cần phải nói, tôi sẵn sàng đấm vỡ sọ lão già đó rồi.
+149) KENNY
+[pickup1] {surprisedA}Này Lee, anh thực sự đã khiến lão già đó điên tiết đấy.
+150) KATJAA
+[pickup1] {fearB}Sẽ ra sao nếu...thằng bé...{sadA}à không sao đâu Lee.
+151) KENNY
+[pickup1] {surprisedA}Ngay bây giờ đây {angryA}Lee! tôi cần anh đứng về phía tôi.
+152) LEE
+[pickup1] {fearB}Tôi xin lỗi nhé, Katjaa.
+153) KATJAA
+[pickup1] {angryB}Dừng lại, Kenny. Tất cả mọi người đang sợ hãi.
+
+Em thậm chí đã nghĩ {sadA}thằng bé bị cắn và
+
+[getting emotional]chúng ta sẽ mất thằng bé.
+154) KATJAA
+[pickup1]{angryA}[stopping him from getting angry at lee] Kenny...
+155) KENNY
+[pickup1] {angryB}Đừng đến đây.
+156) KENNY
+[pickup1] Không, Kat! Lão {angryC}già khốn nạn này sẽ để
+
+con trai chúng ta bị lũ xác sống ăn thịt.
+157) 
+Tôi có.
+158) 
+Không.
+159) KENNY
+[pickup1] {thinkingA}Tốt. Cảm ơn nhé.
+160) LEE
+[pickup1] {surpriseA}Phải, tôi có;{fearA} tất nhiên rồi.
+161) KENNY
+[pickup1] {angryA}Được rồi. Hãy quên đi.
+162) KATJAA
+[pickup1] {thinkingA}Kenny, Lee là người tốt! Ở nơi này chúng ta là người lạ.
+163) KENNY
+[pickup1] {thinkingA}Anh nghĩ đúng vậy, em yêu à! Dù sao thì... {angryA}Lee, đó là gì?
+164) LEE
+[pickup1] {angryA}Nó không đơn giản đâu.
+165) KENNY
+[pickup1]{angryB}[sigh, begrudingly agreeing]
+166) 
+Trò chuyện với
+167) 
+Đưa thức ăn cho

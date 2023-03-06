@@ -1,0 +1,298 @@
+1) COP
+{sadA}{body-drive}Chà, tôi {happyC}nghĩ là anh vô tội.
+2) 
+Tại sao ông nghĩ vậy?
+3) 
+Chuyện đó có đáng để tôi làm vậy không?
+4) 
+Ông cũng biết là họ âm mưu thế nào mà.
+6) LEE
+{thinkingA}{body-sitcuffed}Tại sao ông nghĩ vậy?
+7) LEE
+{angryA}{body-sitcuffed}Thực sự là{normalC} vậy chứ?
+8) LEE
+{thinkingA}{body-sitcuffed}Ông cũng biết là họ âm mưu thế nào mà.
+9) COP
+{happyC}{body-drive}Nah, tôi biết {sadA}không nhiều lắm.
+10) LEE
+{happyA}Phải, có vẻ như là vậy.
+11) COP
+{happyB}{body-drive}Ha, tôi không chắc nhưng đó {happyC}cũng chỉ là giả định thôi.
+12) COP
+{normalC}{body-drive}Hmm.
+112) COP
+{normalC}{body-drive}Hmm.
+13) COP
+{happyB}{body-drive}Anh biết không, tôi đã từng chở rất nhiều phạm nhân rồi.{sadA}Chúa cũng chứng kiến.
+
+Mấy gã đó thường nói mấy câu như{surprisedA} "tôi bị oan, {normalA}tôi vô tội."
+14) 
+Rồi ông trả lời thế nào?
+15) 
+Tôi không nói vậy.
+16) 
+Lúc nào cũng vậy ư?
+18) LEE
+{normalC}{body-sitcuffed}Rồi ông trả lời thế nào?
+19) COP
+{normalC}{body-drive}Tôi trả lời là "Phải rồi,{sadA} tôi biết anh vô tội."
+20) LEE
+{angryA}{body-sitcuffed}Tôi không nói vậy.
+21) COP
+{normalC}{body-drive}'Vì những kẻ đang bị còng tay{fearA} không còn biết nói gì khác nhỉ?
+22) LEE
+{normalD}{body-sitcuffed}Lúc nào cũng vậy ư?
+23) COP
+{happyA}{body-drive}MỌI LÚC luôn đấy.
+24) COP
+{thinkingA}{body-drive}Hmmm, anh có vẻ {happyB}không nói nhiều lắm nhỉ?
+114) COP
+{thinkingA}{body-drive}Hmmm, anh có vẻ {happyB}không nói nhiều lắm nhỉ?
+118) COP
+{thinkingA}{body-drive}Hmmm, anh có vẻ {happyB}không nói nhiều lắm nhỉ?
+25) COP
+{sadA}{body-drive}Tôi {normalC}có theo dõi vụ án của anh một chút vừa xảy ra ở {happyB}Macon
+
+đó là những gì tôi biết.
+26) 
+Vậy chắc ông cũng đến từ Macon?
+27) 
+Chắc ông cũng có kết luận rồi nhỉ?
+28) 
+Vậy ông điều tra thế nào?
+30) COP
+{happyC}{body-drive}Phải. Tôi đã từng{happyD} làm cảnh sát ở Atlanta vào những năm 70.
+
+{fearA}Nhiệm vụ chính là truy bắt những tên sát nhân
+
+{sadA}giống những trường hợp như anh {happyC}dính vào bây giờ đấy.
+31) LEE
+{thinkingA}{body-sitcuffed}Ông cũng đến từ Macon à?
+32) LEE
+{thinkingA}{body-sitcuffed}Vậy ông điều tra thế nào?
+33) COP
+{happyB}{body-drive}Tôi rất vui khi chọn nghề cảnh sát {happyA}để có thể tóm cổ{sadA} những tên tội phạm.
+
+Đặc biệt là các vụ án liên quan tới chính phủ, {normalC}các Giáo sư hoặc Thượng nghị sĩ.
+34) COP
+{sadA}{body-drive}Vụ án của anh là {fearA}ám sát Thượng nghị sĩ tiểu bang
+
+{normalB}tôi chắc với anh điều đó.
+111) COP
+{sadA}{body-drive}Ngày nào cũng có một gã sống ở thành phố Bibb
+
+{fearA}cũng ra tay ám sát các Thượng nghị sĩ tiểu bang
+
+{normalB}tôi không lạ gì.
+119) COP
+{sadA}{body-drive}Ngày nào cũng có một gã sống ở thành phố Bibb
+
+{fearA}cũng ra tay ám sát các Thượng nghị sĩ tiểu bang
+
+{normalB}tôi không lạ gì.
+35) LEE
+{happyB}Đúng vậy.
+36) COP
+{happyA}Tốt.
+37) COP
+Những gia đình thường đến cửa hiệu thuốc của anh {happyC}ở dưới thị trấn.
+
+{normalB}Họ vẫn sống ở đó chứ?
+38) COP
+{normalA}{body-drive}Anh làm việc ở trường đại học bao lâu rồi?
+39) LEE
+{normalA}{body-sitcuffed}Cũng sáu năm rồi.
+40) COP
+Anh {sadA}có muốn biết tại sao tôi biết không?
+41) COP
+{happyC}Anh đã gặp vợ anh ở Athen ư??{Lee sadB}
+42) 
+Chắc rồi.
+43) 
+Tôi không chắc.
+44) 
+Tôi có nhiều lựa chọn sao?
+46) COP
+{sadA}{body-drive}Đừng nói vậy chứ. Tôi {happyB}vẫn xem anh như vô tội cho đến khi
+
+{happyC}có bằng chứng buộc tội anh.
+
+Thậm chí {normalB}là có kẻ nào tố cáo anh giết người đi nữa.
+47) LEE
+{normalD}{body-sitcuffed}Chắc rồi.
+48) LEE
+{normalC}{body-sitcuffed}Không chắc cho lắm.
+49) LEE
+{normalC}{body-sitcuffed}Tôi có nhiều lựa chọn sao?
+50) COP
+{happyB}{body-drive}Cho dù anh xấu xa cỡ nào, đây là xe {happyC}tôi.
+
+Anh có quyền giữ im lặng, tôi thì có quyền nói.
+51) COP
+{happyC}{body-drive}Chắc chắn là không rồi.
+52) COP
+Có thể là anh đã cưới nhầm người.
+53) COP
+{fearA}{body-drive}Tôi tưởng tượng nhiều {normalB}viễn cảnh của vụ án... Phòng vệ, {sadA}cố ý giết người,
+
+{fearA}một tai nạn, âm mưu từ trước, {thinkingA}tệ thật, uh... {surprisedA}mâu thuẫn cá nhân, uh...{happyD}
+
+hehe, thậm chí là ép hôn! Ha! {happyB}Những trường hợp đó cũng ít xảy ra!
+54) 
+Chắc là ông đoán đúng rồi.
+56) 
+Hoặc là cô ta cưới nhầm người rồi.
+57) 
+Mẹ kiếp.
+58) COP
+{fearA}"hắn ta ngừng tay, {body-drive}{thinkingA}sau khi không còn biết nói gì nữa
+
+hắn ta {disgustA}bắt đầu khóc và gọi cho mẹ mình.
+
+{fearC}Mẹ ơi, con bị vu khống tội quá lớn! {angryA}Đó không phải con đâu!"
+59) COP
+{sadA}{body-drive}Tôi từng chở một phạm nhân như vậy, hắn {sadB}là một kẻ xấu xa.
+
+Hắn {fearA}không ngừng tự trách mình {thinkingA}và ước mọi chuyện không như vậy.
+60) COP
+{fearC}Sau đó không lâu thì hắn {thinkingA}{body-turnback}đá vào sau ghế rồi quậy tung hết lên.
+
+Và {fearC}tôi phải bảo hắn ngừng lại, vì đây {angryA}là xe đặc vụ chính phủ
+
+nếu không tôi {thinkingA}sẽ áp chế hắn.
+61) COP
+Hắn cũng lớn tuổi rồi. {sadA}Đeo một cặp kính trông {disgustA}tri thức lắm
+
+hắn có vẻ {fearB}rất sợ sệt, cứ luôn miệng bảo rằng {surprisedA}mình vô tội.
+
+{thinkingA}Rồi khóc òa lên, {happyC}ngay chỗ mà anh đang ngồi đấy.
+62) 
+Ôi trời.
+63) 
+Có lẽ anh ta vô tội thật.
+67) LEE
+Có lẽ anh ta vô tội thật.
+64) 
+Vậy, hắn ta có làm chuyện đó không?
+66) LEE
+{thinkingA}{body-sitcuffed}Có lẽ anh ta vô tội thì sao?
+68) COP
+{fearB}{body-drive}Ôi trời?! Ca này thì {happyC}hết thuốc chữa!
+69) LEE
+{thinkingB}{body-sitcuffed}Ôi trời.
+70) COP
+{fearC}{body-drive}Vô tội?
+71) COP
+Lẽ dĩ nhiên là con người {disgustA}sẽ phát điên {fearB}nếu họ tin rằng cuộc đời họ sắp chấm dứt.
+72) COP
+{surprisedA}{body-drive}Nhân chứng phát hiện {thinkingA}tay hắn đẫm máu!
+
+{angryA}Sau khi bạn bè hắn vừa bước ra khỏi cửa, hắn đã cắt cổ vợ mình!
+
+{surprisedA}Tôi chở hắn về đồn và{fearC} hắn vẫn hét to mình vô tội.
+
+{thinkingA}Tôi tin rằng tên đó có vấn đề thần kinh.
+73) COP
+{happyD}{body-drive}Oh, Tôi có một tin {body-turnback}tốt cho anh đây.
+
+{surprisedA}Chuyện này sẽ làm anh phấn chấn hơn một chút{happyB} và bớt buồn bã đi. {fearB}Lần này--
+74) COP
+[Continuation of story] Hắn bắt đầu run rẩy, và gần như phát điên như một đứa trẻ kích động
+
+không thể nói được một câu trọn vẹn. Rồi tôi nhận thông tin từ cấp trên báo rằng tôi đang bắt nhầm người
+
+anh chàng tội nghiệp này chỉ là một sinh viên đại học trốn trong cái thùng vào đêm trước.
+75) COP
+Chuyện này không vui sao?
+76) COP RADIO
+Lời khuyên cho mọi người, tôi xin nói lại-
+77) COP
+Tôi tóm được tên sát thủ này trong lúc trên đường đi nhận chức ở Macon, hôm đó tôi vô cùng kinh ngạc.
+
+Sau khi tóm hắn, tôi bắt đầu kể cho hắn nghe về hành trình phía trước; hắn sẽ ngồi tù mọt gông
+
+trong 50 tới 70 năm tới. Tôi cá với anh là tôi chưa từng gặp ai hoảng loạn như hắn bao giờ.
+78) 
+COI CHỪNG!
+79) 
+CHẾT TIỆT!
+80) 
+CÓ NGƯỜI QUA ĐƯỜNG!
+81) 
+LÁI XE KIỂU GÌ VẬY?
+82) COP RADIO
+Chúng tôi vừa phát hiện một chiếc xe giống chiếc 10-91E
+
+gần đường 285 Peachtree. Tất cả xe cộ được kiểm soát
+
+để truy tìm chiếc 91V trong khu vực.
+83) COP RADIO
+Gọi cứu thương tới đường Hartsfield, đội số 10 và đội số 20 đang đến.
+84) COP RADIO
+Bạo động đang diễn ra. Tất cả đơn vị sẵn sàng cho cuộc bạo động số 217.
+
+Hãy thông báo đến tất cả các đơn vị sẵn sàng.
+85) COP
+{thinkingA}{body-drive}Anh thật là mạnh mẽ, nhưng {happyC}không phải như vậy.
+86) COP
+{happyB}{body-drive}Tôi chắc chắn rằng các sĩ quan chưa chuẩn bị kịp. [sarc]
+87) COP
+{sadA}{body-drive}Lúc nào cũng thế, cơ mà {disgustA}cái đài đó sẽ không ngừng phát thanh.
+
+{thinkingA}Đừng bận tâm đến làm gì, chỉ khiến anh {happyC}phát cáu thôi.
+88) LEE
+{thinkingA}{body-sitcuffed}Thông báo từ đài phát thanh {thinkingB}nghe bất ổn nhỉ?
+89) COP
+{sadA}{body-drive}Anh cần phải học cách ngừng {normalC}lo lắng về những thứ ngoài tầm kiểm soát.
+90) LEE
+{surpriseC}{body-sitcuffed}Coi chừng!
+91) LEE
+{fearD}{body-sitcuffed}Chết tiệt!
+92) LEE
+{surpriseC}{body-sitcuffed}Có người qua đường!
+93) LEE
+{fearD}{body-sitcuffed}Ông lái kiểu gì vậy?
+94) LEE
+{angryA}{body-sitcuffed}Ông định kết luận {thinkingA}thế nào?
+95) LEE
+{happyA}{body-sitcuffed}Đó là chuyện thường thôi mà.
+96) COP
+{happyB}Ép hôn ư? Ha, phải {happyD}Tôi sẽ nói vậy. [a beat] {thinkingA}Có thể anh vừa cưới nhầm người.
+97) LEE
+{sadB}{body-sitcuffed}[big sigh]
+98) COP
+{sadA}{body-drive}Chà, chỉ nghe cho biết thôi, {fearA}tôi sẽ kể anh nghe điều này.
+115) COP
+{sadA}{body-drive}Chà, chỉ nghe cho biết thôi, {fearA}tôi sẽ kể anh nghe điều này.
+117) COP
+{sadA}{body-drive}Chà, chỉ nghe cho biết thôi, {fearA}tôi sẽ kể anh nghe điều này.
+99) VFX
+kính chắn gió bị vỡ khi xe gặp tai nạn
+100) LEE
+{thinkingB}{body-sitcuffed}[pickup1] Vậy hắn đã làm chuyện đó ư?
+101) 
+Người cảnh sát
+102) 
+Còng tay
+103) 
+Radio
+104) 
+Gương chiếu hậu
+105) COP
+{thinkingA}Không, dĩ nhiên là không.
+113) COP
+{thinkingA}Không, dĩ nhiên là không.
+106) COP
+{sadA}Thật là trùng hợp chứ nhỉ?.
+107) COP
+{happyC}Tôi đã mừng vì chấp hành luật pháp chứ không phải lệnh cấp trên.
+
+Một {fearB}mệnh lệnh quá sai lầm. {sadA}Nếu như anh vô tội thật
+
+thì những {sadB}chuyện đã xảy ra không thể cứu chữa được nữa.
+108) COP
+{normalC}Tôi có một cháu trai sống ở UGA, {happyD}anh dạy học ở đó lâu chưa?
+109) COP
+{thinkingB}[gets angry for a second] Dù sao đi nữa, có thể {disgustA}anh đã {normalC}cưới nhầm người rồi.
+110) LEE
+{thinkingB}[a big bored sigh]

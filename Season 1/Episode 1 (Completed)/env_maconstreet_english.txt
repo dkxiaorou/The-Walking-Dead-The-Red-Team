@@ -1,0 +1,1274 @@
+1) KENNY
+{fearA} Chà, đây là quãng đường xa nhất chúng ta đi được.
+2) LEE
+{happyA} Như vậy cũng xa lắm rồi.
+3) DUCK
+{confusedA} Nhìn này!
+4) KENNY
+{disgustA}{body-standC} Này! {sadB}{body-standB}Anh bạn ơi! xe chúng tôi hết xăng.
+5) KENNY
+{fearC}{body-standD} CÁI ĐỆCH!
+6) KATJAA
+{fearB}{body-standarmsout} Chúng ta mắc kẹt rồi!
+7) DUCK
+{fearB} WAAH!!
+8) DUCK
+{fearC} AHHH! KHÔNG! KHÔNG!!!
+9) GLENN
+{fearC}{body-standA} CHẠY ĐI!!!
+10) LEE
+[keeping quiet] {disgustB}{body-A} ...Chúa ơi!.
+11) DOUG
+[keeping quiet] {fearA} Tôi muốn buồn nôn...
+12) LEE
+[keeping quiet] {disgustA} Bọn chúng vừa...
+13) DOUG
+[keeping quiet][finishing lee's thought] {fearA} Ăn thịt. Đó là những gì tôi biết. Chúng chỉ ăn thịt thôi.
+14) LEE
+[keeping quiet] {sadA} Và nếu một con bắt được cậu thì...
+15) DOUG
+[keeping quiet] {sadB} Chúng sẽ xơi tái anh, những gì chúng bỏ lại sẽ trở thành một trong số chúng.
+16) LEE
+[keeping quiet][in disbelief] {angryA} Thế đéo nào...
+17) DOUG
+[keeping quiet] {fearA} Tôi nghĩ chúng ta sẽ mất một vài ngày để thoát khỏi đây.
+18) LEE
+[keeping quiet] {thinkingA} Phải, tôi cũng nghĩ vậy. Chúng ta hãy cuối người thấp xuống.
+19) DOUG
+{thinkingA}[just hanging out, looking at stuff] Hmm.
+20) LEE
+[keeping quiet] {normalC}{body-B} Chìa khóa mở cửa quầy thuốc có thể ở tên xác sống bị đè đằng kia.
+21) DOUG
+[keeping quiet] {thinkingA} Sao anh chắc thế?
+22) LEE
+[keeping quiet] {thinkingB} Tôi thấy cái này ở phòng riêng.
+23) LEE
+[keeping quiet]Cậu trai trẻ trong bức hình làm việc ở đây.
+
+Chìa khóa đang trên người cậu ta, tôi cá đấy.
+24) DOUG
+[keeping quiet]  Phải! tôi đồng ý. Chúng ta chỉ cần {fearA}tìm cách ra ngoài đó
+
+và lấy chiếc chìa khóa thôi.
+25) DOUG
+{thinkingA}[just hanging out, looking at stuff] Trời ơi...
+26) DOUG
+{thinkingA}[just hanging out, looking at stuff] Huh.
+27) DOUG
+{thinkingA}[just hanging out, looking at stuff] Không thể tin là chuyện này đang xảy ra ở Macon.
+28) DOUG
+{thinkingA}[just hanging out, looking at stuff] Thật là điên rồ.
+29) LEE
+[keeping quiet] {thinkingA} Có ai có góp ý gì về chìa khóa mở quầy thuốc đang ở đâu không? [keeping quiet]
+555) LEE
+[keeping quiet] {thinkingA} Có ai có góp ý gì về chìa khóa mở quầy thuốc đang ở đâu không? [keeping quiet]
+30) DOUG
+[keeping quiet] {thinkinga} Chúng tôi đã tìm cả ở trên cao và dưới đất trước khi mọi người đến rồi.
+
+{fearA}Chìa khóa không có ở xác vợ chồng già mà chúng tôi đã kéo ra ngoài.
+31) DOUG
+[keeping quiet] {fearB} Anh ổn chứ?
+32) LEE
+[keeping quiet] {disgustB}Tôi ổn.
+33) 
+Có ai có góp ý gì về chìa khóa mở quầy thuốc đang ở đâu không?
+34) LEE
+[keeping quiet] {thinkingB} Nếu chìa khóa không có ở cửa hàng thì nó ở đâu được nhỉ?
+35) DOUG
+[keeping quiet] {fearB} Giờ chúng ta đang sống trong thế giới mà
+
+"Cứ thức dậy là phải trốn chạy" {fearA}đó là sự thật.
+36) LEE
+[keeping quiet][casual, agreeing] {normalD} Phải.
+37) LEE
+[keeping quiet]Chìa khóa có thể trên người tên xác sống đằng kia.
+560) 
+Chìa khóa có thể trên người tên xác sống đằng kia.
+38) DOUG
+[keeping quiet]{thinkingA}Ở đâu cơ?
+39) LEE
+[keeping quiet][answering] Bị đè gần bức tường đằng kia.
+40) DOUG
+[keeping quiet]Sao anh biết thế?
+41) LEE
+[keeping quiet]Anh ta, uh... trông như nhân viên hiệu thuốc.
+43) LEE
+[keeping quiet]Tôi đã thấy trước đây... anh ấy uh...
+44) LEE
+[keeping quiet]Hay lảng vảng trong hiệu thuốc. Có thể vậy.
+45) LEE
+[keeping quiet] Tôi không biết nữa, tôi đoán vậy thôi.
+48) 
+Tôi không biết nữa, tôi đoán vậy thôi.
+46) 
+Tôi đã thấy anh ta trước đây, anh ta..
+47) 
+Hay lảng vảng trong hiệu thuốc. Có thể vậy.
+49) 
+...
+106) LEE
+...
+107) LEE
+[sniff, disregarding the comment, thinking something else to   yourself] {sadC}
+112) LEE
+[exhales, quietly dealing with the emotion of seeing his brother dead]
+116) 
+[Remain Silent]
+250) 
+...
+255) LEE
+[Breathing heavy, preparing to axe your zombie brother]
+256) LEE
+[breathing heavy, having just killed his brother]
+261) LEE
+[panting out of breath after huge zombie fight where you had to hack away at your undead brother]
+276) LEE
+[scream, getting eaten by zombies]
+350) LEE
+[axes a zombie in the head, multiple takes]
+351) LEE
+[axes a zombie in the head, multiple takes]
+352) LEE
+[axes a zombie in the head, multiple takes]
+353) LEE
+[axes a zombie in the head, multiple takes]
+354) LEE
+[axes a zombie in the head, multiple takes]
+50) DOUG
+[keeping quiet]{fearA}Là ai cũng được. {thinkingA}Chúng ta không thể cứ tán dóc mãi.
+51) DOUG
+[keeping quiet] {thinkingA}Chúng ta không chắc anh ta làm việc ở đây hay không.
+
+Đấy là hơi liều, hơi mạo hiểm đấy.
+52) DOUG
+[keeping quiet] {thinkingA}Chúng ta không thể giả định bất kỳ điều gì được.
+573) DOUG
+[keeping quiet] {thinkingA}Chúng ta không thể giả định bất kỳ điều gì được.
+53) DOUG
+{thinkingA}Chúng ta phải chứng minh được anh ta làm ở hiệu thuốc
+
+thì mới nhảy ra đấy làm liều được chứ!
+55) DOUG
+Nghe ổn đấy.
+170) LEE
+Nghe ổn đấy.
+56) LEE
+Tìm cách để lục soát tên xác sống đó nào.
+57) 
+Cậu sẵn sàng rồi chứ?
+59) LEE
+Cậu sẵn sàng rồi chứ?
+58) DOUG
+Sẵn sàng như đại bàng luôn! anh thì sao?
+60) 
+Rồi.
+61) 
+Chưa.
+372) 
+Chưa.
+62) LEE
+[keeping quiet] Rồi.
+166) DOUG
+Rồi.
+187) LEE
+Rồi.
+211) LEE
+[agreeing] Rồi.
+215) DOUG
+[down] Rồi..
+63) DOUG
+[keeping quiet] {fearA}Và hiệu thuốc là nơi đủ an toàn, tôi nghĩ vậy.
+
+{thinkingA}Không biết ai là chủ nơi này, được khóa rất kỹ và dự trữ rất nhiều thứ tốt.
+64) DOUG
+[keeping quiet] Phải, tôi nghĩ chúng ta sẽ an toàn khi ở sau cái cổng này.
+65) LEE
+[keeping quiet] Cậu nghĩ chúng ta sẽ an toàn ở đây ư?
+72) 
+Cậu nghĩ chúng ta sẽ an toàn ở đây ư?
+66) LEE
+[keeping quiet] Mọi người thích điều gì ở trong đấy chứ?
+73) 
+Mọi người thích điều gì ở trong đấy chứ?
+67) DOUG
+[keeping quiet] {fearB}Oh... chà, {happyC}Carley là cô gái tốt, anh biết đấy.
+68) LEE
+[keeping quiet] Ha, phải.
+69) DOUG
+[keeping quiet] {fearA}Lilly không có khuyết điểm nào. {thinkingA}Cô ấy dẫn dắt mọi người
+
+giúp mọi người cảnh giác những tên xác sống. Còn bố cô ta thì...
+70) LEE
+[keeping quiet] Chà, ông già đó thì sao? [THAT guy.]
+71) DOUG
+[keeping quiet] Ông ta là... một cựu quân nhân, tôi đoán vây.
+
+Tính tình ông ấy không dễ chịu chút nào cả.
+74) LEE
+[keeping quiet] Cậu định giải quyết thế nào?
+579) 
+Cậu định giải quyết thế nào?
+75) DOUG
+[keeping quiet] Tôi chuyển đến đây để sống với chú họ. Ông ấy là chuyên gia công nghệ
+
+chuyên sáng chế mấy món rất thú vị.
+76) LEE
+[keeping quiet] Vậy cậu là người địa phương rồi.
+
+Chắc hẳn cậu biết ai là chủ hiệu thuốc này.
+77) DOUG
+[keeping quiet]{fearA} Không, thực sự là không.
+
+{normalC}Tôi mới sống ở đây vài tháng và hầu hết tôi chỉ...
+78) LEE
+[keeping quiet] Cắm đầu vào máy tính.
+79) DOUG
+[keeping quiet] {Fearb}Không. Bởi vì {fearA}tôi luôn làm việc riêng.
+80) DOUG
+[keeping quiet] Anh thì sao nào?
+81) LEE
+[keeping quiet]  Tôi lớn lên ở đây. Cố gắng tìm đường về nhà từ khi
+
+những chuyện tồi tệ xay ra.
+82) LEE
+[keeping quiet] Tôi quen một số người sống ở đây. Nơi này rất tốt.
+83) LEE
+[keeping quiet] Tôi chỉ sống ở đây một thời gian ngắn.
+84) LEE
+[keeping quiet] Thì có vấn đề gì chứ?
+88) 
+Thì có vấn đề gì chứ?
+85) 
+Tôi lớn lên ở đây.
+86) 
+Tôi quen một số người sống ở đây.
+87) 
+Tôi chỉ sống ở đây một thời gian ngắn.
+89) LEE
+[keeping quiet] Phải, tôi biết họ. Họ là người tốt.
+90) DOUG
+[keeping quiet] {fearA}Oh, vậy {fearB}anh biết chủ nhân căn nhà này chứ?
+91) LEE
+[keeping quiet] Một gia đình nhưng dường như không phải. [that they are alive]
+92) DOUG
+[keeping quiet] {fearB}Oh, {FearA}là bạn bè, bà con? Hay đại loại như nào?
+93) LEE
+[keeping quiet] Phải. Tôi chỉ chăm sóc người phụ nữ lớn tuổi thôi.
+94) DOUG
+[keeping quiet] {thinkingA}Oh, tuyệt vời. Giờ thì anh có một bé gái rồi.
+95) DOUG
+[keeping quiet] {happya}Tôi đoán không phải vậy. {thinkingA}Khi chuyện gì đó xảy ra
+
+quan trọng là anh giải quyết nó như thế nào
+
+chứ không phải là anh chấp nhận nó.
+96) 
+Rời khỏi
+97) LEE
+[keeping quiet] Chúng ta quay vào trong thôi.
+98) DOUG
+[keeping quiet] {thinkingA}OK.
+99) 
+Trở vào trong
+100) DOUG
+{fearB}Gì thế? anh biết tên đó à?
+101) LEE
+[heart wrenched] {fearB} Ôi chết tiệt...
+102) DOUG
+{confusedA} Nhìn tên khốn tội nghiệp bị đè đằng kia kìa.
+103) LEE
+{sadB}{body-B} Phải. Cậu ta là em trai tôi.
+104) LEE
+{normalD}{body-B} Trông mặt anh ta có vẻ... hơi quen.
+105) LEE
+{sadA}{body-B} Không, chỉ là hơi đồng cảm thôi.
+108) DOUG
+{sadB}{body-standB} Đừng bận tâm, đó không phải chuyện của tôi. Xin lỗi nhé.
+109) DOUG
+{confusedA}{body-standB} Oh...n-như...em trai? Hay là anh trai?
+110) DOUG
+{normalC}{body-standB} Ah. Anh sống ở vùng này phải không?
+111) DOUG
+{sadA} Phải. [it's sad, the zombies]
+113) 
+Anh ta có thể là nhân viên hiệu thuốc này.
+454) LEE
+[pickup1] Anh ta có thể là nhân viên hiệu thuốc này.
+114) 
+Anh ta có gương mặt khá quen với tôi.
+115) 
+Không, chỉ là trông hơi buồn thôi.
+118) DOUG
+[keeping quiet] {fearA}Không. Tôi chỉ mong là anh ta sẽ chết quách đi
+
+{sadA}để không phải chịu cảnh vừa bị mắc kẹt, vừa bị cắn.
+119) LEE
+[keeping quiet] Trông có vẻ như xác sống mắc kẹt ở đó sẽ không thể đi đâu được.
+120) LEE
+[keeping quiet] [utterly horrified but trying to contain it] Chúa ơi! tôi không đùa đâu.
+121) LEE
+[keeping quiet] Nó vẫn đang bị mắc kẹt.
+123) DOUG
+{thinkinga}[keeping quiet]Tất cả việc chúng ta cần làm là tiếp cận tên đó để tìm chìa khóa
+
+mà không bị đám xác sống kia tóm.
+124) LEE
+[keeping quiet]Hãy nhìn xung quanh xem có đường đi nào an toàn đến đấy không.
+125) DOUG
+{fearB}An toàn đấy!
+126) LEE
+Được rồi, anh chàng của chúng ta ở hướng kia.
+127) LEE
+Chúng ta cần đánh lạc hướng đám xác sống ở gần đấy khi bắt đầu tìm kiếm.
+128) DOUG
+Có lẽ tên đó có chìa khóa.
+129) LEE
+Phải, tôi biết mà.
+130) DOUG
+Anh sẽ làm việc đấy chứ hả?
+131) DOUG
+Chà, mà làm thế nào để lừa đám xác sống tránh xa anh đây?
+132) DOUG
+[keeping quiet] Làm sao để lừa đám xác sống đó trong lúc anh đang tìm chìa khóa nhỉ?
+133) DOUG
+Chúng đông quá, nếu ra ngoài thì phải đến gần chúng...
+
+trừ khi anh hạ hết bọn chúng.
+134) LEE
+Chúng ta sẽ lấy thứ đó và làm khiên bảo vệ, cậu thấy sao?
+135) DOUG
+Nó vẫn hơi rủi ro.
+136) LEE
+Hãy nhìn đường dây điện đằng kia.
+137) DOUG
+Những đoạn dây đó phải dẫn đến 33 nghìn vôn điện.
+138) LEE
+Thì sao chứ?
+139) DOUG
+Chúng ta phải tìm cách đưa dây điện xuống mặt đất.
+140) DOUG
+Tôi sẽ giúp anh báo hiệu.
+141) LEE
+Làm gì đó an toàn hơn đi, được chứ?
+142) LEE
+Tôi cần phải cảnh giác phía sau lưng.
+143) DOUG
+Tuy nhiên là ta cần phải gom bọn chúng sang phía bên kia đường
+
+trước khi làm cho đường điện rơi xuống đất.
+144) LEE
+Cây cột điện bị hỏng do vụ tai nạn.
+174) LEE
+Cây cột điện bị hỏng do vụ tai nạn.
+145) DOUG
+Anh nói đúng, không cần gì khác ngoài việc vung cái rìu lửa đó là xong.
+146) DOUG
+Chúng ta cần tìm cách dụ bọn xác sống tránh xa con đường ra.
+147) LEE
+Cậu muốn ra đó tìm chìa khóa không?
+148) DOUG
+Không.
+149) DOUG
+Nhưng nếu anh xung phong ra đó, có thể chúng sẽ lao vào xé xác tôi.
+
+Chúng ta cần phải tìm cách gì đó.
+150) LEE
+Đây là kế hoạch: Khi cái cột đó sắp đổ, tôi sẽ hét lên để cậu chạy ra ngoài kia
+
+sau đó nhảy vào một chiếc ô tô và bấm còi inh ỏi để thu hút bọn xác sống.
+151) DOUG
+Tôi nói thật... tôi không muốn làm mồi nhử đâu.
+152) DOUG
+Anh cần một nơi để trốn trong lúc tôi dụ đám xác sống kia.
+153) LEE
+Tôi sẽ trốn vào cốp chiếc xe bị tai nạn đằng kia.
+154) DOUG
+[thinking] Phải, sẽ hiệu quả đấy.
+194) DOUG
+[thinking] Phải, sẽ hiệu quả đấy.
+155) LEE
+Chúng sẽ không để ý đến tôi và tôi sẽ đẩy đổ cây cột điện
+
+khi bọn chúng tập trung lại. Nghe ổn chứ?
+195) LEE
+Chúng sẽ không để ý đến tôi và tôi sẽ đẩy đổ cây cột điện
+
+khi bọn chúng tập trung lại. Nghe ổn chứ?
+156) DOUG
+Chà, nghe nguy hiểm vãi đái, nhưng ổn phết.
+197) DOUG
+Chà, nghe nguy hiểm vãi đái, nhưng ổn phết.
+157) LEE
+Tôi nghĩ đó là cách tốt nhất. Tôi sẽ lục soát anh bạn kia để tìm chìa khóa.
+196) LEE
+Tôi nghĩ đó là cách tốt nhất. Tôi sẽ lục soát anh bạn kia để tìm chìa khóa.
+158) DOUG
+Nhất trí.
+193) DOUG
+Nhất trí.
+159) LEE
+Tóm lại thế nhé.
+160) DOUG
+Chúng ta đều nghĩ tên xác sống bị đè đằng kia có chìa khóa
+
+việc chúng ta cần làm là đánh lạc hướng lũ xác sống
+
+trong lúc anh đến đó và tìm chìa khóa.
+161) DOUG
+Nếu chúng ta có thể làm cho đường dây điện rơi xuống đất...
+
+anh sẽ an toàn ngăn cách với đám xác sống còn lại
+
+nhưng phải có cách để làm đổ cây cột điện.
+162) DOUG
+Anh sẽ đốn hạ cây cột điện đó, tạo ra một vùng ngăn an toàn
+
+giữa anh với đám xác sống. Nhưng phải tìm cách lùa chúng sang một bên
+
+trước khi làm điều đó.
+163) DOUG
+Tôi sẽ thu hút lũ xác sống bằng cách bấm còi xe
+
+nhưng anh cần tìm chỗ nấp trước đã.
+164) LEE
+Nghe như một kế hoạch tốt đấy.
+165) DOUG
+Tôi nghĩ chúng ta đã sẵng sàng. Anh chạy ra ngoài và bắt đầu đốn hạ cây cột điện
+
+nhớ cẩn thận sau lưng. Khi nó sắp đổ, anh ra hiệu cho tôi
+
+tôi sẽ chạy ra bóp còi ô tô thu hút bọn chúng trong khi anh nấp
+
+trong cốp xe, rồi anh chui ra đốn ngã hẳn cột điện rồi tìm chìa khóa.
+167) LEE
+[casual] Có chiếc xe bị hỏng đằng kia.
+168) DOUG
+Phải... có lẽ  sẽ giúp được gì đó.
+169) LEE
+[hatching a plan] Có một chiếc ô tô đã đâm vào cột điện đằng kia.
+171) LEE
+Tôi nghĩ là cần phải đốn hạ cây cột điện, hoặc cưa đổ hay làm gì đó.
+172) DOUG
+Hay đấy. Tôi nghĩ là anh nên tìm một cái rìu hay một cái cưa
+
+bên trong cửa hàng trong một thời gian ngắn.
+173) DOUG
+Anh nghĩ anh có thể hạ được chúng sao?
+175) DOUG
+Chẳng giúp ích được gì đâu!
+322) LEE
+Chẳng giúp ích được gì đâu!
+338) LEE
+Chẳng giúp ích được gì đâu!
+176) DOUG
+Chúng ta đã tìm ra cách.
+177) LEE
+Tôi cần phải đốn hạ cây cột điện đó.
+178) LEE
+Dùng sức thật dứt khoác để làm điều đó.
+179) LEE
+[doesn't understand stupid reference] Cậu đang nói cái quái gì vậy?
+180) DOUG
+Ah, không có gì.
+181) LEE
+[casual] Đường dây điện kéo dài theo chiều của con đường.
+182) DOUG
+Trông có vẻ cần bảo trì một chút. Tăng điện thế lên chăng?
+183) LEE
+Tốt hơn tôi nên tránh xa thứ đó.
+184) LEE
+[casual] Xe của Kenny ở đó. Nhưng có vẻ bị khóa rồi.
+185) DOUG
+Tôi không biết nữa, xe thì không còn xăng, chúng có thể ập tới chúng ta.
+186) LEE
+Có lẽ chúng ta nên mượn xe của Kenny chăng?
+188) LEE
+Chà, tôi đoán chúng ta có thể chết vì cháy xăng hoặc bọn chúng sẽ
+
+xơi chúng ta như lon cá hộp được mở nắp. Vì vậy tôi nghĩ là không nên.
+189) DOUG
+Nếu nó không hiệu quả thì sao?
+190) LEE
+[hatching a plan] Có lẽ chúng ta nên lái chiếc xe khác tông vào chúng.
+191) LEE
+Xe của Kenny ở phía bên kia đường.
+192) LEE
+Tôi sẽ không vào đó đâu.
+198) LEE
+Tôi sẽ nhảy vào bên trong thùng xe.
+199) LEE
+[casual] Có nhiều phương tiện bị bỏ lại ở khắp nơi.
+200) LEE
+Tôi nghĩ chúng ta không thể làm gì với những chiếc xe bị hỏng đó.
+201) DOUG
+Tôi cũng nghĩ vậy.
+202) LEE
+[hatching a plan] Cậu thử đoán xem bên trong chiếc xe hỏng đó có gì?
+203) DOUG
+Tôi không nghĩ vậy, cho dù là có đi chăng nữa cũng không đáng để mạo hiểm.
+204) LEE
+OK, ok, bỏ qua chuyện này.
+205) LEE
+[hatching a plan] Có lẽ cậu có thể nhảy lên mấy chiếc xe hỏng đó rồi vẫy tay thu hút chúng.
+206) DOUG
+Anh có thể liệt kê cả một danh sách các món mà chúng làm thịt tôi đấy.
+207) LEE
+Cậu đang làm gì thế?
+208) DOUG
+[making a list in his head] 1...2...3...4...
+209) DOUG
+Khó nói lắm, nhưng tôi chợt nghĩ ra điều gì đó.
+
+Anh sẽ gặp nguy hiểm nếu đi xa như vậy.
+210) LEE
+Có lẽ tôi có thể nấp giữa những chiếc xe chăng?
+212) LEE
+Đấy.
+213) LEE
+Chúng sẽ khó nhìn thấy.
+214) DOUG
+Anh biết chúng thế nào mà.
+216) LEE
+[ looking at a zombie] [Sigh] Trời ạ.
+217) DOUG
+Anh sẽ gom được một bầy xác sống.
+218) LEE
+Có lẽ chúng ta phải giết sạch chúng.
+219) LEE
+Ý tôi là "cả bọn".
+220) DOUG
+Anh có thể hạ từng con, nhưng anh cần đứng sau một bức tường
+
+hay thứ gì đó để phòng thủ.
+221) DOUG
+Ha, um, phải, tôi không nghĩ vậy.
+222) DOUG
+Không. Đặc biệt là chúng ta không biết có bao nhiêu con ngoài kia.
+223) LEE
+Chúng ta không thể hạ hết bọn chúng được.
+224) DOUG
+Nếu tạch thì ăn lìn cả đám đấy.
+225) LEE
+Đường dây điện đó có thể chặn được chúng, cậu có nghĩ vậy không?
+226) DOUG
+Thịt tươi, tiếng ồn thì có thể.
+227) LEE
+Cậu có nghĩ là chúng ta có thể lùa bọn chúng sang một bên không?
+228) LEE
+Nếu tôi nấp bọn xác sống, một mình cậu có thể thu hút bọn chúng không?
+229) DOUG
+Được, nhưng anh sẽ nấp ở đâu?
+230) LEE
+[sigh] Chúa ơi... tội thằng bé. [holding back his emotions, talking about seeing his zombie brother]
+231) DOUG
+Phải. Có lẽ anh lục soát cậu ta thì sẽ biết chuyện gì đã xảy ra.
+232) LEE
+Cậu ta là một trong số những tên xác sống ngoài kia à?
+233) LEE
+Tôi không nghĩ cậu ta không có gì giúp chúng ta đốn ngã cây cột điện.
+234) DOUG
+[agreeing] Không.
+308) DOUG
+[agreeing] Không.
+235) LEE
+Cậu ta không giúp chúng ta thu hút lũ xác sống trên đường phố được.
+236) LEE
+Có lẽ tôi nên giả làm xác sống như cậu ta.
+237) DOUG
+Làm vậy rất dễ bị lộ. Không phải ý hay.
+238) LEE
+{thinkingA}{body-B} Tôi cần đốn ngã cây cột điện trước khi tìm chìa khóa.
+239) LEE
+{sadA}{body-C} Được rồi, đến lúc xem cậu ta có chìa khóa hay không rồi.
+240) LEE
+{disgustB}{body-F} Này, nhóc.
+241) LEE
+{thinkingB} Anh không biết bố mẹ gặp chuyện gì. Nhưng anh biết nếu em ở đó...
+
+em sẽ liều mình vì họ...{sadB} Phải rồi, có lẽ mọi chuyện xảy ra như vậy.
+242) LEE
+[yelling back to Doug] {angryB} Chờ tôi 1 giây.
+243) DOUG
+{surprisedA}{body-standC} Anh tìm thấy chìa khóa chưa?
+244) LEE
+Anh xin lỗi vì đã không ở đây.
+247) 
+Anh xin lỗi vì đã không ở đây.
+245) LEE
+Anh không nên bỏ nhà đi.
+248) 
+Anh không nên bỏ nhà đi.
+246) LEE
+Anh phải chấm dứt đau khổ cho em ngay bây giờ.
+249) 
+Anh phải chấm dứt đau khổ cho em ngay bây giờ.
+251) LEE
+[quiet, talking to his dead brother]  {thinkingB}{body-F} Nhưng anh biết em đã cố gắng hết sức bảo vệ bố mẹ rồi.
+252) LEE
+[quiet, talking to his dead brother] {sadB}{body-F} Xin lỗi nhé nhóc. Thứ lỗi vì anh đã không ở đây.
+253) LEE
+[quiet, talking to his dead brother] {sadB}{body-F} Anh không nên rời bỏ gia đình. {disgustB} Khỉ thật, em hiểu ý anh là thế nào mà.
+254) LEE
+[about to have to kill his zombie brother] {sadC}{body-F} Anh phải chấp nhận sự thật thôi. {angryA} Anh buộc phải làm vậy.
+257) LEE
+{fearB}{body-C} ĐỊT!
+258) LEE
+[pickup3][having to hack away at your brother who is a zombie who won't die] {angryD}{body-C} RWAHHH!
+259) LEE
+[pickup3][having to hack away at your brother who is a zombie who won't die] RWAHHH!
+260) LEE
+[pickup3][having to hack away at your brother who is a zombie who won't die] RWAHHH!
+262) LEE
+[Lee bends down and searches the zombies pockets for the keys, finding them pretty quickly. It's uncomfortable though. He's close to his mangled brother's body and he's holding back equal amounts of vomit and tears.] {disgustB}{body-F} Ugh...[gulp]...Chúa ơi...[sniff]...[improvise]
+263) DOUG
+{fearC} CHẠY ĐI!
+264) DOUG
+{surprisedA}ÔI MẸ ƠI!
+265) LEE
+[UTTERLY RELIEVED] {thinkingA} Chìa khóa đây rồi.
+266) LEE
+Có một chiếc ô tô hỏng đằng kia.
+267) DOUG
+[agreeing] Không chắc lắm.
+268) LEE
+Cậu có nghĩ là bên trong ô tô đó có gì hữu dụng giúp ngăn lũ xác sống không?
+269) DOUG
+Chiếc ô tô đã đâm hỏng cây cột điện đó...
+270) LEE
+Có lẽ cái xe đó giúp ích đấy.
+271) DOUG
+[agreeing] Không, có lẽ là không.
+346) DOUG
+Không, có lẽ không.
+272) LEE
+Chiếc xe hỏng đó chẳng giúp ích gì.
+273) LEE
+Tôi sẽ nhảy vào chiếc xe tải khi tôi có thể.
+274) LEE
+[to himself] Chết tiệt! thôi nào Doug!
+275) LEE
+[to himself] Tên đó đang muốn xơi mình ư? Đệch cụ mày ngon tới đây...
+277) LEE
+[quiet, whisper, to himself] Vẫn ở đó...
+278) LEE
+[quiet, whisper, to himself] Tốt hơn tôi nên đóng cái này lại.
+279) LEE
+Chỉ là mấy cái thùng rác.
+291) LEE
+Chỉ là mấy cái thùng rác.
+280) DOUG
+Nah.
+284) DOUG
+Nah.
+292) DOUG
+Nah.
+297) DOUG
+Nah.
+281) LEE
+[hatching a plan] Cậu có nghĩ mấy cái thùng rác đằng kia có thể giúp ích không?
+285) LEE
+[hatching a plan] Cậu có nghĩ mấy cái thùng rác đằng kia có thể giúp ích không?
+293) LEE
+[hatching a plan] Cậu có nghĩ mấy cái thùng rác đằng kia có thể giúp ích không?
+296) LEE
+[hatching a plan] Cậu có nghĩ mấy cái thùng rác đằng kia có thể giúp ích không?
+282) DOUG
+À, tôi không nghĩ thế.
+294) DOUG
+À, tôi không nghĩ thế.
+283) LEE
+[hatching a plan] Nó cũng chả giúp ích được gì.
+295) LEE
+[hatching a plan] Nó cũng chả giúp ích được gì.
+286) LEE
+[hatching a plan] Có lẽ tôi nên nấp vào thùng rác.
+299) LEE
+[hatching a plan] Có lẽ tôi nên nấp vào thùng rác.
+287) DOUG
+Anh thực sự muốn vậy hả?
+301) DOUG
+Anh thực sự muốn vậy hả?
+288) LEE
+Trừ khi bắt buộc thôi.
+302) LEE
+Trừ khi bắt buộc thôi.
+289) DOUG
+Như vậy sẽ bất lợi cho anh. Có những nơi khác tốt hơn có thể nấp mà.
+300) DOUG
+Như vậy sẽ bất lợi cho anh. Có những nơi khác tốt hơn có thể nấp mà.
+290) LEE
+[hatching a plan] Lửa tắt hết rồi.
+298) LEE
+[hatching a plan] Lửa tắt hết rồi.
+303) LEE
+Mọi người đã cố gắng chạy đến trung tâm thành phố huh?
+304) DOUG
+Phải, anh biết đấy. Họ đã cố hết sức rồi.
+305) LEE
+Có lẽ nên thử lùa hết bọn chúng vào trong nhỉ?
+306) DOUG
+Nguy hiểm lắm, tôi không nghĩ vậy.
+307) LEE
+[hatching a plan] Không có gì ở đó cả...
+309) LEE
+[hatching a plan] Đóng mấy tấm ván gỗ lên cửa sổ chả giúp ích được gì.
+310) DOUG
+Phải có một nơi nào đó tốt hơn.
+311) LEE
+[hatching a plan] Tôi có thể nấp ở đó chứ nhỉ?
+312) LEE
+Tôi chẳng biết nữa.
+456) DOUG
+{fearA}[pickup1] Tôi không biết...
+313) DOUG
+Làm thế nào mà anh vào trong được?
+314) DOUG
+Đó sẽ là những gì họ làm.
+331) DOUG
+Đó sẽ là những gì họ làm.
+315) LEE
+Chúng xé xác anh ta... hoặc cô ta... tan nát rồi.
+330) LEE
+Chúng xé xác anh ta... hoặc cô ta... tan nát rồi.
+316) LEE
+[hatching a plan] Có lẽ chúng ta có thể tận dụng phần còn lại của cái xác đó?
+332) LEE
+[hatching a plan] Có lẽ chúng ta có thể tận dụng phần còn lại của cái xác đó?
+317) DOUG
+Ôi, tôi chẳng dám nghĩ tới luôn.
+333) DOUG
+Ôi, tôi chẳng dám nghĩ tới luôn.
+318) LEE
+Mà cũng chẳng giúp ích gì cả.
+334) LEE
+Mà cũng chẳng giúp ích gì cả.
+319) LEE
+[hatching a plan] Thu hút bọn chúng bằng thớ thịt tươi còn lại, có thể không?
+335) LEE
+[hatching a plan] Thu hút bọn chúng bằng thớ thịt tươi còn lại, có thể không?
+320) DOUG
+Tôi nghĩ sẽ không hiệu quả đâu. Đâu biết khi nào chúng thèm thịt tươi.
+337) DOUG
+Tôi nghĩ sẽ không hiệu quả đâu. Đâu biết khi nào chúng thèm thịt tươi.
+321) LEE
+Phải, tôi hiểu.
+336) LEE
+Phải, tôi hiểu.
+323) LEE
+Được rồi, hãy tìm hiểu xem thế nào.
+324) DOUG
+Chúng ta không thể xông ra đó nếu không có kế hoạch, tự sát đấy anh bạn.
+325) DOUG
+Whoa, Lee! Đừng dại mà xông ra chứ!
+326) DOUG
+Anh sẵn sàng chưa?
+327) LEE
+Chúng ta bắt đầu thôi.
+371) 
+Chúng ta bắt đầu thôi.
+328) DOUG
+Được rồi, tôi theo sau anh.
+329) DOUG
+Được thôi. Tôi sẵng sàng khi anh muốn.
+339) LEE
+Ngoài kia có rác khắp mọi nơi.
+340) DOUG
+Phải, trông chả giống một nước Mỹ gì cả, phải không?
+341) LEE
+Chỉ một phần thôi, không phải ở trung tâm Macon.
+342) LEE
+Tôi nghĩ là mảnh vụn đó vô tác dụng.
+343) LEE
+Tôi nghĩ là mảnh vụn đó vô tác dụng.
+344) LEE
+Tôi nghĩ là mảnh vụn đó vô tác dụng.
+345) LEE
+Tôi nghĩ là trốn ở những mảnh vụn ngoài kia sẽ an toàn.
+347) LEE
+[pulling on something that won't budge] GRRARRRAAHHH! [no luck]
+348) LEE
+Nếu tiếp tục, tôi có thể đốn ngã nó.
+349) LEE
+Chỉ cần cẩn thận sau lưng, tôi có thể đốn ngã cây cột điện đó.
+355) LEE
+[grabbed on the leg by a zombie, two takes] AHHH!
+356) LEE
+[grabbed on the leg by a zombie, two takes] AHHH!
+357) LEE
+[landing hard on the hood of a car] OOF!
+358) LEE
+[being eaten by zombies, torn limb from limb] AHHAHHAANOOOAAAHH!
+359) 
+Cây cột điện
+360) 
+Xác sống bị kẹt
+361) 
+Dây điện
+362) 
+Mảnh vụn
+363) 
+Chốt cổng
+364) 
+Cửa sổ bị đóng ván
+365) 
+Thi thể
+366) 
+Thùng rác
+367) 
+Cốp xe
+368) 
+Ô tô hỏng
+369) 
+Xe bán tải của Kenny
+370) 
+Xe bị bỏ hoang
+373) 
+Cửa cốp xe
+374) LEE
+[pickup1] [keeping quiet] Anh bạn tội nghiệp đó toang rồi.
+
+Chúng ta nên nhử chúng bằng bản thân mình nếu bất đắc dĩ.
+375) DOUG
+[pickup1] [keeping quiet] [defensive] Tôi là thành viên CLB "đi bộ". {FearA}Thử thách một chút cũng không tồi.
+376) LEE
+[pickup1] [keeping quiet] Đường phố đầy xác sống, khó mà ra đó để tìm chìa khóa.
+377) LEE
+[pickup1] [keeping quiet] Cậu có thể chạy ra đó và lùa chúng ra xa không?
+
+Giống như thi chạy đường trường khi đi học thôi.
+378) DOUG
+[pickup1] {fearA}[keeping quiet] Hoàn toàn được. {thinkingA}Có lẽ chúng có thể bị lùa đến trung tâm toà nhà hay đâu đó.
+380) 
+Chỉ cần lùa chúng đi xa thì chúng ta có thể an toàn ra đó tìm chìa khóa.
+381) 
+Tôi thấy cái điều khiển này ở phòng riêng.
+382) LEE
+[pickup1] [keeping quiet] Chúng tôi thấy cái điều khiển này ở dãy nhà nghỉ. Có lẽ nó sẽ giúp ích cho cậu.
+387) LEE
+[pickup1] [keeping quiet] Chúng tôi thấy cái điều khiển này ở dãy nhà nghỉ. Có lẽ nó sẽ giúp ích cho cậu.
+383) DOUG
+[pickup1] [keeping quiet]{feara}Eh, Tôi thường hay nghịch mấy cái như này lúc bé, giờ thì tôi ít thời gian
+
+để tìm hiểu hơn rồi. {sadA}Trời ơi, tôi nhớ những con robot quá.
+384) LEE
+[pickup1] [keeping quiet] YCậu là người mạnh mẽ, Doug.
+385) DOUG
+[pickup1] [keeping quiet] Tôi biết.
+388) DOUG
+{thinkingA}[pickup1] [keeping quiet] Anh biết những gì tôi có thể làm được mà.
+520) DOUG
+{thinkingA}[pickup1] [keeping quiet] Anh biết những gì tôi có thể làm được mà.
+389) LEE
+[pickup1] [keeping quiet] Thử cái này!
+516) LEE
+[pickup1] [keeping quiet] Thử cái này!
+390) DOUG
+[pickup1] [keeping quiet] Cái điều khiển chung.{thinkingB} Tôi có thể điều chỉnh từ xa
+
+tới chiếc TV bên kia đường. {fearA}Hy vọng nó vẫn còn điện để hoạt động.
+518) DOUG
+[pickup1] [keeping quiet] Cái điều khiển chung.{thinkingB} Tôi có thể điều chỉnh từ xa
+
+tới chiếc TV bên kia đường. {fearA}Hy vọng nó vẫn còn điện để hoạt động.
+391) LEE
+[pickup1] [keeping quiet] Cậu làm được không đấy?
+515) LEE
+[pickup1] [keeping quiet] Cậu làm được không đấy?
+392) DOUG
+[pickup1] [keeping quiet]{thinkingA}Tôi nhớ tất cả mã lệnh lúc tôi còn ở AV. Để tôi thử.
+519) DOUG
+[pickup1] [keeping quiet]{thinkingA}Tôi nhớ tất cả mã lệnh lúc tôi còn ở AV. Để tôi thử.
+393) LEE
+[pickup1] Thật là vi diệu đấy Doug. Tuy là vớ vẩn nhưng có thể cứu mạng.
+517) LEE
+[pickup1] Thật là vi diệu đấy Doug. Tuy là vớ vẩn nhưng có thể cứu mạng.
+394) DOUG
+[pickup1][keeping quiet] [chuffed with himself]{thinkingB}Ai mới bảo tôi không làm được đấy?
+514) DOUG
+[pickup1][keeping quiet] [chuffed with himself]{thinkingB}Ai mới bảo tôi không làm được đấy?
+395) 
+Cái gì ở đằng kia trông như TV nhỉ?
+397) DOUG
+{FearA}Có vài con bắt đầu chú ý tiếng ồn rồi...
+398) LEE
+Nhưng vẫn chưa đủ.
+399) LEE
+[pickup1] {angryC}Tốn một lúc để thử lục soát là biết tên đó có chìa khóa hay không.
+400) LEE
+[pickup1] [hushed] {sadB}Tôi không muốn nhìn thằng bé trong hoàn cảnh này.
+401) LEE
+[pickup1][hushed] {thinkingB} Ha, thật tệ khi chúng ta không thể nào ra đây xem tin tức được.
+402) DOUG
+[pickup1][hushed] {fearA}Sẽ ổn hơn nếu biết được những nơi khác đang thế nào nhỉ?
+403) LEE
+[pickup1][hushed] {normalD} Atlanta giờ toang nặng rồi, đó là những gì tôi biết.
+404) LEE
+Tới lúc rồi.
+405) DOUG
+{fearA}Cẩn thận nhé.
+406) LEE
+Nhìn xung quanh cảnh giác nhé.
+407) DOUG
+{thinkingA}Okey con dê.
+408) LEE
+[pickup1] Chỗ đó đầy Tivi và thiết bị điện.
+409) DOUG
+[pickup1][hushed] {fearB}Tôi thử rồi, {thinkingA}nhưng quá mạo hiểm.
+
+{FearA}Tôi thấy hàng tá người cố xông vào trong đó và rồi...
+410) DOUG
+[pickup1][hushed] Tôi nghĩ giờ họ là những xác sống mà anh thấy ngoài kia.
+411) LEE
+[pickup1][hushed] {normalD} Các cậu đã thử vào đó để tìm vũ khí chưa?
+412) LEE
+[pickup1][hushed] {sadA} Sau đó thì sao?
+413) LEE
+[pickup1][hushed] Tôi biết mà, Doug.
+414) DOUG
+[pickup1][hushed] {normalC}Nó tuy là điều khiển được nhiều thứ, {fearB}nhưng không phải thần chú.
+415) LEE
+[pickup1][hushed][short/quick/terse] Đùa tí cho vui.
+416) DOUG
+[pickup1][hushed] {FearB}Không có tác dụng đâu ông anh.
+417) LEE
+[pickup1][hushed] Vừng ơi! mở ra.
+418) LEE
+[pickup1][hushed] [adventure game line]Không.
+419) DOUG
+[pickup1][hushed] ...Không.
+527) DOUG
+[pickup1][hushed] ...Không.
+420) LEE
+[pickup1][hushed] Giờ chúng ta không có cách nào để xông ra đó.
+525) LEE
+[pickup1][hushed] Giờ chúng ta không có cách nào để xông ra đó.
+421) LEE
+[pickup1][hushed] Cậu biết cách phối hợp phải không?
+529) LEE
+[pickup1][hushed] Cậu biết cách phối hợp phải không?
+422) LEE
+[pickup1][hushed]Có ai đã từng phối hợp với nhau chưa?
+522) LEE
+[pickup1][hushed]Có ai đã từng phối hợp với nhau chưa?
+423) LEE
+[pickup1][hushed] Doug, cậu muốn mở cổng không?
+528) LEE
+[pickup1][hushed] Doug, cậu muốn mở cổng không?
+424) DOUG
+[pickup1][hushed] {thinkingA}Nhìn đi anh bạn. Ngoài kia có rất nhiều xác sống đang cố gắng
+
+tràn vào trong này đấy...
+524) DOUG
+[pickup1][hushed] {thinkingA}Nhìn đi anh bạn. Ngoài kia có rất nhiều xác sống đang cố gắng
+
+tràn vào trong này đấy...
+425) DOUG
+[pickup1][hushed] {FearB} Bọn chúng thì sao...
+523) DOUG
+[pickup1][hushed] {FearB} Bọn chúng thì sao...
+426) DOUG
+[pickup1][hushed] {fearA}Chúng ta cũng có thể phối hợp để chiến đấu.
+526) DOUG
+[pickup1][hushed] {fearA}Chúng ta cũng có thể phối hợp để chiến đấu.
+427) LEE
+[pickup1][hushed] Chúng ta sẽ làm được.
+533) LEE
+[pickup1][hushed] Chúng ta sẽ làm được.
+428) DOUG
+[pickup1][hushed] {fearA}Hay là đi ra ngoài đấy bằng cửa sau nhỉ?
+534) DOUG
+[pickup1][hushed] {fearA}Hay là đi ra ngoài đấy bằng cửa sau nhỉ?
+429) LEE
+[pickup1][hushed] Tôi phải đập cái khóa đó.
+532) LEE
+[pickup1][hushed] Tôi phải đập cái khóa đó.
+430) DOUG
+[pickup1][hushed] {thinkingA}Anh nói đúng rồi, nếu chúng ta giúp lão Larry thì ta cần mở khóa quầy thuốc.
+530) DOUG
+[pickup1][hushed] {thinkingA}Anh nói đúng rồi, nếu chúng ta giúp lão Larry thì ta cần mở khóa quầy thuốc.
+431) LEE
+[pickup1][hushed] Với dàn dây điện hỏng nằm vương vãi với những con hẻm đầy nguy hiểm
+
+thì chúng ta cần phải ra khỏi thị trấn này mới an toàn.
+531) LEE
+[pickup1][hushed] Với dàn dây điện hỏng nằm vương vãi với những con hẻm đầy nguy hiểm
+
+thì chúng ta cần phải ra khỏi thị trấn này mới an toàn.
+432) DOUG
+[pickup1][hushed] Xin lỗi.
+433) LEE
+[pickup1][hushed] Chúng ta phải đập cái khóa trước mới có thể ra ngoài.
+535) LEE
+[pickup1][hushed] Chúng ta phải đập cái khóa trước mới có thể ra ngoài.
+434) LEE
+[pickup1] [hammering a nail] Ugh!
+435) LEE
+[pickup1] [hammering a nail] Ugh!
+436) LEE
+[pickup1] Phải lấy cái gì đó to cứng hơn một chút.
+437) DOUG
+[pickup1] [hushed]{happyD} Tuyệt!
+438) LEE
+[pickup3][hushed] Tôi không với tới cục gạch được.
+439) LEE
+[pickup1] [justifying himself] {thinkingA} Tôi có ý này.
+440) DOUG
+[pickup1] {happyA} Phá hoại một chút cũng tốt.
+441) LEE
+[pickup1] [lee throws a rock]
+442) 
+Ổ khóa
+443) 
+Tivi cửa hàng
+444) 
+Cửa hàng vật dụng
+445) 
+Cục gạch
+446) DOUG
+[pickup1][keeping quiet] {fearBChà, đến giờ thì chúng vẫn không phá được cái cổng này.
+447) DOUG
+[pickup1] {angryA}Hắn trông như một tên ngu đần. {fearB}Tiếng Pháp tôi hơi kém.
+448) DOUG
+{fearA}[pickup1]Hắn trông ổn hơn chúng ta nhỉ?
+449) LEE
+[pickup1] [distressed] Nhìn tên xác sống mắc kẹt ở đó kìa...
+450) LEE
+[pickup1] [angry and sharp because you're upset] Cậu im đi, Doug.
+452) LEE
+[pickup1] [angry and sharp because you're upset] Cậu im đi, Doug.
+458) LEE
+[pickup1] [angry and sharp because you're upset] Cậu im đi, Doug.
+575) LEE
+[pickup1] [angry and sharp because you're upset] Cậu im đi, Doug.
+451) DOUG
+[pickup1] {fearB}Có thể là ai đó mà anh quen chăng?
+
+{fearA}Họ đang thối rửa, cơ thể bị nhai nát bét hết và--
+453) DOUG
+[pickup1] {fearB}Có thể là ai đó mà anh quen chăng?
+
+{fearA}Họ đang thối rửa, cơ thể bị nhai nát bét hết và--
+457) DOUG
+[pickup1] {fearB}Có thể là ai đó mà anh quen chăng?
+
+{fearA}Họ đang thối rửa, cơ thể bị nhai nát bét hết và--
+576) DOUG
+[pickup1] {fearB}Có thể là ai đó mà anh quen chăng?
+
+{fearA}Họ đang thối rửa, cơ thể bị nhai nát bét hết và--
+455) DOUG
+[pickup1]{thinkingA} Ý anh là tên đó có chìa khóa quầy thuốc à?
+459) LEE
+[pickup1] [emotional, not talking about the thing that is really upsetting you] Tôi đang bảo là tên đó có thể giữ chìa khóa quầy thuốc.
+460) LEE
+[pickup1][hushed] Thanh niên đằng kia có chìa khóa
+461) DOUG
+{fearB}[pickup1][hushed]Cẩn thận đấy!
+462) DOUG
+{fearC}[pickup1][hushed] Lấy thứ cần lấy rồi quay lại nhanh lên!
+463) DOUG
+{FearB}[pickup1][hushed] Coi chừng! anh bạn!
+464) LEE
+[pickup1][hushed] Tôi sẽ không đi quá xa đâu.
+465) DOUG
+{fearC}[pickup1][hushed]Chúng tới kìa!
+466) DOUG
+[pickup1][hushed]{fearB} Đừng nhúc nhích.
+467) DOUG
+[pickup1][hushed][lee is far away]{fearC} Đừng tới gần quá!
+468) DOUG
+[pickup1][hushed][lee is far away] {FearC}Coi chừng!
+469) DOUG
+[pickup1][hushed][lee is far away] {FearB}Quay lại! Anh bạn!
+470) DOUG
+[pickup1][hushed][lee is far away] {fearB}Lee, không!
+471) DOUG
+[pickup1][hushed][lee is far away] {fearA}Anh đang đùa với lửa đấy anh bạn à!
+472) DOUG
+[pickup1][hushed][lee is far away] {fearC}Anh bị ngáo à?!
+473) DOUG
+[pickup1][lee is far away]{fearD}Ôi Chúa ơi, ÔI CHÚA ƠI! LEE!!! LEEE!!!!
+474) DOUG
+[pickup1][lee is far away] {fearD}ĐỆCH! KHÔÔÔÔÔNG! LEE!!!
+475) LEE
+[pickup1][hushed]Nah, chỉ cần vài giây thôi.
+476) DOUG
+[pickup1][hushed] {thinkingA}Anh không cần nhiều thời gian đâu nhỉ?
+477) DOUG
+[pickup1][hushed]Có lẽ có cách nào đó để lừa chúng đi khỏi và có một ít
+
+thời gian cho anh chạy ra đó.
+478) LEE
+[pickup1][hushed] Mấy cái màn hình Tivi đó đang bật, tôi cá là nếu
+
+phá cửa kính thì tiếng ồn lớn đó sẽ thu hút bọn xác sống.
+479) DOUG
+[pickup1][hushed] {fearA}Một vài con không nghe thấy {thinkingA}hoặc nó không quan tâm.
+480) DOUG
+[pickup1][hushed]{thinkingA}Phải, và một vài con bị mắc kẹt nữa.
+481) LEE
+[pickup1][hushed]OK, để xem sau đó ra sao.
+482) LEE
+[pickup1][hushed]Có lẽ ta nên đánh lạc hướng chúng bằng xe bán tải của Kenny.
+483) LEE
+[pickup1][hushed] Tôi mong Glenn tìm được một ít xăng để khởi động xe của Kenny.
+484) LEE
+[pickup1][hushed] Cậu biết không,  tôi cũng chả chắc nữa.
+485) DOUG
+[pickup1][hushed] Cô bé đó thì sao?
+486) DOUG
+[pickup1][hushed] {thinkingA}Mấy người các anh định đi đâu thế?
+487) LEE
+[pickup1][hushed]Cái gì ở đằng kia trông như TV nhỉ?
+488) DOUG
+[pickup1]{fearA}[hushed]Hoặc ít nhất là tiếng ồn của nó.
+489) DOUG
+[pickup1][hushed]Nếu phát ra tiếng ồn lớn{thinkingA} chúng ta có thể lùa cả bọn ra khỏi đường.
+490) DOUG
+[pickup1][panicked]{thinkingB} Nhanh nào! nhanh nào!
+491) DOUG
+{fearC}[pickup1][panicked] Nhanh! nhanh! nhanh! nhanh!
+492) 
+Trò chuyện với
+493) 
+Đưa điều khiển cho
+494) 
+Quan sát
+495) 
+Dùng điều khiển cho
+500) 
+Dùng điều khiển cho
+496) 
+Ném cục gạch vào
+497) 
+Mở
+501) 
+Mở
+498) 
+Dùng búa
+499) 
+Dùng rìu
+502) 
+So sánh ảnh với
+503) 
+Quan sát
+505) 
+Quan sát
+504) 
+Đi đến
+506) 
+Tiếp cận
+508) 
+Tiếp cận
+509) 
+Giết
+510) 
+Giết
+511) 
+Giết
+512) 
+Giết
+513) 
+Giết
+521) 
+Show photo to
+536) DOUG
+[pickup1] [hushed]Này anh bạn, anh làm cái gì vậy?
+
+Chúng ta không thể mở cửa được khi không biết bên ngoài có chìa khóa không.
+537) DOUG
+[pickup1] [hushed]Này anh bạn, anh làm cái gì vậy?
+
+Chúng ta không thể mở cửa được khi không biết bên ngoài có chìa khóa không.
+538) DOUG
+[pickup1] [hushed]Này anh bạn, anh làm cái gì vậy?
+
+Chúng ta không thể mở cửa được khi không biết bên ngoài có chìa khóa không.
+539) LEE
+[pickup3] [breathing heavy, having just killed your brother]
+540) LEE
+[pickup3] [a huge emtional strike of an axe... this is your worst nightmare]
+541) 
+Đi đến
+542) 
+Tìm chìa khóa
+543) 
+Nhìn
+544) 
+Nhìn
+577) 
+Nhìn
+545) DOUG
+[pickup2][keeping quiet] Sẽ rất khó và mạo hiểm để ra ngoài đấy xem trong túi áo anh ta
+
+có chìa khóa hay không đấy. [buuut,]
+546) DOUG
+[pickup2][keeping quiet] Nếu đúng là anh ta là nhân viên hiệu thuốc thật
+
+thì có nguy hiểm để xông ra cũng đáng.
+547) LEE
+[pickup3][keeping quiet] Tôi sẽ thử nhìn hết những gì tôi thấy được...
+548) LEE
+[pickup3][hushed] Tôi sẽ xác định xem... cậu bé đó[emotional] có làm việc ở đây không.
+549) DOUG
+[pickup2][hushed] Nghe được đấy.
+550) LEE
+[pickup3] [keeping quiet]Chúng ta chỉ cần xác minh anh ta làm việc ở hiệu thuốc này
+
+sau đó chúng ta có thể tìm cách dụ đám xác sống đi
+
+rồi lục tìm chìa khóa ở túi áo anh ta.
+551) DOUG
+[pickup2] [keeping quiet]Phải, nhưng mà nói thì dễ, làm mới khó.
+552) LEE
+[pickup3] [keeping quiet] Ôi trời, có vẻ như được đóng ván cố định lên rất vội.
+553) DOUG
+[pickup2][keeping quiet] Phải, nhưng chẳng ăn thua. [they're all dead]
+554) DOUG
+[pickup2][keeping quiet] {thinkingA} Có lẽ anh ta có chìa khóa, {fearA}nhưng ai mà biết được
+
+anh ta có phải nhân viên hiệu thuốc hay không?
+556) DOUG
+[pickup2] Đó có vẻ là phương án an toàn nhất trong số các phương án nguy hiểm.
+557) LEE
+[pickup3] Xác sống nhạy cảm với tiếng ồn. Chúng ta có thể dùng cách đó để thu hút chúng.
+558) LEE
+[pickup3][keeping quiet] Nhìn đồng phục anh ta mặc, tôi nghĩ anh ta có thể làm ở
+
+hiệu thuốc và bỏ mạng nhưng chìa khóa vẫn trong túi áo anh ta.
+559) DOUG
+[pickup2][keeping quiet] Không, chúng ta nên tiếp tục tìm xung quanh xem.
+561) LEE
+[pickup3] {thinkingA} Chúng ta nên thử lục soát tên xác sống bên kia đường.
+562) 
+Chúng ta nên thử lục soát xác sống bị mắc kẹt.
+563) DOUG
+[pickup2] [hushed]Thời cơ đến rồi.
+564) DOUG
+[pickup2] [hushed]Giờ thì phải dụ bọn xác sống đi bớt... cẩn thận đấy.
+565) LEE
+[pickup2][hushed] Không có chuyện gì cả. Có chuyện gì đó xảy đến với chúng tôi và mọi người bên trong.
+566) LEE
+[pickup3] Giờ chúng ta chỉ cần mở cái khóa này.
+567) LEE
+[pickup3] Đó là một cái ổ khóa bị khóa chặt.
+568) LEE
+[pickup3] Nó khóa chắc như cái tên của nó vậy.
+569) LEE
+[pickup1] Tôi đang nghĩ cái này có giúp ích gì không?
+570) LEE
+[pickup1] Tôi đang nghĩ cái này có giúp ích gì không?
+574) LEE
+[pickup1] Tôi đang nghĩ cái này có giúp ích gì không?
+571) DOUG
+Nếu muốn giúp lão Larry thì chúng ta cần phải phá
+
+cái ổ khóa cổng này trước đã.
+572) 
+Xác sống bị kẹt
+578) 
+Em trai của Lee
+580) 
+Hiệu thuốc
+581) 
+Đi vào

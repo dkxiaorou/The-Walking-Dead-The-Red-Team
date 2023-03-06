@@ -1,0 +1,470 @@
+1) LEE
+{thinkingB} ...Xin chào?
+2) CLEMENTINE
+[Walkie-Talkie processed] Chú còn sống chứ ạ?
+3) ACTION
+Nhặt
+4) LEE
+{happyA} Ừa, chú vẫn sống.
+47) 
+Ừa, chú vẫn sống.
+5) LEE
+{happyA} Chú không phải quái vật.
+57) 
+Chú không phải quái vật.
+6) LEE
+{normalC} Cháu là ai?
+56) 
+Cháu là ai?
+7) LEE
+{sadA} Cháu ổn không?
+49) 
+Cháu ổn không?
+8) LEE
+...
+59) ZOMBIE
+[Groannn]
+114) LEE
+[wince1]
+115) LEE
+[wince4]
+116) LEE
+[wince5]
+117) LEE
+[wince3]
+118) LEE
+[wince2]
+127) LEE
+[heavy, relieved, panicked, HOLY SHIT THAT JUST HAPPENED breathing] {sadC}
+154) LEE
+[angry yell, attacking something 2]
+168) LEE
+[sounds of Lee whincing1]
+169) LEE
+[a bunch of sounds of Lee whincing2]
+170) LEE
+[a bunch of sounds of Lee whincing3]
+171) LEE
+[a bunch of sounds of Lee whincing4]
+172) LEE
+[a bunch of sounds of Lee whincing5]
+178) ZOMBIE
+[Groannn]
+9) CLEMENTINE
+[Walkie-Talkie processed] Cháu cũng thế ạ.
+10) LEE
+[a little charmed by Clementine] {happyB} Tốt.
+11) CLEMENTINE
+[Walkie-Talkie processed] [relieved] Tốt.
+12) CLEMENTINE
+[Walkie-talkie processed] Chú không phải bố cháu ạ?
+104) CLEMENTINE
+[Walkie-talkie processed] Chú không phải bố cháu ạ?
+139) CLEMENTINE
+[Walkie-talkie processed] Chú không phải bố cháu ạ?
+13) LEE
+{sadC} Không, chú không phải.
+25) LEE
+Không, chú không phải.
+102) LEE
+{sadC} Không, chú không phải.
+140) LEE
+{sadC} Không, chú không phải.
+14) LEE
+{happyA} Chào Clementine. Chú là Lee.
+105) LEE
+{happyA} Chào Clementine. Chú là Lee.
+138) LEE
+{happyA} Chào Clementine. Chú là Lee.
+15) CLEMENTINE
+[Walkie-talkie processed] Cháu tên là Clementine. Đây là nhà cháu.
+103) CLEMENTINE
+[Walkie-talkie processed] Cháu tên là Clementine. Đây là nhà cháu.
+137) CLEMENTINE
+[Walkie-talkie processed] Cháu tên là Clementine. Đây là nhà cháu.
+16) CLEMENTINE
+[Walkie-talkie processed] Cháu ổn! Bọn chúng cố bắt cháu. Nhưng cháu trốn và chờ đến khi bố mẹ về.
+17) CLEMENTINE
+[Walkie-talkie processed] Alô? Chúng bắt được chú rồi ạ?
+188) CLEMENTINE
+[Walkie-talkie processed] Alô? Chúng bắt được chú rồi ạ?
+195) CLEMENTINE
+[Walkie-talkie processed] Alô? Chúng bắt được chú rồi ạ?
+199) CLEMENTINE
+[Walkie-talkie processed] Alô? Chúng bắt được chú rồi ạ?
+18) LEE
+[conjoiner] Chú xin lỗi, chú đây này.
+19) LEE
+[conjoiner] Chú xin lỗi, chú đây này.
+20) LEE
+[conjoiner] Chú xin lỗi, chú đây này.
+21) LEE
+[conjoiner] {normalB} Chú xin lỗi, chú đây này.
+187) LEE
+[conjoiner] {normalB} Chú xin lỗi, chú đây này.
+194) LEE
+[conjoiner] {normalB} Chú xin lỗi, chú đây này.
+200) LEE
+[conjoiner] {normalB} Chú xin lỗi, chú đây này.
+22) CLEMENTINE
+[Walkie-talkie processed] [sad] Làm ơn đừng bỏ cháu.
+189) CLEMENTINE
+[Walkie-talkie processed] [sad] Làm ơn đừng bỏ cháu.
+196) CLEMENTINE
+[Walkie-talkie processed] [sad] Làm ơn đừng bỏ cháu.
+201) CLEMENTINE
+[Walkie-talkie processed] [sad] Làm ơn đừng bỏ cháu.
+23) CLEMENTINE
+[Walkie-talkie processed]  [sniffling] ...Chú cũng chết rồi ạ?
+190) CLEMENTINE
+[Walkie-talkie processed]  [sniffling] ...Chú cũng chết rồi ạ?
+197) CLEMENTINE
+[Walkie-talkie processed]  [sniffling] ...Chú cũng chết rồi ạ?
+202) CLEMENTINE
+[Walkie-talkie processed]  [sniffling] ...Chú cũng chết rồi ạ?
+24) CLEMENTINE
+[Walkie-talkie processed] [very sad] Xin chào?...
+191) CLEMENTINE
+[Walkie-talkie processed] [very sad] Xin chào?...
+198) CLEMENTINE
+[Walkie-talkie processed] [very sad] Xin chào?...
+203) CLEMENTINE
+[Walkie-talkie processed] [very sad] Xin chào?...
+26) LEE
+Cháu tên gì?
+48) 
+Cháu tên gì?
+136) LEE
+{normalC} Cháu tên gì?
+193) 
+Cháu tên gì?
+209) 
+Cháu tên gì?
+27) CLEMENTINE
+[Walkie-talkie processed] Cháu tên là Clementine.
+28) CLEMENTINE
+[Walkie-talkie processed] You're not my dad.
+29) LEE
+{happyA} Thông minh đấy nhóc.
+43) LEE
+{happyA} Thông minh đấy nhóc.
+30) CLEMENTINE
+[Walkie-talkie processed] Cháu đang ở căn nhà nhỏ trên ngọn cây. Chúng không leo lên được.
+45) CLEMENTINE
+[Walkie-talkie processed] Cháu đang ở căn nhà nhỏ trên ngọn cây. Chúng không leo lên được.
+31) CLEMENTINE
+[Walkie-talkie processed] Chú thấy chứ ạ?
+46) CLEMENTINE
+[Walkie-talkie processed] Chú thấy chứ ạ?
+32) LEE
+{thinkingB} Cháu đang ở đâu thế?
+51) 
+Cháu đang ở đâu thế?
+55) 
+Cháu đang ở đâu thế?
+33) CLEMENTINE
+[Walkie-talkie processed] Chú thấy cháu không? cháu thấy chú qua cửa sổ này.
+42) CLEMENTINE
+[Walkie-talkie processed] Chú thấy cháu không? cháu thấy chú qua cửa sổ này.
+34) CLEMENTINE
+[Walkie-talkie processed] Bố mẹ cháu đang đi du lịch và để cháu ở nhà với cô Sandra.
+
+Họ đang ở Savannah. Nơi mà có nhiều du thuyền ấy ạ!
+35) LEE
+{sadB} Bố mẹ cháu đâu rồi?
+52) 
+Bố mẹ cháu đâu rồi?
+36) CLEMENTINE
+[Walkie-talkie processed] [sad] Vâng ạ. Cháu không biết mọi người đâu cả rồi.
+134) CLEMENTINE
+[Walkie-talkie processed] [sad] Vâng ạ. Cháu không biết mọi người đâu cả rồi.
+143) CLEMENTINE
+[Walkie-talkie processed] [sad] Vâng ạ. Cháu không biết mọi người đâu cả rồi.
+37) CLEMENTINE
+[Walkie-talkie processed] 8 tuổi ạ.
+131) CLEMENTINE
+[Walkie-talkie processed] 8 tuổi ạ.
+145) CLEMENTINE
+[Walkie-talkie processed] 8 tuổi ạ.
+38) LEE
+Cháu đang một mình à?
+130) LEE
+Cháu đang một mình à?
+147) LEE
+{fearB} Cháu đang một mình à?
+39) LEE
+Cháu bao nhiêu tuổi đấy?
+53) 
+Cháu bao nhiêu tuổi đấy?
+108) CLEMENTINE
+[Walkie-talkie processed] Chú bao nhiêu tuổi rồi ạ?
+129) LEE
+Cháu bao nhiêu tuổi đấy?
+132) CLEMENTINE
+[Walkie-talkie processed] Chú bao nhiêu tuổi rồi ạ?
+142) LEE
+{sadC} Cháu bao nhiêu tuổi đấy?
+144) CLEMENTINE
+[Walkie-talkie processed] Chú bao nhiêu tuổi rồi ạ?
+192) 
+Cháu bao nhiêu tuổi đấy?
+210) 
+Cháu bao nhiêu tuổi đấy?
+40) CLEMENTINE
+[Walkie-talkie processed] Cháu không biết nữa! Vài đêm gần đây cháu an toàn...
+
+Cháu chỉ muốn bố mẹ về nhà nhanh thôi.
+41) LEE
+[semi to himself] {thinkingB} Có lẽ chúng ta có thể tìm họ hoặc gì đó.
+44) LEE
+{fearA} Cháu có an toàn không?
+54) 
+Cháu có an toàn không?
+58) CLEMENTINE
+[Walkie-talkie processed] AHHHH!
+179) CLEMENTINE
+[Walkie-talkie processed] AHHHH!
+60) LEE
+[looking at a bunch of blood on the ground] {sadC} Lạy chúa...
+61) LEE
+[slips, hurts leg] {fearD} AHH!
+111) LEE
+[pushing away a zombie] {fearC} AHH!
+124) LEE
+{angryB} AHH!! [hit zombie again]
+173) LEE
+[pushing away a zombie] {fearC} AHH!
+62) LEE
+[hits grounds, linoleum] {DisgustB} UGH.
+63) LEE
+Cái quái gì thế này?...
+64) ACTION
+Đánh bằng đĩa.
+75) ACTION
+Đánh bằng bình
+65) ACTION
+Đánh bằng bình
+66) ACTION
+hit with vase
+70) ACTION
+hit with vase
+67) LEE
+[shoving a zombie] Ruh!
+68) ZOMBIE
+[Hiss] Grahhh!
+69) LEE
+[hitting a zombie with a hammer] AH!
+73) LEE
+[hitting a zombie with a hammer] AH!
+89) LEE
+[Drinks a glass of water fast, dying of thirst] {happyB} Ah...
+109) LEE
+[grabbing a weapon with a zombie ontop of you] {fearC} AH!
+71) ACTION
+push
+72) ACTION
+Đánh bằng búa
+74) ACTION
+hit with jar
+76) ACTION
+Đánh bằng chai
+77) CLEMENTINE
+[Walkie-Talkie processed] Bố ơi?
+156) CLEMENTINE
+[Walkie-Talkie processed] Bố ơi?
+78) LEE
+[Heard something, a child] {surpriseA} Huh?
+79) LEE
+[Heard something, a child] {surpriseA} Huh?
+80) LEE
+[Heard something, a child] {surpriseA} Huh?
+81) LEE
+[Heard something, a child]{surpriseA} Huh?
+157) LEE
+[Heard something, a child] {surpriseA} Huh?
+82) CLEMENTINE
+Bố ơi, là bố đấy ạ?
+83) CLEMENTINE
+[Walkie-Talkie processed] [Upset, on the verge of tears] Bố ơi, con một mình... con sợ lắm.
+84) CLEMENTINE
+[Walkie-Talkie processed] [Talking to her Dad on a walkie talkie] Bố mẹ về nhà đi... con nhớ bố mẹ...
+85) HINT
+Mở máy tin nhắn thoại
+86) LEE
+{thinkingB} Cái gì đang reo thế nhỉ?
+87) LEE
+Có lẽ tôi nên kiểm tra những tin nhắn thoại đó.
+88) ACTION
+uống
+90) ITEMS TO DEFEND YOURSELF INCLUDE
+Bottles, Plates, Bowls and a Vase
+Alas, the zombie eventually grabs you and she is on-top of you -- snarling and snapping, thick bile and blood dripping from her mouth and into your eyes. She is going to bite you soon and then it will all be over.
+You hear the SLIDING GLASS DOOR OPENS. You attention is drawn to CLEMENTINE IN THE DOORWAY. She is holding a HAMMER.
+91) ACTION
+Nhìn
+92) LEE
+Cái này sẽ dừng thứ đó lại.
+93) ACTION
+Sử dụng
+186) 
+Sử dụng
+94) ACTION
+Mở
+95) LEE
+{angryA} Chỗ này có ai lục lọi và lấy đi hết đồ rồi.
+96) ACTION
+Nhìn (vào ghi chú)
+97) ANSWERING MACHINE LADY
+Bạn nhận được 3 tin nhắn mới.
+98) LEE
+{fearA} Mọi người có thể cần giúp đỡ hơn là tôi đấy.
+99) LEE
+{sadA} Ahh, chết tiệt thật. {thinkingB} Xin chào? Tôi không phải kẻ xấu... {sadA}hay bọn quái vật ngoài kia.
+100) LEE
+{thinkingA} Vậy là có chuyện quái quỷ gì đó xảy ra ở Savannah.{sadA} Liệu nó có xảy ra ở Macon không nhỉ?
+101) MOM
+Clementine? Con yêu, nếu con nghe được tin nhắn này, hãy gọi cảnh sát số 9-1-1.
+
+Bố mẹ rất yêu con... bố mẹ yêu con... bố mẹ y-
+106) LEE
+Chú 37 tuổi rồi.
+133) LEE
+I'm 37.
+107) CLEMENTINE
+[Walkie-talkie processed] Ok.
+135) CLEMENTINE
+[Walkie-talkie processed] Vâng ạ.
+146) CLEMENTINE
+[Walkie-talkie processed] Vâng ạ.
+110) LEE
+[zombie chasing you] {fearB} Tránh xa tao ra!
+174) LEE
+[zombie chasing you] {fearB} Tránh xa tao ra!
+112) LEE
+[yelling at a zombie in the face] {fearD} AHHHHH!
+128) LEE
+{angryC} AHHHHH! [huge swing of a hammer into a zombie's head]
+149) LEE
+[yelling at a zombie in the face] {fearD} AHHHHH!
+113) LEE
+[kicking a zombie] {fearC} CÚT KHỎI NGƯỜI TAO!
+175) LEE
+[kicking a zombie] {fearC} CÚT KHỎI NGƯỜI TAO!
+119) LEE
+[talking to himself] {thinkingA} Cái thứ quỷ quái này là gì chứ? {fearB}Mấy kẻ bị tâm thần
+
+bạo động hay cướp bóc chăng?
+120) LEE
+[talking to himself] {surpriseA} Có thể đất nước bị xâm lược...
+
+{thinkingB}Hoặc bị tấn công bằng vũ khí sinh học.
+121) LEE
+[talking to himself] {sadC} Có ai đó đã chảy rất nhiều máu ở đây...
+122) LEE
+{disgustA} Hoặc có thể mọi người đã bạo động do chế độ nhà nước.
+
+{sadA} Phải... Những kẻ trong rừng toàn những người bên ngoài.
+123) LEE
+{fearA} RARH!! [hitting a zombie with a hammer]
+125) LEE
+{angryA} HMMPH [pulling a hammer out of a zombie's head]
+126) LEE
+{angryB} RAHH! [hitting a zombie with a hammer]
+152) LEE
+{angryB} RAHH! [hitting a zombie with a hammer]
+141) LEE
+{normalC} Chú... 37 tuổi rồi.
+148) LEE
+{thinkingA} Hmm... Khu nghỉ dưỡng Marsh. Đó là mã vùng ở Savanah.
+
+{sadA}Nhưng có vẻ như ghi chú này để lại cho người trông trẻ...
+150) LEE
+[to himself] {thinkingA} Có lẽ có thứ gì ở đó.
+151) CLEMENTINE
+[pickup1] Chú cần giữ im lặng.
+153) LEE
+308404250
+155) LEE
+[pickup1] Hmm... đứt dây cáp rồi.
+158) 
+Máy ghi âm tin nhắn thoại
+159) 
+Vũng máu
+160) 
+Chai thủy tinh
+161) 
+Ngăn tủ
+162) 
+Ngăn tủ
+163) 
+Cốc nước
+164) 
+Bình thủy tinh
+165) 
+Giấy ghi chú
+166) 
+Đĩa
+167) 
+Bình
+176) CLEMENTINE
+Cháu tìm thấy gì đó!
+177) CLEMENTINE
+[pickup1][trepedacious] Dùng cái này...
+180) LEE
+[pickup3] Là đồ giả. Đệch mợ!
+181) LEE
+[pickup3]Cả khu phố này vắng tanh... Cái quái gì thế này?
+182) LEE
+[pickup3]Đồ đạc bị bới tung... máu khắp nơi... Chúa ơi...
+183) LEE
+[pickup3] Chúa ơi, một đứa bé đang ở đây.
+184) 
+Tivi
+185) 
+Nhìn
+204) 
+Tô trái cây
+205) 
+Kệ sách
+206) 
+Bức vẽ trẻ con
+207) 
+Cửa sổ
+208) 
+Quyển vẽ trẻ con
+211) ANSWERING MACHINE
+Tin nhắn 2. Được ghi vào lúc 11 giờ 19 tối.
+217) ANSWERING MACHINE
+Tin nhắn 2. Được ghi vào lúc 11 giờ 19 tối.
+212) LEE
+[to himself] Có lẽ có thứ gì đó.
+213) LEE
+Có chuyện gì xảy ra ở Savannah rồi, tôi mong Macon vẫn ổn.
+214) ANSWERING MACHINE
+3 tin nhắn mới.
+215) ANSWERING MACHINE
+Tin nhắn 1. Được ghi lúc 5 giờ 43 phút chiều.
+216) MOM
+Chào Sandra! tôi là Diana. Chúng tôi vẫn kẹt ở Savannah. Ed gặp một chút tai nạn.
+
+Anh ấy không đủ sức khỏe để lái xe về vào tối nay. Chúng tôi sẽ ở lại một hôm nữa.
+
+Cảm ơn cô rất nhiều vì đã trông bé Clementine. Chúng tôi hứa sẽ về
+
+trước khi cô kỳ nghỉ lễ mùa xuân của cô!
+218) MOM
+Ôi Chúa ơi! tôi không biết cô đã gọi chúng tôi chưa. Tất cả các đường dây liên lạc
+
+đang gián đoạn. Cảnh sát không cho chúng tôi rời khỏi đây và không cho chúng tôi
+
+biết thông tin gì tại Atlanta. Làm ơn, hãy rời khỏi thành phố và mang Clementine
+
+trở về Marietta cùng với cô. Cho tôi biết khi cả hai an toàn.
+219) ANSWERING MACHINE
+Tin nhắn 3. Được ghi vào lúc 6 giờ 51 sáng.
+220) MOM
+Clementine? Con yêu, nếu con nghe được tin nhắn này
+
+hãy mau gọi cảnh sát. Số 911. Bố mẹ rất yêu con-
+221) ANSWERING MACHINE
+Đã hết tin nhắn.

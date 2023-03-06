@@ -1,0 +1,190 @@
+1) HERSHEL
+{normalC} Nếu ai đó hỏi tên anh, hãy nói thật.{disgustA} Trừ khi cái tên đó xấu xí.
+2) HERSHEL
+{angryA} Anh nên biết là nếu anh không rời khỏi đây với Kenny hôm nay
+
+{disgustA}tôi sẽ không thể chịu đựng được tính thiếu trung thực
+
+của anh như đêm qua nữa.
+3) LEE
+{thinkingB} Tôi không chắc là tôi sẽ nghe ông.
+4) HERSHEL
+{disgustA} Anh thoát khỏi Atlanta như thế nào?
+5) LEE
+{sadA} ...Tôi đi bộ. tôi đi về hướng Nam và {fearA}thoát ra từ đó. [sets logic liar]
+6) LEE
+{normalD} ...Tôi lái xe và rồi gặp tai nạn. Sau đó tôi đi bộ
+
+cho đến khi con trai ông thấy tôi.
+7) LEE
+{normalD} ...Dù sao thì tôi cũng thoát khỏi đó rồi.
+
+Tất cả mốc thời gian đều đúng như tôi kể. [sets logic liar]
+8) 
+Đi bộ.
+9) 
+Lái xe.
+10) 
+Dù sao thì tôi cũng thoát rồi.
+11) 
+Tôi đang trên đường đi ra ngoài.
+12) 
+[Remain Silent]
+25) LEE
+...
+29) 
+[Remain Silent]
+35) 
+[Remain Silent]
+50) 
+[Remain Silent]
+13) HERSHEL
+{thinkingA} Đó là chuyến hành trình dài.
+14) HERSHEL
+{thinkingA} Hmm. Chà, anh không xấu xa như tôi nghĩ.
+15) HERSHEL
+{thinkingA} Ha, "Tận thế" cũng có thời điểm thích hợp cơ à?
+16) HERSHEL
+[incredulous] {thinkingA} Chà, tôi chắc chắn khá là phức tạp đấy.
+70) HERSHEL
+[incredulous] {thinkingA} Chà, tôi chắc chắn khá là phức tạp đấy.
+17) LEE
+{thinkingA} Đó là lẽ dĩ nhiên rồi, đồng ý!
+18) LEE
+[trying to change the subject] {fearA}{body-C} Trang trại{happyB} này nằm ở vị trí đẹp đấy.
+19) HERSHEL
+{sadA} Chưa bao giờ có kế hoạch hay dự tính mua một khu đất thế này.
+
+Gia đình tôi thì muốn chuyển đến đây.
+
+{happyA}Gia đình là quan trọng nhất. {thinkingA}Anh đồng ý chứ?
+20) HERSHEL
+{thinkingA} Gia đình anh đang ở đâu? Bố mẹ? Vợ? Bạn gái?
+21) HERSHEL
+{thinkingA} Heh, nếu mà anh nói vậy vào 20 năm trước thì đúng
+
+{happyA}còn bây giờ thì tôi phải nói với anh là nhảm nhí.
+22) LEE
+{normalD} Bố mẹ tôi sống ở Macon, với em trai tôi.
+23) LEE
+{normalD} Tôi ly hôn rồi. Có lẽ giờ cô ấy sống ở Virginia.
+24) LEE
+{normalD} Tôi không có gia đình. {happyA}Bạn của tôi là chú Cá xiêm
+
+tôi nuôi trên bàn làm việc tại trường Đại học.
+26) 
+Bố mẹ tôi sống ở Macon.
+27) 
+Tôi ly hôn rồi.
+28) 
+Tôi không có gia đình.
+30) HERSHEL
+{happyA} Chà, tôi mong rằng họ cũng ổn.
+31) HERSHEL
+{sadA} Tôi rất tiếc khi nghe điều đó.
+32) HERSHEL
+{sadA} Tôi mong rằng ai đó sẽ nhớ cho nó ăn.
+33) HERSHEL
+{angryA} Chà! Im lặng tuy hơi {disgustA}thô lỗ nhưng đó là điều người đàn ông nên làm.
+71) HERSHEL
+{angryA} Chà! Im lặng tuy hơi {disgustA}thô lỗ nhưng đó là điều người đàn ông nên làm.
+34) HERSHEL
+{sadA}{body-D} Nhưng giờ thì anh phải chăm sóc thêm cô bé gái.
+
+{body-handships}Tên là Clementine nhỉ? {thinkingA}Anh vừa tình cờ thấy con bé à?
+36) LEE
+{normalC}{body-A} Phải, tôi đi vào nhà cô bé để tìm người giúp đỡ.
+37) LEE
+{normalC}{body-A} Tôi bị tấn công và cô bé đã cứu tôi.
+38) LEE
+{thinkingA}{body-A} Ý ông đang nói là gì chứ?
+39) 
+Tôi vào nhà cô bé để tìm sự giúp đỡ.
+40) 
+Tôi bị tấn công và cô bé đã cứu tôi.
+41) 
+Ý ông muốn nói là gì?
+42) HERSHEL
+[judgmental, distrusting] {disgustA} Hmmph. [like, is that so]
+43) HERSHEL
+{angryA} Tôi có thể cho anh một chút lời khuyên chứ?
+44) LEE
+{normalB} Chắc rồi.
+47) 
+Chắc rồi.
+45) LEE
+{angryA}{body-C} Là gì chứ?
+46) LEE
+{angryB}{body-C} Lo chuyện của ông đi.
+48) 
+Là gì chứ?
+49) 
+Lo chuyện của ông đi.
+51) HERSHEL
+{normalC}{body-D} Tôi không biết anh là ai và anh đã làm gì...
+52) HERSHEL
+{thinkingA}{body-D} Nhưng có vẻ càng lúc anh càng lươn lẹo hơn.
+53) HERSHEL
+{thinkingA} Nhưng anh đã hiểu được hoàn cảnh của mình.
+
+Và anh biết sẽ phải làm gì sau đó.
+54) HERSHEL
+{fearA} Chúng ta phải nói rằng thành phố sẽ khó trở lại như trước.
+
+{normalB}Hoặc là sẽ tồi tệ hơn khi Chính phủ nổ súng. {thinkingA}Anh sẽ phải
+
+sinh tồn phụ thuộc vào sự trung thực của người xa lạ.
+
+{sadA}Nếu họ đặt câu hỏi cho anh, thì anh sẽ gặp rắc rối đấy.
+67) HERSHEL
+{fearA} Chúng ta phải nói rằng thành phố sẽ khó trở lại như trước.
+
+{normalB}Hoặc là sẽ tồi tệ hơn khi Chính phủ nổ súng. {thinkingA}Anh sẽ phải
+
+sinh tồn phụ thuộc vào sự trung thực của người xa lạ.
+
+{sadA}Nếu họ đặt câu hỏi cho anh, thì anh sẽ gặp rắc rối đấy.
+69) HERSHEL
+{fearA} Chúng ta phải nói rằng thành phố sẽ khó trở lại như trước.
+
+{normalB}Hoặc là sẽ tồi tệ hơn khi Chính phủ nổ súng. {thinkingA}Anh sẽ phải
+
+sinh tồn phụ thuộc vào sự trung thực của người xa lạ.
+
+{sadA}Nếu họ đặt câu hỏi cho anh, thì anh sẽ gặp rắc rối đấy.
+55) HERSHEL
+{disgustA} Vì thế mà bất kể anh là ai, hay đã làm gì thì hãy
+
+giữ kín bí mật đấy cho một mình anh thôi.
+68) HERSHEL
+{disgustA} Vì thế mà bất kể anh là ai, hay đã làm gì thì hãy
+
+giữ kín bí mật đấy cho một mình anh thôi.
+56) HERSHEL
+[a hmmph, kind of to yourself] {happyA} But at least you have the common sense to listen to a man giving you advice.
+57) HERSHEL
+{fearA} Oh, và {angryA}tôi sẽ xem thái độ của anh thế nào đấy, anh bạn.
+58) HERSHEL
+{sadA} Oh, và {angryA}hãy cố gắng bớt lươn lẹo hơn, sẽ tốt hơn cho anh.
+59) HERSHEL
+{angryA} Và một điều nữa: {thinkingA}anh phải chuẩn bị trước câu trả lời
+
+khi bị ai đó bất ngờ hỏi tới.
+60) HERSHEL
+{surprisedA} RA ĐÓ ĐI! tôi đi lấy khẩu súng.
+61) SHAWN
+[super far away scream] BỌN CHÚNG KÉO TỚI RỒI! [gets leg trapped] AHH! CỨU!
+62) CLEMENTINE
+[SCREAM!] AHHHHHH!
+63) LEE
+{fearC} Cái quái--
+64) HERSHEL
+[pickup1] Nói thật với anh là tôi cũng chẳng cần phải biết.
+65) HERSHEL
+[pickup1] {disgustA} Tôi không ngốc. Tôi chú ý những gì anh nói dối đêm qua rồi...
+
+về người mà cùng anh trong chiếc ô tô đó.
+66) HERSHEL
+[pickup1] HMMPH. [pissed]
+72) HERSHEL
+[pickup1] HMMPH. [pissed]

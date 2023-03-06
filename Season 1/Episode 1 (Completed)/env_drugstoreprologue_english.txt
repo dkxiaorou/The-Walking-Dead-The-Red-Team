@@ -1,0 +1,1322 @@
+1) KENNY
+{AngryA}Chuông báo hiệu đang reo...{ThinkingA} chúng ta không có nhiều thời gian
+
+{DisgustA}cho đến khi bọn [ZOMBIE]xác sống ngoài phố Macon {AngryA}tràn vào.
+
+{NormalA}Tôi sẽ đi lái chiếc xe tải quay lại đây đón mọi người.
+19) KENNY
+{AngryA}Chuông báo hiệu đang reo...{ThinkingA} chúng ta không có nhiều thời gian
+
+{DisgustA}cho đến khi bọn [ZOMBIE]xác sống ngoài phố Macon {AngryA}tràn vào.
+
+{NormalA}Tôi sẽ đi lái chiếc xe tải quay lại đây đón mọi người.
+2) LILLY
+{AngryB}Anh nhanh lên đi! {FearA}Tôi phải dìu bố tôi ra khỏi đây.
+14) LILLY
+{AngryB}Anh nhanh lên đi! {FearA}Tôi phải dìu bố tôi ra khỏi đây.
+301) LILLY
+{AngryB}Anh nhanh lên đi! {FearA}Tôi phải dìu bố tôi ra khỏi đây.
+450) LILLY
+{AngryB}Anh nhanh lên đi! {FearA}Tôi phải dìu bố tôi ra khỏi đây.
+3) KENNY
+{HappyB}Tôi có lãng phí giây phút nào đâu cơ chứ.
+24) KENNY
+{HappyB}Tôi có lãng phí giây phút nào đâu cơ chứ.
+117) KENNY
+Tôi có lãng phí giây phút nào đâu cơ chứ.
+303) KENNY
+{HappyB}Tôi có lãng phí giây phút nào đâu cơ chứ.
+454) KENNY
+{HappyB}Tôi có lãng phí giây phút nào đâu cơ chứ.
+4) KENNY
+{NormalB}Em yêu, mang Duck vào trong phòng và {AngryB}khóa chặt cửa lại.
+
+{ThinkingA}Glenn, khi cậu nghe tôi bóp còi ở con hẻm, {NormalB}hãy bắt đầu sơ tán mọi người.
+15) KENNY
+{NormalB}Em yêu, mang Duck vào trong phòng và {AngryB}khóa chặt cửa lại.
+
+{ThinkingA}Glenn, khi cậu nghe tôi bóp còi ở con hẻm, {NormalB}hãy bắt đầu sơ tán mọi người.
+297) KENNY
+{NormalB}Em yêu, mang Duck vào trong phòng và {AngryB}khóa chặt cửa lại.
+
+{ThinkingA}Glenn, khi cậu nghe tôi bóp còi ở con hẻm, {NormalB}hãy bắt đầu sơ tán mọi người.
+453) KENNY
+{NormalB}Em yêu, mang Duck vào trong phòng và {AngryB}khóa chặt cửa lại.
+
+{ThinkingA}Glenn, khi cậu nghe tôi bóp còi ở con hẻm, {NormalB}hãy bắt đầu sơ tán mọi người.
+605) KENNY
+{NormalB}Em yêu, mang Duck vào trong phòng và {AngryB}khóa chặt cửa lại.
+
+{ThinkingA}Glenn, khi cậu nghe tôi bóp còi ở con hẻm, {NormalB}hãy bắt đầu sơ tán mọi người.
+5) GLENN
+{FearA}Đã rõ.
+22) GLENN
+{FearA}Đã rõ.
+119) GLENN
+Đã rõ.
+294) GLENN
+{FearA}Đã rõ.
+451) GLENN
+{FearA}Đã rõ.
+606) GLENN
+{FearA}Đã rõ.
+6) KENNY
+{HappyA}Doug, Carley và Lee, {NormalB}các anh cố gắng phòng thủ {NormalC}cho đến khi tôi lái xe đến.
+23) KENNY
+{HappyA}Doug, Carley và Lee, {NormalB}các anh cố gắng phòng thủ {NormalC}cho đến khi tôi lái xe đến.
+305) KENNY
+{HappyA}Doug, Carley và Lee, {NormalB}các anh cố gắng phòng thủ {NormalC}cho đến khi tôi lái xe đến.
+455) KENNY
+{HappyA}Doug, Carley và Lee, {NormalB}các anh cố gắng phòng thủ {NormalC}cho đến khi tôi lái xe đến.
+607) KENNY
+{HappyA}Doug, Carley và Lee, {NormalB}các anh cố gắng phòng thủ {NormalC}cho đến khi tôi lái xe đến.
+7) KENNY
+[To player] {ThinkingA}Cô bé của anh sẽ ổn chứ hả?
+25) KENNY
+[To player] {ThinkingA}Cô bé của anh sẽ ổn chứ hả?
+123) KENNY
+[To player] Cô bé của anh sẽ ổn chứ hả?
+306) KENNY
+[To player] {ThinkingA}Cô bé của anh sẽ ổn chứ hả?
+456) KENNY
+[To player] {ThinkingA}Cô bé của anh sẽ ổn chứ hả?
+8) LEE
+{HappyA}Definitely.{HappyC} Clementine có thể chịu được mà.
+21) LEE
+{HappyA}Definitely.{HappyC} Clementine có thể chịu được mà.
+295) LEE
+{HappyA}Definitely.{HappyC} Clementine có thể chịu được mà.
+457) LEE
+{HappyA}Definitely.{HappyC} Clementine có thể chịu được mà.
+9) KENNY
+{DisgustA}Khỉ thật.
+16) KENNY
+{DisgustA}Khỉ thật.
+125) KENNY
+Shit
+304) KENNY
+{DisgustA}Khỉ thật.
+447) KENNY
+{DisgustA}Khỉ thật.
+564) CARLEY
+[pickup1]CHẾT TIỆT!
+10) DOUG
+{FearB}Cái cửa chưa khóa!
+18) DOUG
+{FearB}Cái cửa chưa khóa!
+126) DOUG
+Cái cửa chưa khóa!
+296) DOUG
+{FearB}Cái cửa chưa khóa!
+452) DOUG
+{FearB}Cái cửa chưa khóa!
+11) KENNY
+{AngryA}Mau vào việc đi! {NormalB}Tôi sẽ quay lại nhanh nhất có thể.
+20) KENNY
+{AngryA}Mau vào việc đi! {NormalB}Tôi sẽ quay lại nhanh nhất có thể.
+298) KENNY
+{AngryA}Mau vào việc đi! {NormalB}Tôi sẽ quay lại nhanh nhất có thể.
+448) KENNY
+{AngryA}Mau vào việc đi! {NormalB}Tôi sẽ quay lại nhanh nhất có thể.
+12) KENNY
+{SadA}Và Lee, {NormalA}ném tôi cái rìu đó, {FearB}tôi sẽ dùng làm vũ khí trên đường chạy ra xe.
+17) KENNY
+{SadA}Và Lee, {NormalA}ném tôi cái rìu đó, {FearB}tôi sẽ dùng làm vũ khí trên đường chạy ra xe.
+299) KENNY
+{SadA}Và Lee, {NormalA}ném tôi cái rìu đó, {FearB}tôi sẽ dùng làm vũ khí trên đường chạy ra xe.
+449) KENNY
+{SadA}Và Lee, {NormalA}ném tôi cái rìu đó, {FearB}tôi sẽ dùng làm vũ khí trên đường chạy ra xe.
+608) KENNY
+{SadA}Và Lee, {NormalA}ném tôi cái rìu đó, {FearB}tôi sẽ dùng làm vũ khí trên đường chạy ra xe.
+13) LEE
+{SadA}Đây này.
+26) LEE
+{SadA}Đây này.
+122) LEE
+Đây này.
+300) LEE
+{SadA}Đây này.
+458) LEE
+{SadA}Đây này.
+609) LEE
+{SadA}Đây này.
+27) DOUG
+{FearC}Tôi không biết liệu mấy tấm ván này có chịu lâu được không...
+309) DOUG
+{FearC}Tôi không biết liệu mấy tấm ván này có chịu lâu được không...
+459) DOUG
+{FearC}Tôi không biết liệu mấy tấm ván này có chịu lâu được không...
+28) CARLEY
+[Exerting herself] {NormalC}Chúng ta có thể chặn cửa. {AngryC}Mau tới đó và{AngryD} giữ chân
+
+đám xác sống đang cố tràn vào đi!
+308) CARLEY
+[Exerting herself] {NormalC}Chúng ta có thể chặn cửa. {AngryC}Mau tới đó và{AngryD} giữ chân
+
+đám xác sống đang cố tràn vào đi!
+460) CARLEY
+[Exerting herself] {NormalC}Chúng ta có thể chặn cửa. {AngryC}Mau tới đó và{AngryD} giữ chân
+
+đám xác sống đang cố tràn vào đi!
+29) DOUG
+[Mustering the courage] {ThinkingA}Ok.
+81) CLEMENTINE
+[under duress] {FearB}Ok!
+87) CLEMENTINE
+{FearA}Ok.
+130) DOUG
+[Mustering the courage] Ok.
+181) CLEMENTINE
+[under duress] Ok!
+188) CLEMENTINE
+Ok
+273) CLEMENTINE
+[under duress] {FearB}Ok!
+279) CLEMENTINE
+{FearA}Ok.
+307) DOUG
+[Mustering the courage] {ThinkingA}Ok.
+336) DOUG
+{HappyA}Ok.
+344) DOUG
+{HappyA}Ok.
+425) CLEMENTINE
+[under duress] {FearB}Ok!
+430) CLEMENTINE
+{FearA}Ok.
+461) DOUG
+[Mustering the courage] {ThinkingA}Ok.
+487) DOUG
+{HappyA}Ok.
+496) DOUG
+{HappyA}Ok.
+599) CLEMENTINE
+[under duress] {FearB}Vâng ạ!
+30) LEE
+Đỡ được tí rồi...
+133) LEE
+Đỡ được tí rồi...
+230) LEE
+Đỡ được tí rồi...
+382) LEE
+Đỡ được tí rồi...
+31) LEE
+Cô chắc chứ?
+131) LEE
+Cô chắc chứ?
+232) LEE
+Cô chắc chứ?
+383) LEE
+Cô chắc chứ?
+32) CARLEY
+[focused, stern] {AngryB}Giữ nhé.
+132) CARLEY
+[focused, stern] Giữ nhé.
+231) CARLEY
+[focused, stern] {AngryB}Giữ nhé.
+384) CARLEY
+[focused, stern] {AngryB}Giữ nhé.
+33) KATJAA
+[from the other room] Glenn... GLENN, GIÚP TÔI!
+37) KATJAA
+GLENN! GLENN, GIÚP TÔI!
+249) KATJAA
+[from the other room] Glenn... GLENN, GIÚP TÔI!
+255) KATJAA
+GLENN! GLENN, GIÚP TÔI!
+401) KATJAA
+[from the other room] Glenn... GLENN, GIÚP TÔI!
+407) KATJAA
+GLENN! GLENN, GIÚP TÔI!
+587) KATJAA
+[from the other room] Glenn... GLENN, GIÚP TÔI!
+34) LEE
+[Exerting himself to hold the door closed] Được.
+136) LEE
+[Exerting himself to hold the door closed] Được.
+248) LEE
+[Exerting himself to hold the door closed] Được.
+400) LEE
+[Exerting himself to hold the door closed] Được.
+35) GLENN
+Tôi sẽ đi xem chuyện gì đang xảy ra nhé! Anh trụ được không?
+250) GLENN
+Tôi sẽ đi xem chuyện gì đang xảy ra nhé! Anh trụ được không?
+36) CLEMENTINE
+AHHHH!
+140) CLEMENTINE
+AHHHH!
+251) CLEMENTINE
+AHHHH!
+406) CLEMENTINE
+AHHHH!
+38) GLENN
+{FearB}Đệch đệch đệch! Tôi... {FearC}tôi phải đi thôi!
+252) GLENN
+{FearB}Đệch đệch đệch! Tôi... {FearC}tôi phải đi thôi!
+408) GLENN
+{FearB}Đệch đệch đệch! Tôi... {FearC}tôi phải đi thôi!
+39) DOUG
+{FearD}Chúng ta không thể chặn cửa bằng sức được!
+138) DOUG
+Chúng ta không thể chặn cửa bằng sức được!
+254) DOUG
+{FearD}Chúng ta không thể chặn cửa bằng sức được!
+404) DOUG
+{FearD}Chúng ta không thể chặn cửa bằng sức được!
+40) DOUG
+{FearC}Lee, {FearD}Chúng ta không giữ nổi cửa với một mình tôi đâu!
+253) DOUG
+{FearC}Lee, {FearD}Chúng ta không giữ nổi cửa với một mình tôi đâu!
+405) DOUG
+{FearC}Lee, {FearD}Chúng ta không giữ nổi cửa với một mình tôi đâu!
+41) GLENN
+Xin lỗi nhé, các anh.
+142) GLENN
+I'm sorry guys.
+256) GLENN
+Xin lỗi nhé, các anh.
+403) GLENN
+Xin lỗi nhé, các anh.
+42) CARLEY
+LEE...Tôi hết sạch đạn rồi! Đạn dưới tạp chí dưới sàn! GIÚP TÔI!
+144) CARLEY
+LEE...Tôi hết sạch đạn rồi! Đạn dưới tạp chí dưới sàn! GIÚP TÔI!
+284) CARLEY
+LEE...Tôi hết sạch đạn rồi! Đạn dưới tạp chí dưới sàn! GIÚP TÔI!
+436) CARLEY
+LEE...Tôi hết sạch đạn rồi! Đạn dưới tạp chí dưới sàn! GIÚP TÔI!
+510) CARLEY
+LEE...Tôi hết sạch đạn rồi! Đạn dưới tạp chí dưới sàn! GIÚP TÔI!
+43) DOUG
+{FearC}Chúng đang tràn vào! {FearD}CHÚNG TRÀN VÀO KÌA! GIÚP TÔI VỚI LEE! GIÚP TÔI VỚI!
+285) DOUG
+{FearC}Chúng đang tràn vào! {FearD}CHÚNG TRÀN VÀO KÌA! GIÚP TÔI VỚI LEE! GIÚP TÔI VỚI!
+44) DOUG
+[Lots of screaming, being eaten alive]
+55) CARLEY
+[Lots of screaming, being eaten alive].
+67) DOUG
+[Exerting self 1]
+68) DOUG
+[Exerting self 2]
+69) DOUG
+[Exerting self 3]
+72) CARLEY
+[Exerting self 1]
+73) CARLEY
+[Exerting self 2]
+74) CARLEY
+[Exerting self 3]
+77) GLENN
+[Exerting self 1]
+78) GLENN
+[Exerting self 2]
+79) GLENN
+[Exerting self 3]
+104) DOUG
+[makes a bunch of noises as he's struggling to keep the zombies out]
+108) CLEMENTINE
+{FearB}[gasp!]
+150) DOUG
+[Lots of screaming, being eaten alive]
+151) CARLEY
+[Lots of screaming, being eaten alive].
+168) DOUG
+[Exerting self 1]
+169) DOUG
+[Exerting self 2]
+170) DOUG
+[Exerting self 3]
+173) CARLEY
+[Exerting self 1]
+174) CARLEY
+[Exerting self 2]
+175) CARLEY
+[Exerting self 3]
+178) GLENN
+[Exerting self 1]
+179) GLENN
+[Exerting self 2]
+180) GLENN
+[Exerting self 3]
+205) DOUG
+[makes a bunch of noises as he's struggling to keep the zombies out]
+209) CLEMENTINE
+[gasp!]
+216) DOUG
+[makes a bunch of noises as he's struggling to keep the zombies out]
+238) GLENN
+[Exerting self 1]
+239) GLENN
+[Exerting self 2]
+240) GLENN
+[Exerting self 3]
+245) DOUG
+[Exerting self 1]
+246) DOUG
+[Exerting self 2]
+247) DOUG
+[Exerting self 3]
+257) DOUG
+[Lots of screaming, being eaten alive]
+287) DOUG
+[makes a bunch of noises as he's struggling to keep the zombies out]
+291) CARLEY
+[Exerting self 1]
+292) CARLEY
+[Exerting self 2]
+293) CARLEY
+[Exerting self 3]
+312) CLEMENTINE
+{FearB}[gasp!]
+315) CARLEY
+[Lots of screaming, being eaten alive].
+390) GLENN
+[Exerting self 1]
+391) GLENN
+[Exerting self 2]
+392) GLENN
+[Exerting self 3]
+397) DOUG
+[Exerting self 1]
+398) DOUG
+[Exerting self 2]
+399) DOUG
+[Exerting self 3]
+409) DOUG
+[Lots of screaming, being eaten alive]
+439) DOUG
+[makes a bunch of noises as he's struggling to keep the zombies out]
+443) CARLEY
+[Exerting self 1]
+444) CARLEY
+[Exerting self 2]
+445) CARLEY
+[Exerting self 3]
+464) CLEMENTINE
+{FearB}[gasp!]
+505) CLEMENTINE
+[gasp!]
+615) 
+[Remain Silent]
+45) CLEMENTINE
+{FearD}AHHH! [Zombies have grabbed a friend]
+148) CLEMENTINE
+AHHH! [Zombies have grabbed a friend].
+262) CLEMENTINE
+{FearD}AHHH! [Zombies have grabbed a friend]
+413) CLEMENTINE
+{FearD}AHHH! [Zombies have grabbed a friend]
+46) DOUG
+{FearD}AHHHHHH!
+145) DOUG
+AHHHHHH!
+261) DOUG
+{FearD}AHHHHHH!
+412) DOUG
+{FearD}AHHHHHH!
+47) DOUG
+{FearD}Ah, không!! NGĂN CHÚNG KHỎI TÔI!
+149) DOUG
+Ah, không!! NGĂN CHÚNG KHỎI TÔI!
+258) DOUG
+{FearD}Ah, không!! NGĂN CHÚNG KHỎI TÔI!
+411) DOUG
+{FearD}Ah, không!! NGĂN CHÚNG KHỎI TÔI!
+48) CARLEY
+[Big exhale, like 'phew'] {HappyD}Cảm ơn anh.
+146) CARLEY
+[Big exhale, like 'phew'] Cảm ơn anh.
+260) CARLEY
+[Big exhale, like 'phew'] {HappyD}Cảm ơn anh.
+414) CARLEY
+[Big exhale, like 'phew'] {HappyD}Cảm ơn anh.
+49) CARLEY
+{FearB}Ôi chúa ơi... [A friend is being eaten]
+147) CARLEY
+Ôi chúa ơi... [A friend is being eaten]
+259) CARLEY
+{FearB}Ôi chúa ơi... [A friend is being eaten]
+410) CARLEY
+{FearB}Ôi chúa ơi... [A friend is being eaten]
+50) DOUG
+[Relieved] {SadA}Trời ơi! Cảm ơn anh nhé.
+153) DOUG
+[Relieved] Trời ơi! Cảm ơn anh nhé.
+316) DOUG
+[Relieved] {SadA}Trời ơi! Cảm ơn anh nhé.
+465) DOUG
+[Relieved] {SadA}Trời ơi! Cảm ơn anh nhé.
+51) DOUG
+{FearD}Đệch... [a friend has just been eaten]
+154) DOUG
+Đệch... [a friend has just been eaten]
+318) DOUG
+{FearD}Đệch... [a friend has just been eaten]
+470) DOUG
+{FearD}Đệch... [a friend has just been eaten]
+52) CLEMENTINE
+{FearD}AHHHHHHH! [Zombies have grabbed a friend.]
+152) CLEMENTINE
+AHHHHHHH! [Zombies have grabbed a friend.]
+313) CLEMENTINE
+{FearD}AHHHHHHH! [Zombies have grabbed a friend.]
+467) CLEMENTINE
+{FearD}AHHHHHHH! [Zombies have grabbed a friend.]
+53) DOUG
+{FearD}CHẾT TIỆT CHẾT TIỆT CHẾT TIỆT!
+155) DOUG
+CHẾT TIỆT CHẾT TIỆT CHẾT TIỆT!
+317) DOUG
+{FearD}CHẾT TIỆT CHẾT TIỆT CHẾT TIỆT!
+468) DOUG
+{FearD}CHẾT TIỆT CHẾT TIỆT CHẾT TIỆT!
+54) CARLEY
+{AngryD}Shit! I'm out! {FearD}There's too many -
+314) CARLEY
+{AngryD}Mẹ kiếp! tôi hết đạn rồi! {FearD}Chúng quá đông!
+466) CARLEY
+{AngryD}Mẹ kiếp! tôi hết đạn rồi! {FearD}Chúng quá đông!
+56) KENNY
+{AngryB}Mọi người đi thôi!
+157) KENNY
+Mọi người đi thôi!
+233) KENNY
+{AngryB}Mọi người đi thôi!
+385) KENNY
+{AngryB}Mọi người đi thôi!
+57) CARLEY
+{SadA}Chúng giết Doug rồi... {FearB}Chúng...chúng...
+235) CARLEY
+{SadA}Chúng giết Doug rồi... {FearB}Chúng...chúng...
+387) CARLEY
+{SadA}Chúng giết Doug rồi... {FearB}Chúng...chúng...
+58) LARRY
+{AngryA}Quan trọng cái quái gì nữa, {AngryB}mọi người phải đi nhanh!
+59) LARRY
+{AngryA}Quan trọng cái quái gì nữa, {AngryB}mọi người phải đi nhanh!
+234) LARRY
+{AngryA}Quan trọng cái quái gì nữa, {AngryB}mọi người phải đi nhanh!
+236) LARRY
+{AngryA}Quan trọng cái quái gì nữa, {AngryB}mọi người phải đi nhanh!
+386) LARRY
+{AngryA}Quan trọng cái quái gì nữa, {AngryB}mọi người phải đi nhanh!
+389) LARRY
+{AngryA}Quan trọng cái quái gì nữa, {AngryB}mọi người phải đi nhanh!
+60) DOUG
+{FearC}Chúng tóm được Carley rồi!
+160) DOUG
+Chúng tóm được Carley rồi!
+237) DOUG
+{FearC}Chúng tóm được Carley rồi!
+388) DOUG
+{FearC}Chúng tóm được Carley rồi!
+61) LARRY
+Thằng chó này không được đi cùng!
+164) LARRY
+Thằng chó này không được đi cùng!
+243) LARRY
+Thằng chó này không được đi cùng!
+393) LARRY
+Thằng chó này không được đi cùng!
+62) CLEMENTINE
+Không! [Watching Lee, who is essentially her father, get hurt badly]
+162) CLEMENTINE
+Không! [Watching Lee, who is essentially her father, get hurt badly]
+241) CLEMENTINE
+Không! [Watching Lee, who is essentially her father, get hurt badly]
+395) CLEMENTINE
+Không! [Watching Lee, who is essentially her father, get hurt badly]
+63) LARRY
+{DisgustA}Mày không được theo bọn tao, {AngryD}thằng chó!
+242) LARRY
+{DisgustA}Mày không được theo bọn tao, {AngryD}thằng chó!
+394) LARRY
+{DisgustA}Mày không được theo bọn tao, {AngryD}thằng chó!
+64) CLEMENTINE
+{FearA}Để chắn cửa ạ!
+165) CLEMENTINE
+Để chắn cửa ạ!
+218) CLEMENTINE
+{FearA}Để chắn cửa ạ!
+370) CLEMENTINE
+{FearA}Để chắn cửa ạ!
+65) DOUG
+Nhanh lên!
+106) DOUG
+{AngryA}Nhanh lên!
+166) DOUG
+Nhanh lên!
+207) DOUG
+Nhanh lên!
+270) DOUG
+Nhanh lên!
+289) DOUG
+{AngryA}Nhanh lên!
+422) DOUG
+Nhanh lên!
+441) DOUG
+{AngryA}Nhanh lên!
+66) DOUG
+Chúng ta phải giữ cửa cho đến khi Ken quay lại!
+167) DOUG
+Chúng ta phải giữ cửa cho đến khi Ken quay lại!
+271) DOUG
+Chúng ta phải giữ cửa cho đến khi Ken quay lại!
+423) DOUG
+Chúng ta phải giữ cửa cho đến khi Ken quay lại!
+70) CARLEY
+Tìm cách dẫn bọn chúng ra khỏi đây!
+102) CARLEY
+{AngryD}Tìm cách dẫn bọn chúng ra khỏi đây!
+171) CARLEY
+Tìm cách dẫn bọn chúng ra khỏi đây!
+203) CARLEY
+Tìm cách dẫn bọn chúng ra khỏi đây!
+226) CARLEY
+{AngryD}Tìm cách dẫn bọn chúng ra khỏi đây!
+282) CARLEY
+Tìm cách dẫn bọn chúng ra khỏi đây!
+378) CARLEY
+{AngryD}Tìm cách dẫn bọn chúng ra khỏi đây!
+434) CARLEY
+Tìm cách dẫn bọn chúng ra khỏi đây!
+71) CARLEY
+Tôi cần giúp một chút!
+101) CARLEY
+{AngryC}Tôi cần giúp một chút!
+172) CARLEY
+Tôi cần giúp một chút!
+202) CARLEY
+Tôi cần giúp một chút!
+225) CARLEY
+{AngryC}Tôi cần giúp một chút!
+283) CARLEY
+Tôi cần giúp một chút!
+377) CARLEY
+{AngryC}Tôi cần giúp một chút!
+435) CARLEY
+Tôi cần giúp một chút!
+75) GLENN
+Lee, đến giữ cửa với tôi!
+93) GLENN
+{AngryA}Lee, đến giữ cửa với tôi!
+176) GLENN
+Lee, đến giữ cửa với tôi!
+194) GLENN
+Lee, đến giữ cửa với tôi!
+263) GLENN
+Lee, đến giữ cửa với tôi!
+268) GLENN
+{AngryA}Lee, đến giữ cửa với tôi!
+420) GLENN
+{AngryA}Lee, đến giữ cửa với tôi!
+76) GLENN
+Không được để chúng tràn vào!
+264) GLENN
+Không được để chúng tràn vào!
+80) LEE
+Clementine! cháu tìm giúp chú cái gì đó để chặn tay nắm cửa lại!
+
+cái gì cứng một chút, được chứ?
+272) LEE
+Clementine! cháu tìm giúp chú cái gì đó để chặn tay nắm cửa lại!
+
+cái gì cứng một chút, được chứ?
+424) LEE
+Clementine! cháu tìm giúp chú cái gì đó để chặn tay nắm cửa lại!
+
+cái gì cứng một chút, được chứ?
+600) LEE
+Clementine! cháu tìm giúp chú cái gì đó để chặn tay nắm cửa lại!
+
+cái gì cứng một chút, được chứ?
+82) LEE
+Tìm thấy gì chưa cháu?
+183) LEE
+Tìm thấy gì chưa cháu?
+275) LEE
+Tìm thấy gì chưa cháu?
+427) LEE
+Tìm thấy gì chưa cháu?
+83) CLEMENTINE
+{FearB}Cháu đang tìm ạ!
+184) CLEMENTINE
+Cháu đang tìm ạ!
+274) CLEMENTINE
+{FearB}Cháu đang tìm ạ!
+426) CLEMENTINE
+{FearB}Cháu đang tìm ạ!
+84) CLEMENTINE
+{HappyB}Cháu tìm thấy cái này!
+185) CLEMENTINE
+Cháu tìm thấy cái này!
+277) CLEMENTINE
+{HappyB}Cháu tìm thấy cái này!
+429) CLEMENTINE
+{HappyB}Cháu tìm thấy cái này!
+85) LEE
+Mang nó lại đây!
+186) LEE
+Mang nó lại đây!
+276) LEE
+Mang nó lại đây!
+428) LEE
+Mang nó lại đây!
+86) LEE
+{NormalD}Tránh xa cái cửa sổ ra.
+187) LEE
+Tránh xa cái cửa sổ ra.
+278) LEE
+{NormalD}Tránh xa cái cửa sổ ra.
+431) LEE
+{NormalD}Tránh xa cái cửa sổ ra.
+88) LEE
+You ok?
+189) LEE
+You ok?
+280) LEE
+You ok?
+433) LEE
+You ok?
+89) CLEMENTINE
+[Earnest] {FearB}Họ cần giúp!
+190) CLEMENTINE
+[Earnest] Họ cần giúp!
+281) CLEMENTINE
+[Earnest] {FearB}Họ cần giúp!
+432) CLEMENTINE
+[Earnest] {FearB}Họ cần giúp!
+90) GLENN
+Phải lên đến cả trăm tên xác sống!
+266) GLENN
+Phải lên đến cả trăm tên xác sống!
+418) GLENN
+Phải lên đến cả trăm tên xác sống!
+91) LEE
+Tôi tưởng anh đã nói "chúng ta làm được rồi."
+192) LEE
+Tôi tưởng anh đã nói "chúng ta làm được rồi."
+265) LEE
+Tôi tưởng anh đã nói "chúng ta làm được rồi."
+417) LEE
+Tôi tưởng anh đã nói "chúng ta làm được rồi."
+92) LEE
+Cẩn thận!
+193) LEE
+Cẩn thận!
+267) LEE
+Cẩn thận!
+419) LEE
+Cẩn thận!
+94) GLENN
+{FearB}Không được để chúng tràn vào!
+177) GLENN
+Không được để chúng tràn vào!
+195) GLENN
+Không được để chúng tràn vào!
+269) GLENN
+{FearB}Không được để chúng tràn vào!
+421) GLENN
+{FearB}Không được để chúng tràn vào!
+95) CARLEY
+{FearB}Chúng sẽ không dừng lại đâu...
+196) CARLEY
+Chúng sẽ không dừng lại đâu...
+219) CARLEY
+{FearB}Chúng sẽ không dừng lại đâu...
+371) CARLEY
+{FearB}Chúng sẽ không dừng lại đâu...
+96) CARLEY
+{AngryB}Kenny phải nhanh lên.
+197) CARLEY
+Kenny phải nhanh lên.
+220) CARLEY
+{AngryB}Kenny phải nhanh lên.
+372) CARLEY
+{AngryB}Kenny phải nhanh lên.
+97) LEE
+Cô ổn không?
+199) LEE
+Cô ổn không?
+222) LEE
+Cô ổn không?
+374) LEE
+Cô ổn không?
+98) CARLEY
+{NormalB}Miễn là tôi vẫn còn đạn.
+198) CARLEY
+Miễn là tôi vẫn còn đạn.
+221) CARLEY
+{NormalB}Miễn là tôi vẫn còn đạn.
+373) CARLEY
+{NormalB}Miễn là tôi vẫn còn đạn.
+99) CARLEY
+{AngryD}Lee, đạn không vĩnh cửu đâu!
+200) CARLEY
+Lee, đạn không vĩnh cửu đâu!
+223) CARLEY
+{AngryD}Lee, đạn không vĩnh cửu đâu!
+375) CARLEY
+{AngryD}Lee, đạn không vĩnh cửu đâu!
+100) CARLEY
+{FearC}Băng đạn của tôi ngoài tầm với!
+201) CARLEY
+Băng đạn của tôi ngoài tầm với!
+224) CARLEY
+{FearC}Băng đạn của tôi ngoài tầm với!
+376) CARLEY
+{FearC}Băng đạn của tôi ngoài tầm với!
+103) DOUG
+[Holding off zombies] {FearB}Trời ơi, trời ơi...
+204) DOUG
+[Holding off zombies] Trời ơi, trời ơi...
+286) DOUG
+[Holding off zombies] {FearB}Trời ơi, trời ơi...
+438) DOUG
+[Holding off zombies] {FearB}Trời ơi, trời ơi...
+105) DOUG
+{FearB}Mấy tấm ván sắp vỡ rồi, {FearC}tôi không trụ được nữa!
+288) DOUG
+{FearB}Mấy tấm ván sắp vỡ rồi, {FearC}tôi không trụ được nữa!
+440) DOUG
+{FearB}Mấy tấm ván sắp vỡ rồi, {FearC}tôi không trụ được nữa!
+107) DOUG
+{AngryA}Giúp bọn tôi!
+208) DOUG
+Giúp bọn tôi!
+290) DOUG
+{AngryA}Giúp bọn tôi!
+442) DOUG
+{AngryA}Giúp bọn tôi!
+109) LEE
+[under duress] {FearB}Có lẽ chúng ta có thể dùng gì đó chặn cửa lại!
+210) LEE
+[under duress] Có lẽ chúng ta có thể dùng gì đó chặn cửa lại!
+310) LEE
+[under duress] {FearB}Có lẽ chúng ta có thể dùng gì đó chặn cửa lại!
+462) LEE
+[under duress] {FearB}Có lẽ chúng ta có thể dùng gì đó chặn cửa lại!
+506) LEE
+[under duress] Có lẽ chúng ta có thể dùng gì đó chặn cửa lại!
+110) LEE
+[under duress]{FearB} Tìm xung quanh cái gì đó để chặn tay nắm cửa lại!
+211) LEE
+[under duress] Tìm xung quanh cái gì đó để chặn tay nắm cửa lại!
+311) LEE
+[under duress]{FearB} Tìm xung quanh cái gì đó để chặn tay nắm cửa lại!
+463) LEE
+[under duress]{FearB} Tìm xung quanh cái gì đó để chặn tay nắm cửa lại!
+507) LEE
+[under duress] Tìm xung quanh cái gì đó để chặn tay nắm cửa lại!
+111) LEE
+[under duress, to self] {NormalD}Cái gì đó thật cứng mới có thể chịu được đám xác sống..
+212) LEE
+[under duress, to self] Cái gì đó thật cứng mới có thể chịu được đám xác sống..
+244) LEE
+[under duress, to self] {NormalD}Cái gì đó thật cứng mới có thể chịu được đám xác sống..
+396) LEE
+[under duress, to self] {NormalD}Cái gì đó thật cứng mới có thể chịu được đám xác sống..
+112) LEE
+[under duress] {AngryA}Làm sao để đóng mấy tấm ván đó lên cửa sổ vậy?
+215) LEE
+[under duress] Làm sao để đóng mấy tấm ván đó lên cửa sổ vậy?
+227) LEE
+[under duress] {AngryA}Làm sao để đóng mấy tấm ván đó lên cửa sổ vậy?
+379) LEE
+[under duress] {AngryA}Làm sao để đóng mấy tấm ván đó lên cửa sổ vậy?
+113) DOUG
+[under duress] {FearB}Eh, anh biết mà.
+213) DOUG
+[under duress] Eh, anh biết mà.
+229) DOUG
+[under duress] {FearB}Eh, anh biết mà.
+380) DOUG
+[under duress] {FearB}Eh, anh biết mà.
+114) LEE
+[under duress][stern] {AngryC}Không. Tôi chưa nghĩ ra.
+214) LEE
+[under duress][stern] Không. Tôi chưa nghĩ ra.
+228) LEE
+[under duress][stern] {AngryC}Không. Tôi chưa nghĩ ra.
+381) LEE
+[under duress][stern] {AngryC}Không. Tôi chưa nghĩ ra.
+115) KENNY
+Cái chuông này đang reo và chúng ta không có nhiều thời gian cho đến khi
+
+[ZOMBIE]lũ xác sống ngoài phố Macon tràn vào.
+
+Tôi sẽ chạy đi lấy chiếc xe tải và quay lại đây đón mọi người.
+116) LILLY
+Nhanh lên đi! tôi phải đưa bố ra khỏi đây!
+118) KENNY
+Em yêu! mang Duck trốn vào trong phòng riêng và chặn cửa lại.
+
+Glenn! khi cậu nghe tôi bấm còi xe ở ngoài hẻm thì hãy ra hiệu
+
+mọi người chạy ra đấy nhé.
+120) KENNY
+Doug, Carley và Lee, mọi người cố gắng giữ cửa cho đến khi tôi quay lại.
+121) KENNY
+Lee này, tôi mượn chiếc rìu để tự vệ trong lúc chạy đi lấy xe!
+124) LEE
+Chắc rồi. Clementine có thể chịu được mà.
+127) KENNY
+Vào việc đi! tôi sẽ quay lại nhanh nhất có thể.
+128) DOUG
+Tôi không biết mấy tấm ván này có trụ được lâu không...
+129) CARLEY
+[Exerting herself] Chúng ta có thể chặn cửa. Mau tới đó và giữ chân
+
+đám xác sống đang cố tràn vào đi!
+134) KATJAA
+[from the other room] GLENN! HELP!
+141) KATJAA
+GLENN! HELP!
+135) GLENN
+Kenny đây rồi! Tôi sẽ đi xem chuyện gì đang xảy ra nhé! Anh trụ được không?
+137) DOUG
+Lee! We can't hold this alone.
+139) GLENN
+Đệch đệch đệch! Tôi... tôi phải đi thôi!
+143) DOUG
+Chúng đang tràn vào! CHÚNG TRÀN VÀO KÌA! GIÚP TÔI VỚI LEE! GIÚP TÔI VỚI!
+156) CARLEY
+Chết tiệt! Tôi chịu hết nổi rồi! chúng đông quá!
+158) CARLEY
+They got Doug... They...they...
+159) LARRY
+Quan trọng cái quái gì nữa, mọi người phải đi nhanh!
+161) LARRY
+Quan trọng cái quái gì nữa, mọi người phải đi nhanh!
+163) LARRY
+Riêng mày không được đi với mọi người! thằng chó.
+182) LEE
+Clementine! Cháu hãy đi tìm cái gì đó để chặn cửa lại, vật gì đó thật cứng, ok?!
+191) GLENN
+Phải đến hàng trăm tên xác sống!
+206) DOUG
+Mấy tấm ván sắp vỡ rồi, tôi không trụ được nữa!
+217) DOUG
+Mấy tấm ván sắp vỡ rồi, tôi không trụ được nữa!
+302) KENNY
+{AngryA}Chuông báo hiệu đang{ThinkingA} reo, chúng ta không có nhiều thời gian
+
+{DisgustA}cho đến khi đám xác sống ngoài phố Macon {AngryA}tràn vào.
+
+{NormalA}Tôi sẽ đi lấy xe quay lại đón mọi người.
+446) KENNY
+{AngryA}Chuông báo hiệu đang{ThinkingA} reo, chúng ta không có nhiều thời gian
+
+{DisgustA}cho đến khi đám xác sống ngoài phố Macon {AngryA}tràn vào.
+
+{NormalA}Tôi sẽ đi lấy xe quay lại đón mọi người.
+319) LEE
+Không, cửa cổng đang bị khóa.
+471) LEE
+Không, cửa cổng đang bị khóa.
+320) LEE
+{HappyA}Ha, tôi chưa muốn chết đâu!
+476) LEE
+{HappyA}Ha, tôi chưa muốn chết đâu!
+321) DOUG
+{AngryA}Không, cửa cổng đang bị khóa. {HappyA}Chúng ta có thể cố thủ trong cửa hàng và sẽ ổn thôi.
+475) DOUG
+{AngryA}Không, cửa cổng đang bị khóa. {HappyA}Chúng ta có thể cố thủ trong cửa hàng và sẽ ổn thôi.
+322) LEE
+{NormalA}Oh, {ThinkingA}huh.
+472) LEE
+{NormalA}Oh, {ThinkingA}huh.
+323) LEE
+[pickup3]Cậu nghe hay thấy cái gì không?
+474) LEE
+[pickup3]Cậu nghe hay thấy cái gì không?
+324) DOUG
+{NormalA}Không có gì, thật may. {HappyA}Anh muốn ra bên ngoài xem tình hình không?
+473) DOUG
+{NormalA}Không có gì, thật may. {HappyA}Anh muốn ra bên ngoài xem tình hình không?
+325) 
+Chúng ta hãy ra ngoài xem một vòng.
+334) 
+Chúng ta hãy ra ngoài xem một vòng.
+335) LEE
+{AngryA}Chúng ta hãy ra ngoài xem một vòng.
+342) 
+Chúng ta hãy ra ngoài xem một vòng.
+343) LEE
+{AngryA}Chúng ta hãy ra ngoài xem một vòng.
+477) 
+Chúng ta hãy ra ngoài xem một vòng.
+486) 
+Chúng ta hãy ra ngoài xem một vòng.
+488) LEE
+{AngryA}Chúng ta hãy ra ngoài xem một vòng.
+494) 
+Chúng ta hãy ra ngoài xem một vòng.
+495) LEE
+{AngryA}Chúng ta hãy ra ngoài xem một vòng.
+326) LEE
+{NormalB}Chắc rồi! Chúng ta hãy ra ngoài xem một vòng.
+480) LEE
+{NormalB}Chắc rồi! Chúng ta hãy ra ngoài xem một vòng.
+327) LEE
+{AngryA}Đồng ý.
+479) LEE
+{AngryA}Đồng ý.
+328) DOUG
+{HappyA}Tuyệt, {AngryB}và... chúng ta cần giữ im lặng.
+
+Đừng gây sự chú ý dẫn dụ chúng vào trong bằng tiếng ồn nhé.
+478) DOUG
+{HappyA}Tuyệt, {AngryB}và... chúng ta cần giữ im lặng.
+
+Đừng gây sự chú ý dẫn dụ chúng vào trong bằng tiếng ồn nhé.
+329) 
+Không phải lúc.
+337) 
+Không phải lúc.
+339) LEE
+{ThinkingB}Không phải lúc.
+345) 
+Không phải lúc.
+346) LEE
+{ThinkingB}Không phải lúc.
+481) 
+Không phải lúc.
+489) 
+Không phải lúc.
+491) LEE
+{ThinkingB}Không phải lúc.
+497) 
+Không phải lúc.
+499) LEE
+{ThinkingB}Không phải lúc.
+330) DOUG
+{ThinkingA}Được rồi, cho tôi biết nếu anh muốn ra ngoài.
+482) DOUG
+{ThinkingA}Được rồi, cho tôi biết nếu anh muốn ra ngoài.
+331) LEE
+{ThinkingB}Eh, chưa phải lúc này...
+483) LEE
+{ThinkingB}Eh, chưa phải lúc này...
+332) DOUG
+{HappyB}Anh muốn ra ngoài xem tình hình chứ?
+485) DOUG
+{HappyB}Anh muốn ra ngoài xem tình hình chứ?
+333) LEE
+{NormalC}Này, tôi đi ngang qua chỗ có cái rìu.
+484) LEE
+{NormalC}Này, tôi đi ngang qua chỗ có cái rìu.
+338) DOUG
+{AngryA}Được rồi.
+347) DOUG
+{AngryA}Được rồi.
+490) DOUG
+{AngryA}Được rồi.
+498) DOUG
+{AngryA}Được rồi.
+340) DOUG
+{NormalB}Ổn, {HappyA}anh muốn ra ngoài xem một vòng không?
+492) DOUG
+{NormalB}Ổn, {HappyA}anh muốn ra ngoài xem một vòng không?
+341) LEE
+{thinkingA}Mọi thứ sao rồi?
+493) LEE
+{thinkingA}Mọi thứ sao rồi?
+348) LEE
+[to himself] Bố tôi từng cất những món đồ tốt ở trên cùng của kệ.
+500) LEE
+[to himself] Bố tôi từng cất những món đồ tốt ở trên cùng của kệ.
+349) LEE
+{ThinkingB}{body-b}Những thứ này trông có vẻ an toàn.
+501) LEE
+{ThinkingB}{body-b}Những thứ này trông có vẻ an toàn.
+350) DOUG
+Whoa! Chúng ta không được ra ngoài, tôi chưa khóa cổng.
+502) DOUG
+Whoa! Chúng ta không được ra ngoài, tôi chưa khóa cổng.
+351) LEE
+Phải.
+503) LEE
+Phải.
+352) LEE
+{ThinkingA}{body-b}Mấy cái kệ này nặng cả tấn.{DisgustA}{body-b}Nó có thể giữ an toàn cho chúng ta.
+504) LEE
+{ThinkingA}{body-b}Mấy cái kệ này nặng cả tấn.{DisgustA}{body-b}Nó có thể giữ an toàn cho chúng ta.
+353) 
+Cửa sổ
+354) 
+Kệ sách
+355) 
+Cửa trước
+356) 
+phòng riêng
+357) 
+Cục pin
+358) 
+Khăn
+359) 
+Nước
+360) 
+Núm vặn bị hỏng
+361) 
+Ăng-ten
+362) 
+Âm lượng
+363) 
+Vặn chỉnh
+364) 
+Pin
+365) 
+Nắp khe lắp pin
+366) 
+Bật/Tắt
+367) 
+Ngăn kéo
+368) 
+Rác
+369) 
+Cổng
+402) GLENN
+[pickup1] [panicked by a scream] Khỉ thật! [DIR: (<<author>>Sean Vanaman, Tue Jul 05 18:30:12 2011<<date:1309915812>>)] [Glen bolts across the room and out the office door.]
+415) GLENN
+[pickup1] Lee, nhanh lên!
+416) GLENN
+[pickup1] [a little panicked, a little agitated] Lee! Nhanh lên nào anh bạn, Katjaa cần tôi giúp!
+437) DOUG
+[pickup1] [screaming, increasingly terrified] Ahhhhh! Cút đi! cút đi! Lee! CỨU TÔI! Chúa ơi! ngăn chúng khỏi tôi
+
+NGĂN CHÚNG KHỎI TÔI!
+469) CARLEY
+[pickup1] [Lots of screaming, being eaten alive - please try to show the actress the animation, it's very specific - sk55_action_carleyKilled.chore].
+508) 
+Chặn cửa
+509) 
+Đi tới cửa
+511) DOUG
+[pickup2] Cái cửa sổ đằng kia được cố định vít rồi!
+512) CARLEY
+[pickup1] LEE! Giúp tôi lấy đạn! ở trong túi xách của tôi!
+513) CARLEY
+[pickup1] [shocked at zombie attacking Lee] ôi, khỉ thật!
+514) LEE
+[pickup1] Wha...? [zombie suddenly in his face] ôi, khỉ thật!
+515) LEE
+[pickup1] [just saved from zombie death] Chúa ơi...
+516) DOUG
+[pickup1] [timid, quiet, scared] Trời ơi...
+517) KATJAA
+[pickup1] [starting to worry, yelling from other room] Glenn, chúng tôi cần anh giúp! nhanh lên!
+518) KATJAA
+[pickup1] [panicking a little, yelling from next room] Glenn, chúng tôi cần anh, cần anh giúp!
+519) KATJAA
+KATJAA CALLOUT 3!!!!!
+520) KENNY
+[pickup1] [arguing, yelling over alarm] Chết tiệt! Nó không hoạt động.
+521) GLENN
+[pickup1] [defensive, yelling over alarm] Tôi vừa nói, nếu chúng ta--
+522) KENNY
+[pickup1] [arguing, yelling over alarm] Thôi nào Glenn, cậu biết là tôi nói đúng mà.
+523) KENNY
+[pickup1] [good-humored, yelling over alarm] Chà, thật là rách việc...
+524) GLENN
+[pickup1] [conceding, yelling over alarm] Ý tôi là chúng ta không có quyền lựa chọn vào hoàn cảnh này.
+
+Tôi chỉ không muốn mọi người phải mất mát nữa, anh hiểu chứ?
+525) GLENN
+[pickup1] [conceding, yelling over alarm] ...phải.
+526) KENNY
+[pickup1] Anh có thể chứ? [A response to Lee saying "She can handle it," in reference to zombies breaking into the room.]
+527) KENNY
+[pickup1] Tôi đoán chúng ta phải tìm cách thoát thôi.
+528) 
+Nhìn tôi đây này, anh đang nghĩ gì vậy?
+531) LEE
+[pickup1] Nhìn tôi đây này, anh đang nghĩ gì vậy?
+529) 
+Tôi sẽ làm tốt nhất có thể.
+533) LEE
+[pickup1] Tôi sẽ làm tốt nhất có thể.
+530) 
+Không! Ở ngoài kia có cả tá xác sống.
+536) LEE
+[pickup1] Không! Ở ngoài kia có cả tá xác sống
+532) KENNY
+[pickup1] OK, anh bạn cứng cựa. Mong là điều đó là sự thật đi.
+534) KENNY
+[pickup1] Mong là mọi chuyện ổn.
+535) KENNY
+[pickup1] Chà, có vẻ như cô bé đó có thể bảo vệ anh chăng?
+537) KATJAA
+[pickup1] [a little panicked] Duck, dậy nào con, tới lúc đi rồi.
+538) KENNY
+[pickup1] Chuông báo động reo rồi, sẽ không có nhiều thời gian
+
+cho đến khi lũ xác sống tràn vào đây.
+539) KENNY
+[pickup1] Tôi sẽ lái chiếc bán tải vòng về đây.
+602) KENNY
+[pickup1] Tôi sẽ lái chiếc bán tải vòng về đây.
+540) LEE
+[pickup1]Cô bé sẽ ổn miễn là cô bé ở bên cạnh tôi.
+541) KENNY
+[pickup1][to Clementine] Cháu có nghe gì không?
+542) CARLEY
+[pickup1] Glenn! Doug! Mau vào việc đi!
+543) KENNY
+[pickup1] Tôi sẽ trở lại nhanh nhất có thể!
+544) CARLEY
+[pickup1] LEE! Cái kệ! Ba chúng ta có thể đẩy cái kệ chắn cửa!
+545) LEE
+[pickup1] [ramming your shoulder into a bookcase, a sharp, heavy throw. time is of the essence!]
+546) LEE
+[pickup1] [ramming your shoulder into a bookcase, a sharp, heavy throw. time is of the essence!]
+547) LEE
+[pickup1] [ramming your shoulder into a bookcase, a sharp, heavy throw. time is of the essence!]
+548) LEE
+[pickup1][you throw all of your weight into a shelf, pushing it up against a window. success!]
+549) DOUG
+[pickup1][instead]Không! Tấm ván gỗ sắp bị vỡ mất rồi!
+550) CARLEY
+[pickup1]Sửa nó lại trước đi!
+551) GLENN
+[pickup1][offended, but in the heat of battle]Này!
+552) CARLEY
+[pickup1] TỐT LẮM! Chúng ta có thể dùng sức để giữ cửa.
+553) DOUG
+[pickup1] Tốt thôi!
+593) DOUG
+[pickup1] Tốt thôi!
+554) LEE
+[pickup1][having just succeeded] Chúng ta sẽ ổn ở đây.
+590) LEE
+[pickup1][having just succeeded] Chúng ta sẽ ổn ở đây.
+555) CARLEY
+[pickup1] Lại đây giúp chúng tôi với!
+556) GLENN
+[pickup1]Chết tiệt! Lee, đi qua đây nào!
+592) GLENN
+[pickup1]Chết tiệt! Lee, đi qua đây nào!
+557) CARLEY
+[pickup1][under major duress but still making fun of Glenn]"Người đàn ông?"
+558) LEE
+[pickup1][holding the door] Im đi, Doug!
+559) DOUG
+[pickup1] [under duress]Này, Lee... nếu chúng ta không qua khỏi thì anh hãy nhớ...
+
+tôi nghĩ anh là một người rất tốt đấy.
+560) CARLEY
+[pickup1] Doug! nếu chúng ta không qua khỏi thì anh nên nhớ-- [interupted]
+561) CARLEY
+[pickup1][under duress, holding the door] Huh?!
+562) DOUG
+[pickup1][under duress, holding the door] Cô bảo tôi nên biết cái gì cơ?
+563) DOUG
+[pickup1] Cô vừa bảo tôi nên biết cái gì?
+565) CARLEY
+[pickup1][throwing your weight against a door that hte undead horde is trying to break through; holding them back.]
+566) LEE
+[pickup1][throwing your weight against a door that hte undead horde is trying to break through; holding them back.]
+567) DOUG
+[pickup1][throwing your weight against a door that hte undead horde is trying to break through; holding them back.]
+568) LEE
+[pickup1][pushing back against zombies, continual]
+569) LEE
+[pickup1] CLEMENTINE! tìm thấy gì chưa vậy cháu?
+570) DOUG
+[pickup1][throwing your weight against a door that the undead horde is trying to break through; holding them back, number 2]
+571) LEE
+[pickup1][throwing your weight against a door that the undead horde is trying to break through; holding them back, number 2]
+572) CLEMENTINE
+[pickup1] [loud yell] Chưa thấy gì ạ! chú chờ tí! [remembering something]
+573) LEE
+[pickup1][fighting for his life, lee throws all of his energy into a door, trying to hold the horde back]
+574) DOUG
+[pickup1][surprised/scared]Ah!
+575) CARLEY
+[pickup1][surprised/scared]Ah!
+576) GLENN
+[pickup1][surprised/scared]Ah!
+588) GLENN
+[pickup1][surprised/scared]Ah!
+589) DOUG
+[pickup1][surprised/scared]Ah!
+591) CARLEY
+[pickup1][surprised/scared]Ah!
+577) DOUG
+[pickup1]Mọi người! cái cửa đấy không còn được khóa nữa! [oh shit!]
+578) CARLEY
+[pickup1][panic] Mẹ kiếp! tôi hết đạn rồi! Tôi hết đạn rồi!
+579) 
+Mau đẩy cá kệ chặn cửa sổ lại!
+580) 
+Đóng mấy tấm ván gỗ chặn cửa sổ lại!
+581) CLEMENTINE
+[pickup1] [grabbed by zombie]
+582) 
+Cứu Clementine khỏi xác sống
+583) 
+Thoát khỏi hiệu thuốc
+584) 
+Sử dụng Analog để đẩy cửa ra.
+585) 
+Hoạt động rồi!11!1!!
+586) CARLEY
+[pickup1] Chết tiệt! Glenn, không! Quay lại đây!
+594) 
+Búa
+595) 
+Ván gỗ
+596) 
+Anh thắng rồi!
+597) 
+Ấn nút 'A' để đóng cửa lại.
+598) 
+Bạn đã đi quá xa cửa.
+601) 
+Túi xách
+603) LILLY
+[pickup1] Chúng ta phải ra khỏi đây NHANH!
+604) KENNY
+[pickup1] [loud, over an alarm] Tôi có lãng phí giây phút nào đâu cơ chứ.
+610) KENNY
+[pickup1] Ba người vào vị trí! Tôi sẽ quay lại sớm nhất có thể!
+611) CARLEY
+[pickup1] [running, shocked] Larry! Chúng tóm Doug rồi! Chúng... chúng...
+612) DOUG
+[pickup2] [running, panicked] Larry! Chúng tóm được Carley rồi!
+613) CARLEY
+[pickup2] [a scream--you've just been grabbed by zombies, trying to get someone's attention]
+614) LEE
+[pickup3] ĐI ĐI!
+616) 
+Im đi, Doug!
+617) 
+Chúng ta sẽ vượt qua thôi!
+618) 
+Uh, cảm ơn cậu.
+619) LEE
+[pickup3] [holding the door against a horde of zombies] [sarcastic] Cảm ơn cậu, Doug!
+620) LEE
+[pickup3][holding the door against the zombies] Chúng ta sẽ vượt qua chuyện này thôi!
+621) KENNY
+[pickup1] Thậm chí nếu hắn là một gã khốn.
+622) KENNY
+[pickup1] Đặc biệt là một người bạn tốt.
+623) 
+Tay Kenny
+624) 
+Chụp lấy
+625) 
+Chụp lấy
+626) 
+Cây gậy
+627) 
+Nắm cửa
+629) 
+Nắm cửa
+628) 
+Đẩy
+630) 
+Giúp
