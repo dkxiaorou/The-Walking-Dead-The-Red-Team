@@ -321,79 +321,79 @@ I'd still like to check on him.
 159) BRENDA
 Just you wait, Lee, things are gonna seem so much nicer once you've all had supper and a good night's rest.
 160) BRENDA
-[pickup2][friendly]Please! After what we've been through...you can call me Brenda!
+[pickup2][friendly]Làm ơn! Sau tất cả những gì chúng ta trải qua...anh có thể gọi tôi là Brenda!
 161) LEE
-[pickup2][initiating conversation]Mrs. St. John...
+[pickup2][initiating conversation]Bà St. John...
 162) LEE
-[pickup2][initiating conversation] Pardon me, Brenda...
+[pickup2][initiating conversation] Tha thứ tôi, Brenda...
 163) BRENDA
-[pickup2][friendly]What's on your mind, Lee?
+[pickup2][friendly]Trong đầu anh đang nghĩ gì vậy, Lee?
 164) ANDY
-{happyB}Here it is.  St. John's family dairy.  {normalC}It ain't much, {happyA}but it's kept us safe so far.
+{happyB}Đây rồi.  Nông trại của St. John.  {normalC}Nó không nhiều, {happyA}nhưng nó là thứ giữ chúng tôi an toàn.
 167) LEE
 [Calling out, firm] {AngryC} Andy!
 168) BEN
-[quiet]{AngryA}I knew it! [to Doug/Carley]{FearA}I told you we couldn't trust them
+[quiet]{AngryA}Tôi biết ngay mà! [to Doug/Carley]{FearA}Tôi đã bảo anh không được tin họ mà
 169) LEE
-[quiet]{NormalC}Do you have a weapon?
+[quiet]{NormalC}Anh có vũ khí không?
 170) BEN
-{disgustA}It's not the bite that does it! {fearA}Yeah, the bite will kill you, but...
+{disgustA}Vết cắn không làm điều đó! {fearA}Ừ thì, vết cắn sẽ giết anh, nhưng...
 171) KENNY
-[furious] {angryC}You said he wasn't bitten!
+[furious] {angryC}Anh nói rằng anh ây không bị cắn!
 172) BEN
-{disgustA}You come back no matter how you die.  {sadB}If you don't destroy the brain, {disgustA}that's just what happens.  {sadC}That's what's gonna to happen to ALL of us.
+{disgustA}Anh sẽ sống lại không quan trọng cách anh chết.  {sadB}Nếu anh không đập nát bộ óc, {disgustA}đó là điều sẽ xảy ra.  {sadC}Đó là điều sẽ xảy ra với TẤT CẢ chúng ta.
 173) LEE
-[a bit out of breath]{normalD} Thanks.
+[a bit out of breath]{normalD} Cảm ơn.
 174) LEE
-[Shouting] The Axe!  Hurry!!
+[Shouting] Cái Rìu!  Khẩn trương!!
 175) DUCK
-{happyA}Okay.  Me and Clementine are coloring.
+{happyA}Okay.  Cháu và Clementine đang tô màu.
 176) DUCK
-{thinkingA}Yeah.  When are we gonna get some food?
+{thinkingA}Yeah.  Khi nào chúng ta mới có được đồ ăn vậy?
 177) LEE
-{happyA}The wall's looking good, Doug.
+{happyA}Cái tường nhìn tốt lắm, Doug.
 178) DOUG
-{happyA}Thanks. {normalA}I also worked up a little "early warning system" for outside.
+{happyA}Cảm ơn. {normalA}I also worked up a little "early warning system" for outside.
 179) LEE
 {thinkingA}Early warning system?
 180) DOUG
 {thinkingA}Well... it's just string with some cans attached, buy hey, it works.
 181) LEE
-[flat]{normalD}Hey, Doug.
+[flat]{normalD}Này, Doug.
 182) CLEMENTINE
-[to ben; quizzing him about her drawing] {normalC}Guess what it is?
+[to ben; quizzing him about her drawing] {normalC}Đoán thử nó là cái gì đi?
 183) BEN
-[still a little out of sorts; guessing what clems picture is of]{sadA} I don't know... a dog?
+[still a little out of sorts; guessing what clems picture is of]{sadA} Anh không biết... một con chó?
 184) CLEMENTINE
-{happyB}Nope.
+{happyB}Sai rồi.
 185) DUCK
-{happyB}Oh, I know!  It's a goat, right?
+{happyB}Oh, tớ biết!  Nó là một con dê, phải không?
 186) LEE
-{normalD}Thanks for keeping the kids over here.
+{normalD}Cảm ơn đã để ý bọn trẻ đằng kia.
 187) CARLEY
-{happyB}Yeah, well, my instinct was to run over and get the story.  But ... {sadA}yeah... the kids didn't need to see that.
+{happyB}Yeah, thì, bản năng của tôi là chạy qua và lấy được câu truyện.  Nhưng ... {sadA}ừ... bọn trẻ không cần thấy nó.
 188) CARLEY
-{thinkingA}Oh, and do me a favor and talk to Lilly about getting some rest.  {angryA}You and I are supposed to be on watch together tonight.  I need you sharp.
+{thinkingA}Oh, và giúp tôi một điều và bảo Lilly về việc nghỉ ngơi.  {angryA}Anh và tôi phải gác tối nay.  Tôi cần anh thật tập trung.
 189) DOUG
-{sadA}Hey, I owe you a lot more than a half eaten candy bar.  Take it.
+{sadA}Này, Tôi nợ anh nhiều hơn một thanh kẹo nửa ăn.  Lấy nó đi.
 190) LEE
-{sadA}Thanks. {thinkingA}I appreciate it.
+{sadA}Cảm ơn. {thinkingA}Tôi trân trọng nó.
 191) LEE
-{sadB}Keep it.
+{sadB}Giữ nó đi.
 192) DOUG
-{fearA}You look like crap, Lee. When was the last time you ate?
+{fearA}Anh nhìn như cứt vậy, Lee. Lần cuối anh ăn là khi nào?
 193) CARLEY
-{thinkingA}You look like crap, Lee. When was the last time you ate?
+{thinkingA}Anh nhìn như cứt vậy, Lee. Lần cuối anh ăn là khi nào?
 194) LEE
-[Don't worry about me]{sadA}I'm okay.
+[Don't worry about me]{sadA}Tôi không sao.
 195) CARLEY
-{disgustA}I want you to have this, okay? In case you or Clementine starts feeling weak.
+{disgustA}Tôi muốn anh có cái này, okay? Phòng trường hợp anh hoặc Clementine bắt đầu cảm thấy yếu.
 196) LEE
-{sadA}You don't owe me anything, Carley.
+{sadA}Cô không nợ tôi gì, Carley.
 197) LEE
-[friendly, talking to Duck]{normalD}Have I missed anything?
+[friendly, talking to Duck]{normalD}Chú có bỏ lỡ gì không?
 198) DUCK
-No, not really.
+Không, không hẳn.
 199) KATJAA
 [pickup1]Kids! [dont be rude!...and stop giggling over the word Doo-Dee!]
 200) CLEMENTINE
@@ -403,14 +403,14 @@ No, not really.
 201) CLEMENTINE
 [pickup1][whispered] Doo-dee!
 203) DUCK
-[pickup1][confused]What's "manure"?
+[pickup1][confused]"Phân chuồng" là gì vậy?
 204) CLEMENTINE
-[pickup1][When duck says Lee smells funny, Clem remebers what Lee said at Hershel's Barn][proud that she learned a new word]...Like manure!
+[pickup1][When duck says Lee smells funny, Clem remebers what Lee said at Hershel's Barn][proud that she learned a new word]...Như phân chuồn!
 205) CLEMENTINE
 [pickup1][sad and embarased after being scolded about using swear words]Okay.
 206) CLEMENTINE
-[pickup1][When duck says Lee smells funny, Clem remebers what Lee said at Hershel's Barn]Like... Shit, right Lee?
+[pickup1][When duck says Lee smells funny, Clem remebers what Lee said at Hershel's Barn]Như... cứt, đúng không Lee?
 207) LEE
-[pickup1][after Clem says something smells like "shit"] Hey, don't use swear words, okay?
+[pickup1][after Clem says something smells like "shit"] Này, không dùng từ chửi thề, okay?
 208) CLEMENTINE
-[pickup1][When duck says Lee smells funny, Clem remebers what Lee said at Hershel's Barn]...Like doo-dee!
+[pickup1][When duck says Lee smells funny, Clem remebers what Lee said at Hershel's Barn]...Như doo-dee!
