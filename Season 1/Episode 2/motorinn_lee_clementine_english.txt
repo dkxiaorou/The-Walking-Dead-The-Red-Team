@@ -1,45 +1,45 @@
 1) CLEMENTINE
-{sadA}I had it a couple days ago.
+{sadA}Cháu đã có nó một vài ngày trước.
 2) LEE
-{normalC}When did you lose it?
+{normalC}Cháu đã mất khi nào vậy?
 3) LEE
-{normalD}Do you really need it?
+{normalD}Cháu có thực sự mất nó khônt?
 4) CLEMENTINE
-{sadA}NO. Not since it broke at the drug store.
+{sadA}Không. Không hề từ lúc ở cửa hàng thuốc.
 5) LEE
-{thinkingA}That thing doesn't work anymore, does it?
+{thinkingA}Thứ đó không hoạt động nữa, đúng không?
 6) LEE
-{sadA}Sorry, hon, I don't have time.
+{sadA}Xin lỗi, hon, chú không có thời gian.
 7) CLEMENTINE
 [annoyed] {angryA}Lee!
 8) CLEMENTINE
 [annoyed] {angryA}Lee!
 9) CLEMENTINE
-{sadC}But it makes me feel better.
+{sadC}Nhưng nó giúp cháu cảm thấy tốt hơn.
 10) LEE
-[sad, but sympathetic] {sadA}Look, Clementine...
+[sad, but sympathetic] {sadA}Nhìn này, Clementine...
 11) CLEMENTINE
-{angryA}I'm not stupid, Lee. {sadB}I know it's just pretend.
+{angryA}Cháu không ngốc, Lee. {sadB}Cháu biết nó như giả vờ.
 12) CLEMENTINE
-{sadA}I'm really hungry, Lee.
+{sadA}Cháu rất đói, Lee.
 13) LEE
-{normalD}How are you doing, Clementine?
+{normalD}Cháu như thế nào rồi, Clementine?
 14) LEE
-{sadB}Okay.  You take good care of it, then.
+{sadB}Okay.  Cháu chăm sóc tốt nó nhé.
 15) CLEMENTINE
-{sadA}I will.
+{sadA}Cháu sẽ làm.
 16) LEE
-[pickup2][sean edit] I know I did.
+[pickup2][sean edit] Chú biết.
 17) CLEMENTINE
-[pickup2][sean edit] And until then... [trails off]
+[pickup2][sean edit] Nhưng tới lúc đó... [trails off]
 18) CLEMENTINE
-[pickup2][sean edit] You said they'd find us.
+[pickup2][sean edit] Chú nói họ sẽ tìm ra chúng ta.
 19) CLEMENTINE
-[pickup2][sean edit] But we can try to find THEM.
+[pickup2][sean edit] Nhưng chúng ta có thể tìm HỌ.
 20) CLEMENTINE
-[pickup2][sean edit] You said you didn't think they would find us.
+[pickup2][sean edit] Chú nói rằng chú không nghĩ họ sẽ tìm ra chúng ta.
 21) LEE
-[pickup2][sean edit] Well, yeah, but that's just because...
+[pickup2][sean edit] Thì, ờ, nhưng đó là bởi vì...
 22) 
 [Give Half an Apple]
 23) 
@@ -55,79 +55,79 @@
 69) 
 [Exit]
 26) LEE
-[pickup 2] Here Clem, you need something to eat.
+[pickup 2] Này Clem, cháu cần gì để ăn nè.
 72) LEE
-[pickup 2] Here Clem, you need something to eat.
+[pickup 2] Này Clem, cháu cần gì để ăn nè.
 27) LEE
-[smiling at Clementine's joke] I'll keep that in mind.
+[smiling at Clementine's joke] Cháu sẽ để ý.
 28) CLEMENTINE
-[pickup 2] Okay. [joking] A sundae would be better next time. [laughs to herself]
+[pickup 2] Okay. [joking] Một sundae sẽ tốt hơn lần sau. [laughs to herself]
 29) LEE
-[pickup 2] I'm all out of food, Clementine. I'm sorry.
+[pickup 2] Chú hết đồ ăn rồi, Clementine. Chú xin lỗi.
 30) CLEMENTINE
-[pickup 2] [sighs] [hates to admit it]I'm really hungry...
+[pickup 2] [sighs] [hates to admit it]Cháu đang rất đói...
 31) LEE
-[pickup 2] How you doing, Clementine? Everything all right?
+[pickup 2] Cháu thế nào rồi, Clementine? Mọi chuyện ổn không?
 32) CLEMENTINE
-[pickup 2] ...Yeah. Is that man going to be okay?
+[pickup 2] ...Có ạ. Người đàn ông đằng kia có ổn không ạ?
 33) LEE
-[pickup 2] [not sure himself] I think he'll be fine.
+[pickup 2] [not sure himself] Chú nghĩ anh ấy sẽ ổn.
 34) LEE
-[pickup 2] I'm not sure.
+[pickup 2] Chú không rõ nữa.
 55) 
-I'm not sure.
+Chú không rõ nữa.
 35) LEE
-[pickup 2] It doesn't look good, Clementine. It doesn't look good.
+[pickup 2] Nó nhìn không tốt lắm, Clementine. Nó nhìn không tốt lắm.
 36) CLEMENTINE
-[pickup 2] [reserved, unsure about a prognosis] Oh, that's good.
+[pickup 2] [reserved, unsure about a prognosis] Oh, thế là tốt.
 37) CLEMENTINE
-[pickup 2] [a little sad] I hope he will. [be okay]
+[pickup 2] [a little sad] Cháu mong anh ấy sẽ ổn. [be okay]
 38) CLEMENTINE
 [pickup 2] [crestfallen] Oh. Okay.
 39) LEE
-[pickup 2] You'll be okay over here?
+[pickup 2] Cháu có ổn ở đây không?
 40) CLEMENTINE
-[pickup 2] Uh-huh, I'll be okay.
+[pickup 2] Uh-huh, Cháu sẽ ổn.
 41) CLEMENTINE
-[pickup2]Thanks again for the food, Lee.
+[pickup2]Cảm ơn vì đồ ăn, Lee.
 42) CLEMENTINE
-[pickup2]I'm so hungry, Lee. I hope I get to eat soon.
+[pickup2]Cháu rất đói, Lee. Cháu mong sẽ sớm được ăn.
 43) CLEMENTINE
-[pickup2] I love apples. Thank you. Are there more?
+[pickup2] Cháu thích táo. Cảm ơn chú. Còn nữa không ạ?
 44) LEE
-[pickup2] No. That was the last one.
+[pickup2] Không. Đó là cái cuối cùng rồi.
 45) CLEMENTINE
 [pickup2][feels guilty] Oh...um...
 46) LEE
-[pickup2] [sincere, talking to clementine] Enjoy it. You deserve it.
+[pickup2] [sincere, talking to clementine] Tận hưởng đi. Cháu đáng mà.
 47) LEE
 [pickup2][feeling guilty] Yeah...
 70) LEE
 [pickup2][feeling guilty] Yeah...
 48) CLEMENTINE
-[pickup2] Oh. It's ok. I bet the others needed it.
+[pickup2] Oh. Không sao đâu. Cháu cá chắc rằng người khác cần nó.
 49) 
-You still have that walkie-talkie?
+Cháu còn cái bộ đàm đó khônt?
 50) LEE
-[pickup2][to clementine] It's ok, hon.
+[pickup2][to clementine] Không đâu, hon.
 51) CLEMENTINE
-[pickup2] Yeah. If that's okay. I, um, I need it.
+[pickup2] Yeah. Nếu không sao. Cháu, um, cháu cần nó.
 52) LEE
-[pickup2] Just gonna hold onto it then?
+[pickup2] Nhớ giữ nó nhé cháu?
 53) 
-Are you doing ok?
+Cháu có ổn không?
 54) 
-He'll be fine.
+Anh ấy sẽ ổn thôi.
 56) 
-It's looking bad.
+Nhìn nó tệ lắm.
 57) 
-Talk To
+Nói với
 58) 
-Give Food To
+Đưa đồ ăn cho
 59) 
-I'm out of food for today...
+Chú hết đồ ăn hôm nay rồi...
 60) 
-Want some food? [Give Food]
+Muốn đồ ăn không? [Give Food]
 61) LEE
 [pickup3][to himself - depressed, having only 1 piece of food left]Một miếng đồ ăn nữa để cho đi, rồi nó sẽ hết trong ngày hôm nay.
 62) LEE
@@ -137,10 +137,10 @@ Want some food? [Give Food]
 66) LEE
 [pickup3][to himself - choosing to save the food for someone else]Không.  Một số người đã trải qua nhiều hơn tôi mà không có đồ ăn.  Họ là những người cần nó.
 67) CLEMENTINE
-[pickup3]If you have any more food, Duck is hungry too.
+[pickup3]Nếu chú có thêm đồ ăn, Duck cũng rất đói.
 68) DUCK
-{thinkingA}Yeah.  When are we gonna get some food?
+{thinkingA}Đúng rồi.  Khi nào chúng ta có thêm đồ ăn vậy?
 71) LEE
-I'll be back in a bit.
+Chú sẽ quay lại ngay.
 73) LEE
-Back in a bit.
+Sẽ quay lại trong chốc lát.
