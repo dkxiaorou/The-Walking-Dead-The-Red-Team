@@ -1,27 +1,27 @@
 1) LILLY
-{normalB}If the hunting trips nearby don't work, we'll just have to head farther out.
+{normalB}Nếu những cuộc săn bắt gần đây không có tác dụng, ta sẽ phải rời đi nơi xa hơn.
 2) LILLY
-{angryB}But this is a good spot.  {normalB}We're protected, we're close to the drug store, {thinkingA}we have a routine now and it's working.
+{angryB}Nhưng đây là một địa điểm tốt.  {normalB}Chúng ta được bảo vệ, chúng ta gần cửa hàng tốt, {thinkingA}chúng ta có một lịch trình và nó đang hoạt động.
 3) LILLY
-{angryA}God, not you too.  I know Kenny wants to leave.  I think that's why he's so eager to get the RV working.
+{angryA}Trời, cả anh nữa.  Tôi biết Kenny muốn rời đi.  Tôi nghĩ đó là tại sao anh ấy nôn nóng muống cho xe RV chạy thế.
 4) LILLY
-[pickup2]Yeah, well, don't expect that to change.  That's just how he is.
+[pickup2]Ừ, thì, đừng mong nó thay đổi.  Đó chỉ là anh ấy thôi.
 5) LEE
-[pickup2]It's been three months, your dad still treats me like I'm some kind of asshole.
+[pickup2]Được ba tháng rồi, bố cô vẫn cư xử tôi như một thằng khốn nào đấy.
 6) LEE
-[pickup2]So HE'S the asshole.
+[pickup2]Vậy ÔNG ẤY là một thằng khốn.
 7) LEE
-[pickup2]Does he treat you like that too?
+[pickup2]Ông ấy có cư xử với cô như vậy không?
 8) LEE
-[pickup2]How do you put up with him?
+[pickup2]Sao cô có thể chuiuj đựng được ông ấy?
 9) LILLY
-{angryA}All he's got left in the world is me.  {sadA}And that goes both ways.  {disgustA}So, yeah, he's probably gonna keep treating you like crap, but that's just because he still has one thing left to care about.
+{angryA}Tất cả những gì ông ấy còn trên thế giới này là tôi.  {sadA}Và nó có thể đi hai hường.  {disgustA}Vậy, ừ, ông ấy sẽ vẫn đối xử với anh như cứt, nhưng đó là vì ông ấy vẫn còn một thứ để quan tâm.
 10) LILLY
-{angryA}Look. My dad can be an ass sometimes, I know that.  {normalB}But he's not a bad guy.  He just... {sadA}He's got a lot of pain.
+{angryA}Nghe này. Bố tôi có thể thi thoảng là một thằng khốn, Tôi biết vậy.  {normalB}Nhưng ông ấy không phải kẻ xấu.  Ông ấy chỉ... {sadA}Ông ấy có nhiều nỗi đau.
 11) LILLY
-{sadA}He's been through so much.  And lost... {sadB}pretty much everything.  {normalB}And it's hardened him, ya know?  {thinkingA}Yeah, he's bitter and hateful, but that's all just to protect himself. And me.
+{sadA}Ông ấy đã trải qua quá nhiều.  Và mất... {sadB}gần như tất cả.  {normalB}Và nó làm cho ông ấy cứng rắn, biết không?  {thinkingA}Ừ, ông ấy có thể càu nhàu và dễ ghét bỏ, nhưng đó là để bảo vệ ông ấy. Và tôi.
 12) LILLY
-{angryA}So don't judge him.  And don't judge me for sticking by him.  {sadA}He's my dad, and I love him.
+{angryA}Vậy đừng phán xét ông ấy.  Và đừng phán xét tôi vì gắn bó với ông ấy.  {sadA}Ông ấy là bố tôi, và tôi yêu ông ấy.
 13) 
 [Give Half an Apple]
 15) 
@@ -37,81 +37,81 @@
 60) 
 [Exit]
 14) LEE
-[pickup 2] Take the apple, Lilly.
+[pickup 2] Lấy quả táo đi, Lilly.
 18) LEE
-[pickup 2] Here.
+[pickup 2] Này.
 64) LEE
-[pickup 2] Here.
+[pickup 2] Này.
 19) LILLY
-[pickup 2] Thanks, Lee.
+[pickup 2] Cảm ơn, Lee.
 20) LILLY
-[pickup 2] I don't want anything from you.
+[pickup 2] Tôi không muốn gì từ anh.
 28) LILLY
-[pickup 2] I don't want anything from you.
+[pickup 2] Tôi không muốn gì từ anh.
 21) LILLY
-[pickup 2] I will.
+[pickup 2] Tôi sẽ.
 22) LILLY
-[pickup 2] [a little agitated] Fine.
+[pickup 2] [a little agitated] Ừ.
 23) LEE
-[pickup 2]  Keep an eye out.
+[pickup 2]  Nhớ để ý nhé.
 24) LEE
-[pickup 2] Take it anyway. You need to eat.
+[pickup 2] Cứ lấy đi. Cô cần ăn.
 25) LILLY
-[pickup 2] This doesn't change anything.
+[pickup 2] Điều này không thay đổi điều gì cả.
 26) LEE
-[pickup 2] [agitated at refusal] Fine.
+[pickup 2] [agitated at refusal] Ừ.
 27) LILLY
-[pickup 2] Thanks.
+[pickup 2] Cảm ơn.
 29) LEE
-[pickup 2] Lilly, I--
+[pickup 2] Lilly, tôi--
 30) LILLY
-[pickup 2] [interrupting] I see how it is, Lee. Talk to you later, okay?
+[pickup 2] [interrupting] Tôi thấy nó như thế nào rồi, Lee. Nói với anh sau, okay?
 31) LILLY
-[pickup2][neutral]Not such an easy job, is it?
+[pickup2][neutral]Không phải là một việc dễ, phải không?
 32) LEE
-[pickup2]Never said it was.
+[pickup2]Chưa hề nói nó vậy.
 33) LEE
-[pickup2]It's not so tough.
+[pickup2]Nó không quá khó.
 34) LILLY
-[pickup2]Good. Then you can do it again tomorrow when there's even less food.
+[pickup2]Tốt. Vậy anh có thể làm lại khi có ít đồ ăn hơn.
 35) LEE
-[pickup2]I don't envy you.  I don't know how you have the strength to do this every day.
+[pickup2]Tôi không ghen tị anh.  Tôi không biết anh có đủ sức để làm chuyện này mỗi ngày không thôi.
 36) LILLY
-[pickup2]I don't have a choice.
+[pickup2]Tôi không có lựa chọn.
 37) LILLY
-[pickup2][responding to silence, annoyed, flat] Whatever.
+[pickup2][responding to silence, annoyed, flat] Gì cũng được.
 38) LEE
-[pickup2]We should talk about you and Kenny.
+[pickup2]Ta nên nói chuyện về việc cô và Kenny.
 39) LEE
-[pickup2]The arguing.  It's getting pretty out of hand.  You know, people notice that.
+[pickup2]Cuộc cãi vã.  Nó đang ra khỏi tầm tay.  Cô biết đấy, mọi người để ý nó.
 40) LILLY
-[pickup2][annoyed]Look, I'm working my ASS off to make sure we have a good set up here and Kenny just doesn't appreciate that.
+[pickup2][annoyed]Nghe này, tôi làm cong MÔNG để chúng ta sắp đặt tốt tại đây và Kenny chỉ không trân trọng điều đó.
 41) LEE
-[pickup2]But there is no food.  You know that better than anyone.
+[pickup2]Nhưng không còn đồ ăn.  Cô biết điều đó tốt hơn bất kì ai.
 42) LILLY
-[pickup3][As if there is no other choice - responding to "But there IS no food."]Well, we'll just have to find some.
+[pickup3][As if there is no other choice - responding to "But there IS no food."]Vậy, chúng ta sẽ phải tìm thêm.
 43) LILLY
-[pickup2][annoyed] What about us?
+[pickup2][annoyed] Vậy còn chúng ta?
 44) 
-We should think about leaving here.
+Ta nên nghĩ đến việc rời khỏi đây.
 45) 
-Let's talk about you and Kenny.
+Hãy nói chuyện cô với Kenny.
 46) 
-Take it anyway
+Cứ lấy đi
 47) 
-Fine. Don't eat.
+Ừ. Vậy đừng ăn.
 48) 
-Talk To
+Nói với
 49) 
-Give Food To
+Đưa đồ ăn cho
 50) LEE
-[pickup3][casual. - "Your routine is working..."]For now.
+[pickup3][casual. - "Your routine is working..."]Tạm thời.
 51) LEE
-[pickup3][casual]Maybe we should think about leaving the Motel.
+[pickup3][casual]Có lẽ ta nên nghĩ đến việc rời khỏi Nhà nghỉ.
 52) 
-I have no food left for you.
+Tôi hết dồ ăn cho cô rồi.
 53) 
-Want some food? [Give Food]
+Muốn đồ ăn không? [Give Food]
 54) LEE
 [pickup3][to himself - depressed, having only 1 piece of food left]Một miếng đồ ăn nữa để cho đi, rồi nó sẽ hết trong ngày hôm nay.
 55) LEE
@@ -121,8 +121,8 @@ Want some food? [Give Food]
 59) LEE
 [pickup3][to himself - choosing to save the food for someone else]Không.  Một số người đã trải qua nhiều hơn tôi mà không có đồ ăn.  Họ là những người cần nó.
 61) LEE
-Back in a bit.
+Sẽ quay lại trong chốc lát.
 62) LEE
-[pickup3][to himself, bummed that he's out of food]Well, that's it.
+[pickup3][to himself, bummed that he's out of food]Vậy, hết rồi đó.
 63) LILLY
-All we need is food.
+Tất cả những gì ta cần là đồ ăn.
