@@ -1,23 +1,23 @@
 1) LARRY
-{angryC} Yeah, yeah.  We're not stupid.
+{angryC} Ừ, ừ.  Chúng tôi không ngu.
 2) KATJAA
-[calling, sadly] {sadA} Ken! Lee! Come here, please.
+[calling, sadly] {sadA} Ken! Lee! Ra đây, làm ơn.
 3) KENNY
-{angryD} God dammit, Lee! What the fuck?!
+{angryD} Chết tiệt, Lee! Chuyện đéo gì vậy?!
 4) BEN
-{disgustA}It's not the bite that does it! {fearA}Yeah, the bite will kill you, but...
+{disgustA}Vết cắn không làm vậy! {fearA}Ừ, vết cắn sẽ giết anh, nhưng...
 5) KENNY
-[furious] {angryC}You said he wasn't bitten!
+[furious] {angryC}Cậu nói rằng anh ta không bị cắn mà!
 6) BEN
-{disgustA}You come back no matter how you die.  {sadB}If you don't destroy the brain, {disgustA}that's just what happens.  {sadC}That's what's gonna to happen to ALL of us.
+{disgustA}Anh sẽ sống lại không quan trọng cách anh chết.  {sadB}Nếu anh không phá huỷ bộ não, {disgustA}đó là chuyện sẽ xảy ra.  {sadC}Đó là chuyện sẽ xảy ra với TẤT CẢ chúng ta.
 7) LILLY
-{normalB}These boys came by to trade for some gasoline.
+{normalB}Mấy thằng này qua trao đổi để đổi lấy xăng.
 8) ANDY
-[to Lee] {happyB}Howdy. I'm Andrew St. John; this is my brother, Dan.
+[to Lee] {happyB}Chào. Tôi là Andrew St. John; đây là em trai tôi, Dan.
 9) LEE
-[to himself about the couch]{normalD}It's seen better days.
+[to himself about the couch]{normalD}Nó đã tốt hơn.
 10) LEE
-[to himself]{normalD}We need to find food. Soon.
+[to himself]{normalD}Ta cần tìm đồ ăn. Sớm.
 11) LEE
 [to himself]{normalD}Sturdy, but it's not gonna hold up forever, just like the rest of this place.
 12) LEE
