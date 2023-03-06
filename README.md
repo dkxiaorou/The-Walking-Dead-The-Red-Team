@@ -24,19 +24,19 @@
 - Episode 4: ❌
 - Episode 5: ❌
 
-[Season 3](https://github.com/Netxv/The-Walking-Dead-The-Red-Team/blob/main/Season%203:%20A%20New%20Frontier)
+[Season 3: A New Frontier](https://github.com/Netxv/The-Walking-Dead-The-Red-Team/blob/main/Season%203:%20A%20New%20Frontier):
 - Episode 1: ❌
 - Episode 2: ❌
 - Episode 3: ❌
 - Episode 4: ❌
 - Episode 5: ❌
 
-[Michonne](https://github.com/Netxv/The-Walking-Dead-The-Red-Team/tree/main/Michonne)
+[Michonne](https://github.com/Netxv/The-Walking-Dead-The-Red-Team/tree/main/Michonne):
 - Episode 1: ❌
 - Episode 2: ❌
 - Episode 3: ❌
 
-[Season 4 Finale](https://github.com/Netxv/The-Walking-Dead-The-Red-Team/tree/main/Season%204)
+[Season 4](https://github.com/Netxv/The-Walking-Dead-The-Red-Team/tree/main/Season%204):
 - Episode 1: ❌
 - Episode 2: ❌
 - Episode 3: ❌
