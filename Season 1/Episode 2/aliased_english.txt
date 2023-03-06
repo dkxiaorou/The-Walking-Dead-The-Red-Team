@@ -239,7 +239,7 @@ Chết tiệt!  Anh ấy đã chết chưa?
 118) LILLY
 [anguished] Thuốc? Anh đã có thuốc à?! Tên khốn này!
 119) LEE
-I...
+Tôi...
 120) LILLY
 [pickup2] [pissed] Đừng nói chuyện với tôi, Lee. Địt mẹ đừng nói chuyện với tôi.
 121) LEE
@@ -283,43 +283,43 @@ Ta không thể giết ông ấy khi ông ấy chưa chết, Kenny!
 141) ANDY
 {normalA}Tiếc là vậy. {sadA}Chúng tôi mất bố tháng đầu.
 142) ANDY
-{angryA}Then we had some run-ins with the fuckin' bandits about a month and a half ago, {sadA}killed one of the hands.
+{angryA}Sau đó, chúng tôi đã đụng độ với bọn cướp khoảng một tháng rưỡi trước, {sadA}giết chết một trong bọn tay sai.
 143) ANDY
-{angryA}Then HE came back and took out the rest of the hands before we could stop him.
+{angryA}Rồi ÔNG ẤY sống lại và hạ gục bọn tay sai còn lại trước khi chúng tôi có thể ngăn chặn anh ta.
 144) LEE
-{thinkingB}An electric fence is enough to keep out walkers?
+{thinkingB}Một cái hàng rào điện đủ để chặn bọn walkers?
 145) ANDY
-{happyC}Walkers? {happyB}Is that what you call them? That's good. [beat] {normalC}The old one wouldn't have, but Mac -- he was our foreman -- {happyA}he figured out how to amp it up with the generators.
+{happyC}Walkers? {happyB}Đó là cách anh gọi bọn nó à? Nó cũng hay. [beat] {normalC}Cái cũ nó không có, nhưng Mac -- anh ấy là người làm của bọn tôi -- {happyA}Anh ấy đã nghĩ ra cách để khuếch đại nó với mấy cái máy phát điện.
 146) ANDY
 {happyB}We used to sit out here some nights and watch the sons o' bitches sizzle and pop when they got too close.
 147) ANDY
-{happyA}Closest thing to entertainment these days, I guess.
+{happyA}Thứ giống giải trí nhất, tôi đoán vậy.
 148) LEE
-{normalD}Can we help out with the fence?
+{normalD}Bọn tôi có thể giúp với cái hàng rào không?
 149) ANDY
-{normalB}Actually, yeah. {normalA}A couple of walkers managed to get in while the generators were out of gas.
+{normalB}Thức ra, có. {normalA}Một vài con walkers đã lọt qua được khi máy phát hết xăng.
 150) DANNY
-{normalC}Remember: we're just doing reconnaissance for now. No use getting ourselves killed.
+{normalC}Nhớ rằng: bây giờ chúng tôi chỉ đang làm trinh sát. Không có tác dụng tự liều giết mình đâu.
 151) DANNY
-{normalC}What do you think of the place?
+{normalC}Anh nghĩ chỗ này như thế nào?
 152) LEE
-{normalA}It's beautiful.
+{normalA}Nó đẹp thật.
 165) MARK
-{happyA}It's beautiful.
+{happyA}Nó đẹp thật.
 153) LEE
-{normalC}How?
+{normalC}Như thế nào?
 154) DANNY
-{normalC}It's cool.  {normalB}You don't have to decide right now.  {normalA}But don't wait too long or you may not have a choice.
+{normalC}Không sao.  {normalB}Anh không cần lựa chọn ngay.  {normalA}Nhưng đừng chờ lâu quá hoặc anh có thể không có lựa chọn.
 155) BRENDA
-Sittin' out here, looking over the farm, I can pretend that things are like they used to be.
+Ngồi ngoài này, nhìn cái nông trại, tôi có thể giả vờ mọi thứ vẫn như trước đó.
 156) BRENDA
-[pickup2]That's the world we're living in now, I guess.
+[pickup2]Đó là thế giới mà chúng ta đang sống, tôi đoán vậy.
 157) LEE
-I'd still like to check on him.
+Tôi vẫn muốn kiểm tra anh ta.
 158) BRENDA
-[pickup2]You're gonna have to trust me on this one, Lee.  I've helped stitch my share of wounds...I know what I'm talking about.
+[pickup2]Anh phải tin tôi lần này, Lee.  Tôi đã từng khâu bao nhiêu là vết thương...Tôi biết tôi đang nói gì.
 159) BRENDA
-Just you wait, Lee, things are gonna seem so much nicer once you've all had supper and a good night's rest.
+Anh cứ chờ đi, Lee, mọi thứ rồi sẽ thấy tốt hơn thôi ngay khi tất cả mọi người đều đã ăn soup và một giấc ngủ ngon.
 160) BRENDA
 [pickup2][friendly]Làm ơn! Sau tất cả những gì chúng ta trải qua...anh có thể gọi tôi là Brenda!
 161) LEE
