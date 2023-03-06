@@ -1,31 +1,31 @@
 1) BRENDA
-Sittin' out here, looking over the farm, I can pretend that things are like they used to be.
+Ngồi ngoài này, nhìn cái nông trại, tôi có thể giả vờ mọi thứ vẫn như trước đó.
 2) BRENDA
-[pickup2]That's the world we're living in now, I guess.
+[pickup2]Đó là thế giới mà chúng ta đang sống, tôi đoán vậy.
 3) LEE
-{normald}I'd still like to check on him.
+{normald}Tôi vẫn muốn kiểm tra anh ta.
 4) BRENDA
-[pickup2]{sada}You're gonna have to trust me on this one, Lee.  {normala}I've helped stitch my share of wounds...I know what I'm talking about.
+[pickup2]{sada}Anh phải tin tôi lần này, Lee  {normala}Tôi đã từng khâu bao nhiêu là vết thương...Tôi biết tôi đang nói gì.
 5) BRENDA
-Just you wait, Lee, things are gonna seem so much nicer once you've all had supper and a good night's rest.
+Anh cứ chờ đi, Lee, mọi thứ rồi sẽ thấy tốt hơn thôi ngay khi tất cả mọi người đều đã ăn soup và một giấc ngủ ngon.
 6) BRENDA
-[pickup2][friendly]Please! After what we've been through...you can call me Brenda!
+[pickup2][friendly]Làm ơn! Sau tất cả những gì chúng ta trải qua...anh có thể gọi tôi là Brenda!
 7) LEE
-[pickup2][initiating conversation]{normalA}Mrs. St. John...
+[pickup2][initiating conversation]{normalA}Bà St. John...
 8) LEE
-[pickup2][initiating conversation] {normalA}Pardon me, Brenda...
+[pickup2][initiating conversation] {normalA}Tha tôi, Brenda...
 90) LEE
-[pickup2][initiating conversation] {normalA}Pardon me, Brenda...
+[pickup2][initiating conversation] {normalA}Tha tôi, Brenda...
 9) BRENDA
-[pickup2][friendly]{normalA}What's on your mind, Lee?
+[pickup2][friendly]{normalA}Anh đang nghĩ gì vậy, Lee?
 50) BRENDA
-[pickup2][friendly]{normalA}What's on your mind, Lee?
+[pickup2][friendly]{normalA}Anh đang nghĩ gì vậy, Lee?
 91) BRENDA
-[pickup2][friendly]{normalA}What's on your mind, Lee?
+[pickup2][friendly]{normalA}Anh đang nghĩ gì vậy, Lee?
 10) LEE
-[pickup2]{sadA}How's Mark doing in there?
+[pickup2]{sadA}Mark như thế nào trong đó rồi?
 52) 
-How's Mark doing in there?
+Mark như thế nào trong đó rồi?
 11) BRENDA
 [pickup2]{normalA}Best patient I ever had. My boys get so much as a scratch and start hollerin'. {happya}He could definitely teach them a thing or two about being tough.
 12) LEE
