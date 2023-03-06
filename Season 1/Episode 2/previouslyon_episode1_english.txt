@@ -9,7 +9,7 @@ Okay, Carley, cô sẽ cùng ca với Doug nếu anh ấy cần nó.
 4) DOUG
 {NormalA}Là Doug, {HappyA} anh làm được mà.
 5) KENNY
-{THinkingA}Và anh, anh để ý cửa trước. {NormalB}You're our look-out.
+{THinkingA}Và anh, anh để ý cửa trước. {NormalB}Anh là người gác.
 6) CLEMENTINE
 {sadA} {body-handsopen}Yeah.{sadC} Cháu muốn bố mẹ cháu về nhà bây giờ.
 7) LEE
