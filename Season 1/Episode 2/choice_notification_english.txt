@@ -205,7 +205,7 @@ Bạn đã thuyết phục Clementine lấy chiếc áo hoodie một thời gian
 103) 
 Bạn đã thuyết phục Clementine rằng sẽ không sao lấy chiếc áo hoodie.
 104) 
-You were direct with Clementine.
+Bạn đã thẳng thắn với Clementine.
 105) 
 Bạn đã cho Clementine một câu trả lời trấn an .
 106) 
