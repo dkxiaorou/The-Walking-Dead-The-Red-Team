@@ -1,39 +1,39 @@
 1) KATJAA
 [pickup2][Scared for her life]Lee!
 2) LEE
-[pickup2][In STERN negotiations with Brenda who has Katjaa hostage.]Let her go, Brenda!
+[pickup2][In STERN negotiations with Brenda who has Katjaa hostage.]Thả cô ấy ra, Brenda!
 3) BRENDA
-[pickup2]{FearC}Stay back!
+[pickup2]{FearC}Lùi lại!
 4) BRENDA
-[pickup2][Stern, but scared and angry that Lee ruined everything by discovering mark/david]You just HAD to go snooping around, didn't you?!
+[pickup2][Stern, but scared and angry that Lee ruined everything by discovering mark/david]Anh cứ PHẢI đi mò xung quanh, phải không?!
 5) KATJAA
 [pickup2][Gasps as Katjaa grabs her and puts a gun to her head!]
 6) BRENDA
-[pickup2][Stern!! scared for her life, threatening Lee!!] {FearB}Stop right there!  {SadC}I mean it!
+[pickup2][Stern!! scared for her life, threatening Lee!!] {FearB}Dừng ngay tại đó!  {SadC}Tôi nói thật đó!
 7) BRENDA
-[pickup2][STERN!! scared for her life, threatening Lee!!] {AngryD}Stay back!  {FearC}Don't do anything stupid.
+[pickup2][STERN!! scared for her life, threatening Lee!!] {AngryD}Lùi lại!  {FearC}Đừng làm việc gì ngu ngốc.
 8) BRENDA
-[pickup2][STERN!! scared for her life, threatening Lee!!] {SadD}I don't want to kill you, Lee!!
+[pickup2][STERN!! scared for her life, threatening Lee!!] {SadD}Tôi không muốn giết anh đâu, Lee!!
 9) BRENDA
-{pickup2}[Shouting, scared, and breaking down after shooting lee]  I told you to stop!!  I told you!!
+{pickup2}[Shouting, scared, and breaking down after shooting lee]  Tôi đã bảo anh dừng lại mà!!  Tôi đã bảo anh rồi mà!!
 10) KATJAA
-[pickup2][Seeing Lee get shot!!] {FearD}No, LEE!
+[pickup2][Seeing Lee get shot!!] {FearD}Không, LEE!
 11) KATJAA
-[pickup2][Seeing Lee get shot!!] {FearD}Nooo!!!
+[pickup2][Seeing Lee get shot!!] {FearD}Không!!!
 12) BRENDA
-[pickup2][trying to controll the situation, after Telling Lee to STOP and he did.]{AngryA}That's it.  {AngryB}Nice and calm...
+[pickup2][trying to controll the situation, after Telling Lee to STOP and he did.]{AngryA}Thế thôi.  {AngryB}Tốt và bình tĩnh...
 13) BRENDA
-[pickup2][trying to controll the situation, after Telling Lee to STOP and he did.]Just leave us alone, now!
+[pickup2][trying to controll the situation, after Telling Lee to STOP and he did.]Cứ để bọn tôi yên, ngay lập tức!
 14) BRENDA
 [screaming in pain] {FearD}Ahhhhhhh!
 15) KATJAA
-[pickup2][panicked!! Just having broken free from Brenda] {FearC}They took Duck! Where's Kenny!?
+[pickup2][panicked!! Just having broken free from Brenda] {FearC}Bọn nó đã tóm được Duck rồi! Kenny đâu rồi!?
 16) KATJAA
-[pickup2][hearing Andy threaten Kenny outdise the house, realizing her baby  boy is in danger] {FearC}Oh my god!
+[pickup2][hearing Andy threaten Kenny outdise the house, realizing her baby  boy is in danger] {FearC}Ôi trời ơi!
 17) KENNY
-[pickup2][process: outside the house][shouting at Andy to Let Duck go]Don't you fucking hurt him!!!
+[pickup2][process: outside the house][shouting at Andy to Let Duck go]Anh địt mẹ đừng làm hại nó!!!
 18) ANDY
-[pickup2][process: outside the house][threating Kenny, yelling]I said don't move, asshole!
+[pickup2][process: outside the house][threating Kenny, yelling]Tôi nói là đừng di chuyển, thằng khốn!
 19) LEE
 [pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadA}Think of your husband, Brenda!  {AngryB}Would he have wanted {SadB}his Dairy turned into a...{FearA}a slaughterhouse??!
 25) LEE
@@ -41,90 +41,90 @@
 48) LEE
 [pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadA}Think of your husband, Brenda!  {AngryB}Would he have wanted {SadB}his Dairy turned into a...{FearA}a slaughterhouse??!
 20) LEE
-[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadA}Danny was {AngryB}a twisted man, Brenda!!  {AngryA}Is he the one that started all of this?!
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadA}Danny đã là {AngryB}người bị tha hoá, Brenda!!  {AngryA}Có phải anh ta là người bắt đầu mọi chuỵen không?!
 21) LEE
-[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{NormalD}Your boys... {SadB}they care about you a lot!  {ThinkingB}Now think about Duck{FearA} growing up without his mother!
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{NormalD}Những đứa con trai... {SadB}họ quan tâm đến cô rất nhiều!  {ThinkingB}Giờ hãy nghĩ về Duck{FearA} lớn lên mà không có mẹ nó!
 22) LEE
-[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{DisgustA}What happened, Brenda?  {ThinkingB}Your family was obviously smart!  {SadB}How did it come to this?!
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{DisgustA}Chuyện gì đã xảy ra, Brenda?  {ThinkingB}Gia đình cô rõ ràng rất thông minh!  {SadB}Sao có thể thành chuyện này?!
 26) LEE
-[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{DisgustA}What happened, Brenda?  {ThinkingB}Your family was obviously smart!  {SadB}How did it come to this?!
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{DisgustA}Chuyện gì đã xảy ra, Brenda?  {ThinkingB}Gia đình cô rõ ràng rất thông minh!  {SadB}Sao có thể thành chuyện này?!
 53) LEE
-[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{DisgustA}What happened, Brenda?  {ThinkingB}Your family was obviously smart!  {SadB}How did it come to this?!
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{DisgustA}Chuyện gì đã xảy ra, Brenda?  {ThinkingB}Gia đình cô rõ ràng rất thông minh!  {SadB}Sao có thể thành chuyện này?!
 23) LEE
-[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{AngryA}You keep these things {DisgustB}to remember better times!  {AngryC}Don't corrupt those memories with this!! [this=  this whole messed up situation!]
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{AngryA}Cô giữ nguyên tất cả mọi thứ {DisgustB}để nhớ tới thời điểm tốt hơn!  {AngryC}Đừng phá hỏng những kí ức đó!! [this=  this whole messed up situation!]
 24) LEE
-[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadB}This dairy was your pride!  {AngryC}Look what you've done to it!!
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadB}Cái nông trại này là niềm tự hào của cô!  {AngryC}Xem cô đã làm chuyện gì này!!
 27) LEE
-[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadB}This dairy was your pride!  {AngryC}Look what you've done to it!!
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadB}Cái nông trại này là niềm tự hào của cô!  {AngryC}Xem cô đã làm chuyện gì này!!
 58) LEE
-[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadB}This dairy was your pride!  {AngryC}Look what you've done to it!!
+[pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadB}Cái nông trại này là niềm tự hào của cô!  {AngryC}Xem cô đã làm chuyện gì này!!
 28) BRENDA
-[pickup1][ambient  - with Katjaa as a hostage on the stairs] Get back!
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] lùi lại!
 29) BRENDA
-[pickup1][ambient  - with Katjaa as a hostage on the stairs] I'll kill her, Lee!
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Tôi sẽ giết cô ấy, Lee!
 44) BRENDA
-[pickup1][ambient  - with Katjaa as a hostage on the stairs] I'll kill her, Lee!
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Tôi sẽ giết cô ấy, Lee!
 46) BRENDA
-[pickup1][ambient  - with Katjaa as a hostage on the stairs] I'll kill her, Lee!
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Tôi sẽ giết cô ấy, Lee!
 30) BRENDA
-[pickup1][ambient  - with Katjaa as a hostage on the stairs] Just stop!
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Hãy dừng lại!
 54) BRENDA
-[pickup1][ambient  - with Katjaa as a hostage on the stairs] Just stop!
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Hãy dừng lại!
 56) BRENDA
-[pickup1][ambient  - with Katjaa as a hostage on the stairs] Just stop!
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Hãy dừng lại!
 31) BRENDA
-[pickup1][ambient  - with Katjaa as a hostage on the stairs] Stop![Brenda:][pickup1][ambient  - with Katjaa as a hostage on the stairs] I mean it!
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Stop![Brenda:][pickup1][ambient  - with Katjaa as a hostage on the stairs] Tôi làm đó!
 57) BRENDA
-[pickup1][ambient  - with Katjaa as a hostage on the stairs] Stop![Brenda:][pickup1][ambient  - with Katjaa as a hostage on the stairs] I mean it!
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Stop![Brenda:][pickup1][ambient  - with Katjaa as a hostage on the stairs] Tôi làm đó!
 32) KATJAA
-[pickup1][ambient pleading with Brenda] Don't do this...
+[pickup1][ambient pleading with Brenda] Đừng làm chuyện này...
 47) KATJAA
-[pickup1][ambient pleading with Brenda] Don't do this...
+[pickup1][ambient pleading with Brenda] Đừng làm chuyện này...
 33) KATJAA
-[pickup1][ambient pleading with Brenda] Brenda, please...
+[pickup1][ambient pleading with Brenda] Brenda, làm ơn...
 55) KATJAA
-[pickup1][ambient pleading with Brenda] Brenda, please...
+[pickup1][ambient pleading with Brenda] Brenda, làm ơn...
 34) LEE
-[pickup 3] [trying to calm Brenda, who has Katjaa hostage, down] Brenda, come on, now, you know you don't want to do this.
+[pickup 3] [trying to calm Brenda, who has Katjaa hostage, down] Brenda, thôi nào, nào, cô biết cô không muốn làm điều này.
 35) BRENDA
-[pickup 3] [panicked] Lee, please don't you take another step!
+[pickup 3] [panicked] Lee, làm ơn đừng đi thêm bước nữa!
 36) BRENDA
-[pickup 3] [to Lee, pleading and scared] Just go away and leave us be!
+[pickup 3] [to Lee, pleading and scared] Hãy đi đi và để chúng tôi yên!
 37) LEE
-[pickup3]Put the gun down, bitch!!
+[pickup3]Đặt súng xuông, con đĩ!!
 42) 
-Put the gun down, bitch!!
+Đặt súng xuông, con đĩ!!
 38) LEE
-[pickup3]I'll kill all of you!  Every last one!!
+[pickup3]Tao sẽ giết tất cả bọn mày!  Từng ngươi một!!
 39) LEE
-[pickup3]You don't have the GUTS!
+[pickup3]Cô không đủ CAN ĐẢM!
 40) 
-You don't have the GUTS!
+Cô không đủ CAN ĐẢM!
 41) 
-I'll kill all of you!
+Tao sẽ giết tất cả bọn mày!
 43) KATJAA
 [pickup1][ambient pleading with Brenda] Just let me go...
 45) LEE
-{FearA}Think about what you're doing. {SadC}It doesn't have to end like this.
+{FearA}Nghĩ chuyện cô đang làm đi. {SadC}Nó không phải kết thúc như thế này.
 49) KATJAA
-[scared]Please, listen to him!
+[scared]Làm ơn, Hãy nghe anh ấy!
 50) BRENDA
-[pickup1][ambient  - with Katjaa as a hostage on the stairs] I'll do it!
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Tôi sẽ làm đó!
 51) LEE
-{AngryB}Let her go, Brenda!
+{AngryB}Thả cô ấy ra đi, Brenda!
 61) 
-Let her go, Brenda.
+Thả cô ấy ra đi, Brenda.
 52) KATJAA
-[pickup1][ambient pleading with Brenda] Please...
+[pickup1][ambient pleading with Brenda] Làm ơn...
 59) 
-It doesn't have to end like this.
+Nó không phải kết thúc như thế này.
 60) 
-Think of your husband, Brenda!
+Nghĩ về chồng cô đi, Brenda!
 62) 
-How did it come to this?!
+Sao nó lại thành như thế này?!
 63) LEE
-[pickup3]Please, don't make this any worse.
+[pickup3]Làm ơn, đừng khiến cho mọi việc tệ hơn.
 65) 
-Please, don't make this any worse.
+Làm ơn, đừng khiến cho mọi việc tệ hơn.
 64) 
-This dairy was your pride!
+Cái nông trại này là niềm tự hào của cô!
