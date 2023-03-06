@@ -9,7 +9,7 @@
 
 **DISCLAIMER: I MAY OR MAY NOT FINISH THIS PROJECT DUE TO SOME PERSONAL REASON BUT I WILL TRY MY BEST TO FINISH THE TRANSLATION BEACAUSE I LOVE THE GAME WITH MY HEART AND SOUL
 
-Season 1:
+[Season 1](https://github.com/Netxv/The-Walking-Dead-The-Red-Team/tree/main/Season%201):
 - Episode 1: ✔️
 - Episode 2: Translating (45% Completed)
 - Episode 3: ❌
