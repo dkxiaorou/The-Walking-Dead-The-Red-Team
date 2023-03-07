@@ -19,111 +19,111 @@
 10) LEE
 [to himself]{normalD}Ta cần tìm đồ ăn. Sớm.
 11) LEE
-[to himself]{normalD}Sturdy, but it's not gonna hold up forever, just like the rest of this place.
+[to himself]{normalD}Mạnh mẽ, nhưng nó sẽ không đứng vững mãi mãi, giống như phần còn lại của nơi này.
 12) LEE
-[to himself]{normalD}As much as I hate to admit it, Larry was right; these make a pretty good front gate.
+[to himself]{normalD}Dù tôi ghét phải thừa nhận điều này, nhưng Larry đã đúng; những thứ này tạo nên một cổng trước khá tốt.
 13) LEE
-[to himself]Nothing useful left up there.  I'd better stay with the group.
+[to himself]Không còn gì hữu ích sót lại ở đây.  Tôi nên ở với nhóm.
 14) LEE
-[to himself]{happyA}At least the kids have something to keep 'em occupied.
+[to himself]{happyA}Ít nhất bọn trẻ có cái để giữ bọn nó bận rộn.
 15) LEE
-{happyA}Leave it to Doug to rig up a warning system out of garbage.
+{happyA}Để đó cho Doug để dựng một cái hệ thống cảnh báo từ rác.
 16) LEE
-{fearB}Is he going to be okay?
+{fearB}Anh ấy sẽ có ổn không?
 17) KATJAA
-[frustrated, terse] {fearA}I don't know. {thinkingA}Can you give me a hand real quick?
+[frustrated, terse] {fearA}Tôi không biết nữa. {thinkingA}Anh có thể giúp tôi nhanh không?
 18) KATJAA
-[frustrated, terse] {angryA}I need space, Lee.
+[frustrated, terse] {angryA}Tôi cần không gian, Lee.
 19) KATJAA
-{fearA} Ken, come back, there's nothing... [gives up halfway through the thought]
+{fearA} Ken, về đây, không còn thứ gì... [gives up halfway through the thought]
 20) KENNY
-[frustrated]{angryB} I'm getting sick of this shit.
+[frustrated]{angryB} Tôi phát ốm vì cái chết tiệt này.
 21) KATJAA
-[sadly, somewhat quietly] {sadB} He... lost too much blood.
+[sadly, somewhat quietly] {sadB} Anh ấy... đã mất quá nhiều máu.
 22) KENNY
-[frustrated/hushed][Tired of trying to save people and they still die]{angryC} God dammit!
+[frustrated/hushed][Tired of trying to save people and they still die]{angryC} Trời ơi!
 23) KATJAA
-HELP! LEE, HELP ME!
+GIÚP! LEE, GIÚP TÔI!
 24) KATJAA
 [attacked 3] AAAAHHHHHHHHH!!!!!
 25) KATJAA
 [attacked] AAAAHHHH!!!!!
 26) KATJAA
-[attacked]Somebody!!!
+[attacked]Ai đó!!!
 27) KATJAA
-[attacked ] HELP!!
+[attacked ] GIÚP!!
 28) KATJAA
-[attacked]Get it off!!
+[attacked]Bỏ nó khỏi tôi!!
 29) KATJAA
 [attacked 2] AAAAAAHHHH!!!!!
 30) KATJAA
 [attacked ] LEE!!!
 31) LEE
-[alt][panicked] {fearD} Shit!!  Katjaa!!
+[alt][panicked] {fearD} Chết tiệt!!  Katjaa!!
 412) LEE
-[alt][panicked] {fearD} Shit!!  Katjaa!!
+[alt][panicked] {fearD} Chết tiệt!!  Katjaa!!
 32) 
-Lilly wants him gone.
+Lilly muốn cậu ấy đi.
 33) 
-I don't know.
+Tôi không biết nữa.
 34) 
-Maybe he can stay for a while...
+Có thể cậu ấy ở lại một thời gian...
 35) KATJAA
 [being attacked by zombie] {fearC} AHHHH!
 36) LARRY
-[stern] God Damnit Lee, get outta the way!
+[stern] Chúa Ơi Lee, tránh đường ra!
 413) LARRY
-[stern] God Damnit Lee, get outta the way!
+[stern] Chúa Ơi Lee, tránh đường ra!
 37) DUCK
-{happyA}Okay.  Me and Clementine are coloring.
+{happyA}Okay.  Cháu và Clementine đang tô màu.
 38) LEE
-{happyA}The wall's looking good, Doug.
+{happyA}Cái tường trông tốt lắm, Doug.
 39) DOUG
-{happyA}Thanks. {normalA}I also worked up a little "early warning system" for outside.
+{happyA}Cảm ơn. {normalA}Tôi cũng đang làm một thứ gọi là "hệ thống báo động sớm" để ở ngoài.
 40) LEE
-{thinkingA}Early warning system?
+{thinkingA}hệ thống báo động sớm?
 41) DOUG
-{thinkingA}Well... it's just string with some cans attached, buy hey, it works.
+{thinkingA}Thì... nó chỉ là dây với vài cái hộp gắn chặt, nhưng này, nó hoạt động.
 42) CLEMENTINE
-[to ben; quizzing him about her drawing] {normalC}Guess what it is?
+[to ben; quizzing him about her drawing] {normalC}Đoán thử nó là cái gì đi?
 43) BEN
-[still a little out of sorts; guessing what clems picture is of]{sadA} I don't know... a dog?
+[still a little out of sorts; guessing what clems picture is of]{sadA} Anh không biết... một con chó?
 44) CLEMENTINE
-{happyB}Nope.
+{happyB}Sai rồi.
 45) DUCK
-{happyB}Oh, I know!  It's a goat, right?
+{happyB}Oh, tớ biết rồi!  Đó là một con dê,  phải không?
 46) LEE
-{normalD}Thanks for keeping the kids over here.
+{normalD}Cảm ơn đã giữ bọn trẻ ở đây.
 47) CARLEY
-{happyB}Yeah, well, my instinct was to run over and get the story.  But ... {sadA}yeah... the kids didn't need to see that.
+{happyB}Ừ, thì, bản năng của tôi là chạy qua và lấy câu truyện.  Nhưng ... {sadA}ừ... bọn trẻ không cần phải thấy điều đó.
 48) CARLEY
-{thinkingA}Oh, and do me a favor and talk to Lilly about getting some rest.  {angryA}You and I are supposed to be on watch together tonight.  I need you sharp.
+{thinkingA}Oh, và giúp tôi một việc là nói với Lilly về việc nghỉ ngơi đi.  {angryA}Anh và tôi sẽ phải canh gác tối này.  Tôi cần anh tập trung.
 49) DOUG
-{sadA}Hey, I owe you a lot more than a half eaten candy bar.  Take it.
+{sadA}Này, tôi nợ anh nhiều hơn một nửa thanh kẹo bị ăn.  Lấy nó đi.
 50) LEE
-{sadA}Thanks. {thinkingA}I appreciate it.
+{sadA}Cảm ơn. {thinkingA}Tôi trân trọng nó.
 51) LEE
-{sadB}Keep it.
+{sadB}Giữ nó đi.
 52) DOUG
-{fearA}You look like crap, Lee. When was the last time you ate?
+{fearA}Anh nhìn như cứt vậy, Lee. Lần cuối anh ăn là khi nào vậy?
 53) CARLEY
-{disgustA}I want you to have this, okay? In case you or Clementine starts feeling weak.
+{disgustA}Tôi muốn anh có cái này, được không? Phòng trường hợp anh và Clementine cảm thấy yếu.
 54) LEE
-{sadA}You don't owe me anything, Carley.
+{sadA}Cô không nợ tôi gì cả, Carley.
 55) KATJAA
-[Sensing Lee's reluctance] {angryA}It's okay, I'll handle it.  Just give me some space, okay?
+[Sensing Lee's reluctance] {angryA}Nó không sao, tôi sẽ xử lý được.  Chỉ cho tôi một chút không gian, được không?
 56) LEE
-[reluctant to help katjaa with the "surgery"]{disgustB}I.. better not...
+[reluctant to help katjaa with the "surgery"]{disgustB}Tôi.. không nên...
 57) KATJAA
-{thinkingA}Just apply some pressure here while I try to close this up...
+{thinkingA}Chỉ cần giữ một ít áp lực ở đây trong khi tôi cố gắng đóng cái này lại...
 459) KATJAA
-{thinkingA}Just apply some pressure here while I try to close this up...
+{thinkingA}Chỉ cần giữ một ít áp lực ở đây trong khi tôi cố gắng đóng cái này lại...
 58) KATJAA
-{sadB}You know, I thought I was starting to get used to this... sewing up people's injuries...
+{sadB}Anh biết không, Tôi nghĩ rằng tôi đã bắt đầu quen với điều này... khâu lại vết thương của người bị thương...
 59) KATJAA
-{angryA}What were you thinking in bringing him here? Even if he lives, we aren't going to be able to take care of him...
+{angryA}Anh đã nghĩ gì khi mang anh ấy tới đây? Kể cả anh ấy còn sống, chúng ta sẽ không thể chăm sóc anh ta...
 578) KATJAA
-{angryA}What were you thinking in bringing him here? Even if he lives, we aren't going to be able to take care of him...
+{angryA}Anh đã nghĩ gì khi mang anh ấy tới đây? Kể cả anh ấy còn sống, chúng ta sẽ không thể chăm sóc anh ta...
 60) KATJAA
 {thinkingA}But, I mean, cuts and bruises are one thing, but Lee, {disgustA}this man has no leg!
 61) LEE
