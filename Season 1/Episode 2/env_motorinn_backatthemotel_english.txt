@@ -125,147 +125,147 @@ Có thể cậu ấy ở lại một thời gian...
 578) KATJAA
 {angryA}Anh đã nghĩ gì khi mang anh ấy tới đây? Kể cả anh ấy còn sống, chúng ta sẽ không thể chăm sóc anh ta...
 60) KATJAA
-{thinkingA}But, I mean, cuts and bruises are one thing, but Lee, {disgustA}this man has no leg!
+{thinkingA}Nhưng, ý tôi là, vết cắt và vết bầm tím là một thứ, nhưng Lee, {disgustA}người đàn ông này không có chân!
 61) LEE
-{normalD}Sure.  What do you need?
+{normalD}Được.  Cô cần gì?
 418) 
-Sure. What do you need?
+Được.  Cô cần gì?
 458) LEE
-{normalD}Sure.  What do you need?
+{normalD}Được.  Cô cần gì?
 62) LEE
-{normalD}I did the right thing.
+{normalD}Tôi đã làm một điều đúng đắn.
 420) 
-I did the right thing.
+Tôi đã làm một điều đúng đắn.
 63) LEE
-{normalD}It's what your husband wanted.
+{normalD}Đó là điểu chồng cô muốn.
 421) 
-It's what your husband wanted.
+Đó là điểu chồng cô muốn.
 422) LEE
-{normalD}It's what your husband wanted.
+{normalD}Đó là điểu chồng cô muốn.
 64) KATJAA
-{fearA}The right thing is just scary sometimes I guess.
+{fearA}Cái đúng đắn chỉ thi thoảng đáng sợ tôi đoán vậy.
 65) KATJAA
-{sadA}Yeah.. I know ya did...
+{sadA}Ừ.. Tôi biết mấy anh làm gì mà...
 66) KATJAA
-{thinkingB}Go ahead and check in on the others.  I need a little space here anyway.
+{thinkingB}Đi đi và kiểm tra những người khác.  Đằng nào tôi cũng cần một ít không gian ở đây.
 67) KATJAA
-[changing the subject] {normalA}Well, you've done all you can, Lee.  Thanks for the help.
+[changing the subject] {normalA}Thì, anh cũng đã làm tất cả anh có thể, Lee.  Cảm ơn vì sự giúp đỡ.
 68) LILLY
-{angryA}Lee, get up.  We need your help out here.
+{angryA}Lee, dậy đi.  Bọn tôi cần sự giúp đỡ của anh tại đây.
 69) DOUG
-{sadA}Why'd you do it, Lee?
+{sadA}Tại sao anh lại làm vậy, Lee?
 84) CARLEY
-{happyB}Why'd you do it, Lee?
+{happyB}Tại sao anh lại làm vậy, Lee?
 70) LEE
 [context: "is that you?"] {surpriseB}D... Doug?
 71) DOUG
-{sadB}Why'd you kill me?
+{sadB}Tại sao anh lại giết tôi?
 85) CARLEY
-{thinkingA}Why'd you kill me?
+{thinkingA}Tại sao anh lại giết tôi?
 72) DOUG
-{angryA}Careful, Lee. You could grow to enjoy being a killer.
+{angryA}Cẩn thận, Lee. Anh cũng có thể bắt đầu thích làm kẻ giết người.
 73) LEE
-[hoarse whisper, unintelligible words, werid and creepy] I...ahh....
+[hoarse whisper, unintelligible words, werid and creepy] Tôi...ahh....
 88) LEE
-[hoarse whisper, unintelligible words, dreaming, weird] I...ahh....
+[hoarse whisper, unintelligible words, dreaming, weird] Tôi...ahh....
 74) DOUG
-{normalC}You think you're this group's savior, Lee? {angryA}You can't save anyone. {happyA}Especially not that little girl who relies on you. {angryB}She's as good as dead. {happyA}Dead girl walking.
+{normalC}Anh nghĩ anh là người cứu rỗi cả cái nhóm này à, Lee? {angryA}Anh không thể cứu ai. {happyA}Nhất là không thể đứa nhỏ trông cậy vào anh. {angryB}Cô ấy tốt như chết. {happyA}Cô gái chết đi bộ.
 75) DOUG
-{sadA}I'll give you a second chance, Lee. {fearA}Can you save me?
+{sadA}Tôi sẽ cho anh một cơ hội thứ hai, Lee. {fearA}Anh có thể cứu tôi lần này không?
 76) DOUG
-{thinkingA}That's not what you said at the trial, Lee. {disgustA}Story changing?
+{thinkingA}Đó không phải điều anh đã nói trên phiên toàn, Lee. {disgustA}Câu chuyện thay đồi à?
 77) LEE
-{fearC}I didn't kill you!
+{fearC}Tôi đã không giết anh!
 91) LEE
-{fearB}I didn't kill you.
+{fearB}ôi đã không giết anh.
 78) LEE
-{fearB}I had to make a choice, {sadC}I couldn't save you both.
+{fearB}Tôi đã phải làm một lựa chọn, {sadC}Tôi không thể cứu cả hai người được.
 79) DOUG
-{thinkingB}You decide who lives and who dies? {disgustA}Did you choose to kill Sam?
+{thinkingB}Anh được chọn ai sống và ai chết à? {disgustA}Đó có phải vì sao anh đã lựa chọn giết Sam à?
 80) DOUG
-{angryA}Is it harder to kill an old friend than to kill a stranger?
+{angryA}Nó có khó hơn khi giết một người bạn cũ hơn là giết một người lạ?
 81) LEE
-{fearC}I barely knew you.
+{fearC}Tôi gần như quen anh.
 95) LEE
-{sadC}I barely knew you.
+{sadC}Tôi gần như quen anh.
 82) DOUG
-{disgustA}Is that it? {happyB}Maybe you like to kill. {angryA}Maybe you like the control you get to take. {happyC}Is that what happened with Sam?
+{disgustA}Có phải đó không? {happyB}Có thể anh thích giết. {angryA}Có thể anh thích quyền kiểm soát anh có được. {happyC}Đó có phải là điều đã xảy ra với Sam không?
 83) LEE
-{thinkingA}You're better off, not having to starve to death with the rest of us.
+{thinkingA}Anh tốt hơn, không phải chết đói với phần còn lại của chúng tôi.
 98) LEE
-You're better off not having to starve to death with the rest of us.
+Anh tốt hơn không phải chết đói với phần còn lại của chúng tôi..
 86) LEE
 [context: "is that you?"]{fearA}C... Carley?
 87) CARLEY
-{thinkingB}Maybe I just reminded you too much of her. {angryB}She never loved you, you know.
+{thinkingB}Có lẽ tôi đã gợi nhắc anh về cô ấy quá nhiều . {angryB}Cô ấy chưa hề yêu anh, Anh biết không.
 89) CARLEY
-{normalB}You can't save anyone. {HappyB}Especially not that little girl who relies on you. {AngryB}She's as good as dead. {HappyB}Dead girl walking. {AngryD}What are you looking for, Lee?  Second chances?
+{normalB}Anh không thể cứu ai. {HappyB}Nhất là không thể đứa nhỏ trông cậy vào anh. {AngryB}Cô ấy tốt như chết. {HappyB}Cô gái chết đi bộ. {AngryD}Anh đang tìm gì vậy, Lee?  Cơ hội thứ hai?
 90) CARLEY
-{thinkingB}I'll give you a another chance... {disgustB}Can you save me this time?
+{thinkingB}Tôi sẽ cho anh một cơ hội thứ hai... {disgustB}Anh có thể cứu tôi lần này không?
 92) CARLEY
-{happyC}I suppose you didn't kill Sam, either?
+{happyC}Tôi đoán là anh cũng đã không giết Sam?
 93) LEE
-{fearB}I had to make a choice, {fearC}I couldn't save you both.
+{fearB}Tôi đã phải làm một lựa chọn, {fearC}Tôi không thể cứu cả hai người được.
 94) CARLEY
-{happyC}You decide who lives and who dies? {angryB}Is that why you killed Sam?
+{happyC}Anh được chọn ai sống và ai chết à? {angryB}Đó có phải vì sao anh đã lựa chọn giết Sam à?
 96) CARLEY
-{happyC}Is it easier to kill a stranger? {angryD}Easier than killing your old friend?
+{happyC}Nó có dễ giết một người lạ? {angryD}Hơn là giết một người là?
 97) CARLEY
-{disgustB}Fine, if that makes you feel better, Lee. {angryC}Is Sam better off now, too?
+{disgustB}Được rồi, nếu nó làm anh cảm thấy tốt hơn, Lee. {angryC}Giờ Sam cũng tốt hơn à?
 99) CARLEY
-{angryB}Better question - {angryD}why did you kill Sam?
+{angryB}Câu hỏi hay hơn này - {angryD}Tại sao anh là giết Sam?
 100) LILLY
 {angryB}Company.
 101) LEE
-[slightly disoriented  from just waking up]{sadC}What is it?
+[slightly disoriented  from just waking up]{sadC}Nó là cái gì vậy?
 102) KATJAA
-[alt]Figures.  I love that man to death, but I swear sometimes he's dumber than a bag of hammers.
+[alt]Đoán đi.  Tôi yêu người đàn ông ấy tới chết, nhưng tôi thề anh ấy thi thoảng ngu hơn một cái túi búa.
 103) KATJAA
-{thinkingA}Why don't you help Mark and Larry with the wall.  It's good to stay busy.
+{thinkingA}Sao anh không qua giúp Mark và Larry với cái tường đi.  Bận rộn sẽ tốt hơn.
 104) KATJAA
-{fearA}Why don't you go check up on the boy.  This can't be easy for him.
+{fearA}Tại sao anh không đi kiểm tra thằng cu ấy đi.  Nó không thể dễ dàng đối với cậy ấy.
 105) KENNY
-[fearing the worst/ hushed] {angryA} He didn't make it, did he?
+[fearing the worst/ hushed] {angryA} Anh ấy sẽ không qua khỏi, đúng không?
 106) MARK
-[pickup2][just slightly irritated - at Motel Fence]Come on, Larry, give it a rest, man. Things are different -- being a racist is outdated.
+[pickup2][just slightly irritated - at Motel Fence]Thôi nào, Larry, để nó yên đi, ông. Mọi thứ khác rồi -- làm một người phân biệt bị lỗi thời rồi outdate.
 107) MARK
-[pickup2][slightly irritated - at Motel fence]Come on, Larry, give it a rest. I'm sure Lee is getting pretty sick of you thinking he's a danger to the group.
+[pickup2][slightly irritated - at Motel fence]Thôi nào, Larry, để nó yên đi. Tôi chắc rằng Lee đang khó chịu việc anh nghĩ anh ấy là mối nguy đối với cái nhóm rồi.
 108) MARK
-[pickup2][slightly irritated - at motel fence]Come on, Larry. What is it between you two?  Why do you have a personal grudge against Lee?
+[pickup2][slightly irritated - at motel fence]Thôi nào, Larry. Giữa hai người có chuyện gì vậy?  Tại sao ông có một mối hận thù cá nhân với Lee?
 109) LARRY
-[pickup2][slightly annoyed that Lee is talking about him behind his back- At motel fence] {angryA} Is that what you told him?
+[pickup2][slightly annoyed that Lee is talking about him behind his back- At motel fence] {angryA} Đó có phải là điều mày nói với anh ấy không?
 110) LEE
-[pickup 2][ defensive when Larry accusing him of talking behind his back - at motel fence]Yeah, that's right.
+[pickup 2][ defensive when Larry accusing him of talking behind his back - at motel fence]Ừ, đúng rồi đó.
 111) LEE
-[pickup 2][slightly backtracking when Larry accusing him of talking behind his back - at motel fence]That's not what I meant...
+[pickup 2][slightly backtracking when Larry accusing him of talking behind his back - at motel fence]Đó không phải ý tôi muốn...
 112) LEE
-[pickup 2][slightly backing down when Larry accusing him of talking behind his back - at motel fence]No, that's not what I said.
+[pickup 2][slightly backing down when Larry accusing him of talking behind his back - at motel fence]Không, đó không phải điều tôi đã nói.
 113) LARRY
-[pickup2][annoyed-  at motel fence]The only thing I "have" to do is protect my daughter.
+[pickup2][annoyed-  at motel fence]Thứ duy nhất tôi "phải" làm là bảo vệ con gái của tao.
 114) MARK
-[pickup2][trying to get Lee & Larry to stop arguing]Look, I don't care what it is, but you two have got to start trying to get along.
+[pickup2][trying to get Lee & Larry to stop arguing]Nghe này, tôi không quan tâm đó là chuyện gì, hai người phải cố bắt đầu hoà đồng đi.
 115) LARRY
-[pickup2][finding out that Lee's been talking behind his back - quietly threatening]No?  Then what did you mean?
+[pickup2][finding out that Lee's been talking behind his back - quietly threatening]Không?  Rồi mày có ý gì?
 116) MARK
-[pickup2][stopping an argument between Lee & Larry]All right, let's take a step back. Maybe you two SHOULD keep your distance.
+[pickup2][stopping an argument between Lee & Larry]Được rồi, hãy lùi một bước. Có thể hai người NÊN giữ khoảng cách của nhau.
 117) LARRY
-[pickup2][irritated] Fine with me.
+[pickup2][irritated] Ổn với tao.
 118) LARRY
-[pickup2][Not sure if lee's lying , but giving him the benefit of the doubt - Motel Fence]Whatever, I've got work to do.
+[pickup2][Not sure if lee's lying , but giving him the benefit of the doubt - Motel Fence]Sao cũng được, tao cũng có việc phải làm.
 119) LARRY
-[pickup2][annoyed-  at motel fence - Cont.]And right now, that means getting this damn wall fixed so I'd appreciate it if you two would shut up and let me get back to work.
+[pickup2][annoyed-  at motel fence - Cont.]Và bây giờ, nó có nghĩa là sửa được cái tường này nên tôi rất trân trọng nếu hai bọn mày có thể câm mồm và để tao quay lại với công việc.
 120) LARRY
-[pickup2][Responding to lee's silence]Whatever, I've got work to do.
+[pickup2][Responding to lee's silence]Sao cũng được, Tao cũng có việc để làm.
 121) 
-Bookcase
+Giá sách
 122) 
-Dumpsters
+Thùng rác
 123) 
-Fence
+Hàng rào
 124) 
-Soccer Ball
+Quả bóng đá
 125) 
-Table
+Bàn
 126) MARK
 [pickup2][trying to stop an argument between Lee & larry at the motel]Come on, Larry.  Cut Lee some slack.  He knows you're just out to protect Lilly, he told me so.  Just like he's trying to protect Clementine.
 127) LARRY
