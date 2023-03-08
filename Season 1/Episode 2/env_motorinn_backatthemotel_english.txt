@@ -267,27 +267,27 @@ Quả bóng đá
 125) 
 Bàn
 126) MARK
-[pickup2][trying to stop an argument between Lee & larry at the motel]Come on, Larry.  Cut Lee some slack.  He knows you're just out to protect Lilly, he told me so.  Just like he's trying to protect Clementine.
+[pickup2][trying to stop an argument between Lee & larry at the motel]Thôi nào, Larry.  Tha cho Lee tí đi.  Anh ấy biết anh chỉ bảo vệ Lilly, anh ấy cũng bảo tôi thế.  Cũng như anh ấy đang cố bảo vệ Clementine.
 127) LARRY
-[pickup2][About to go off on a tangent about Lee, but then thinks better of it, ]HE- ...  I just need some food.  Going this long without a proper meal will make anybody cranky.
+[pickup2][About to go off on a tangent about Lee, but then thinks better of it, ]HẮN- ...  Tao cần chút đồ ăn.  Đi xa thế này mà không có một bữa ăn chỉnh chu sẽ khiến mọi người càu nhàu.
 128) LARRY
-[pickup2][sneering at Lee during Motel Fence argument]He knows why.
+[pickup2][sneering at Lee during Motel Fence argument]Hắn ta biết tại sao.
 129) LARRY
-[pickup2][getting all up in Lee's face]And what are you gonna do about it?
+[pickup2][getting all up in Lee's face]Và anh định làm gì về nó?
 130) LEE
-[pickup2][to Kat after Kenny storms off following Davids death]Let him go, Katjaa.
+[pickup2][to Kat after Kenny storms off following Davids death]Thả anh ấy ra, Katjaa.
 131) LEE
-[pickup2][to Kat after Kenny storms off following Davids death. Genuine question.]What's his problem?
+[pickup2][to Kat after Kenny storms off following Davids death. Genuine question.]Anh ta có vấn đề gì vậy?
 132) LEE
-[pickup2][to Kat after Davids death]He just needs time.  It's been a rough morning.
+[pickup2][to Kat after Davids death]Anh ấy chỉ cần thời gian.  Nó là một buổi sáng mệt mỏi.
 133) KATJAA
-[pickup2][talking to Lee at the Trck after David dies.  Follows "Let Kenny go, Kat"] But...
+[pickup2][talking to Lee at the Trck after David dies.  Follows "Let Kenny go, Kat"] Nhưng...
 134) KATJAA
-[pickup2][Slightly annoyed at Lee's reaction to Kenny storming off after Davids death]Don't be like that, Lee. I know we've all seen death.  But that doesn't make it any easier.
+[pickup2][Slightly annoyed at Lee's reaction to Kenny storming off after Davids death]Đừng như thế này, Lee. Tôi biết tất cả mọi người đã thấy cái chết.  Nhưng nó không khiến cho mọi thứ dễ hơn.
 135) LEE
-[pickup2][looking at the ice machine.  To himself]Ugh.  I hope Glenn didn't have to hide in here for very long.  It smells terrible.
+[pickup2][looking at the ice machine.  To himself]Ugh.  Tôi mong Glenn đã không phải nấp ở đây lâu vậy.  Nó ngửi thật tệ.
 136) LARRY
-[pickup2] Oh, that's what you think this is?
+[pickup2] Oh, đó là những gì anh nghĩ nó thế à?
 137) KATJAA
 [pickup1][sean edit][frustrated in the midst of a surgery, talking to herself as Lee walks up] {angryA}I could go for one of your "barbecues" or a beer with good friends right about now.
 138) KATJAA
