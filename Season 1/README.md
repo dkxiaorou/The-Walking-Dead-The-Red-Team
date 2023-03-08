@@ -11,7 +11,7 @@
 
 Season 1:
 - Episode 1: ✔️
-- Episode 2: Translating (45% Completed)
+- Episode 2: Translating (60% Completed)
 - Episode 3: ❌
 - Episode 4: ❌
 - Episode 5: ❌
