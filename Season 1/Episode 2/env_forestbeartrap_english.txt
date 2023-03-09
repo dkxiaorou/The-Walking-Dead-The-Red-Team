@@ -1,47 +1,47 @@
 1) MARK
-[pickup2] Lee, are you nuts?!!  Quick fucking around, try something else!!
+[pickup2] Lee, anh có bị điên không?!!  Đừng loanh quanh nữa, làm gì đi!!
 2) BEN
-{surprisedA} Bitten? No! I swear!
+{surprisedA} Cắn à? Không! Tôi thề!
 3) KENNY
-{disgustA} How the hell did he lose this much blood? {fearB} Was he bitten?
+{disgustA} Thế đéo nào anh ấy mất nhiều máu vậy? {fearB} Anh ấy có bị cắn không?
 4) KENNY
-[pickup2]{fearA} All that blood and screaming... {fearB} We're gonna be surrounded any minute.
+[pickup2]{fearA} Đống máu và hét thế này... {fearB} Chúng ta sẽ bị bao vây bất kì lúc nào.
 5) BEN
-[freaking out] {fearB} Oh man, oh man....
+[freaking out] {fearB} Ôi trời, ôi trời....
 6) BEN
-[freaking out] {fearB} This can't be happening!
+[freaking out] {fearB} Chuyện này không thể xảy ra!
 7) BEN
-[freaking out] {fearB} Come on, DO something!
+[freaking out] {fearB} Thôi nào, LÀM gì đi!
 8) BEN
-[freaking out] {fearB} Why would somebody do this?!
+[freaking out] {fearB} Tại sao ai lại làm vậy?!
 9) BEN
-[freaking out] {fearB} Oh, God, he can't die.
+[freaking out] {fearB} Ôi, Trời, anh ấy không thể chết.
 10) BEN
 [nervous] {sadC} O...okay.
 11) LEE
-{sadA} Calm down, kid. We'll get him out of this.
+{sadA} Bình tĩnh nào, cu. Chúng ta sẽ đưa anh ta ra khỏi đây.
 12) BEN
-{sadC} Ah, crap. Okay.
+{sadC} Ah, chết tiệt. Okay.
 13) LEE
-[stern] {angryA} Kid, we need you to keep an eye on those zombies.
+[stern] {angryA} Cu, ta cần cậu để ý lũ xác sống.
 14) LEE
-{angryC} Shut up!
+{angryC} Câm mồm!
 15) BEN
-{fearD} Screw you, man! Just help him!
+{fearD} Kệ anh, trời! Cứ giúp anh ta đi!
 16) DAVID
 [extreme pain] AAAAAARRRRGGGHHH!
 17) DAVID
-[in horror]Oh, God.
+[in horror]Ôi, trời.
 18) DAVID
 [extreme pain] FUUUUARRGGGGHHH!!!
 19) KENNY
-{fearC} One more hit, Lee.
+{fearC} Một phát nữa, Lee.
 20) DAVID
-[in pain!] Get it off!!  Get it off, God Dammit, get it off me!!
+[in pain!] Bỏ nó ra đi!!  Bỏ nó ra đi, trời ơi, bỏ nó ra khỏi tôi đi!!
 97) DAVID
-[in pain!] Get it off!!  Get it off, God Dammit, get it off me!!
+[in pain!] Bỏ nó ra đi!!  Bỏ nó ra đi, trời ơi, bỏ nó ra khỏi tôi đi!!
 21) DAVID
-[in pain]Hurry... please hurry...
+[in pain]Nhanh lên... làm ơn nhanh lên...
 22) DAVID
 [grunting in pain1]Arrrrgg...
 25) DAVID
@@ -49,29 +49,29 @@
 23) DAVID
 [in pain5]Ggnnnnrrrnnn!!
 24) DAVID
-[in pain]You can't leave me like this.  Please get me out!
+[in pain]Anh không thể bỏ tôi như thế này.  Làm ơn hãy kéo tôi ra!
 26) LEE
-[pickup2][examining Davids leg in the beartrap] {disgustB} Damnit, this is bad.  Really bad.
+[pickup2][examining Davids leg in the beartrap] {disgustB} Chết tiệt, nó tệ thật.  Rất là tệ.
 27) DAVID
-[Having is leg severed with an axe] Oh, God! Oh, God!!
+[Having is leg severed with an axe] Ôi, trời! Ôi, trời!!
 28) DAVID
-[Having is leg severed with an axe] Please!!!  Just DO IT!!
+[Having is leg severed with an axe] Làm ơn!!!  Cứ LÀM GÌ ĐI!!
 29) DAVID
 [Having is leg severed with an axe] Nnnrrrghhhghhh!!!!
 30) DAVID
-[Having is leg severed with an axe: (Please get it over with)] Lee!  Please!!!
+[Having is leg severed with an axe: (Please get it over with)] Lee!  Làm ơn!!!
 268) DAVID
-[Having is leg severed with an axe: (Please get it over with)] Lee!  Please!!!
+[Having is leg severed with an axe: (Please get it over with)] Lee!  Làm ơn!!!
 31) DAVID
 [Having is leg severed with an axe] [crying in pain]
 269) DAVID
 [Having is leg severed with an axe] [crying in pain]
 32) DAVID
-[Having is leg severed with an axe] God!  My leg...
+[Having is leg severed with an axe] TRỜI!  Chân tôi...
 33) DAVID
 [Having is leg severed with an axe] Rrrrrrrnnngghh!!!
 34) DAVID
-[Having is leg severed with an axe] This isn't happening...
+[Having is leg severed with an axe] Chuyện này không thể xảy ra...
 35) MARK
 [Examining the leg in the bear trap] {fearB} Jesus Christ...
 96) MARK
@@ -79,91 +79,91 @@
 36) DAVID
 [Having is leg severed with an axe][Impact hit - More Cry-y]
 37) DAVID
-[Having is leg severed with an axe]No more!  Please!!! ...No more!  Please!!!
+[Having is leg severed with an axe]Đừng nữa!  Làm ơn!!! ...Đừng nữa!  Làm ơn!!!
 38) DAVID
-[Having is leg severed with an axe]STOP!  PLEASE STOP!!
+[Having is leg severed with an axe]DỪNG!  LÀM ƠN DỪNG LẠI!!
 39) DAVID
-[Having is leg severed with an axe] No!  Stop!!  I can't take it!!
+[Having is leg severed with an axe] Không!  Dừng!!  Tôi không chịu được nữa!!
 40) DAVID
 [Having is leg severed with an axe][Impact hit!]
 41) 
-Chain
+Xích
 42) 
-Chop
+Chặt
 229) 
-Chop
+Chặt
 230) 
-Chop
+Chặt
 250) 
-Chop
+Chặt
 43) 
-Leg
+Chân
 44) 
-Trap
+Bẫy
 45) 
-Tree
+Cây
 46) 
-Use
+Dùng
 232) 
-Use
+Dùng
 47) MARK
-[pickup2] [disapointed that the zombies got to their food] {painA} Dammit.  {thinkingA} What'd they get this time?
+[pickup2] [disapointed that the zombies got to their food] {painA} Chết tiệt.  {thinkingA} Bọn nó đã có gì lần này?
 48) MARK
-[pickup2] [disapointed that the zombies got to their food(a rabbit)] {sadA} Well, that's another meal lost.
+[pickup2] [disapointed that the zombies got to their food(a rabbit)] {sadA} Thì, lại mất một bữa ăn rồi.
 49) LEE
-[pickup2] [hunting with Mark in the woods, Wondering what a zombie was eating] {thinkingB} Looks like a rabbit.
+[pickup2] [hunting with Mark in the woods, Wondering what a zombie was eating] {thinkingB} Nhìn như một con thỏ vậy.
 50) LEE
-[pickup2] [hunting with Mark in the woods, after losing a rabbit] {disgustA} A rabbit's hardly a meal, Mark,  but... I'd take it. We're all hungry.
+[pickup2] [hunting with Mark in the woods, after losing a rabbit] {disgustA} Một con thỏ không như một bữa ăn, Mark,  nhưng... tôi lấy được nó. We're all hungry.
 51) MARK
-[pickup2][Responding to "We need something that will feed all of us"] {thinkingA} No kidding.
+[pickup2][Responding to "We need something that will feed all of us"] {thinkingA} Không đùa.
 52) MARK
-[pickup2] [cont] {disgustA} Last night I heard your friend Doug laying in bed just naming types of pie. It was driving me nuts. I think he's starting to lose it.
+[pickup2] [cont] {disgustA} Đêm qua tôi đã nghe bạn anh Doug nằm trên giường đọ tên các loại bánh. Nó đã khiến tôi điên mất. Tôi nghĩ anh ấy đang bắt đầu mất kiểm soát rồi.
 53) LEE
-[pickup2] {thinkingA} He's not the only one. Won't you cut him some slack.
+[pickup2] {thinkingA} Anh ấy không phải là người duy nhất. Anh chịu cho anh ấy chút.
 54) LEE
-[pickup2] {thinkingA} We're all on edge. Just cut her some slack.
+[pickup2] {thinkingA} Chúng ta đều trên bờ vực. Anh chịu cho cô ấy một ít.
 55) MARK
-[pickup2] {disgustA} When I accidentally grabbed for Carley's rations the other night, I thought she was gonna take off my hand!
+[pickup2] {disgustA} When I accidentally grabbed for Carley's rations the other night, tôi đã nghĩ cô ấy sẽ chặt mất tay tôi!
 56) MARK
-[pickup2][agreeing that the lack of food is making everyone on egde] {normalB} Yeah, you're right.  [frustrated] {disgustB} I wish I knew for sure how much food we have left.
+[pickup2][agreeing that the lack of food is making everyone on egde] {normalB} Ừ, anh đúng rồi.  [frustrated] {disgustB} Tôi ước tôi biết chắc chúng ta còn lại bao nhiêu thức ăn.
 57) LEE
-[pickup2] {disgustA}{body-crouchAxe} You'll have to ask Lilly.  She's the one handling the rations.
+[pickup2] {disgustA}{body-crouchAxe} Anh sẽ phải hỏi Lilly.  Cô ấy là người xử lý các phần ăn.
 58) LEE
-[pickup2] {sadA}{body-crouchAxe} Not enough.  According to Lilly we've just about hit the last of our food reserves. {thinkingA} Some people might have to go without tonight.
+[pickup2] {sadA}{body-crouchAxe} Không đủ.  Theo Lilly thì chúng ta vừa mới chạm tới phần còn lại của thức ăn dự trự của ta. {thinkingA} Vài người sẽ phải chịu tối nay.
 59) LEE
-[pickup2] {thinkingA}{body-crouchAxe} We'll manage.
+[pickup2] {thinkingA}{body-crouchAxe} Chúng ta sẽ quản lý được.
 60) 
-We'll manage.
+Chúng ta sẽ quản lý được.
 61) 
-Not enough.
+Không đủ.
 62) MARK
-[pickup2] {disgustA}{body-crouchRifle} Or mishandling it, if you ask Kenny.
+[pickup2] {disgustA}{body-crouchRifle} Hoặc xử lý sai, nếu anh hỏi Kenny.
 63) LEE
-[pickup2] {sadA} He's just worried about his kid getting enough. I worry about Clementine, too.
+[pickup2] {sadA} Anh ấy chỉ lo con anh ấy đủ thôi. Tôi cũng lo cho Clementine nữa.
 64) LEE
-[pickup2] {disgustB} She thinks everyone should have an equal chance of missing a meal.
+[pickup2] {disgustB} Cô ấy nghĩ mọi người nên có cơ hội thiếu đồ ăn giống nhau.
 65) MARK
-[pickup2] {disgustB}{body-crouchRifle} You mean "Lilly's Lottery" again. {disgustA} Kenny's gonna be pissed.
+[pickup2] {disgustB}{body-crouchRifle} Ý anh lại là "Xổ số của Lilly". {disgustA} Kenny sẽ bực mình đó.
 66) 
-You'll have to ask Lilly.
+Anh sẽ phải hỏi Lilly.
 67) MARK
-[pickup2] {disgustA}{body-crouchRifle} Maybe. You know some people aren't too happy about the way Lilly is handling rations.
+[pickup2] {disgustA}{body-crouchRifle} Có lẽ. Anh biết vài người sẽ không vui về cách Lilly xử lý phần ăn.
 68) LEE
-[pickup2] {thinkingB} Lilly knows it's important to keep the adults fed and functioning. {disgustA} Sometimes that means someone's gotta miss a meal.
+[pickup2] {thinkingB} Lilly biết nó quan trọng để khiến người lớn ăn và hoạt động. {disgustA} Thi thoảng sẽ có người mất phần ăn.
 69) MARK
-[pickup2][responding to lee's silence when asked "How much food is left?"] {disgustA}{body-crouchRifle} ...That much, huh? {sadA} Does Kenny know?
+[pickup2][responding to lee's silence when asked "How much food is left?"] {disgustA}{body-crouchRifle} ...Ít vậy, hả? {sadA} Kenny có biết không?
 70) LEE
-[pickup2] {disgustA}{body-crouchAxe} I don't know.[-if Kenny knows that we have no food left]
+[pickup2] {disgustA}{body-crouchAxe} Tôi không biết nữa.[-if Kenny knows that we have no food left]
 71) MARK
-[pickup2] {angryA} Yeah, between the lack of food and Kenny & Lilly fighting all the time, {sadA} things are getting pretty tense back at the Motor Inn.
+[pickup2] {angryA} Ừ, giữa việc thiếu thức ăn và Kenny & Lilly đánh nhau suốt ngày, {sadA} có lẽ mọi việc đang khá căng thẩng ở Motor Inn.
 72) MARK
-[pickup2] {thinkingA} You know Kenny's been talking about taking off if he can get that RV running.
+[pickup2] {thinkingA} Anh biết Kenny đang nói về việc rời đi nếu anh có thể khiến RV chạy được.
 73) LEE
-[pickup2] {normalD}{body-crouchAxe} I sure hope so. [hoping kenny is having better luck hunting for food]
+[pickup2] {normalD}{body-crouchAxe} Tôi chắc mong vậy. [hoping kenny is having better luck hunting for food]
 74) MARK
-[pickup2] {normalA}{body-crouchRifle} You think Kenny's having any more luck than we are out here?
+[pickup2] {normalA}{body-crouchRifle} Anh nghĩ Kenny có may mắn hơn ở đây không?
 75) MARK
-[pickup2] {sadA}{body-crouchRifle} Can't blame him, though - {disgustA} did you hear Larry going off on him last night? {thinkingB} What's the old guy's deal, anyway? {normalB} Seems like he's got a problem with you in particular.
+[pickup2] {sadA}{body-crouchRifle} Tôi cũng không thể trách anh ấy được - {disgustA} anh có nghe được Larry bực mình đêm qua không? {thinkingB} Lão đó có vấn đề gì vậy? {normalB} Có vẻ như ông ấy đặc biệt có vấn đề với anh.
 76) 
 He thinks I'm dangerous.
 77) 
