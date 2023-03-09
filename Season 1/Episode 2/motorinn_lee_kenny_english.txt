@@ -1,15 +1,15 @@
 1) KENNY
-[pickup2][Conversation with Lee about leaving the Motel]You told Glenn he was making the wrong call, too.  Maybe he was and maybe he wasn't.  And maybe we'll never know, but at least we gotta be ready.
+[pickup2][Conversation with Lee about leaving the Motel]Tôi cũng đã bảo Glenn cậu ấy đang lựa chọn sai.  Có thể cậu ấy đã và có thể không.  Và có lẽ chúng ta sẽ không bao giờ biết được, nhưng ít nhất chúng ta phải chuẩn bị.
 2) KENNY
-[pickup2][Conversation with Lee about leaving the Motel] "You gotta do what you gotta do." That's what you told Glenn, right?
+[pickup2][Conversation with Lee about leaving the Motel] "Cậu phải làm điều mà anh phải làm." Đó là điều anh đã bảo Glenn, phải không?
 3) LEE
-[pickup2][Conversation with Kenny about leaving the Motel]Yeah, but he was leaving to find his friends.  Your family's right here.
+[pickup2][Conversation with Kenny about leaving the Motel]Ừ, nhưng cậu ấy đang rời đi để tìm bạn bè.  Gia đình của anh đang ở đây.
 4) KENNY
-[pickup2][Conversation with Lee about leaving the Motel]You gave Glenn your blessing when he left, I'm just asking you respect my choice as well.
+[pickup2][Conversation with Lee about leaving the Motel]Anh đã cho Glenn lời chúc của anh khi cậu ấy rời đi, tôi mong anh cũng thể tôn trọng lựa chọn của tôi.
 5) KENNY
-[pickup3][Conversation with Lee about leaving the Motel/  blowing the whole conversation off]Well, the RV ain't even working yet so there's no point in talking about it right now.
+[pickup3][Conversation with Lee about leaving the Motel/  blowing the whole conversation off]Thì, chiếc RV chưa hoạt động nên không có ích gì nói về nó ngay bây giờ .
 6) LEE
-[pickup2][Conversation with Kenny about leaving the Motel]Fair enough.
+[pickup2][Conversation with Kenny about leaving the Motel]Cũng đúng.
 7) 
 [Give Half an Apple]
 8) 
@@ -25,67 +25,67 @@
 64) 
 [Exit]
 11) LEE
-[pickup 2] Here, Kenny, take this.
+[pickup 2] Này, Kenny, lấy đi.
 12) KENNY
-[pickup 2]How about my boy? He eat yet?
+[pickup 2]Vậy còn con trai tôi? Nó ăn chưa?
 14) KENNY
-[pickup 2] How about my boy? He eat yet?
+[pickup 2] Vậy còn con trai tôi? Nó ăn chưa?
 13) LEE
-[pickup 2] Here Kenny, take this. We need you at your best.
+[pickup 2] Này Kenny, lấy đi. Bọn tôi cần anh tốt nhất.
 15) KENNY
-[pickup 2] Then I truly appreciate you taking care of us, Lee.
+[pickup 2] Vậy thì tôi thật sự trân trọng anh chăm sóc bọn tôi, Lee.
 16) LEE
-[pickup 2] Yeah, I gave him something.
+[pickup 2] Ừ, tôi đã cho nó một chút rồi.
 22) LEE
-[pickup 2] Yeah, I gave him something.
+[pickup 2] Ừ, tôi đã cho nó một chút rồi.
 69) LEE
-[pickup 2] Yeah, I gave him something.
+[pickup 2] Ừ, tôi đã cho nó một chút rồi.
 17) LEE
-[pickup 2] [a little uneasy]Uh... No.
+[pickup 2] [a little uneasy]Uh... Chưa.
 18) KENNY
-[pickup 2] Come talk to me once my boy's taken care of.
+[pickup 2] Tới nói chuyện với tôi khi con trai tôi được chăm sóc.
 21) KENNY
-[pickup 2] Come talk to me once my boy's taken care of.
+[pickup 2] Tới nói chuyện với tôi khi con trai tôi được chăm sóc.
 19) KENNY
-[pickup 2] Sure, then hand it over, I'm starved. Thanks.
+[pickup 2] Được, vậy thì đưa đây, tôi đang đói. Cảm ơn.
 68) KENNY
-[pickup 2] Sure, then hand it over, I'm starved. Thanks.
+[pickup 2] Được, vậy thì đưa đây, tôi đang đói. Cảm ơn.
 20) LEE
-[pickup 2] [a little uneasy] No.
+[pickup 2] [a little uneasy] Không.
 23) LEE
-[pickup 2] I didn't have enough for everybody. I thought you could handle yourself.
+[pickup 2] Tôi không có đủ cho mọi người. Tôi tưởng anh có thể tự lo cho bản thân được.
 24) KENNY
-[pickup 2] Hey, you took care of my boy. As far as I'm concerned you did right by me.
+[pickup 2] Này, anh đã chăm sóc con trai tôi. Đến vậy anh đã làm đúng với tôi.
 25) KENNY
-[pickup 2] You could've at least had the decency to give some food to Duck.  Use your head, Lee.
+[pickup 2] Anh ít nhất cũng phải có dũng khí để đưa chút đồ ăn cho Duck.  Dùng đầu anh đi, Lee.
 26) LEE
-[pickup 2]  Lilly has a point about these new people being extra mouths to feed.
+[pickup 2]  Lilly có lý về việc những người mới này sẽ có thêm miệng ăn.
 27) LEE
-[pickup 2]  [leaving conversation] Let's hope things turn for the better soon.
+[pickup 2]  [leaving conversation] Hãy hy vọng mọi thứ sẽ sớm tốt đẹp hơn.
 28) KENNY
-[pickup 2] Now there's a statement I can get behind.
+[pickup 2] Giờ đó là một tuyên bố tôi có thể nghe.
 29) KENNY
-[pickup2]I know, but... maybe the problem isn't that there isn't any food, there just isn't any HERE!  We've gotta think about moving on.
+[pickup2]Tôi biết, nhưng... có lẽ vấn đề không phải là không còn đồ ăn there, nó chỉ không còn Ở ĐÂY nữa!  Chúng ta phải nghĩ đến việc di chuyển.
 30) KENNY
-[pickup2]That ain't no secret, Lee.  It's probably our best bet.
+[pickup2]Đó không phải là bí mật, Lee.  Đó có lẽ là lựa chọn tốt nhất.
 31) LEE
-[pickup2]Word's gettin' out that you wanna leave the motor inn.
+[pickup2]Có tin đồn rằng anh muốn rời khỏi quán trọ có động cơ.
 32) LEE
-[pikcup2]I'm not sure that's the best idea.
+[pikcup2]Tôi không chắc đó là lựa chọn tốt nhất.
 33) 
-Lilly's right about these new people...
+Lilly đã đúng về những người mới...
 34) 
-Talk To
+Nói với
 35) 
-Give Food To
+Đưa đồ ăn cho
 36) LEE
-Want something to eat?
+Muốn ăn gì không?
 72) LEE
-Want something to eat?
+Muốn ăn gì không?
 37) 
-There's not enough food for you...
+Không đủ đồ ăn cho anh...
 38) 
-Want some food? [Give Food]
+Muốn chút đồ ăn không? [Give Food]
 39) LEE
 [pickup3][knowing there is only one more piece of food left]Hm.  Tôi có nên giữ cái này cho bản thân không?
 40) LEE
@@ -97,48 +97,48 @@ Want some food? [Give Food]
 45) KENNY
 [pickup3]Look, you've been good to me and my family.  You saved Duck from those monsters, and ya stood up to Larry at the drugstore.    I won't forget that.  You and Clem are welcome to come with us.
 46) KENNY
-[pickup3][Letting Lee down, awkwardly refusing Lee a ride]Listen.  I gotta look out for my family.  I gotta know that whoever I take with me is gonna be looking out for Kat and Duck.
+[pickup3][Letting Lee down, awkwardly refusing Lee a ride]Nghe này.  Tôi phải quan tâm tới gia đình.  Tôi phải biết rằng ai tôi lấy đi cùng sẽ chăm sóc cho Kat và Duck. 
 47) LEE
-[pickup3][asking Kenny if he'll take Lee and Clem along in the RV once it's fixed] Got room for me and Clem in there?
+[pickup3][asking Kenny if he'll take Lee and Clem along in the RV once it's fixed] Còn chỗ cho tôi và Clem không?
 48) LEE
-[pickup3][attempting to defend his actions when not saving Duck]Wait, I know that-
+[pickup3][attempting to defend his actions when not saving Duck]Chờ đã, Tôi biết đã-
 49) KENNY
-[pickup3][cutting Lee off - Arguing, but NOT getting heated, keeping it in a low tone]Lee, you left Duck in danger twice!
+[pickup3][cutting Lee off - Arguing, but NOT getting heated, keeping it in a low tone]Lee, anh đã để Duck gặp nguy hai lần!
 50) 
 [pickup3]Oye, Kenny.
 51) 
 [pickup3] ¿Qué estás pensando, Lee?
 52) LEE
-[pickup3]The guy in the beartrap.  You think we gave up too early?  I think if I had just another minute or two...
+[pickup3]Cái gã ở cái bẫy gấu.  Anh có nghĩ ta đã bỏ cuộc hơi sớm không?  Tôi nghĩ nếu tôi còn phút hoặc hai...
 53) KENNY
-[pickup3]You saw that guy. His leg was completely mangled.  Even if you got him out what then?  I had my family in mind and you gotta think of Clementine.  We gotta stay alive for them.
+[pickup3]Anh nhìn gã đó rồi. Chân của anh ấy đã hoàn toàn bị trật khớp.  Kể cả anh cứu được anh ấy thì sao?  Tôi đã có gia đình trong đầu và anh phải nghĩ tới Clementine.  Chúng ta phải sống vì họ.
 54) LEE
-[pickup3]Thanks for buying me time to get that guy out of the bear trap back there.
+[pickup3]Cảm ơn đã kéo cho tôi thời gian để đưa gã đó ra khỏi bẫy gấu ở đằng đấy.
 55) KENNY
-[pickup3]I can't believe you cut off his leg.  I don't know if I coulda done it.
+[pickup3]Tôi không thể tin được anh đã chặt chân anh ta.  Tôi không biết tôi có thể làm thế không.
 56) LEE
-[pickup3]I didn't have a choice.  It was that or the walkers.
+[pickup3]Tôi đã không có lựa chọn.  Là việc đó hoặc bọn walkers.
 57) 
-About the guy in the bear trap...
+Về gã ở cái bẫy...
 58) KENNY
 [pickup3]Well, "here" isn't doing us any good.  You should think about coming with us.  You and Clem.
 59) LEE
-[pickup3][urging Kenny to stay with the group]We need you here. We have a better chance of surviving as a group.
+[pickup3][urging Kenny to stay with the group]Bọn tôi cần anh ở đây. Chúng ta sẽ có cơ hội sống sót tốt nhất là như một nhóm.
 60) KENNY
-[pickup3]Our BEST chance of surviving is to get away from the mainland!  My mind is made up.
+[pickup3]Cơ hội TỐT NHẤT sống sót là ra khỏi đất liền! Tôi đã quyết định rồi.
 61) KENNY
-[pickup3][confident that leaving is for the best] I know that it is.  I'm taking my family.
+[pickup3][confident that leaving is for the best] Tôi biết rằng nó như thế. Tôi sẽ đưa gia đình của tôi.
 62) LEE
-[pickup3]The coast does sound like a smart idea.  Maybe that is the best thing.
+[pickup3]Ngoài biển nghe có thể là một lựa chọn hay.  Có lẽ đó là điều tốt nhất.
 63) LILLY
-[pickup3][Seeing Lee give Kenny food]How's it going Lee?  From up here it looks like you're playing favorites.
+[pickup3][Seeing Lee give Kenny food]Sao rồi Lee?  Từ trên này nó nhìn như anh đang chơi trò yêu thích.
 65) 
-You should stay here.
+Anh nên ở lại đâu.
 66) 
-The coast does sound like a smart idea.
+Ngoài biển nghe có thể là một lựa chọn hay.
 67) LEE
-Back in a bit.
+Sẽ quay lại chốc lát.
 70) LEE
-Back in a bit.
+Sẽ quay lại chốc lát.
 71) KENNY
 [pickup2] Whatever.
