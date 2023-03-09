@@ -1,7 +1,7 @@
 1) LEE
-[Pickup 2] {thinkingA}If your camp got raided, probably means you haven't eaten in a while.
+[Pickup 2] {thinkingA}Nếu trại của anh bị tấn công000, có lẽ có nghĩa là cậu không được ăn một thời gian rồi .
 2) BEN
-[pickup 2]{sadA}I AM really hungry. {happyA}Thanks.
+[pickup 2]{sadA}Tôi RẤT LÀ đói. {happyA}Cảm ơn.
 3) 
 [Give Half an Apple]
 4) 
@@ -17,49 +17,49 @@
 59) 
 [Exit]
 7) LEE
-[pickup 2] {happyA} Here, Ben. After what you been through, seems like you could use a pick-me-up.
+[pickup 2] {happyA} Này, Ben. Sau những gì cậu trải qua, có vẻ như câu sẽ có thể dùng một cái pick-me-up.
 8) BEN
-[pickup 2] [surprised by generosity] {surprisedA}Seriously?   {thinkingA}I know food's scarce, this is really...I really appreciate it, man.
+[pickup 2] [surprised by generosity] {surprisedA}Thật à?   {thinkingA}Tôi biết sốt đồ ăn, nó rất là...tôi rất cảm kích nó.
 9) LEE
-[pickup 2] {sadA}Hey, Ben, I hope you understand why I didn't give you any food.
+[pickup 2] {sadA}Này, Ben, tôi mong cậu hiểu tại sao tôi đã không cho cậu chút đồ ăn.
 10) BEN
-[pickup 2] {sadA}I'm new, I get it. It's fine, Lee, really.
+[pickup 2] {sadA}Tôi mới, tôi hiểu mà. Ổn mà, Lee, thật sự.
 11) LEE
-[pickup2]{SadA}How you holding up, kid?
+[pickup2]{SadA}Cậu thế nào rồi, rồi?
 12) BEN
-[pickup2]{sadA}Uh, well, I, uh... {fearA}I keep wondering if I could have done something to help, you know? {thinkingA}Some kind of...{sadA}I don't know. SOMETHING.
+[pickup2]{sadA}Uh, thì, tôi, uh... {fearA}Tôi đang tự hỏi nếu tôi đã có thể làm gì đó để giúp, anh biết không? {thinkingA}Kiểu như là...{sadA}Tôi không biết nữa. BẤT KÌ THỨ GÌ.
 13) LEE
-[pickup 2] {sadA}I'm sure you did all you could.
+[pickup 2] {sadA}Tôi chắc đó là tất cả những gì cậu có thể làm.
 14) BEN
-[pickup 2]  {sadB}Yeah, maybe.
+[pickup 2]  {sadB}Yeah, chắc vậy.
 15) LEE
-[pickup 2] {sadA}I don't know, either.
+[pickup 2] {sadA}Tôi không biết, nữa.
 29) 
-I don't know, either.
+Tôi không biết, nữa.
 16) BEN
-[pickup 2] {sadC}It's killing me.
+[pickup 2] {sadC}Nó đang giết tôi.
 17) BEN
-[pickup 2] {fearA}Next time. {sadA}Yeah.
+[pickup 2] {fearA}Lần sau. {sadA}Yeah.
 18) LEE
-[pickup 2] {sadA}You'll be prepared next time.
+[pickup 2] {sadA}Cậu sẽ phải chuẩn bị lần sau.
 30) 
-You'll be prepared next time.
+Cậu sẽ phải chuẩn bị lần sau.
 19) BEN
-[pickup 2] {sadC}I wish I could stop thinking about it.
+[pickup 2] {sadC}Tôi ước tôi có thể dừng nghĩ về nó.
 20) LEE
-[pickup 2] {sadA}Relax, we'll get your friend back to normal in no time.
+[pickup 2] {sadA}Thoải mái, chúng ta sẽ khiến cho bạn cậu trở về bình thường nhanh thôi.
 21) BEN
-[pickup 2] {fearB}I sure hope so.
+[pickup 2] {fearB}Tôi chắc mong vậy.
 22) BEN
-[pickup2][sounding pretty fragile]{sadA}I'm Ben. Ben Paul.
+[pickup2][sounding pretty fragile]{sadA}Tôi là Ben. Ben Paul.
 23) LEE
-[pickup2]{thinkingA}So, who are you people?  Our group's gonna want to know.
+[pickup2]{thinkingA}Vậy, mấy cậu là ai?  Nhóm của tôi sẽ biết đó.
 24) 
-So, who are you?
+Vậy, cậu là ai?
 25) BEN
-[pickup2]{thinkingA}The man you saved is Mr. Parker, the band director at my school.
+[pickup2]{thinkingA}Người đàn ông anh vừa cứu là Thầy. Parker, đạo diễn nhóm nhạc của trường tôi at my school.
 26) BEN
-[pickup2][sounding pretty fragile]We all came down from Stone Mountain for the playoffs when... when everything happened.
+[pickup2][sounding pretty fragile]Bọn tôi đều từ Stone Mountain để chơi khi... khi mọi việc đều xảy ra.
 27) BEN
 [pickup2]The guy in the truck is Travis.  He played in the school band with me. Mr. Parker was the band director but - God, I can't believe we left him.
 28) 
