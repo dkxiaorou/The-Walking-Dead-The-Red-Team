@@ -165,15 +165,15 @@ Anh sẽ phải hỏi Lilly.
 75) MARK
 [pickup2] {sadA}{body-crouchRifle} Tôi cũng không thể trách anh ấy được - {disgustA} anh có nghe được Larry bực mình đêm qua không? {thinkingB} Lão đó có vấn đề gì vậy? {normalB} Có vẻ như ông ấy đặc biệt có vấn đề với anh.
 76) 
-He thinks I'm dangerous.
+Ông ấy nghĩ tôi nguy hiểm.
 77) 
-He's an old racist asshole.
+Ông ấy là một thằng khốn già phân biệt chủng tộc.
 78) 
-He's just looking out for his daughter.
+Ông ấy chỉ đang chăm sóc con gái của ông.
 79) 
-I have no idea.
+Tôi không biết nữa.
 80) LEE
-[pickup2][Responding to "What's Larry's deal"?] {disgustA}{body-crouchAxe} He thinks I'm a danger to the group {thinkingB} and Clementine.
+[pickup2][Responding to "What's Larry's deal"?] {disgustA}{body-crouchAxe} Ông ấy nghĩ tôi là một mối nguy cho nhóm {thinkingB} và Clementine.
 81) MARK
 [pickup2] {thinkingB}{body-crouchRifle} I think he's the one putting us in danger. {angryA} The way Lilly worries about his health, I wouldn't be surprised if she's been skimming rations for him.
 82) LEE
