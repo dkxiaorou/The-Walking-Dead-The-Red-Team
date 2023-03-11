@@ -61,25 +61,25 @@ Vậy, cậu là ai?
 26) BEN
 [pickup2][sounding pretty fragile]Bọn tôi đều từ Stone Mountain để chơi khi... khi mọi việc đều xảy ra.
 27) BEN
-[pickup2]The guy in the truck is Travis.  He played in the school band with me. Mr. Parker was the band director but - God, I can't believe we left him.
+[pickup2]Tên người đàn ông trên xe tải là Travis.  Anh ấy đã chơi cho nhóm nhạc trường với tôi. Mr. Parker đã từng là người chỉ đạo ban nhạc nhưng - Trời, tôi không thể tin được đã bỏ rơi thầy ấy.
 28) 
-You did all you could.
+Cậu đã làm tất cả cậu có thể.
 31) 
-How you holding up?
+Câu như thế nào rồi?
 32) 
-Talk To
+Nói với
 33) 
-Give Food To
+Đưa đồ ăn cho
 34) LEE
-Want something to eat?
+Muốn gì để ăn không?
 62) LEE
-Want something to eat?
+Muốn gì để ăn không?
 35) 
-I'm out of food.
+Tôi hết thức ăn rồi.
 36) 
-Want some food? [Give Food]
+Muốn chút đồ ăn không? [Give Food]
 37) LEE
-[pickup3][to himself - depressed, having givin out 2 piecesof food and running out quickly!]{sadA}Well, that's one more down.  Nine hungry people and only two pieces of food left.
+[pickup3][to himself - depressed, having givin out 2 piecesof food and running out quickly!]{sadA}Thì, hết một cái nữa.  Chín người đói và còn hai miếng thức ăn nữa.
 38) LEE
 [pickup3][to himself - depressed, having only 1 piece of food left]Một miếng đồ ăn nữa để cho đi, rồi nó sẽ hết trong ngày hôm nay.
 39) LEE
@@ -89,36 +89,36 @@ Want some food? [Give Food]
 43) LEE
 [pickup3][to himself - choosing to save the food for someone else]Không.  Một số người đã trải qua nhiều hơn tôi mà không có đồ ăn.  Họ là những người cần nó.
 44) BEN
-[pickup3][worried]Hey, is my friend gonna make it?
+[pickup3][worried]Này, bạn tôi có qua khỏi không?
 45) LEE
-[pickup3]I don't know,  but Katjaa will do her best, I promise.
+[pickup3]Tôi không biết,  nhưng Katjaa sẽ làm tốt nhất có thể, tôi hứa.
 46) BEN
-[pickup3]I can't believe you chopped off his leg!
+[pickup3]Tôi không thể tin được anh đã chặt chân của anh ấy!
 47) LEE
-[pickup3]There was no other way.
+[pickup3]Nó không còn cách nào khác.
 48) BEN
-[pickup3][Sad] I can't believe we just left Mr. Parker there...
+[pickup3][Sad] Tôi không thể tin nổi đã bỏ rơi thầy Parker tại đó...
 49) LEE
-[pickup3]I tried. I really did. I just... we ran out of time.  There was nothing else we could do.
+[pickup3]Tôi đã cố. Tôi thực sự đã cố. Tôi chỉ... chúng ta đã hết thời gian.  Không còn gì bọn tôi có thể làm.
 50) CARLEY
-[pickup3][seeing Lee give precious food to the new guy]What are you doing Lee?  That food should go to US first.
+[pickup3][seeing Lee give precious food to the new guy]Anh đang làm gì vậy Lee?  Thức ăn đó nên cho BỌN TÔI trước.
 51) LEE
-[pickup3]Just because we don't know him doesn't mean he's not hungry.
+[pickup3]Chỉ vì chúng ta không biết cậy ấy không có nghĩa anh ấy không đói.
 56) LEE
-[pickup3]Just because we don't know him doesn't mean he's not hungry.
+[pickup3]Chỉ vì chúng ta không biết cậy ấy không có nghĩa anh ấy không đói.
 52) CARLEY
-[pickup3]Well, it's a good thing Kenny didn't see that.  He might not be so understanding.
+[pickup3]Thì, nó là một thứ tốt Kenny không thấy điều đó.  Anh ấy có lẽ sẽ không thấu hiểu.
 53) BEN
-[pickup3]I'm sorry.  I didn't mean to cause trouble.
+[pickup3]Tôi xin lỗi.  Tôi đã không có ý gây rắc rối.
 57) BEN
-[pickup3]I'm sorry.  I didn't mean to cause trouble.
+[pickup3]Tôi xin lỗi.  Tôi đã không có ý gây rắc rối.
 54) LEE
-[pickup3]You're fine, kid.  Enjoy it.
+[pickup3]Cậu ổn mà , nhóc.  Tận hưởng nó đi.
 58) LEE
-[pickup3]You're fine, kid.  Enjoy it.
+[pickup3]Cậu ổn mà , nhóc.  Tận hưởng nó đi.
 55) KENNY
-[pickup3][waliking over and scolding Lee for giving the limited amount of food to the new stranger (Keeping the conversatin between Lee & Kenny)]{angryb}Are you out of your mind?  We needed that food for us!  For our kids!
+[pickup3][waliking over and scolding Lee for giving the limited amount of food to the new stranger (Keeping the conversatin between Lee & Kenny)]{angryb}Anh bị điên à?  Bọn tôi cần thức ăn đó!  Cho bọn trẻ chúng ta!
 60) LEE
-Back in a bit.
+Quay lại trong một lát.
 61) LEE
-Sorry.
+Xin lỗi.
