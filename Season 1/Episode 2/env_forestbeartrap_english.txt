@@ -175,41 +175,41 @@ Tôi không biết nữa.
 80) LEE
 [pickup2][Responding to "What's Larry's deal"?] {disgustA}{body-crouchAxe} Ông ấy nghĩ tôi là một mối nguy cho nhóm {thinkingB} và Clementine.
 81) MARK
-[pickup2] {thinkingB}{body-crouchRifle} I think he's the one putting us in danger. {angryA} The way Lilly worries about his health, I wouldn't be surprised if she's been skimming rations for him.
+[pickup2] {thinkingB}{body-crouchRifle} Tôi nghĩ ông ấy là người đặt chúng ta vào nguy hiểm. {angryA} Cái cách Lilly lo cho sức khoẻ của ông ấy, tôi cũng sẽ không ngạc nhiên nếu cô ấy đã lén cho ông ấy phần ăn.
 82) LEE
-[pickup2][Responding to "What's Larry's deal"?] {angryA}{body-crouchAxe} He's just an old racist asshole, that's his deal.
+[pickup2][Responding to "What's Larry's deal"?] {angryA}{body-crouchAxe} Ông ấy chỉ là một thằng khốn phân biệt chủng tộc, đó là vấn đề của ông ấy.
 83) MARK
-[pickup2] {angryA}{body-crouchRifle} Well, he needs to get over that and start finding a way to pull his weight. {thinkingA} Heart problems or not, we should all be out here trying to find food.
+[pickup2] {angryA}{body-crouchRifle} Thì, ông ấy cần vượt qua nó và bắt đầu tìm cách đế sống tốt. {thinkingA} Vấn đề tim mạch hay không, tất cả chúng ta nên ở ngoài này cố tìm đồ ăn.
 84) MARK
-[pickup2] {thinkingA}{body-crouchRifle} Hey, I know Lilly. {angryA} She can take care of herself. {thinkingA} He needs to take that energy and put it towards finding us some more food.
+[pickup2] {thinkingA}{body-crouchRifle} Này, tôi biết Lilly. {angryA} Cô ấy có thể tự chăm sóc bản thân. {thinkingA} Anh ấy cần lấy năng lượng đó và đặt nó trước việc chúng ta nên tìm thêm đồ ăn.
 85) LEE
-[pickup2][Responding to "What's Larry's deal?" with some reluctance & pride swallowing] {thinkingA}{body-crouchAxe} Larry's just{normalD} looking out for his daughter.
+[pickup2][Responding to "What's Larry's deal?" with some reluctance & pride swallowing] {thinkingA}{body-crouchAxe} Larry chỉ{normalD} chăm sóc con gái ông ấy thôi.
 86) LEE
-[pickup2][Responding to "What's Larry's deal"? - Just totally tired of dealing with Larry] {angryA}{body-crouchAxe} Who knows what Larry's problem is.
+[pickup2][Responding to "What's Larry's deal"? - Just totally tired of dealing with Larry] {angryA}{body-crouchAxe} Ai biết vấn đề của Larry là gì.
 87) MARK
-[pickup2] {thinkingA}{body-crouchRifle} Maybe that's just the way he is, {angryA}but that guy needs to chill out.
+[pickup2] {thinkingA}{body-crouchRifle} Có lẽ đó là cách ông ấy cư xử thôi, {angryA}nhưng gã đó cần phải thư giản đi.
 88) LEE
-[pickup2][still weary from hunger] {normalC}{body-crouchAxe} Maybe you shouldn't have opened the door.
+[pickup2][still weary from hunger] {normalC}{body-crouchAxe} Có lẽ anh không nên mở cửa.
 89) MARK
-[pickup2][still weary from hunger - Mark is aiming his rifle at a bird in a tree] {thinkingB}{body-crouchRifle} Trust me.  If I don't think I can hit it, I won't shoot.
+[pickup2][still weary from hunger - Mark is aiming his rifle at a bird in a tree] {thinkingB}{body-crouchRifle} Tin tôi đi.  Nếu tôi không nghĩ tôi có thể trúng nó, tôi sẽ không bắn.
 90) MARK
-[pickup2][still weary from hunger]  {sadA}{body-crouchRifle} I still can't believe we went through all that commissary food in 3 months! {painA} It seemed like so much at the time.
+[pickup2][still weary from hunger]  {sadA}{body-crouchRifle} Tôi vẫn không thể tin rằng chúng ta có thể trải qua được chỗ đồ ăn uỷ nghiệm đó trong 3 tháng!{painA} Nó đã có vẻ như rất nhiều trong thời gian đó.
 91) MARK
-[pickup2][URGENT, having heard a scream in the woods!] {fearB} Shit!  Was that Kenny?!
+[pickup2][URGENT, having heard a scream in the woods!] {fearB} Chết tiệt!  Đó có phải là Kenny không?!
 271) MARK
-[pickup2][URGENT, having heard a scream in the woods!] {fearB} Shit!  Was that Kenny?!
+[pickup2][URGENT, having heard a scream in the woods!] {fearB} Chết tiệt!  Đó có phải là Kenny không?!
 273) MARK
-[pickup2][URGENT, having heard a scream in the woods!] {fearB} Shit!  Was that Kenny?!
+[pickup2][URGENT, having heard a scream in the woods!] {fearB} Chết tiệt!  Đó có phải là Kenny không?!
 275) MARK
-[pickup2][URGENT, having heard a scream in the woods!] {fearB} Shit!  Was that Kenny?!
+[pickup2][URGENT, having heard a scream in the woods!] {fearB} Chết tiệt!  Đó có phải là Kenny không?!
 277) MARK
-[pickup2][URGENT, having heard a scream in the woods!] {fearB} Shit!  Was that Kenny?!
+[pickup2][URGENT, having heard a scream in the woods!] {fearB} Chết tiệt!  Đó có phải là Kenny không?!
 279) MARK
-[pickup2][URGENT, having heard a scream in the woods!] {fearB} Shit!  Was that Kenny?!
+[pickup2][URGENT, having heard a scream in the woods!] {fearB} Chết tiệt!  Đó có phải là Kenny không?!
 92) MARK
-[pickup2] {thinkingB} Yeah, except then I'd probably BE food by now. {disgustA} Trust me, I have no regrets!
+[pickup2] {thinkingB} Ừ, ngoại trừ sau đó tôi có lẽ là có thức ăn tầm bây giờ. {disgustA} Tin tôi đi, Tôi không có hối hận!
 93) LEE
-[pickup2][still weary from hunger - Mark is aiming his rifle at a bird in a tree] {disgustA}{body-crouchAxe} It's a long shot.  I'd hate to waste the bullets.
+[pickup2][still weary from hunger - Mark is aiming his rifle at a bird in a tree] {disgustA}{body-crouchAxe} Đó là phát bắn xa.  Tôi ghét phải tốn đạn.
 94) DAVID
 [pickup2][process; far in the distance - Open woods][NOTE:We probably dont need to record this, we have plenty of screaming lines to choose from] Aaaaahhhhhhhhh!!!!
 165) DAVID
@@ -221,204 +221,204 @@ Tôi không biết nữa.
 170) DAVID
 [pickup2][process; far in the distance - Open woods][NOTE:We probably dont need to record this, we have plenty of screaming lines to choose from] Aaaaahhhhhhhhh!!!!
 95) LEE
-[pickup2][URGENT, having heard a scream in the woods!] {surpriseA} I don't know!  Come on!
+[pickup2][URGENT, having heard a scream in the woods!] {surpriseA} Tôi không biết nữa!  Đi nào!
 270) LEE
-[pickup2][URGENT, having heard a scream in the woods!] {surpriseA} I don't know!  Come on!
+[pickup2][URGENT, having heard a scream in the woods!] {surpriseA} Tôi không biết nữa!  Đi nào!
 272) LEE
-[pickup2][URGENT, having heard a scream in the woods!] {surpriseA} I don't know!  Come on!
+[pickup2][URGENT, having heard a scream in the woods!] {surpriseA} Tôi không biết nữa!  Đi nào!
 274) LEE
-[pickup2][URGENT, having heard a scream in the woods!] {surpriseA} I don't know!  Come on!
+[pickup2][URGENT, having heard a scream in the woods!] {surpriseA} Tôi không biết nữa!  Đi nào!
 276) LEE
-[pickup2][URGENT, having heard a scream in the woods!] {surpriseA} I don't know!  Come on!
+[pickup2][URGENT, having heard a scream in the woods!] {surpriseA} Tôi không biết nữa!  Đi nào!
 278) LEE
-[pickup2][URGENT, having heard a scream in the woods!] {surpriseA} I don't know!  Come on!
+[pickup2][URGENT, having heard a scream in the woods!] {surpriseA} Tôi không biết nữa!  Đi nào!
 98) TRAVIS
-[pickup2][nervous!!  When strangers show up suddenly with gun, Travis panics] {fearC} Oh shit!!  No.  No... Please don't kill us! {fearD} We just want to help our teacher!!  We'll leave, I swear!
+[pickup2][nervous!!  When strangers show up suddenly with gun, Travis panics] {fearC} Chết tiệt!!  Không.  Không... Xin đừng giết bọn tôi! {fearD} Bọn tôi chỉ đang muốn giúp thầy bọn tôi!!  Bọn tôi sẽ đi, tôi hứa!
 99) TRAVIS
-[pickup2][Wanting Ben to stop asking for help from strangers!] {surprisedA} These might be the same guys that raided our camp and... {fearB} We barely got away from that!
+[pickup2][Wanting Ben to stop asking for help from strangers!] {surprisedA} Đó có thể là những người đã tấn công trại bọn mình và... {fearB} Chúng ta suýt soát thoát khỏi đó!
 100) BEN
-[pickup2][panicing- his teacher is caught in a bear trap!] {fearD} Travis, maybe they can help!
+[pickup2][panicing- his teacher is caught in a bear trap!] {fearD} Travis, có thể họ sẽ giúp!
 101) MARK
-[pickup2][trying to help his teacher][in the background] {disgustA} What guys?
+[pickup2][trying to help his teacher][in the background] {disgustA} Những gã nào cơ?
 102) KENNY
-[pickup2] {disgustA} Why the fuck is there a bear trap out HERE?!
+[pickup2] {disgustA} Tại sao thế đéo nào mà có một cái bẫy gấu Ở ĐÂY?!
 103) LEE
-[pickup2][trying to quickly convince Travis they they arent murderers] {fearB} It's okay.  We're not gonna hurt you.
+[pickup2][trying to quickly convince Travis they they arent murderers] {fearB} Không sao đâu.  Bọn tôi sẽ không hại mấy người đâu.
 104) TRAVIS
-[pickup2][still thinking he's got things covered- caling out] {thinkingB} Ben, shut up! {fearB} My dad was Special Forces, I know what I'm doing!
+[pickup2][still thinking he's got things covered- caling out] {thinkingB} Ben, câm mồm đi! {fearB} Bố tôi từng là Lực Lượng Đặc Biệt, tôi biết tôi đang làm gì!
 105) BEN
-[pickup2][desperate for help] {fearD} PLEASE!
+[pickup2][desperate for help] {fearD} LÀM ƠN!
 106) BEN
-[pickup2][still desperate for help - Pleading to Lee, (Starting at a quieter projection)] {fearC} Just see if you can get him out! {surprisedA} After that you can leave us or whatever, {fearD} I don't care! Please!
+[pickup2][still desperate for help - Pleading to Lee, (Starting at a quieter projection)] {fearC} Chỉ xem nếu anh có thể giúp thầy ấy ra khỏi đó! {surprisedA} Sau đó anh có thể bỏ bọn tôi hoặc gì cũng được, {fearD} Tôi không quan tâm! Làm ơn!
 107) LEE
 [pickup2][Swinging the axe, trying to cut a cable]Arrgh!!
 108) MARK
-[pickup2][inspecting the extremely thick cable that attaches the bear trap to a tree URGENT] {fearA} Forget it! We use chain like that at the Air Force base to lift ordinance. {disgustA} You're NOT cutting through that!
+[pickup2][inspecting the extremely thick cable that attaches the bear trap to a tree URGENT] {fearA} Quên đi! Bọn tôi dùng cái xích như thế ở căn cứ Không Quân dỡ đồ để . {disgustA} Anh KHÔNG THỂ cắt thủng nó đâu!
 109) KENNY
-[pickup2][FRANTIC - trying to abandon a man in a bear trap WHILE zombies are comming!! - ]We have to!  We're outta time! Come on!
+[pickup2][FRANTIC - trying to abandon a man in a bear trap WHILE zombies are comming!! - ]Chúng ta phải!  Chúng ta hết thời gian rồi! Đi nào!
 110) KENNY
-[pickup2]  [FRANTIC - trying to abandon a man in a bear trap WHILE zombies are comming!! - ]We don't have TIME for that! I'm sorry, but we have to go NOW!
+[pickup2]  [FRANTIC - trying to abandon a man in a bear trap WHILE zombies are comming!! - ]Chúng ta không đủ thời gian cho việc đó! Tôi xin lỗi, nhưng chúng ta phải đi NGAY!
 111) MARK
-[pickup2][FRANTIC - Still trying to free a man in a bear trap WHILE zombies are comming!!]We can't leave him now!  Not with those things coming!
+[pickup2][FRANTIC - Still trying to free a man in a bear trap WHILE zombies are comming!!]Chúng ta không thể bỏ rơi anh ấy ngay bây giờ!  Không với những thứ đó đang tới!
 112) KENNY
-[pickup2] [calling out to Lee as lee tries to free the man from the bear trap] {fearC} Shit! Walkers! {angryA} It's now or never, Lee.
+[pickup2] [calling out to Lee as lee tries to free the man from the bear trap] {fearC} Chết tiệt! Walkers! {angryA} Bây giờ hoặc không bao giờ, Lee.
 113) TRAVIS
-[pickup2][quiet horror as he sees zombies start approaching from the trees] {fearD} ...Oh, no.
+[pickup2][quiet horror as he sees zombies start approaching from the trees] {fearD} ...Ôi, không.
 114) MARK
-[pickup2][FRANTIC - trying to SAVE a man in a bear trap WHILE zombies are comming!! ]Lee, It has to be NOW!
+[pickup2][FRANTIC - trying to SAVE a man in a bear trap WHILE zombies are comming!! ]Lee, Nó sẽ phải NGAY BÂY GIỜ!
 115) BEN
-[pickup2][FRANTIC - trying to SAVE a man in a bear trap WHILE zombies are comming!! - ] {fearB} Oh, God!  Please save him!!
+[pickup2][FRANTIC - trying to SAVE a man in a bear trap WHILE zombies are comming!! - ] {fearB} Ôi, trời!  Làm ơn hãy cứu anh ấy!!
 116) KENNY
-[pickup2][FRANTIC - trying to get lee to hurry up freeing man in a bear trap WHILE zombies are comming!! - ]Let's go, let's go!!
+[pickup2][FRANTIC - trying to get lee to hurry up freeing man in a bear trap WHILE zombies are comming!! - ]Đi nào, đi nào!!
 117) LEE
-[pickup2][barking orders as he prepares to cut off the leg] {fearC} Mark, get the boys back!
+[pickup2][barking orders as he prepares to cut off the leg] {fearC} Mark, đưa bọn trẻ về đi back!
 118) LEE
-[pickup2][barking orders as he prepares to cut off the leg] {angryA} Kenny, keep those walkers off of me!
+[pickup2][barking orders as he prepares to cut off the leg] {angryA} Kenny, giữ bọn walkers khỏi tôi!
 119) KENNY
-[pickup2][with zombies quickly approaching, Kenny tries to Snap Lee out of his indecision and get him to realize there is nothing they can do] {fearC} Come on!  We gotta go! {surprisedA} Now!
+[pickup2][with zombies quickly approaching, Kenny tries to Snap Lee out of his indecision and get him to realize there is nothing they can do] {fearC} Thôi nào!  Chúng ta phải đi! {surprisedA} Ngay!
 120) DAVID
-[pickup2][in extreme pain, realizing they are leaving him behind]No, no don't leave me!!
+[pickup2][in extreme pain, realizing they are leaving him behind]Không, không đừng bỏ rơi!!
 121) MARK
-[pickup2][realizing that Lee's inaction means they no longer have any time to save David, now that zombies have arrived] {angryC} Damnit Lee!!
+[pickup2][realizing that Lee's inaction means they no longer have any time to save David, now that zombies have arrived] {angryC} Chết tiệt Lee!!
 122) LEE
-[pickup2][turns to David as they start to flee] {sadC} I'm sorry!
+[pickup2][turns to David as they start to flee] {sadC} Tôi xin lỗi!
 123) TRAVIS
-[pickup2][~frantic struggling!!~ During a shootout with zombies, Travis tries to take Mark's gun!]  Give it to me!
+[pickup2][~frantic struggling!!~ During a shootout with zombies, Travis tries to take Mark's gun!]  Đưa nó cho tôi!
 124) KENNY
-[pickup2][durring a shootout with zombies, Travis is accidentally shot!!] {disgustA} Shit! {fearC} What happened?!
+[pickup2][durring a shootout with zombies, Travis is accidentally shot!!] {disgustA} Chết tiệt! {fearC} Chuyện gì đã xảy ra?!
 125) MARK
-[pickup2][Durring a shootout with zombies, Travis tries to take Lee's gun!] {surpriseB} Get off!!
+[pickup2][Durring a shootout with zombies, Travis tries to take Lee's gun!] {surpriseB} Bỏ ra!!
 126) TRAVIS
-[pickup2][in the middle of a frantic shootout, Travis freaks out!] {fearC} No!   We can't leave Mr. Parker like that!
+[pickup2][in the middle of a frantic shootout, Travis freaks out!] {fearC} Không!   Chúng ta không thể bỏ thầy Parker như vậy!
 127) TRAVIS
-[pickup2][~frantic!!~ During a shootout with zombies, Travis tries to take Mark's gun!] {angryA} Give me the gun!
+[pickup2][~frantic!!~ During a shootout with zombies, Travis tries to take Mark's gun!] {angryA} Đưa tôi khẩu súng!
 128) TRAVIS
-[pickup2][realizing that he's been shot in the stomach] {fearD} ...Oh, God.
+[pickup2][realizing that he's been shot in the stomach] {fearD} ...Ôi, chúa ơi.
 129) LEE
-[pickup2][Durring the shootout with the zombies, Mark accidentally shot Travis!  ((They are STILL fleeing the zombies))] {fearC} It was an accident!
+[pickup2][Durring the shootout with the zombies, Mark accidentally shot Travis!  ((They are STILL fleeing the zombies))] {fearC} Nó là một tai nạn!
 130) BEN
 [pickup2][frantic!  Watching his friend Travis try to take a gun away from Mark] {fearC} Travis?!!
 131) MARK
-[pickup2][Durring a shootout with zombies, Travis tries to takeMark's gun! ~~STRUGGLING~~] {angryC} God dammit, let go!
+[pickup2][Durring a shootout with zombies, Travis tries to takeMark's gun! ~~STRUGGLING~~] {angryC} Chết tiệt chúa, thả ra!
 132) LEE
-[pickup2][Durring the shootout with the zombies, Mark accidentally shot Travis!  ((They are STILL fleeing the zombies))] {fearC} I don't know!
+[pickup2][Durring the shootout with the zombies, Mark accidentally shot Travis!  ((They are STILL fleeing the zombies))] {fearC} Tôi không biết nữa!
 133) LEE
-[pickup2][Durring the shootout with the zombies, he accidentally shots Travis!  ((They are STILL fleeing the zombies))] {fearC} He went for the gun!
+[pickup2][Durring the shootout with the zombies, he accidentally shots Travis!  ((They are STILL fleeing the zombies))] {fearC} Anh ấy đã lao tới khẩu súng!
 134) KENNY
-[pickup2][While fleeing zombies and shooting  them, Travis gets shot by Mark by accident  ~Frantic~] {surprisedA} Grab the kid and keep moving!
+[pickup2][While fleeing zombies and shooting  them, Travis gets shot by Mark by accident  ~Frantic~] {surprisedA} Lấy cậu nhóc và tiếp tục đi đi!
 135) 
-It was an accident!
+Đó là một tai nạ!
 136) 
-I don't know!
+Tôi không biết nữa!
 137) 
-He went for the gun!
+Anh ấy đã lao tới khẩu súng!
 138) BEN
-[pickup2][overcome with the horror of leaving his teacher and his friend just getting shot!] {sadD} Oh, God!!
+[pickup2][overcome with the horror of leaving his teacher and his friend just getting shot!] {sadD} Ôi, Chúa ơi!!
 139) MARK
-[pickup2][frantically trying to get Ben and his injured friend to run away from the oncoming zombies!] {fearC} Come on!  Move!!
+[pickup2][frantically trying to get Ben and his injured friend to run away from the oncoming zombies!] {fearC} Thôi nào!  Di chuyển đi!!
 140) TRAVIS
-[pickup2][Totally losing it, after seeing his teacher's unconcious body  and it's hacked off leg!] {fearB} Oh, God!  [starting to get sick over the sight of so much blood] Grrk... Grrk...
+[pickup2][Totally losing it, after seeing his teacher's unconcious body  and it's hacked off leg!] {fearB} Ôi, Chúa ơi!  [starting to get sick over the sight of so much blood] Grrk... Grrk...
 141) KENNY
-[pickup2][Frantic- knowing they have run out of time and have to go!] {surprisedA} If he's alive, grab him and let's go!!
+[pickup2][Frantic- knowing they have run out of time and have to go!] {surprisedA} Nếu cậu ấy còn sống, lấy cậu ấy và đi thôi!!
 142) BEN
 [pickup2] [seeing Travis backing up in terror, but about to run into a zombie!!]TRAVIS!!
 143) LEE
-[pickup2] [seeing Travis backing up in terror, but about to run into a zombie!!] {fearC} KID, STOP!!
+[pickup2] [seeing Travis backing up in terror, but about to run into a zombie!!] {fearC} NHÓC, DỪNG LẠI!!
 144) TRAVIS
-[pickup2][Totally losing it and getting SICK, after seeing his teacher's unconcious body  and it's hacked off leg!] {fearB} Oh, God... No...
+[pickup2][Totally losing it and getting SICK, after seeing his teacher's unconcious body  and it's hacked off leg!] {fearB} Ôi, Chúa ơi... Không...
 145) BEN
-[pickup2] [seeing his friend attacked by a zombie!!] {fearD} NOOOO!!!!
+[pickup2] [seeing his friend attacked by a zombie!!] {fearD} KHÔNG!!!!
 146) MARK
-[pickup2][coming over to see David's unconcious body after Lee has chopped his leg off] {fearA} Shit.  Is he...?
+[pickup2][coming over to see David's unconcious body after Lee has chopped his leg off] {fearA} Chết tiệt.  Cậu ta đã...?
 147) LEE
-[pickup2][confiring that David is NOT dead after the leg chop - A bit out of breath] {sadB} He passed out.
+[pickup2][confiring that David is NOT dead after the leg chop - A bit out of breath] {sadB} Cậu ấy đã ngất thôi.
 148) LEE
-[pickup2] [seeing Travis backing up in terror, but about to run into a zombie!!] {surpriseB} DON'T MOVE!!
+[pickup2] [seeing Travis backing up in terror, but about to run into a zombie!!] {surpriseB} ĐỪNG DI CHUYỂN!!
 149) LEE
-[pickup2] [seeing Travis backing up in terror, but about to run into a zombie!!] {fearC} BEHIND YOU!!
+[pickup2] [seeing Travis backing up in terror, but about to run into a zombie!!] {fearC} ĐẰNG SAU CẬU!!
 150) LEE
-[pickup2][rushed!! trying to get Ben to flee the oncoming zombies!] {fearB} Come on, come on!  We gotta move!!
+[pickup2][rushed!! trying to get Ben to flee the oncoming zombies!] {fearB} Đi nào, đi nào!  Chúng ta cần di chuyển!!
 151) 
-We're not gonna hurt you.
+Bọn tôi sẽ không làm hại cậu đâu.
 152) 
-Who raided your camp?
+Ai đã tấn công trại mấy cậu?
 153) 
-What happened?!
+Chuyện gì đã xảy ra?!
 154) 
-Kenny won't abandon us.
+Kenny sẽ không bỏ rơi chúng ta đâu.
 155) MARK
-[pickup2][wondering if Kenny will leave the group or not] {thinkingA}{body-crouchRifle} I guess we'll see.
+[pickup2][wondering if Kenny will leave the group or not] {thinkingA}{body-crouchRifle} Tôi đoán rằng chúng ta sẽ biết.
 156) 
-He's got a family to look out for.
+Anh ấy có một gia đình phải chăm sóc.
 157) MARK
-[pickup2] {thinkingB}{body-crouchRifle} And they're safest in a big group. {sadA} Going out on his own will get them ALL killed.
+[pickup2] {thinkingB}{body-crouchRifle} Và bọn họ sẽ an toàn nhất trong một nhóm lớn. {sadA} Đi một mình anh ấy sẽ khiến TẤT CẢ bọn họ bị giết.
 158) 
-He's better off without us.
+Anh ấy sẽ tốt hơn nếu không có chúng ta.
 159) MARK
-[pickup2][If Kenny leaves, that means-] {sadA}{body-crouchRifle} And one fewer gun hand. {thinkingA} One way or the other it's a bad situation.
+[pickup2][If Kenny leaves, that means-] {sadA}{body-crouchRifle} Và bớt một khẩu súng. {thinkingA} Bằng cách này hay cách khác đó là một tình huống xấu.
 160) MARK
-[pickup2][after saying "You know Kenny's been talking about taking off if he can get that RV running." ] {thinkingA}{body-crouchRifle} I think we're stronger as a group. {sadA} I just don't know what'll happen if we start to break apart.
+[pickup2][after saying "You know Kenny's been talking about taking off if he can get that RV running." ] {thinkingA}{body-crouchRifle} Tôi nghĩ chúng ta sẽ khoẻ mạnh hơn nếu là một nhóm. {sadA} Tôi chỉ không biết chuyện gì sẽ xảy ra nêus chúng ta bắt đầu không hoà đồng.
 161) LEE
-[pickup2]["You know Kenny's been talking about taking off if he can get that RV running."] {normalD}{body-crouchAxe} Kenny won't abandon us. {normalD} He's a good man.
+[pickup2]["You know Kenny's been talking about taking off if he can get that RV running."] {normalD}{body-crouchAxe} Kenny sẽ không bỏ rơi chúng ta. {normalD} Anh ấy là một người tốt.
 162) LEE
-[pickup2]["You know Kenny's been talking about taking off if he can get that RV running." ] {sadA}{body-crouchAxe} He's got a wife and son to look out for.
+[pickup2]["You know Kenny's been talking about taking off if he can get that RV running." ] {sadA}{body-crouchAxe} Anh ấy có một vợ và con trai để chăm sóc.
 163) LEE
 [pickup2]["You know Kenny's been talking about taking off if he can get that RV running.
-" ] {thinkingA}{body-crouchAxe} Maybe he'll be better off without us. {disgustA} And we'll have three fewer mouths to feed.
+" ] {thinkingA}{body-crouchAxe} Có lẽ anh ấy sẽ tốt hơn nếu không có chúng ta. {disgustA} Và chúng ta sẽ có ít miệng để cho ăn hơn.
 164) LEE
-[pickup2][still weary from hunger - Mark is aiming hie rifle at a bird in a tree] {thinkingA}{body-crouchAxe} Take the shot! {disgustA} We need anything we can get at this point.
+[pickup2][still weary from hunger - Mark is aiming hie rifle at a bird in a tree] {thinkingA}{body-crouchAxe} Bắn đi! {disgustA} Chúng ta cần bất kì thứ gì chúng ta có được vào thời điêm này.
 167) MARK
-[pickup2][still weary from hunger - Mark is aiming his rifle at a bird in a tree] {painA}{body-crouchRifle} Yeah, I know... I'm just..  really frickin' hungry.
+[pickup2][still weary from hunger - Mark is aiming his rifle at a bird in a tree] {painA}{body-crouchRifle} Ừ, tôi biết... tôi chỉ..  rất rất là đói.
 168) LEE
-[pickup2][still weary from hunger - Mark is aiming his rifle at a bird in a tree] {angryA}{body-crouchAxe} Don't. Gunshot'll bring walkers. {thinkingA} One bird's not worth it.
+[pickup2][still weary from hunger - Mark is aiming his rifle at a bird in a tree] {angryA}{body-crouchAxe} Đừng. Phát đạn sẽ đưa bọn walkers tới. {thinkingA} Một con chim không đáng đâu.
 171) LEE
-[pickup2][ Lee is reminded that Larry punched him in the face and isnt too apreciative of that] {thinkingA}{body-crouchAxe} Knocked me flat.
+[pickup2][ Lee is reminded that Larry punched him in the face and isnt too apreciative of that] {thinkingA}{body-crouchAxe} Hạ tôi thằng.
 172) MARK
-[pickup2][Alt - ][talking about how menacing Larry is.] {thinkingA} I know I wouldn't want to be stuck in a room with him!
+[pickup2][Alt - ][talking about how menacing Larry is.] {thinkingA} Tôi biết tôi không muốn mắc kẹt với ông ấy trong một cái phòng!
 173) MARK
-[pickup2][talking about how menacing Larry is. ] {thinkingB}{body-crouchRifle} And I know Lilly thinks he's getting weaker, {disgustA} but the guy's all muscle!
+[pickup2][talking about how menacing Larry is. ] {thinkingB}{body-crouchRifle} Và tôi biết Lilly nghĩ rằng ông ấy ngày càng yếu hơn, {disgustA} nhưng ông ấy người đầy cơ bắp!
 174) KENNY
-[pickup2][a bit out of breath from running to the scene in panic]Lee! You guys okay?
+[pickup2][a bit out of breath from running to the scene in panic]Lee! Mọi người ổn không?
 175) BEN
-[pickup2][scared & confused... trust the strangers or risk getting slaughtered!] {fearD} I don't know, man...
+[pickup2][scared & confused... trust the strangers or risk getting slaughtered!] {fearD} Tôi không biết nữa...
 176) LEE
-[pickup2][having just heard that theye may be other survivors nearby... violent ones] {fearB} Who raided your camp?!
+[pickup2][having just heard that theye may be other survivors nearby... violent ones] {fearB} Ai đã tấn công trại mấy người?!
 177) LEE
-[pickup2][just coming on the scene seeing a man trapped in a bear trap!] {fearC} What the hell happened?
+[pickup2][just coming on the scene seeing a man trapped in a bear trap!] {fearC} Chuyện đéo gì đã xảy ra?
 178) KENNY
-[pickup2][forceful! trying to calm down the scared teen and the guy screaming in the beartrap] {angryA} Kid, chill out! {fearB} We'll try to help you, {disgustA} but you've got to shut the fuck up!
+[pickup2][forceful! trying to calm down the scared teen and the guy screaming in the beartrap] {angryA} Nhóc, từ từ nào! {fearB} Chúng tôi sẽ giúp cậu, {disgustA} nhưng cậu phải câm mẹ cái mồm vào!
 179) TRAVIS
-[pickup2][Scared!] {thinkingA} Don't listen to them, Ben! {fearC} Please, just let us go!  We're not a threat to you!!
+[pickup2][Scared!] {thinkingA} Đừng nghe lời họ, Ben! {fearC} Làm ơn, hãy để bọn tôi đi!  Bọn tôi không phải là một mối đe doạ tới anh!!
 180) TRAVIS
-[pickup2] {fearC} Please!  We won't bother you, I swear!
+[pickup2] {fearC} Làm ơn!  Bọn tôi sẽ không làm phiền anh, tôi hứa!
 181) BEN
-[pickup2][scared- "Who raided your camp?" ] {fearC} I- I don't know! {fearD} Guys with guns!!
+[pickup2][scared- "Who raided your camp?" ] {fearC} Tôi- tôi không biết nữa! {fearD} Mấy người với súng with guns!!
 182) BEN
-[pickup2][scared, explaining why they are in the woods and what happened] {fearC} Mr. Parker said we should stay off the streets! {surprisedA} We were trying to be careful but-
+[pickup2][scared, explaining why they are in the woods and what happened] {fearC} Thầy Parker nói rằng bọn tôi nên tránh khỏi những đường chính! {surprisedA} Bọn tôi cố cẩn thận nhưng-
 183) DAVID
 [pickup2][In extreme pain - through the teeth] Rrrrrrrgghhh!!
 184) MARK
-[pickup2][urgent!  Inspecting the beartrap] {fearA} Lee, this trap's been altered.  It needs some kind of custom tool to open it.
+[pickup2][urgent!  Inspecting the beartrap] {fearA} Lee, cái bẫy đã được điều chỉnh.  Nó cần cái dụng cụ đặc biệt để mở nó.
 185) MARK
-[pickup2][urgent!  Inspecting the beartrap] {fearA} Lee, this trap's been altered.  It can't be opened until after it's completely shut.
+[pickup2][urgent!  Inspecting the beartrap] {fearA} Lee, cái bẫy đã được điều chỉnh.  Nó không thể mở được cho tới sau khi nó bị đóng.
 186) MARK
-[pickup2][seeing the desperate situation of two clueless kids and a man caught in a bear trap] {disgustB} Lee, this is fucked up.  We've gotta help 'em.
+[pickup2][seeing the desperate situation of two clueless kids and a man caught in a bear trap] {disgustB} Lee, cái này thật chết tiệt.  Chúng ta cần giúp họ help 'em.
 187) MARK
-[pickup2][urgent!  Inspecting the beartrap] {fearA} Lee, this trap's been altered.  There's no release latch.
+[pickup2][urgent!  Inspecting the beartrap] {fearA} Lee, cái bẫy đã được điều chỉnh.  Không có cái chốt mở khoá.
 188) LEE
-[pickup2][on the spot, deciding what to do about the man in the bear trap] {fearB} This isn't our problem.  We should go.
+[pickup2][on the spot, deciding what to do about the man in the bear trap] {fearB} Đây không phải việc của chúng ta.  Chúng ta nên đi.
 189) LEE
-[pickup2][on the spot, deciding what to do about the man in the bear trap] {fearB} We've gotta get him out of there.
+[pickup2][on the spot, deciding what to do about the man in the bear trap] {fearB} Chúng ta cần phải kéo anh ta ra khỏi đó.
 190) BEN
-[pickup2][panicing] {disgustA} Bitten? {fearB} No! I swear!
+[pickup2][panicing] {disgustA} Bitten? {fearB} Không! Tôi thề!
 191) LEE
-[pickup2] [trying to get as much information as possible before making a decision about the man in the bear trap] {fearA} Was he bitten?
+[pickup2] [trying to get as much information as possible before making a decision about the man in the bear trap] {fearA} Anh ta có bị cắn không?
 192) BEN
-[pickup2][panicing as Lee tries to leave them] {fearD} No, no please!  At least just LOOK at the trap! {sadD} Just look at it and maybe you can TELL us how to get it off!
+[pickup2][panicing as Lee tries to leave them] {fearD} Không, không làm ơn!  Ít nhất chỉ cần KIỂM TRA cái bẫy! {sadD} Chỉ cần kiểm tra nó và có thể anh sẽ NÓI với chúng tôi cách gỡ nó ra!
 193) DAVID
-[pickup2][in PAIN, Lee & Crew have agreed to help and are starting to kneel down.] Please, help me!
+[pickup2][in PAIN, Lee & Crew have agreed to help and are starting to kneel down.] Làm ơn, giúp tôi!
 194) DAVID
-[pickup2][in lots of pain] Oh God, thank you!
+[pickup2][in lots of pain] Ôi trời, cảm ơn anh!
 195) KENNY
 [pickup2][after Lee decided they should help the guy in the bear trap] {disgustA} Fine, {fearB} but you've gotta hurry!
 196) MARK
