@@ -420,140 +420,140 @@ Anh ấy sẽ tốt hơn nếu không có chúng ta.
 194) DAVID
 [pickup2][in lots of pain] Ôi trời, cảm ơn anh!
 195) KENNY
-[pickup2][after Lee decided they should help the guy in the bear trap] {disgustA} Fine, {fearB} but you've gotta hurry!
+[pickup2][after Lee decided they should help the guy in the bear trap] {disgustA} Được rồi, {fearB} nhưng anh phải nhanh lên gotta hurry!
 196) MARK
-[pickup2][Mark responds to Lee's inability to make a quick decision in an Urgent situation] {fearB} Lee, come on... what is there to think about? {angryA} We gotta try!
+[pickup2][Mark responds to Lee's inability to make a quick decision in an Urgent situation] {fearB} Lee, thôi nào... có cái gì để nghĩ? {angryA} Chúng ta cần phải thử!
 197) MARK
-[pickup2][directing the boys away from the David so Lee can try to free him] {disgustB} Come on.. .over here.
+[pickup2][directing the boys away from the David so Lee can try to free him] {disgustB} Thôi nào.. .đằng này.
 198) DAVID
-[pickup2][Screaming in pain as Lee tries to remove the trap] AARRGGGGGGGHHH!!!!!  STOP!  STOP!! STOP!!!
+[pickup2][Screaming in pain as Lee tries to remove the trap] AARRGGGGGGGHHH!!!!!  DỪNG!  DỪNG!! DỪNG!!!
 199) DAVID
-[pickup2][Screaming in pain as Lee tries to remove the trap] Aaahhhggg!!!   No no no!!!  Stop!
+[pickup2][Screaming in pain as Lee tries to remove the trap] Aaahhhggg!!!   Không không không!!!  Dừng!
 200) LEE
-[pickup2][frustrated that the trap wont open] {fearB} Fuck!
+[pickup2][frustrated that the trap wont open] {fearB} Địt!
 201) MARK
-[pickup2][making a last effort call to save the man in the bear trap] Dammit, Lee!  Just cut off his fucking leg!!
+[pickup2][making a last effort call to save the man in the bear trap] Chết tiệt, Lee!  Cứ cắt chân anh ta đi!!
 202) TRAVIS
-[pickup2][panicing at the thought of leaving their teacher to the zombies]We can't leave him!  We can't!
+[pickup2][panicing at the thought of leaving their teacher to the zombies]Chúng ta không thể bỏ thầy ấy lại!  Chúng ta không thể!
 203) KENNY
-[pickup2][getting frustrated with Lee not acting quickly enough] Fuck, I'm just wasting ammo now! We gotta go!
+[pickup2][getting frustrated with Lee not acting quickly enough] Địt, tôi giờ chỉ đang phí đạn! Chúng ta cần đi!
 204) KENNY
-[pickup2] Lee, I can't keep 'em back forever!
+[pickup2] Lee, Tôi không thể giữ bọn nó lại mãi được!
 205) MARK
-[pickup2][urging Lee to hurry up and do anything!] Lee, do SOMETHING!
+[pickup2][urging Lee to hurry up and do anything!] Lee, làm GÌ ĐI!
 206) TRAVIS
-[pickup2][panicing!!]Try to cut the chain!
+[pickup2][panicing!!]Thử cắt cái xích đi!
 207) TRAVIS
-[pickup2][seeing the zombies approach] Oh, God!  There's so many of them!
+[pickup2][seeing the zombies approach] Ôi, Trời!  Có quá nhiều bọn nó!
 208) DAVID
-[pickup2][in extreme pain - talking to lee who is right over him]Just get me out!  Please!!
+[pickup2][in extreme pain - talking to lee who is right over him]Cứ giữ tôi ra đi!  Làm ơn!!
 209) LEE
-[pickup2][deciding to chop off the leg] {fearB} I'm gonna have to cut you out!!
+[pickup2][deciding to chop off the leg] {fearB} Tôi sẽ cắt anh ra khỏi đó!!
 210) DAVID
-[pickup2][horrified at the thought of getting his leg cut off!!] {painC} No no no!!! Try the trap again!!  Anything, please!!
+[pickup2][horrified at the thought of getting his leg cut off!!] {painC} Không không không!!! Thử lại cái bẫy đi!!  Bất kì thứ gì, làm ơn!!
 211) DAVID
 [pickup2][horrified at the thought of getting his leg cut off!!] {painA} Please... get me out of this!!
 212) DAVID
-[pickup2][horrified at the thought of getting his leg cut off!!] {painA} Hurry!!  Aaarrgghhh!!
+[pickup2][horrified at the thought of getting his leg cut off!!] {painA} Làm ơn!!  Aaarrgghhh!!
 213) DAVID
-[pickup2][horrified at the thought of getting his leg cut off!!] {painA} Come on!!  Try something!
+[pickup2][horrified at the thought of getting his leg cut off!!] {painA} Đi mà!!  Thử thứ gì đi!
 214) DAVID
-[pickup2][horrified at the thought of getting his leg cut off!!] {painA} There's gotta be another way...
+[pickup2][horrified at the thought of getting his leg cut off!!] {painA} Phải có cách khác...
 215) DAVID
-[pickup2][horrified at the thought of getting his leg cut off!!] {painA} I want my leg, I want my leg!!
+[pickup2][horrified at the thought of getting his leg cut off!!] {painA} Tôi muốn chân của tôi, tôi muốn chân của tôi!!
 216) DAVID
-[pickup2][horrified at the thought of getting his leg cut off!!] {painA} Jesus, I need to walk!!!
+[pickup2][horrified at the thought of getting his leg cut off!!] {painA} Chúa ơi, tôi cần phải đi!!!
 217) DAVID
-[pickup2][horrified at the thought of getting his leg cut off!!] {painA} Please please please...
+[pickup2][horrified at the thought of getting his leg cut off!!] {painA} Làm ơn làm ơn làm ơn...
 218) DAVID
-[pickup2][horrified at the thought of getting his leg cut off!!] {painA} Come on, get it off!!!
-219) LEE
-[pickup2][deciding to chop off the leg] {sadC} I'm sorry, there's no other choice!
+[pickup2][horrified at the thought of getting his leg cut off!!] {painA} Thôi nào, bỏ nó đi!!!
+219) LEE 
+[pickup2][deciding to chop off the leg] {sadC} Tôi xin lỗi, không có lựa chọn!
 220) MARK
-[pickup2][talking about how menacing Larry is.] {thinkingB} And didn't he punch you in the face one time?
+[pickup2][talking about how menacing Larry is.] {thinkingB} Và không phải ông ấy đã đấm mặt anh một lần à?
 221) MARK
-[pickup2][talking about how menacing Larry is.] {disgustA} He's a walking piledriver!
+[pickup2][talking about how menacing Larry is.] {disgustA} Ông ấy là một người đóng cọc đi bộ!
 222) 
-Don't risk the noise.
+Đừng mạo hiểm với tiếng ồn.
 223) 
-Can you make that shot?
+Anh có thể bắn được không?
 224) 
-Shoot it!
+Bắn nó đi!
 225) 
-Was he bitten?
+Anh ấy có bị cắn không?
 226) 
 We'll try!
 227) 
-Not our problem.
+Không phải việc của chúng ta.
 228) 
-Look At
+Nhìn tới
 231) 
-Look At
+Nhìn tới
 237) 
-Look At
+Nhìn tới
 233) DAVID
-[pickup2] OH FUCK OH GOD HURRY!
+[pickup2] ÔI ĐỊT ÔI CHÚA NHANH LÊN!
 234) LEE
-[pickup2][super duper urgent] {thinkingB} Maybe we can smash it!
+[pickup2][super duper urgent] {thinkingB} Có thể chúng ta phá nó!
 235) LEE
 [pickup2][exertion] {fearB} RAH!
 236) DAVID
 [pickup2] AHHHH!!!
 238) DAVID
-[pickup2] WE DON'T KNOW!! AHHH! GODDD!
+[pickup2] BỌN TÔI KHÔNG BIẾT!! AHHH! CHÚA ƠI!
 239) LEE
-[pickup2] {fearB} How the fuck do you get these things open?!
+[pickup2] {fearB} Thế đoé nào có thể mở những thứ đóthe fuck do you get these things open?!
 240) BEN
-[pickup2] {fearC} It's impossible! It locks or something! HURRY!
+[pickup2] {fearC} Nó bất khả thi! Nó khoá hay thứ gì rồi! NHANH LÊN!
 241) LEE
-[pickup2] [panicked] {fearB} It's not gonna open!
+[pickup2] [panicked] {fearB} Nó sẽ không mở đâu!
 242) LEE
-[pickup2] [pickup2] {fearB} Maybe I can pry it open with this branch.
+[pickup2] [pickup2] {fearB} Có thể tôi có thể cạy nó mở với nhánh này.
 243) LEE
-[pickup2] {disgustB} God dammit!!
+[pickup2] {disgustB} Chết tiệt!!
 244) MARK
-[pickup2] {fearA} This one doesn't have a release!
+[pickup2] {fearA} Cái này không có một cái chốt!
 245) MARK
-[pickup2] [urgent. a big wtf moment] {fearA} Lee, this trap's been altered. These should be easy to open.
+[pickup2] [urgent. a big wtf moment] {fearA} Lee, cái bẫy đã bị thay đổi. Mấy cái này phải dễ mở chứ.
 246) DAVID
 [pickup2 ][Weak screams to passing out]AARRGGgguuuhhh.....[passes out]
 247) DAVID
 [extreme pain -= Getting Leg Chopped off] ARRGGGGHHH!!!
 248) 
-Stick
+Que
 249) 
-Rock
+Đá
 251) TRAVIS
 [pickup3][puking]
 252) BEN
-[pickup3][ambient panicking]Please hurry!
+[pickup3][ambient panicking]Làm ơn nhanh lên!
 253) BEN
-[pickup3][ambient panicking]You have to get him out...you HAVE to!!
+[pickup3][ambient panicking]Anh phải đưa anh ta ra...anh PHẢI!!
 254) BEN
-[pickup3][ambient panicking]Oh God, oh God, oh God...
+[pickup3][ambient panicking]Ôi trời, ôi trời, ôi trời...
 255) BEN
-[pickup3][ambient panicking]So much blood...
+[pickup3][ambient panicking]Quá nhiều máu...
 256) BEN
-[pickup3][ambient panicking]Do you think you can get it open?
+[pickup3][ambient panicking]Anh nghĩ anh có thể mở nó không?
 257) BEN
-[pickup3][ambient panicking]Why is this happening to us?
+[pickup3][ambient panicking]Tại sao chuyện này đã xảy ra với bọn tôi?
 258) BEN
-[pickup3][ambient panicking]There's got to be something we can do!
+[pickup3][ambient panicking]Phải có thứ gì bọn tôi có thể làm!
 259) BEN
-[pickup3][ambient panicking]Oh, Jesus, those things are going to be here soon!
+[pickup3][ambient panicking]Ôi, chúa Jesus, những thứ đó sẽ tới đây sớm thôi
 260) BEN
-[pickup3][ambient panicking]Is he... is he gonna make it?
+[pickup3][ambient panicking]Anh ấy... anh ấy có qua khỏi không?
 261) BEN
-[pickup3][ambient panicking]This is bad, this is so bad.
+[pickup3][ambient panicking]Chuyện này thật tệ, chuyện này thật tệ.
 262) BEN
-[pickup3][ambient panicking]There has to be a way out of this...
+[pickup3][ambient panicking]Phải có cách rời khỏi thứ này...
 263) BEN
-[pickup3][ambient panicking]Oh please! we can't just leave him like this!
+[pickup3][ambient panicking]Ôi làm ơn! chúng ta không thể bỏ lại anh ta như thế này được!
 264) BEN
-[pickup3][ambient panicking]He's lost so much blood already...please hurry up!
+[pickup3][ambient panicking]Anh ấy đã mất quá nhiều máu rồi...làm ơn hãy nhanh lên!
 265) TRAVIS
 [pickup3][first getting attacked by a zombie]AHH!!!!
 266) TRAVIS
-[pickup3][being eaten by a zombie1]HEELLP---AHHHH--ahhhgggrkkk!!
+[pickup3][being eaten by a zombie1]CỨU---AHHHH--ahhhgggrkkk!!
 267) TRAVIS
 [pickup3][being eaten by a zombie - Dying off]arrrrggghghhh...
