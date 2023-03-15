@@ -15,73 +15,73 @@
 8) KENNY
 {normalA}Hmm, tôi có nên hỏi Kat {normalB}kiểm tra anh ấy khi cô ấy xong con bò không?
 9) KENNY
-{normalB}Có thể, có thể không. Once we get our food, we can do a better job of defending it.
+{normalB}Có thể, có thể không. Sau khi chúng ta có được đồ ăn của ta, ta có thể làm việc tốt hơn bảo vệ nó.
 10) KENNY
-{thinkingA}Instead of just waitin' around at the motel for somebody to attack us or eat us.
+{thinkingA}Thay vì đợi quanh nhà nghỉ để ai đó tấn công hoặc ăn chúng ta.
 11) LEE
-{thinkingA}This place isn't safe.
+{thinkingA}Nơi này không an toàn.
 12) LEE
-{happyA}I'm glad you decided to come out with us.
+{happyA}Tôi rất vui vì anh đã quyết định đi với chúng tôi.
 13) KENNY
-{normalB}Yeah, well, we need the food.  {normalA}Helping this cow better be worth it.
+{normalB}Ừ, thì, chúng ta cần đồ ăn mà.  {normalA}Giúp con bò này nên đáng.
 14) KENNY
-[worried] {angryA}I noticed there weren't too many walkers around on the way up.
+[worried] {angryA}Tôi đã để ý là không quá nhiều walker trên đường tới đây.
 15) LEE
-{normalD}That's good.
+{normalD}Thế là tốt.
 16) KENNY
-{normalA}Is it? I got a bad feeling.
+{normalA}Có phải không? Tôi có một cảm giác xấu.
 17) KENNY
-{angryA}Whether it's from the walkers or the bandits, there's a shitstorm comin'.
+{angryA}Dù nó đến từ bọn walker hay bọn cướp hay không, có một chuyện đéo hay sẽ xảy ra.
 18) LEE
-{normalC}Something wrong with that?
+{normalC}Có chuyện gì sai về nó à?
 19) KENNY
-{angryA}If we ain't seeing 'em, that means either there's a shitload of 'em waiting somewhere...
+{angryA}Nếu chúng ta không thấy họ, có nghĩa là có một đống đang chờ ở đâu đó...
 20) KENNY
-...or else somebody with a lot more firepower than us is killin' 'em off.
+...nếu không ai đó với nhiều hoả lực hơn ta sẽ giết chết họ.
 21) KENNY
-{normalA}Either way, I gotta bad feeling a shitstorm's brewin'.
+{normalA}Dù gì , tôi vẫn có cảm giác xấu về một chuyện xấu đang chờ.
 22) LEE
-{normalD}The walkers don't worry me as much as the bandits.
+{normalD}Bọn walkers không làm tôi lo bằng bọn cướp.
 23) KENNY
-{normalB}That's what I'm sayin'.
+{normalB}Đó là điều tôi đang nóiThat's what I'm sayin'.
 24) KENNY
-{fearA}Somethin's coming, Lee. There's gonna be a war.
+{fearA}Có gì đang tới, Lee. Nó có thể là một cuộc chiến.
 25) KENNY
-{sadA}On the way over here, I was gettin' dizzy, hands shakin', cold sweats. {normalA}Thought I was gonna pass out.
+{sadA}Trên đường tới đây, tôi đã cảm thấy chóng mặt,On the way over here, I was gettin' dizzy, hands shakin', cold sweats. {normalA}Thought I was gonna pass out.
 26) LEE
-{normalD}They've got food here.
+{normalD}Họ có đồ ăn tại đây.
 27) KENNY
-{angryA}I hope they feed us, Lee. Soon.
+{angryA}Tôi mong họ cho chúng ta ăn, Lee. Sớm thôi.
 28) KENNY
-{thinkingA}Yeah, but I'm not just talking about one meal, ya know?
+{thinkingA}Ừ, nhưng tôi không chỉ nói về một bữa ăn, anh biết không?
 29) LEE
-{normalC}How you holding up?
+{normalC}Anh thế nào rồi?
 75) 
-How you holding up?
+Anh thế nào rồi?
 30) KENNY
-[quietly] {angryA}If they got a supply of food somewhere, {normalA}we've gotta know where it is and how to get it.
+[quietly] {angryA}Nếu họ có nguồn thức ăn tại đâu, {normalA}chúng ta cần biết nó ở đâu và lấy như thế nào.
 31) KENNY
-[quietly] {sadA}In case something happens.
+[quietly] {sadA}Phòng trường hợp chuyện gì xảy ra.
 32) KENNY
-{normalB}Katjaa knows what's up, talk to her and she'll show you where I'm talking about.
+{normalB}Katjaa biết có chuyện gì, nói với cô ấy và cô ấy sẽ cho anh biết tôi đang nói về chuyện gì.
 33) KENNY
-{angryA}Find out what's in that room.
+{angryA}Tìm hiểu trong phòng đó có gì.
 34) LEE
-[quietly] {thinkingA}I still don't like it.
+[quietly] {thinkingA}Tôi vẫn không thích nó.
 35) KENNY
-{sadA}Come on, Lee, it's not just us. We've gotta think of the kids.
+{sadA}Thôi nào, Lee, không phải mỗi chúng ta. Chúng ta cần nghĩ tới bọn trẻ.
 36) KENNY
-[quietly] {normalB}You don't have to like it, just do it.
+[quietly] {normalB}Anh không phải thích nó, chỉ cần làm nó thôi.
 37) LEE
-[quietly] {thinkingA}You're right.
+[quietly] {thinkingA}Anh đúng rồi.
 38) LEE
-[quietly] {normalB}It's probably nothing. {normalC}What could they be hiding at a dairy farm?
+[quietly] {normalB}Chắc là không có gì đâu. {normalC}Bọn họ có thể giấu gì tại một cái nông trại?
 39) KENNY
-[quietly] {thinkingA}Food!
+[quietly] {thinkingA}ĐỒ ĂN!
 40) LEE
-[quietly] {angryA}These folks deserve their privacy.
+[quietly] {angryA}Những người dân này cần sự riêng tư của họThese folks deserve their privacy.
 41) KENNY
-[quietly] {normalB}We just want to look, Lee. We're not stealing anything.
+[quietly] {normalB}Chúng ta chỉ muốn nhìn thử thôi, Lee. Chúng ta không ăn cắp gì đâu.
 42) LEE
 [quietly] {angryA}We can't piss these people off, Kenny. We need them to trust us.
 43) KENNY
