@@ -1,21 +1,21 @@
 1) KENNY
-{sadA}Hey, {normalB}they said Mark got attacked?
+{sadA}Này, {normalB}Họ đã nói rằng Mark đã bị tấn công?
 2) LEE
-{normalD}Don't worry, he's fine.
+{normalD}Đừng lo, anh ấy ổn thôi.
 3) KENNY
-{normalB}He'd better be. We need him.
+{normalB}Anh ấy phải vậy. Chúng ta cần anh ấy.
 4) LEE
-{angryA}Bandits attacked us.
+{angryA}Bọn cướp đã tần công chúng tôi.
 5) KENNY
-{angryA}God dammit. {thinkingA}Didn't think they'd come all the way out here.
+{angryA}Chết tiệt. {thinkingA}Đã không nghĩ bọn nó sẽ tới tận đây.
 6) KENNY
-{normalA}Least he didn't get bit, I guess.
+{normalA}Ít nhất anh ấy không bị cắn, tôi đoán vậy.
 7) LEE
-{thinkingA}I haven't seen him since.
+{thinkingA}Tôi chưa thấy anh ấy từ lúc đó tới giờ haven't seen him since.
 8) KENNY
-{normalA}Hmm, should I ask Kat {normalB}to look in on him when she's done with the cow?
+{normalA}Hmm, tôi có nên hỏi Kat {normalB}kiểm tra anh ấy khi cô ấy xong con bò không?
 9) KENNY
-{normalB}Maybe, maybe not. Once we get our food, we can do a better job of defending it.
+{normalB}Có thể, có thể không. Once we get our food, we can do a better job of defending it.
 10) KENNY
 {thinkingA}Instead of just waitin' around at the motel for somebody to attack us or eat us.
 11) LEE
