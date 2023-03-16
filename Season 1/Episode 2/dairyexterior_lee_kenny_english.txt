@@ -83,67 +83,67 @@ Anh thế nào rồi?
 41) KENNY
 [quietly] {normalB}Chúng ta chỉ muốn nhìn thử thôi, Lee. Chúng ta không ăn cắp gì đâu.
 42) LEE
-[quietly] {angryA}We can't piss these people off, Kenny. We need them to trust us.
+[quietly] {angryA}Ta không thể khiến những người này bực mình, Kenny. Ta cần họ phải tin chúng ta.
 43) KENNY
-[quietly] {normalA}That goes both ways, Lee.
+[quietly] {normalA}Nó đi hai hướng, Lee.
 44) LEE
-[quietly] {angryA}You want ME to take a look?
+[quietly] {angryA}Anh muốn TÔI kiểm tra à?
 45) KENNY
-[quietly] {normalB}Exactly.
+[quietly] {normalB}Đúng rồi.
 46) LEE
-{normalA}Bye.
+{normalA}Tạm biệt.
 47) KENNY
-{happyA}Hey, Lee. {normalA}Nice place, huh?
+{happyA}Này, Lee. {normalA}Chỗ đẹp, huh?
 48) KENNY
-{normalA}So, uh... what's up?
+{normalA}Thì, uh... như thế nào rồi?
 49) KENNY
-[after being ignored]{sadA}Well... just be careful, I guess.
+[after being ignored]{sadA}Thì... chỉ cần cần thận thôi, tôi đoán vậy.
 50) LEE
-{normalA}Hi, Kenny.
+{normalA}Chào, Kenny.
 51) LEE
-[greeting]{normalB}Hey...
+[greeting]{normalB}Chào...
 86) LEE
-[greeting]{normalB}Hey...
+[greeting]{normalB}Chào...
 52) KENNY
 [noticing Lee's silence]{angryA}You sense it too, don't ya?   {fearA}Man, I've got a feeling something bad is on the horizon, Lee.
 53) KENNY
 [responding to Lee's silence; hushed][quietly]  {angryA}Well don't look at me!  {thinkingA}I'm no good at breaking and entering.  But somebody's gotta do it!
 54) KENNY
-{normalB}What's up, Lee?
+{normalB}Sao rồi, Lee?
 55) KENNY
-[looks at Danny] {normalB}Mind if I talk to Lee for a minute?
+[looks at Danny] {normalB}Phiền nếu tôi nói chuyện với Lee trong một phút được không?
 56) KENNY
-[looks at Danny] {normalB}Gimme a sec...
+[looks at Danny] {normalB}Chờ tôi một giây...
 57) DANNY
-{normalB}Yeah, go ahead.
+{normalB}Yeah, cứ tiến hành đi.
 58) LEE
-[pickup2] I guess Lilly isn't too thrilled about being here.
+[pickup2] Tôi đoán Lilly không quá vui về việc ở đây.
 59) KENNY
-[pickup2] I could give two shits about what Lilly wants. Duck and Katjaa need food, and I'm not about to sit around that Motor Inn and watch them go hungry.
+[pickup2] Tôi có thể quan tâm cứt những gì Lilly muốn. Duck và Katjaa cần đồ ăn, và tôi không ngồi quanh Motor Inn đó và xem họ đói.
 60) LEE
 [pickup2] If everything works out, maybe he and Katjaa can have an easier life here.
 61) KENNY
-[pickup2][bitter]Yeah, right.
+[pickup2][bitter]Ừ, đúng rồi.
 62) LEE
-[pickup2] That's in the past, Kenny. A lot's happened since then.
+[pickup2] Đó là trong quá khứ rồi, Kenny. Có nhiều chuyện xảy ra vào lúc đó.
 63) KENNY
-[pickup2] [bitter]That's funny, you didn't seem too worried about Duck when Larry wanted to throw him out into the street back in Macon.
+[pickup2] [bitter]Nó thật buồn cười, anh không có vẻ lo lắng về Duck khi Larry muốn ném anh ấy ra đường tại Macon.
 64) KENNY
-[pickup2] [bitter] That's funny, considering you didn't seem too worried about Duck back at Hershel's Farm.
+[pickup2] [bitter] Nó thật buồn cười, anh không quá lo lắng về Duck khi ở nông trại của Hershel.
 65) KENNY
 [pickup2] I hope you're right. Duck and Clementine deserve a better life than starving to death at some crappy motel.
 66) LEE
-[pickup2] I'm gonna go have a look around.
+[pickup2] Tôi sẽ nhìn xung quanh.
 67) KENNY
-[pickup2] I'll be here if you need me. Let me know if you find anything.
+[pickup2] Tôi sẽ ở đây nếu anh cần tôi. Cho tôi biết nếu anh tìm thấy thứ gì.
 68) KENNY
-[pickup2]Well, it wasn't easy. Duck didn't look so good on the walk over to this place.
+[pickup2]Thì, nó không hề dễ. Duck nhìn không tốt lắm trên đường tới chỗ này.
 69) LEE
-[pickup2] Did Duck and Katjaa get here okay?
+[pickup2] Duck và Katjaa tới đây ổn không?
 70) LEE
 [pickup2]Kenny?
 71) LEE
-[pickup2] I still can't get that lock off the door.
+[pickup2] Tôi vẫn chưa thể bỏ cái khoá đó khỏi cửa.
 72) KENNY
 [pickup2][reminder] Hmmm.  You probably just need a screwdriver or something.
 73) 
