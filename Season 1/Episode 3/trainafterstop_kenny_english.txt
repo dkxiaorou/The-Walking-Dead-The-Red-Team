@@ -1,9 +1,9 @@
 312647718) KENNY
-{thinkingA}You and me. We...uh. [sigh] {angryA}Fuck it. {sadA}Let's just get to the ocean.
+{thinkingA}Tôi và anh. Chúng ta...uh. [sigh] {angryA}Kệ mẹ nó. {sadA}Cùng ra chỗ đại dương đi.
 312647719) KENNY
-It'll be good to get to the water.
+Nó sẽ thật tốt khi đến tới chỗ nước.
 312647720) LEE
-{sadB}Hey, man.
+{sadB}Hey, anh.
 312647721) LEE
 [delicate]{sadA}Hey.
 312647722) KENNY
@@ -11,33 +11,33 @@ It'll be good to get to the water.
 312647723) LEE
 {sadA}Hey.
 312647724) KENNY
-Yeah?
+Sao?
 312647753) LEE
-{sadB}Yeah.
+{sadB}Ừ.
 312647727) 
-About my past...
+Về quá khứ của tôi...
 312647728) 
-Are there any maps in here?
+Có bản đồ nào ở đây không?
 312647729) LEE
-{thinkingA}Are there any maps up here?
+{thinkingA}Có bản đồ nào ở đây không?
 312647730) KENNY
-{sadA}I don't know.
+{sadA}Tôi không biết.
 312647760) KENNY
-{sadC}I don't know ...
+{sadC}Tôi không biết ...
 312647731) LEE
-{thinkingB}I just, uh, want to look over one with Clem so she has a lay of the land once we get to Savannah.
+{thinkingB}Tôi chỉ, uh, muốn chăm sóc một đứa với Clem để cô ấy có một mảnh đất  she has a lay of the land once we get to Savannah.
 312647732) 
-If you ever need to talk...
+Nếu anh cần nói chuyện...
 312647735) LEE
-{sadC}If you ever need to talk...
+{sadC}Nếu anh cần nói chuyện...
 312647733) LEE
-{sadB}It should.
+{sadB}Nó nên vậy
 312647734) KENNY
-{sadC}I don't see that needin' to happen.
+{sadC}Tôi không nghĩ cái cần đó sẽ xảy ra đâu.
 312647736) LEE
-{sadB}I wanted to talk you about keeping my past from you all.
+{sadB}Tôi muốn anh nói về việc giữ quá khứ của tôi khỏi tất cả mấy người.
 312647737) KENNY
-{thinkingA}You told us it was your parents' store back in Macon. That was enough personal information.
+{thinkingA}Anh đã nói với bọn tôi đó là cửa hàng của bố mẹ anh ở Macon. Đó là quá đủ thông tin riêng tư.
 312647738) LEE
 {sadB}Okay.
 312647761) KENNY
