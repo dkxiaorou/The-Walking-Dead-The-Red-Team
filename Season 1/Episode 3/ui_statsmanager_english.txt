@@ -41,15 +41,15 @@ desc_unachieved_StatsItem_Chapter8
 312729627) 
 Tạm biệt, Cô ấy Thầm lặng Nói
 312729628) 
-Máu xấu
+Máu Xấu
 312729629) 
-Xử lý Nó
+Xử Lý Nó
 312729630) 
-Sự chậm trễ bất ngờ
+Sự Chậm Trễ Bất Ngờ
 312729631) 
 Nhìn Phía Sau Bạn
 312729632) 
-Đưa Tôi tai của bạn
+Đưa Tôi Tai Của Bạn
 312729633) 
 name_StatsItem_103_Chapter1
 312729634) 
