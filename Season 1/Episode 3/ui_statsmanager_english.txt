@@ -1,7 +1,7 @@
 312729601) 
-Game Title
+Tiêu đề Game
 312729602) 
-Game Details
+Chi tiết Game
 312729604) 
 desc_achieved_StatsItem_Chapter1
 312729605) 
@@ -39,17 +39,17 @@ desc_achieved_StatsItem_Chapter8
 312729626) 
 desc_unachieved_StatsItem_Chapter8
 312729627) 
-Goodbye, She Quietly Says
+Tạm biệt, Cô ấy Thầm lặng Nói
 312729628) 
-Bad Blood
+Máu xấu
 312729629) 
-Handle It
+Xử lý Nó
 312729630) 
-Unexpected Delay
+Sự chậm trễ bất ngờ
 312729631) 
-Look Behind You
+Nhìn Phía Sau Bạn
 312729632) 
-Lend Me Your Ears
+Đưa Tôi tai của bạn
 312729633) 
 name_StatsItem_103_Chapter1
 312729634) 
