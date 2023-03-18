@@ -1,0 +1,1042 @@
+312537097) 
+No way. It was somebody else.
+312537259) 
+No way. It was somebody else.
+312537120) 
+I'm not doing this.
+312537264) 
+I'm not doing this.
+312537171) 
+You're not coming with us.
+312537343) LEE
+{DisgustB}You're not coming with us.
+312537172) 
+Get in and we'll figure out what to do with you.
+312537185) KENNY
+{AngryA}God dammit. {ThinkingA}Everyone, {DisgustA}keep your eyes peeled.
+312537186) LILLY
+{ThinkingA}Kenny, {DisgustA}the RV has some surface damage {DisgustB}but there's a walker trapped underneath.
+312537189) BEN
+[anxious] {SadE}I think you should {SadB}chill out.
+312537252) BEN
+[anxious] {SadE}I think you should {SadB}chill out.
+312537190) KENNY
+[to himself] {AngryC}[Fucking thing {AngryD}ripped in half...]
+312537253) KENNY
+[to himself] {AngryC}[Fucking thing {AngryD}ripped in half...]
+312537191) LILLY
+{HappyC}You know what, we {AngryB}shouldn't just kick you out, {AngryE}we should hear what everybody thinks.
+312537254) LILLY
+{HappyC}You know what, we {AngryB}shouldn't just kick you out, {AngryE}we should hear what everybody thinks.
+312537192) 
+I think he probably did it.
+312537194) LEE
+{DisgustB}I think he probably {thinkingB}did it.
+312537195) DOUG
+{FearA}Lee, {AngryA}come on...
+312537196) LILLY
+{NormalC}Okay, that's the two of us. {AngryC}Kenny?
+312537258) LILLY
+{NormalC}Okay, that's the two of us. {AngryC}Kenny?
+312537197) LILLY
+[projecting] {FearA}Well your vote counts for you {AngryB}and Katjaa.
+312537206) LILLY
+[projecting] {FearA}Well your vote counts for you {AngryB}and Katjaa.
+312537270) LILLY
+[projecting] {FearA}Well your vote counts for you {AngryB}and Katjaa.
+312537290) LILLY
+[projecting] {FearA}Well your vote counts for you {AngryB}and Katjaa.
+312537198) KENNY
+[preocuppied, trying to deal with something] {ThinkingA}I don't know! {AngryB}Fuck! {SadA}Just, {AngryB}stop, would ya?!
+312537207) KENNY
+[preocuppied, trying to deal with something] {ThinkingA}I don't know! {AngryB}Fuck! {SadA}Just, {AngryB}stop, would ya?!
+312537271) KENNY
+[preocuppied, trying to deal with something] {ThinkingA}I don't know! {AngryB}Fuck! {SadA}Just, {AngryB}stop, would ya?!
+312537289) KENNY
+[preocuppied, trying to deal with something] {ThinkingA}I don't know! {AngryB}Fuck! {SadA}Just, {AngryB}stop, would ya?!
+312537199) DOUG
+{AngryA}Leave him alone.
+312537288) CARLEY
+{AngryC}Leave him alone.
+312537200) BEN
+{SadB}Please, look, {FearB}it wasn't me,{SadE} please stop accusing me.
+312537201) BEN
+{AngryB}No!
+312537221) BEN
+[on the verge of tears] {SadD}No...
+312537245) DOUG
+{FearC}NO!
+312537284) BEN
+{AngryB}No!
+312537319) BEN
+[on the verge of tears] {SadD}No...
+312537202) LILLY
+{AngryB}Ben, {AngryC}you have no other options here.
+312537278) LILLY
+{AngryB}Ben, {AngryC}you have no other options here.
+312537203) LILLY
+{AngryE}I'm really sorry you're upset, Ben. {AngryC}Just tell us you did it.
+312537204) LILLY
+{AngryA}I think you both are {ThinkingA}protesting a bit much.
+312537205) LILLY
+[projecting] {DisgustA}Don't you think so, {AngryC}Kenny?
+312537276) LILLY
+[projecting] {DisgustA}Don't you think so, {AngryC}Kenny?
+312537208) LILLY
+{AngryE}That's ridiculous. {AngryA}That's what you think?
+312537263) LILLY
+{AngryE}That's ridiculous. {AngryA}That's what you think?
+312537209) LEE
+[empathic]{DisgustB}Yes.
+312537262) LEE
+[empathic]{DisgustB}Yes.
+312537375) LEE
+{NormalD}Yes.
+312537417) LEE
+{NormalD}Yes.
+312537679) CARLEY
+YES.
+312537210) LEE
+{SadA}No way it was Ben. {AngryA}It was somebody else. {ThinkingB}It could've even been someone {NormalD}sneaking into our camp.
+312537211) LILLY
+{AngryE}Okay, fine then. {AngryC}Kenny?
+312537218) LILLY
+{AngryE}Okay, fine then. {AngryC}Kenny?
+312537260) LILLY
+{AngryE}Okay, fine then. {AngryC}Kenny?
+312537265) LILLY
+{AngryE}Okay, fine then. {AngryC}Kenny?
+312537212) KENNY
+[struggling to deal with half a zombie corpse] {DisgustA}Ugh, this {AngryD}dumb fuck walker...
+312537281) KENNY
+[struggling to deal with half a zombie corpse] {DisgustA}Ugh, this {AngryD}dumb fuck walker...
+312537213) KENNY
+{AngryB}Yeah, yeah... {DisgustA}son of a bitch...
+312537279) KENNY
+{AngryB}Yeah, yeah... {DisgustA}son of a bitch...
+312537214) LEE
+{ThinkingA}You okay over there?
+312537280) LEE
+{ThinkingA}You okay over there?
+312537215) LILLY
+{ThinkingB}Come on, Lee. {ThinkingA}You're the one who found them! {AngryC}You can't just abstain.
+312537268) LILLY
+{ThinkingB}Come on, Lee. {ThinkingA}You're the one who found them! {AngryC}You can't just abstain.
+312537216) LEE
+{DisgustA}Fuck all that; {AngryC}this is nuts. {AngryB}We're out here {AngryD}on the side of the road!
+312537267) LEE
+{DisgustA}Fuck all that; {AngryC}this is nuts. {AngryB}We're out here {AngryD}on the side of the road!
+312537217) LEE
+{AngryA}I'm not {AngryC}doing this.
+312537266) LEE
+{AngryA}I'm not {AngryC}doing this.
+312537219) LILLY
+{AngryA}Ben, {AngryE}you have until Kenny kills that walker to {AngryB}tell me it was you.
+312537220) KENNY
+[dealing with a zombie] {AngryB}Just give me a damn minute!
+312537292) KENNY
+[dealing with a zombie] {AngryB}Just give me a damn minute!
+312537222) KENNY
+[off screen, still struggling to deal with something] {AngryB}There we go, {DisgustA}you ugly shit.
+312537316) KENNY
+[off screen, still struggling to deal with something] {AngryB}There we go, {DisgustA}you ugly shit.
+312537223) LILLY
+{AngryB}This is about trust and I've {AngryC}never trusted you.
+312537320) LILLY
+{AngryB}This is about trust and I've {AngryC}never trusted you.
+312537224) DOUG
+{FearA}LILLY.
+312537587) LEE
+{AngryA}Lilly...
+312537639) LEE
+{AngryA}Lilly...
+312537225) LILLY
+{AngryD}BEN.
+312537250) CLEMENTINE
+{FearD}BEN!
+312537317) LILLY
+{AngryD}BEN.
+312537226) 
+Tell her.
+312537295) 
+Tell her.
+312537227) 
+Lilly, lay off.
+312537302) 
+Lilly, lay off.
+312537228) 
+I did it.
+312537240) LEE
+{AngryC}I did it.
+312537309) 
+I did it.
+312537312) LEE
+{AngryC}I did it.
+312537229) BEN
+{SadE}Tell her what?! {FearC}She'll kick me out of the group!
+312537299) BEN
+{SadE}Tell her what?! {FearC}She'll kick me out of the group!
+312537230) LILLY
+{AngryC}Tell me. {AngryD}Now.
+312537236) LILLY
+{AngryC}Tell me. {AngryD}Now.
+312537301) LILLY
+{AngryC}Tell me. {AngryD}Now.
+312537308) LILLY
+{AngryC}Tell me. {AngryD}Now.
+312537231) LEE
+{SadA}We won't.
+312537237) LEE
+{SadA}We won't.
+312537297) LEE
+{SadA}We won't.
+312537307) LEE
+{SadA}We won't.
+312537232) LEE
+{AngryA}Tell her. {NormalD}Just do it, Ben.
+312537300) LEE
+{AngryA}Tell her. {NormalD}Just do it, Ben.
+312537233) LEE
+{AngryA}Lilly, {FearA}lay off.
+312537304) LEE
+{AngryA}Lilly, {FearA}lay off.
+312537234) LILLY
+{AngryE}I can't Lee, {AngryA}you know I {AngryD}can't.
+312537303) LILLY
+{AngryE}I can't Lee, {AngryA}you know I {AngryD}can't.
+312537235) BEN
+{SadD}Please, don't kick me out of the group.
+312537306) BEN
+{SadD}Please, don't kick me out of the group.
+312537238) LEE
+{FearB}We'll understand.
+312537298) LEE
+{FearB}We'll understand.
+312537239) LILLY
+[bullshit] {AngryC}What?
+312537313) LILLY
+[bullshit] {AngryC}What?
+312537643) BEN
+{FearC}WHAT?!
+312537241) LEE
+{AngryA}Yeah, {AngryC}it was me. {AngryB}That get you to {DisgustA}lay off the kid?
+312537311) LEE
+{AngryA}Yeah, {AngryC}it was me. {AngryB}That get you to {DisgustA}lay off the kid?
+312537242) LILLY
+{AngryB}I think you're capable of being a real {AngryC}piece of shit, {ThinkingB}but I know {ThinkingA}it wasn't you. {AngryE}Not with her [clementine] in your life.
+312537310) LILLY
+{AngryB}I think you're capable of being a real {AngryC}piece of shit, {ThinkingB}but I know {ThinkingA}it wasn't you. {AngryE}Not with her [clementine] in your life.
+312537243) DOUG
+{SadB}Please, stop.
+312537244) DOUG
+{FearB}LEE.
+312537441) KATJAA
+Lee.
+312537246) DOUG
+{SadB}I can't handle this!
+312537247) KENNY
+{HappyB}THERE, {HappyC}I got 'im.
+312537325) KENNY
+{HappyB}THERE, {HappyC}I got 'im.
+312537248) KENNY
+{NormalB}Now {ThinkingA}what the fuck's the problem?
+312537327) KENNY
+{NormalB}Now {ThinkingA}what the fuck's the problem?
+312537249) BEN
+{SadB}Please, {SadD}let's just get back in the RV.
+312537324) BEN
+{SadB}Please, {SadD}let's just get back in the RV.
+312537251) LILLY
+{AngryE}That's not happening.
+312537321) LILLY
+{AngryE}That's not happening.
+312537255) 
+I think she probably did it.
+312537272) CARLEY
+[disbelief] Lee, what the fuck?
+312537273) LEE
+{SadA}I think {ThinkingB}she probably did it.
+312537274) LEE
+{ThinkingA}There's no way {AngryA}it was Carley. {DisgustA}It was somebody else. {SadA}It could've even been someone {DisgustB}sneaking into our camp.
+312537285) LILLY
+{DisgustA}You can tell me it was Carley {AngryE}and then everything will be {AngryC}right as rain.
+312537286) LILLY
+{AngryE}I'm really sorry you feel that way. {AngryA}I'm starting to think maybe it was {AngryB}both of you.
+312537287) CARLEY
+{AngryC}I'm not going to take this. {AngryB}You can push Ben around {AngryC}but you can't push me around.
+312537293) LILLY
+{AngryC}Ben, {AngryB}you have until that walker is dealt with {AngryA}to tell me it was her and{AngryD} not you.
+312537294) CARLEY
+{AngryC}Stop this. {AngryB}You're torturing him!
+312537314) CARLEY
+{FearC}Lee! {AngryD}Jesus, who are you right now?
+312537315) CARLEY
+{ThinkingA}Thank you, Lee. {AngryA}Please, listen to him.
+312537328) CARLEY
+{AngryD}STOP.
+312537329) CARLEY
+{ThinkingA}You think you're some {AngryB}tough bitch, {ThinkingB}don't you? {AngryC}Like nothing can hurt you, {ThinkingA}but you're just {AngryA}a scared little girl. {ThinkingB}Get the fuck over it.
+312537330) CARLEY
+{AngryB}Take a page from Lee's book and try{AngryC} helping somebody for once.
+312537331) LEE
+{AngryD}DROP IT.
+312537332) KENNY
+{FearC}Holy fuck...
+312537333) KENNY
+{FearB}Keep Duck away from the windows! {SadB}Jesus CHRIST!
+312537335) LILLY
+{FearD}[breathing sort of in shock]
+312537436) LEE
+{FearC}[gasp, waking from a bad dream]
+312537479) CLEMENTINE
+[a small little sleep yawn]
+312537481) CLEMENTINE
+[zombie noises]
+312537753) CLEMENTINE
+[zombie noises]
+312537754) CLEMENTINE
+[zombie noises]
+312537336) KATJAA
+[inside] {FearC}KENNY, {FearD}What's happening?!
+312537337) KENNY
+{AngryB}GET IN. {AngryC}We're leaving this {AngryD}crazy bitch!
+312537338) LILLY
+{SadB}I didn't mean to... {SadC}it wasn't supposed to be him.
+312537339) BEN
+{SadB}What...what...wh...{DisgustA}are we going to do with her?
+312537429) BEN
+{SadB}What...what...wh...{DisgustA}are we going to do with her?
+312537340) KENNY
+{DisgustA}Leave her for the walkers.
+312537427) KENNY
+{DisgustA}Leave her for the walkers.
+312537341) KATJAA
+{FearC}KEN! LEE!
+312537428) KATJAA
+{FearC}KEN! LEE!
+312537342) LEE
+[to himself, through grit teeth] {AngryA}Why. {SadB}Why Lilly?
+312537430) LEE
+[to himself, through grit teeth] {AngryA}Why. {SadB}Why Lilly?
+312537344) LILLY
+{SadC}I'll die out here.
+312537345) LEE
+{AngryB}I don't care.
+312537346) KENNY
+{FearB}You're a murderer, Lilly. {AngryA}We can't have you with us.
+312537347) LILLY
+{FearC}I'm a murderer?! {SadC}You've had Lee with you {SadB}this whole time!
+312537361) LILLY
+{FearC}I'm a murderer?! {SadC}You've had Lee with you {SadB}this whole time!
+312537368) LILLY
+{FearC}I'm a murderer?! {SadC}You've had Lee with you {SadB}this whole time!
+312537393) LILLY
+{FearC}I'm a murderer?! {SadC}You've had Lee with you {SadB}this whole time!
+312537409) LILLY
+{FearC}I'm a murderer?! {SadC}You've had Lee with you {SadB}this whole time!
+312537410) LILLY
+{FearC}I'm a murderer?! {SadC}You've had Lee with you {SadB}this whole time!
+312537348) KENNY
+{AngryA}I don't care {AngryB}what he did before.
+312537362) KENNY
+{AngryA}I don't care {AngryB}what he did before.
+312537392) KENNY
+{AngryA}I don't care {AngryB}what he did before.
+312537408) KENNY
+{AngryA}I don't care {AngryB}what he did before.
+312537349) LILLY
+{sadC}I was trying to protect {Sadb}all of us. [pathetic]
+312537356) LILLY
+{sadC}I was trying to protect {Sadb}all of us. [pathetic]
+312537359) LILLY
+{sadC}I was trying to protect {Sadb}all of us. [pathetic]
+312537395) LILLY
+{sadC}I was trying to protect {Sadb}all of us. [pathetic]
+312537400) LILLY
+{sadC}I was trying to protect {Sadb}all of us. [pathetic]
+312537407) LILLY
+{sadC}I was trying to protect {Sadb}all of us. [pathetic]
+312537350) LILLY
+{SadC}I don't have anything left.
+312537355) LILLY
+{SadC}I don't have anything left.
+312537360) LILLY
+{SadC}I don't have anything left.
+312537378) LILLY
+{SadC}I don't have anything left.
+312537396) LILLY
+{SadC}I don't have anything left.
+312537398) LILLY
+{SadC}I don't have anything left.
+312537403) LILLY
+{SadC}I don't have anything left.
+312537418) LILLY
+{SadC}I don't have anything left.
+312537351) KENNY
+{ThinkingA}Get in, Lee. {SadC}Let's go you guys.
+312537357) KENNY
+{ThinkingA}Get in, Lee. {SadC}Let's go you guys.
+312537358) KENNY
+{ThinkingA}Get in, Lee. {SadC}Let's go you guys.
+312537366) KENNY
+{ThinkingA}Get in, Lee. {SadC}Let's go you guys.
+312537352) KENNY
+{AngryB}If we keep {AngryC}you with us, {DisgustA}how long until you get {AngryD}ME?
+312537363) KENNY
+{AngryB}If we keep {AngryC}you with us, {DisgustA}how long until you get {AngryD}ME?
+312537391) KENNY
+{AngryB}If we keep {AngryC}you with us, {DisgustA}how long until you get {AngryD}ME?
+312537402) KENNY
+{AngryB}If we keep {AngryC}you with us, {DisgustA}how long until you get {AngryD}ME?
+312537353) LILLY
+{FearC}Murderer? {AngryA}Lee's killed before and {SadC}I forgave him. {AngryB}You've killed before and {SadC}I'll forgive YOU. {FearC}You both know {SadB}we do what {SadC}has to be done!
+312537399) LILLY
+{FearC}Murderer? {AngryA}Lee's killed before and {SadC}I forgave him. {AngryB}You've killed before and {SadC}I'll forgive YOU. {FearC}You both know {SadB}we do what {SadC}has to be done!
+312537354) KENNY
+{AngryC}Bullshit you will. {AngryB}You've been planning to get me {AngryD}this entire time.
+312537401) KENNY
+{AngryC}Bullshit you will. {AngryB}You've been planning to get me {AngryD}this entire time.
+312537364) LILLY
+[surprised] {FearC}You know?!
+312537404) LILLY
+[surprised] {FearC}You know?!
+312537365) KENNY
+{AngryA}Yeah, he told me. {SadA}I don't give a shit.
+312537405) KENNY
+{AngryA}Yeah, he told me. {SadA}I don't give a shit.
+312537372) KENNY
+{ThinkingA}To hell with it.
+312537415) KENNY
+{ThinkingA}To hell with it.
+312537373) KENNY
+{SadB}Is that true, Lee?
+312537414) KENNY
+{SadB}Is that true, Lee?
+312537374) KENNY
+{FearC}Fucking hell, {AngryA}were you ever going to get around {AngryC}to telling me that? {FearB}You've got a {AngryB}little girl with you!
+312537416) KENNY
+{FearC}Fucking hell, {AngryA}were you ever going to get around {AngryC}to telling me that? {FearB}You've got a {AngryB}little girl with you!
+312537377) LILLY
+{FearC}He didn't tell you? {SadC}He killed someone before {ThinkingA}ALL of this. {DisgustA}He was a convicted {AngryA}murderer.
+312537413) LILLY
+{FearC}He didn't tell you? {SadC}He killed someone before {ThinkingA}ALL of this. {DisgustA}He was a convicted {AngryA}murderer.
+312537379) KENNY
+{DisgustA}What are you talking about?
+312537412) KENNY
+{DisgustA}What are you talking about?
+312537389) LEE
+{AngryA}Just get in. {ThinkingB}We'll figure out {AngryA}what to do with you.
+312537390) KENNY
+{DisgustA}That's a bad idea, Lee. {FearA}She's a murderer {AngryB}for shit's sake!
+312537419) LEE
+It'll be fine. I'll make sure of it.
+312537420) KENNY
+{DisgustA}Whatever. {AngryB}Just get in.
+312537421) KENNY
+{DisgustA}Whatever. {AngryB}Just get in.
+312537422) KENNY
+{DisgustA}Whatever. {AngryB}Just get in.
+312537423) KENNY
+{AngryC}I don't want to hear it. {DisgustA}From either of you. {AngryB}Just get in.
+312537424) KENNY
+{AngryC}She's a murderer. {AngryA}That's the {AngryD}end of it.
+312537425) KENNY
+{AngryA}We're leaving her! {AngryB}Let's go!
+312537426) LEE
+{ThinkingB}Okay.
+312537632) CARLEY
+{AngryB}Okay?
+312537432) LILLY
+{FearA}She couldn't be trusted, Lee. {SadB}I swear. {SadC}Please.
+312537433) KENNY
+{AngryA}Dammit. {SadA}Road's blocked.
+312537434) KENNY
+{ThinkingA}We got something up ahead.
+312537435) KENNY
+{SadB}Now we gotta deal with this.
+312537437) LEE
+{ThinkingA}You okay?
+312537438) CLEMENTINE
+{FearB}Katjaa needs you for something.
+312537439) CLEMENTINE
+{NormalA}See what they want?
+312537440) KATJAA
+We need to speak to you up here.
+312537442) KATJAA
+{SadA}Lee, {SadC}a word, please?
+312537443) KATJAA
+{SadA}Lee, {SadC}a word, please?
+312537444) KENNY
+[flat, d.i.] {SadA}Happened during the raid.
+312537445) LEE
+[floored] {FearB}What the {FearA}fuck...
+312537446) LEE
+{SadA}Is Duck feeling all right?...
+312537447) LEE
+{NormalD}What's up?
+312537448) KATJAA
+[flat] {NormalA}Anyway, {DisgustA}if you could tell Clementine {NormalB}we would appreciate it.
+312537449) 
+What's the plan?
+312537450) KENNY
+{sadA}We keep the same plan {DisgustA}unless something changes. {AngryA}East.
+312537457) KENNY
+{sadA}We keep the same plan {DisgustA}unless something changes. {AngryA}East.
+312537465) KENNY
+{sadA}We keep the same plan {DisgustA}unless something changes. {AngryA}East.
+312537451) KATJAA
+{NormalB}I'm going to keep an eye on him {DisgustA}and see what I can do, {NormalA}from a medical perspective.
+312537464) KATJAA
+{NormalB}I'm going to keep an eye on him {DisgustA}and see what I can do, {NormalA}from a medical perspective.
+312537452) LEE
+{SadA}What's the plan? {DisgustB}We've never had a bite victim {NormalD}in the group before.
+312537453) 
+He's going to turn.
+312537455) LEE
+{SadB}He's going to turn.
+312537454) KATJAA
+{NormalB}I'm going to monitor him {AngryA}and focus on the wound and {SadA}see if his condition changes.
+312537456) LEE
+{AngryA}Katjaa...
+312537458) KATJAA
+{SadA}What do we {FearA}really know? {AngryA}None of us have been bitten. {AngryB}We don't know {SadA}what the timeframe is {SadB}for a child. {AngryB}We know nothing.
+312537459) KATJAA
+{AngryB}We don't know that.
+312537460) 
+Stop the RV!
+312537461) KENNY
+{SadA}We don't think they just turn. {AngryA}That guy we dragged out of the woods {NormalC}had to full-on {DisgustA}die.
+312537462) LEE
+{AngryB}Stop the RV, now. {FearB}What if he turns?!
+312537463) KATJAA
+{NormalC}I don't see any signs of that. {AngryA}He is tired. {NormalB}His breathing is fine.
+312537466) KATJAA
+{NormalA}We know it's shocking. {DisgustA}Please try and keep {SadA}Ben and Clementine calm.
+312537467) KATJAA
+[snaps] {AngryB}What else is there {AngryC}to do?! {DisgustA}We thought you should know.
+312537468) LEE
+{FearC}Guys...
+312537469) KENNY
+{SadA}Important to stay honest {SadB}with each other.
+312537470) KENNY
+{DisgustA}Not that you've ever afforded {AngryC}us {AngryB}that type o' luxury.
+312537473) KATJAA
+There's nothing more to say right now.
+312537474) KENNY
+We'd like some space.
+312537475) CLEMENTINE
+I don't feel good.
+312537476) CLEMENTINE
+{SadC}Huh?
+312537477) LEE
+{SadA}He got bit by a walker {ThinkingB}trying to escape the motel.
+312537478) LEE
+{NormalD}Duck is bitten.
+312537480) LEE
+[zombie struggle] {FearC}Clem! {FearD}FUCK!
+312537482) LEE
+[zombie struggle] {FearC}What happened?!? HOLY SHIT!!!
+312537483) LEE
+[zombie struggle] {SadC}GET OFF OF ME!
+312537484) 
+I miss my parents.
+312537489) LEE
+{NormalC}I miss my parents.
+312537485) LEE
+{NormalA}My mom played the tuba.
+312537486) CLEMENTINE
+{SadB}Me, too.
+312537504) CLEMENTINE
+{HappyA}Me, too.
+312537487) CLEMENTINE
+{HappyA}Really?
+312537488) LEE
+{HappyA}She was a really small lady. {ThinkingB}It was strange.
+312537490) LEE
+{SadA}I know.
+312537491) 
+This one time...
+312537522) 
+This one time...
+312537492) CLEMENTINE
+{SadC}What happened? [tired]
+312537493) LEE
+{HappyA}This one time {NormalD}my brother thought it would be {AngryA}funny to {NormalC}fill her tuba {HappyA}full of flour on April Fool's day.
+312537494) LEE
+{HappyB}Yeah. {NormalD}I don't know why I remembered that.
+312537495) LEE
+{HappyC}Just about what you'd expect.
+312537496) CLEMENTINE
+[a really small laugh] {HappyB}That's funny.
+312537497) LEE
+{NormalA}And that same day {HappyA}she thought it'd be funny to wake me up for school by {HappyB}playing it right in my face.
+312537498) 
+Never mind.
+312537528) 
+Never mind.
+312537499) CLEMENTINE
+{ThinkingB}Okay. {NormalA}It doesn't sound that bad.
+312537530) CLEMENTINE
+{ThinkingB}Okay. {NormalA}It doesn't sound that bad.
+312537500) LEE
+[sleepy] {ThinkingA}It's not.
+312537531) LEE
+[sleepy] {ThinkingA}It's not.
+312537501) LEE
+{NormalB}Anyway. {NormalD}Let's...{ThinkingA}let's try not to worry about Duck too much yet.
+312537529) LEE
+{NormalB}Anyway. {NormalD}Let's...{ThinkingA}let's try not to worry about Duck too much yet.
+312537502) 
+I'm glad I have you.
+312537505) LEE
+{HappyC}I'm glad I have you.
+312537503) CLEMENTINE
+{SadC}I heard you outside my treehouse that day {SadB}and thought about {ThinkingA}dropping a hammer on your head.
+312537506) 
+What? Why?
+312537507) LEE
+{HappyA}The door was open.
+312537508) CLEMENTINE
+{HappyA}He was dumb.
+312537509) CLEMENTINE
+{ThinkingA}He wanted to take the TV and {NormalB}tried to break the glass door with a rock.
+312537510) CLEMENTINE
+{FearB}In case you were up to no good.
+312537511) LEE
+{ThinkingB}What? {HappyB}Why?
+312537512) CLEMENTINE
+{NormalC}Then some walkers came {ThinkingB}and scared him away.
+312537513) CLEMENTINE
+Before you there was this other guy. He was yelling and trying to get into my house.
+312537514) 
+Hmm. That's nice.
+312537515) CLEMENTINE
+{HappyA}I didn't though.
+312537516) LEE
+{ThinkingB}Hmm. {DisgustB}That's nice.
+312537517) LEE
+{AngryA}Thanks.
+312537518) 
+My brother almost died, once.
+312537521) LEE
+{NormalC}My brother almost died, once.
+312537519) LEE
+{HappyA}Oh yeah. {NormalD}It was scary though.
+312537520) CLEMENTINE
+{FearA}But he lived?
+312537523) LEE
+{HappyC}He teaches all three of 'em a lesson. {ThinkingB}But the truck's still moving, you see, and {NormalD}just as he stands up to {NormalC}jump out, {ThinkingA}it zooms underneath a tree and a {AngryA}branch hits him square in the face and he goes {NormalD}flying out the back.
+312537524) LEE
+{NormalD}This one time, these {AngryA}boys from the other side of town were {DisgustB}hassling him.
+312537525) LEE
+{AngryA}He was on his bike and {SadA}they were in a truck throwing things at him, {NormalD}calling him names; {ThinkingB}stuff like that.
+312537526) LEE
+{HappyC}And this tough son of a gun, {HappyB}he peddles up after them and {NormalD}he catches them. {HappyA}He pulls his bike up alongside the truck {HappyB}and jumps into the back and {FearA}starts beating on 'em.
+312537527) LEE
+{AngryA}Anyway, if he can live {HappyA}through that, {ThinkingA}I'm sure Duck {HappyA}can live through this.
+312537532) LEE
+{ThinkingA}Yeah it is.
+312537695) CLEMENTINE
+[pickup2] Yeah, it is.
+312537533) CLEMENTINE
+{SadC}Everything is bad right now.
+312537534) BEN
+[hyperventilating] {SadD}Oh shit oh shit oh--
+312537535) KATJAA
+[interrupting] {SadB}I'm fine, {FearA}I'm fine!
+312537536) BEN
+[hyperventilating] {FearB}I'm sorry.
+312537537) KENNY
+{FearB}KAT! Jesus, {FearC}are you okay?!
+312537538) LILLY
+{AngryA}We just lost everything.
+312537539) LILLY
+{AngryA}This is different.
+312537540) LILLY
+{AngryE}Somebody in here caused this.
+312537541) KENNY
+{AngryB}Settle down back there; {ThinkingA}the bandits {AngryA}have had our number {AngryB}for weeks!
+312537542) KATJAA
+{DisgustA}I'm fine!
+312537545) KATJAA
+{DisgustA}I'm fine!
+312537543) DOUG
+{AngryA}But we have our health!
+312537544) KENNY
+{AngryC}Kat's head is split open!
+312537546) KENNY
+{AngryC}Kat's head is split open!
+312537547) KENNY
+{ThinkingA}Well we're lucky as shit {SadA}to have this RV!
+312537548) CARLEY
+[high energy] {ThinkingA}And nobody died.
+312537549) LILLY
+{AngryE}Calm down. {AngryA}We need to figure out {NormalB}why this happened.
+312537550) DOUG
+{FearA}Nobody died. {SadA}We're okay, right? {FearB}Katjaa, you're okay?
+312537551) CARLEY
+{SadB}Everything's fine, Ben.
+312537552) LILLY
+{AngryA}Everything's {AngryB}not fine. {ThinkingB}We need to figure out {AngryA}how this happened.
+312537553) LILLY
+{NormalB}Lee found a bag of supplies {AngryE}hidden outside the wall!
+312537554) LILLY
+[seething] {AngryE}Somebody was working with them. {AngryA}Whoever it was {ThinkingA}was slipping them our meds. {AngryA}They didn't get {AngryC}their last package, {AngryB}so they attacked.
+312537555) KENNY
+{AngryB}Calm down back there! {DisgustA}That's nuts!
+312537556) LEE
+{SadA}It's true.
+312537557) LILLY
+{DisgustA}LOGICALLY? {AngryA}The new guy who could have {AngryB}EASILY been a plant? {AngryE}I think that's pretty LOGICAL, {ThinkingA}DOUG.
+312537558) LILLY
+{AngryE}So, {AngryA}Ben. {AngryB}I think we need to talk.
+312537559) BEN
+{FearA}Whoa, {FearC}WHAT!?
+312537560) DOUG
+{FearA}Uh, Lilly, {FearB}let's think about this logically, {FearA}no?
+312537561) BEN
+{FearB}You think I'd do anything to hurt you guys?
+312537562) DOUG
+{ThinkingA}Lilly, come on.
+312537563) LILLY
+{AngryA}Don't play {AngryB}dumb. {ThinkingB}Were you hoping they'd eventually {AngryB}kill us all {AngryE}and you could {AngryC}join them?
+312537564) BEN
+[desperate] You guys are like my family!
+312537565) KENNY
+{DisgustA}Chill out back there.
+312537566) BEN
+[pleading] Lee, please.
+312537567) DOUG
+{FearB}I know I don't get wrapped in the politics around here, {FearA}but we really need to think {AngryA}before we start {FearB}stringing somebody up!
+312537568) LILLY
+{ThinkingA}Doug, {AngryE}I appreciate your concern {ThinkingB}but we have all the evidence we need.
+312537569) KENNY
+{ThinkingA}Signaling system?!
+312537570) KENNY
+[from up front] {AngryA}You have evidence?
+312537571) LILLY
+{DisgustA}No. Not {ThinkingA}HERE, {AngryB}but Lee found the meds, {ThinkingA}we found an entire SIGNALING system, {FearA}CHALK--
+312537572) LILLY
+{DisgustA}I know it sounds crazy.
+312537573) BEN
+{SadE}Just let me out of the car! {AngryB}I'll go! {SadB}I didn't do it, but I'll {AngryB}GO!
+312537599) BEN
+{SadE}Just let me out of the car! {AngryB}I'll go! {SadB}I didn't do it, but I'll {AngryB}GO!
+312537574) BEN
+{FearA}It {SadE}IS crazy!
+312537575) DOUG
+{ThinkingA}Lilly, {FearA}look at him.
+312537576) LILLY
+{AngryE}Good, {AngryA}that sounds {AngryB}great.
+312537577) BEN
+{FearB}I--
+312537641) BEN
+{FearB}I --
+312537578) KENNY
+[energetic] {AngryA}I hit something, {DisgustA}we gotta stop!
+312537637) KENNY
+[energetic] {AngryA}I hit something, {DisgustA}we gotta stop!
+312537579) KENNY
+[energetic]{SurprisedA}SHIT!
+312537647) KENNY
+[energetic]{SurprisedA}SHIT!
+312537580) KENNY
+[energetic] {HappyA}Should be.
+312537652) KENNY
+[energetic] {HappyA}Should be.
+312537581) LILLY
+{AngryE}All right, well, {AngryC}we can deal with this now, then.
+312537646) LILLY
+{AngryE}All right, well, {AngryC}we can deal with this now, then.
+312537582) LILLY
+{AngryB}Everybody out.
+312537638) LILLY
+{AngryB}Everybody out.
+312537583) LILLY
+{AngryE}Look me in the eyes and {AngryB}tell me you didn't.
+312537584) LILLY
+[energetic]{FearB}What's going on up there?
+312537650) LILLY
+[energetic]{FearB}What's going on up there?
+312537585) LILLY
+{AngryD}Out.
+312537642) LILLY
+{AngryD}Out.
+312537586) LEE
+[energetic]Kenny, is it safe?
+312537648) LEE
+[energetic]Kenny, is it safe?
+312537588) BEN
+{SadB}I... {SadD}fuck... {SadC}Jesus, {SadE}I didn't.
+312537589) 
+We need to act NOW.
+312537590) LEE
+{SadA}Guys, {AngryA}we have to act {AngryB}NOW. {NormalD}I know it {SadA}sounds nuts, {ThinkingA}but we have {DisgustB}a traitor here. {ThinkingB}Do you guys{DisgustA} get that? {AngryA}Someone who puts their {AngryB}insidious shit {AngryC}above everyone else.
+312537658) LEE
+{SadA}Guys, {AngryA}we have to act {AngryB}NOW. {NormalD}I know it {SadA}sounds nuts, {ThinkingA}but we have {DisgustB}a traitor here. {ThinkingB}Do you guys{DisgustA} get that? {AngryA}Someone who puts their {AngryB}insidious shit {AngryC}above everyone else.
+312537591) LILLY
+{AngryE}Thank you, Lee.
+312537659) LILLY
+{AngryE}Thank you, Lee.
+312537667) CARLEY
+{ThinkingA}Thank you, Lee.
+312537592) 
+Doug's right.
+312537593) LEE
+{AngryA}Doug's right. {SadA}Let's just get on{NormalC} down the road. {ThinkingA}We can {ThinkingB}talk this out {DisgustB}like adults.
+312537594) LILLY
+{SadB}Why give someone who almost killed us {AngryB}the opportunity? Lee, {AngryD}you know what we found.
+312537595) 
+Let's just let it go.
+312537660) 
+Let's just let it go.
+312537596) LILLY
+{AngryC}Then what do we {AngryE}NOT forgive? {AngryC}Honestly, tell me. {AngryB}Kenny can kill my dad; {ThinkingA}Ben can steal from us? {AngryC}Where's the line?
+312537597) LEE
+{AngryA}Let's just {SadA}let it go. {SadB}People make mistakes and {AngryA}yeah, this is {AngryC}a fucking doozy, {DisgustA}but it's not worth it, {DisgustB}Lilly.
+312537661) LEE
+{AngryA}Let's just {SadA}let it go. {SadB}People make mistakes and {AngryA}yeah, this is {AngryC}a fucking doozy, {DisgustA}but it's not worth it, {DisgustB}Lilly.
+312537600) 
+Ben's a good guy.
+312537601) BEN
+{SadE}I didn't do it. {SadC}Really, honest!
+312537614) BEN
+{SadE}I didn't do it. {SadC}Really, honest!
+312537602) LEE
+[pickup2] [new read: Emphasis is 'good guy' rather than 'GOOD guy.' Also, Lee would sound more urgent, he's currently sounding very casual.] {NormalD}Ben's {AngryA}a good guy.
+312537603) LILLY
+{ThinkingA}Well then who? {AngryE}Being a "good guy" is enough to {ThinkingB}clear your name on this?
+312537604) DOUG
+{FearA}Totally.
+312537605) 
+Why Ben?
+312537606) LEE
+{ThinkingB}Why Ben? {DisgustB}What makes you think {NormalD}it was him?
+312537607) LILLY
+{AngryE}So you're saying you did it?
+312537608) BEN
+{SadE}Nobody did anything!
+312537609) LILLY
+{AngryA}He's always {AngryE}SO eager to see what supplies we found. {NormalB}He came into this crew {ThinkingA}a stranger from the woods. {AngryB}It's pretty cut and dry to me.
+312537610) DOUG
+{AngryA}I came into this crew as a stranger.
+312537611) 
+No one's at fault.
+312537612) LEE
+{HappyC}No one's at fault. {ThinkingA}No one is {DisgustA}selling us out.
+312537613) LILLY
+{AngryA}Somebody did this, Lee.
+312537615) LILLY
+{AngryA}Then how do you explain {AngryE}what you found?
+312537616) LEE
+{ThinkingB}I don't know.
+312537618) CARLEY
+{AngryC}Back off.
+312537619) LILLY
+{AngryA}We have to get it {AngryE}out of you then?
+312537620) CARLEY
+{AngryC}Please.
+312537621) LILLY
+{DisgustA}You're in no position{AngryA} to make demands.
+312537622) LILLY
+{ThinkingB}So, Carley, {AngryE}is there something you want to say?
+312537623) KENNY
+{AngryA}Probably not the best time, Lilly!
+312537624) CARLEY
+{ThinkingA}Whoa, whoa, whoa {AngryB}you're just pointing fingers.
+312537625) LILLY
+{AngryA}If not now, {AngryB}when?{AngryD} Look at what just happened!
+312537626) LILLY
+{AngryA}I didn't just come up with this, {ThinkingA}I've had my suspicions.
+312537627) BEN
+{SadE}We're all okay now, though.
+312537628) LILLY
+{AngryE}You and I {AngryA}have very different definitions {AngryB}of "okay."
+312537629) BEN
+{DisgustA}Like, {SadE}look, {ThinkingA}maybe we should, uh, {FearB}vote or something like that.
+312537630) BEN
+{FearA}Yeah, {SadE}let's do that.
+312537633) LILLY
+{FearB}Vote? {AngryC}What?
+312537634) CARLEY
+{AngryC}We need to look at the facts. {DisgustA}Let's calm down, {AngryA}we'll eat and {ThinkingA}we'll deal with it.
+312537635) BEN
+{SadB}Just, look, {SadE}Carley's a stand-up gal and {SadD}maybe this was all just a mistake.
+312537636) BEN
+{SadE}Nobody was stealing {FearC}ANYTHING!
+312537664) BEN
+{SadE}Nobody was stealing {FearC}ANYTHING!
+312537640) LILLY
+{AngryB}I've seen you two together. {AngryA}Was it {AngryC}both of you?
+312537644) LILLY
+{AngryA}Look me in the eyes and tell me you didn't have {AngryB}anything to do with it.
+312537645) BEN
+{SadE}Look, {SadB}just let me out. {FearB}I didn't do it, {SadD}but I don't like this; {SadB}I don't like where it's headed.
+312537649) CARLEY
+{AngryA}Lilly, {ThinkingA}lay off of him.
+312537651) LILLY
+{AngryE}Was it both of you?
+312537653) 
+Stop waving your finger around, Lilly.
+312537654) LEE
+{AngryA}I know, Lilly. {ThinkingB}I know.
+312537655) LILLY
+[almost upset, tears] {ThinkingA}I know what {AngryB}we found.
+312537656) LEE
+{NormalD}Lilly, {DisgustB}stop waving the finger {DisgustA}at everybody. We know something's going on {AngryC}and we can get to the bottom of it {DisgustB}if we keep our heads.
+312537657) 
+You're right. Deal with this now.
+312537662) LILLY
+{AngryB}Then what do we {AngryC}NOT forgive? {SadB}Honestly, tell me. {ThinkingA}Kenny can kill my dad; {SadB}Carley can {SadC}steal from us? {DisgustA}Where's the line?
+312537665) 
+Carley's trustworthy.
+312537666) LEE
+{ThinkingB}Carley's trustworthy. {AngryA}She's not a {DisgustA}traitor, Lilly.
+312537668) CARLEY
+{AngryB}Don't be ridiculous.
+312537669) LILLY
+{AngryA}She can fight her own battles. {DisgustB}Unless there's something going on here {ThinkingB}that implicates you both.
+312537670) 
+Why her?
+312537671) CARLEY
+{FearB}Whoa, {AngryD}my family's {AngryC}not a bunch of meth-riddled {DisgustA}forest people. {AngryD}They're fucking Lutheran!
+312537672) CARLEY
+{AngryC}It wasn't ME.
+312537673) LILLY
+{AngryE}She's always {AngryB}SO eager to see {ThinkingB}what supplies we found. {AngryE}She never talks about her family. {AngryA}She could be {AngryB}related to those bastards for all we know.
+312537674) LEE
+{ThinkingB}Why her? {AngryA}This seems like {DisgustB}a stab in the dark, Lilly.
+312537675) LILLY
+{ThinkingA}You're not saying it wasn't you.
+312537676) 
+Maybe it was her.
+312537677) LEE
+{ThinkingB}Maybe it was her.
+312537678) CARLEY
+{FearB}Lee. Come on. {AngryA}I don't have anything to hide.
+312537680) LILLY
+{DisgustB}Are you saying someone does?
+312537681) LEE
+{AngryA}I don't have shit to hide {AngryC}and you know it.
+312537682) LEE
+{AngryA}I said {AngryB}MAYBE it was you.
+312537684) KATJAA
+{HappyA}He might be fine.
+312537685) CLEMENTINE
+{SadC}Before you {NormalC}there was this other guy. {NormalB}He was yelling and {SadB}trying to get into my house.
+312537686) CLEMENTINE
+[pickup2] [small, empty inside. after watching a bunch of horrific shit]What about Doug?
+312537687) CLEMENTINE
+[pickup2] [small, empty inside. after watching a bunch of horrific shit]What about Carley?
+312537688) 
+There was no time for a burial.
+312537693) LEE
+[pickup2] There was no time for a burial.
+312537689) 
+Gone. But won't come back.
+312537694) LEE
+[pickup2] Gone. But won't come back.
+312537690) 
+There's nothing to say.
+312537691) LEE
+[pickup2] Yeah. Horrible.
+312537692) CLEMENTINE
+[pickup2] Walkers?
+312537696) LEE
+[pickup2] That's right. It's horrible.
+312537697) CLEMENTINE
+[pickup2] Because he was shot in the head.
+312537699) CLEMENTINE
+[pickup2] Because she was shot in the head.
+312537700) CLEMENTINE
+[pickup2] I'm sorry...if I...
+312537701) LEE
+[pickup2] No. You don't apologize; you had nothing to do with it, sweet pea.
+312537702) LEE
+[pickup2] There's nothing to say. It's horrible.
+312537703) CLEMENTINE
+[pickup2] [small] I really don't feel good.
+312537704) BEN
+[pickup2] We don't need all these VOTES! What do I have to do for you to TRUST me? I'll do ANYTHING!
+312537729) BEN
+[pickup2] We don't need all these VOTES! What do I have to do for you to TRUST me? I'll do ANYTHING!
+312537705) BEN
+[pickup2] I'll get more food, more medicine, anything, just--
+312537734) BEN
+[pickup2] I'll get more food, more medicine, anything, just--
+312537706) LILLY
+[pickup2] You're pathetic. Look at you.
+312537731) LILLY
+[pickup2] You're pathetic. Look at you.
+312537707) BEN
+[pickup2] JUST LET ME STAY PLEASE! GOD PLEASE.
+312537733) BEN
+[pickup2] JUST LET ME STAY PLEASE! GOD PLEASE.
+312537708) LILLY
+[pickup2][rv argument] Ha the HELL you will.
+312537732) LILLY
+[pickup2][rv argument] Ha the HELL you will.
+312537709) LILLY
+[pickup2][projecting] Kenny! What's it going to be?
+312537720) LILLY
+[pickup2][projecting] Kenny! What's it going to be?
+312537730) LILLY
+[pickup2][projecting] Kenny! What's it going to be?
+312537747) LILLY
+[pickup2][projecting] Kenny! What's it going to be?
+312537710) BEN
+[pickup2] I'll do watches for months!
+312537736) BEN
+[pickup2] I'll do watches for months!
+312537711) LILLY
+[pickup2] You think any of that is good now?!
+312537735) LILLY
+[pickup2] You think any of that is good now?!
+312537712) 
+Stop panicking.
+312537737) 
+Stop panicking.
+312537713) 
+You're making it worse on yourself.
+312537723) LEE
+[pickup2] You're making it worse on yourself.
+312537739) 
+You're making it worse on yourself.
+312537742) LEE
+[pickup2] You're making it worse on yourself.
+312537714) 
+He's broken, Lilly.
+312537728) LEE
+[pickup2] He's broken, Lilly.
+312537743) 
+He's broken, Lilly.
+312537745) LEE
+[pickup2] He's broken, Lilly.
+312537716) DOUG
+[pickup2] Evidence or not this isn't any way to treat one of US.
+312537717) LILLY
+[pickup2] I've heard enough out of you, okay, Doug?
+312537718) LEE
+[pickup2]Stop panicking. Seriously Ben, you need to stop and just take a breath.
+312537738) LEE
+[pickup2]Stop panicking. Seriously Ben, you need to stop and just take a breath.
+312537719) LILLY
+[pickup2] Do we need any more evidence than this?!
+312537749) LILLY
+[pickup2] Do we need any more evidence than this?!
+312537721) LILLY
+[pickup2] You should've thought of that.
+312537740) LILLY
+[pickup2] You should've thought of that.
+312537722) BEN
+[pickup2] I just don't want to be on my own!
+312537741) BEN
+[pickup2] I just don't want to be on my own!
+312537727) LILLY
+[pickup2] I can see that.
+312537744) LILLY
+[pickup2] I can see that.
+312537751) CARLEY
+[pickup2] Fuck EVIDENCE. Stop treating him like this.
+312537752) LILLY
+[pickup2] Shut up, Carley -- I've heard enough out of you.

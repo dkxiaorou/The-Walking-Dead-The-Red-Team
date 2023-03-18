@@ -1,0 +1,346 @@
+312504531) 
+Kenny, you got a second?
+312504537) LEE
+{normalA}Kenny, you got a second?
+312504532) LEE
+{normalB}I need to tell you something.
+312504596) LEE
+{normalC}I need to tell you something.
+312504533) KENNY
+{happyA}Sure, pal. What d'ya got?
+312504534) LEE
+{sadA}It's serious.
+312504597) LEE
+{normalC}It's serious.
+312504535) KENNY
+{sadA}Oh no, {angryA}what'd the she-devil do to you...
+312504536) LEE
+{disgustA}Shut up, man.
+312504538) 
+I killed someone.
+312504566) 
+I killed someone.
+312504539) 
+I was on my way to prison three months ago.
+312504550) LEE
+{SadA}I was on my way to prison three months ago.
+312504576) 
+I was on my way to prison three months ago.
+312504615) LEE
+{SadA}I was on my way to prison three months ago.
+312504629) 
+I was on my way to prison three months ago.
+312504666) LEE
+{SadA}I was on my way to prison three months ago.
+312504540) 
+Never mind.
+312504587) 
+Never mind.
+312504541) LEE
+{sadA}I killed someone before all this.
+312504542) KENNY
+{normalC}Uh...
+312504543) LEE
+{sada}I know.{fearA} I didn't say anything when I met you because I was with the girl and, you know, I was worried...
+312504608) LEE
+{sada}I know.{fearA} I didn't say anything when I met you because I was with the girl and, you know, I was worried...
+312504544) KENNY
+{thinkingA}I just smashed a guy's head in with a fifty pound block of salt. You saw me do that, right?
+312504545) LEE
+{normalB}Yeah, I did.
+312504546) KENNY
+[pickup 2] [bad read: Emphasis is off. Should be on "everything this mess has got us doing NOW, Lee.' Not 'DOIN now, Lee.'] And you're talking about who we were? {disgustA}'The fuck does that matter?{thinkingA} It's everything this mess has got us doin' now, Lee. Shit.
+312504547) KENNY
+{angryA}Look, is Duck safe around you?
+312504548) LEE
+{sadA}Of course.
+312504605) LEE
+{normalc}Of course.
+312504549) KENNY
+{thinkingA}Then shut it. {angryA}You don't owe anybody any kinda explanation.
+312504551) KENNY
+{surprisedA}No shit?
+312504552) LEE
+{disgustA}No shit.
+312504610) LEE
+{disgustA}No shit.
+312504614) KENNY
+{surprisedA}No shit?
+312504553) KENNY
+It wasn't for touching kids was it?
+312504617) KENNY
+{angrya}[stern alt] It wasn't for touching kids, was it.
+312504554) LEE
+{angryb}Gah, come on, man.
+312504555) KENNY
+{fearA}What? I gotta ask!
+312504556) LEE
+{angryA}No. {disgustA}I killed a guy in a fight.
+312504557) KENNY
+{thinkingA}Hmm. Musta' been a real piece a' shit if you had to haul off and kill him.
+312504558) LEE
+{thinkingA}So we're straight then?
+312504559) KENNY
+{thinkingA}Lee, look at everything this mess has got us doin' now. {sadA}I'm sorry you went through whatever you went through. {normalA}Yeah, we're "straight."
+312504560) LEE
+{sadA}Forget it. Never mind.
+312504621) LEE
+{sadA}Forget it. Never mind.
+312504670) LEE
+{sadA}Forget it. Never mind.
+312504561) KENNY
+{thinkingA}You sure?
+312504562) LEE
+{normalC}Yeah. I'm sure. It's not important.
+312504563) KENNY
+{thinkingA}Holy crap, what'd she do to you?
+312504564) KENNY
+{thinkingA}All right, well, I guess it's not important.
+312504565) KENNY
+{angrya}Knock it off, pal.
+312504594) KENNY
+{disgustA}Okay, [a little sarcastic] {normalA}should I sit down?
+312504595) LEE
+{angryA}Come on.
+312504598) KENNY
+{thinkingA}Yeah, what d'ya got?
+312504599) KENNY
+{thinkingA}A citizen?
+312504600) LEE
+{normalB}Before all this, {normalC}I killed somebody.
+312504601) LEE
+{thinkingA}Yes.
+312504602) LEE
+{normalC}[frustrated sigh]
+312504645) KATJAA
+{fearB}[a tiny gasp, you've just heard something shocking]
+312504650) KATJAA
+{fearB}[a tiny gasp, you've just heard something shocking]
+312504713) KENNY
+[sigh]
+312504603) KENNY
+{normalA}I appreciate it though.
+312504604) LEE
+{angrya}It's not like that.
+312504606) KENNY
+{angryb}[frustrated alt] Is Duck safe around you?
+312504607) KENNY
+{thinkingA}Good. But you should know, if we gotta make numbers when it comes to a boat, this is gonna matter.
+312504619) KENNY
+{thinkingA}Good. But you should know, if we gotta make numbers when it comes to a boat, this is gonna matter.
+312504609) KENNY
+{angryA}Look, we've all done gnarly shit now, but what, {thinkingA}you were some kinda killer?
+312504611) KENNY
+{angrya}Should I be worried there's anything else in your past that's going to come out?
+312504612) LEE
+{angryA}I killed a guy in a fight.
+312504613) LEE
+{angrya}No.
+312504651) 
+No.
+312504616) LEE
+{angrya}[firm, annoyed.] No. It wasn't.
+312504618) KENNY
+{thinkinga}Because we got two here.
+312504620) KENNY
+{thinkingA}Have it your way.
+312504622) KENNY
+{ThinkingA}You're wasting my time here.
+312504623) KENNY
+{thinkingA}So this isn't important?
+312504624) KENNY
+{angrya}Can you knock it the fuck off?
+312504625) 
+Katjaa, can I talk to you for a second?
+312504626) LEE
+{NormalB}Can I talk to you about something?
+312504627) KATJAA
+{HappyA}Sure. Is everything okay?
+312504628) 
+I've killed.
+312504630) 
+Forget it.
+312504631) KATJAA
+{NormalB}You mean you were a murderer?
+312504632) KATJAA
+{NormalB}Tell me what happened when you were locked in the fridge. {ThinkingA}At the dairy.
+312504633) KATJAA
+{ThinkingA}Would he have killed you?
+312504634) LEE
+{AngryA}It was in a dispute.
+312504635) LEE
+{SadA}I don't know.
+312504636) LEE
+{NormalC}You say that like it was my job.
+312504637) KATJAA
+[worried] Well what are the details?
+312504638) 
+Okay.
+312504639) LEE
+{SadA}I was giving Larry CPR with Lilly {SadB}and Kenny came in from out of nowhere and put a stop to it.
+312504640) KATJAA
+{SadB}Everything keeps changing.
+312504648) KATJAA
+{SadB}Everything keeps changing.
+312504641) KATJAA
+[emotional, demanding] {fearA}What did he do?
+312504647) KATJAA
+[emotional, demanding] {fearA}What did he do?
+312504642) LEE
+{SadB}Katjaa...
+312504649) LEE
+{SadB}Katjaa...
+312504643) LEE
+{SadC}He smashed his head in.
+312504646) LEE
+{SadC}He smashed his head in.
+312504644) LEE
+{SadA}I held Lilly back and Kenny... {SadB}made sure Larry didn't get up.
+312504652) LEE
+{SadA}It doesn't matter. {AngryB}Larry died.
+312504653) LEE
+{AngryA}He didn't tell you?
+312504654) KATJAA
+{ThinkingA}Did you kill him?
+312504655) LEE
+{AngryB}They haven't.
+312504656) KATJAA
+[frustrated] {AngryA}Well, thanks. {ThinkingA}I'm not happy to hear it, {AngryA}but thanks.
+312504657) KATJAA
+{ThinkingA}Nobody tells me anything. {AngryA}How long has everybody else known about you?
+312504658) KATJAA
+{fearB}My goodness, for what? {fearB}How much trouble can a teacher get into?
+312504659) LEE
+{NormalD}It was for murder.
+312504660) KATJAA
+[sigh, unhappy] {fearB}Why?
+312504661) KATJAA
+{NormalB}Tell me what happened when you were locked in the fridge. {AngryA}At the dairy.
+312504662) LEE
+{SadA}He and my wife {SadB}were...
+312504663) LEE
+{AngryA}Well, plenty, {AngryA}but it had nothing to do with that.
+312504664) KATJAA
+{ThinkingA}That's enough.
+312504667) KATJAA
+{normalA}Okay, {HappyC}well, if you ever want to talk.
+312504668) LEE
+{NormalB}It's not a big deal.
+312504669) KATJAA
+{DisgustA}Are you sure nothing's wrong?
+312504671) KATJAA
+{normalA}What is it, Lee?
+312504672) KATJAA
+{normalC}What's troubling you?
+312504673) KATJAA
+{FearA}You're worrying me. I'm going to walk away now.
+312504674) 
+You need to try harder with Lilly.
+312504675) 
+You guys trust everyone here?
+312504676) LEE
+{fearA}You need to try harder with Lilly. {angrya}You guys gotta straighten this out.
+312504677) KENNY
+{normalb}Don't know how straight we can get it given all that's happened.
+312504678) LEE
+{thinkingA}So what then?
+312504679) KENNY
+{angrya}Time'll come we'll have to do what's best for our families, and that's what we'll do.
+312504680) KENNY
+{ThinkingA}More or less. {NormalA}I obviously have my problems with Lilly but I don't distrust her.
+312504681) KATJAA
+{NormalA}Yeah, we can't turn on each other any more than we have.
+312504682) LEE
+{NormalB}You guys {NormalD}trust everyone here?
+312504683) 
+Do you know anything about a broken flashlight?
+312504684) LEE
+{normalA}Do you guys know anything about this broken flashlight?
+312504685) KENNY
+{thinkingA}Fuck, {fearA}we don't got many of those.
+312504686) LEE
+{normalC}Yeah, it's a problem. The glass and the bulb are all busted out.
+312504687) KATJAA
+[reminded] {NormalA}I saw some broken glass over by the ice machine. {ThinkingA}I meant to clean it up before the kids hurt themselves on it; {NormalA}I forgot though.
+312504688) KATJAA
+{sadA}I'm sorry, {normalB}how are you Lee?
+312504689) LEE
+{normalA}Hey you two, how are you doing?
+312504690) KATJAA
+{normalC}We're okay.
+312504691) KENNY
+{normalC}Just having a little spat.
+312504692) KATJAA
+{angryA}We all carry guns now and, well, I don't like it.
+312504693) KENNY
+{angryA}It's the way it's gotta be.
+312504694) KATJAA
+{angryA}I know, but I'm not getting used to it.
+312504695) LEE
+{normalA}Hi, guys.
+312504696) 
+Have you seen any chalk around?
+312504697) LEE
+{normalA}Have you seen any chalk around?
+312504698) KATJAA
+{HappyC}Ha, yes, {HappyA}Clementine loves to draw with it.
+312504699) KATJAA
+{NormalA}Sorry, Lee.
+312504700) LEE
+{normalA}Yeah, she says she's missing a piece of it.
+312504701) KENNY
+{normalA}Well I don't know anything about that.
+312504702) LEE
+{normalA}Yeah, of course. I'll talk to her.
+312504703) LEE
+{thinkingA}[to himself] I should show this to Lilly before causing any uproar.
+312504704) LEE
+{NormalB}I'll talk to you later.
+312504705) 
+Do you guys know anything about missing meds?
+312504711) LEE
+Do you guys know anything about missing meds?
+312504706) KATJAA
+The inventory keeps count of everything we find, no?
+312504707) LEE
+Yeah and it's accurate.
+312504708) KENNY
+So what's the problem?
+312504709) KENNY
+Shit, things are missing?
+312504710) LEE
+I'm not sure.
+312504712) 
+About the guns...
+312504718) LEE
+About the guns...
+312504714) LEE
+But we need them, there's no doubt about that.
+312504715) KENNY
+Don't you start.
+312504716) LEE
+I just wanted to say, Kat, it's probably good they make you uncomfortable.
+312504717) KATJAA
+Thank you, Lee.
+312504720) KATJAA
+{NormalA}Hi, Lee.
+312504721) 
+Talk to
+312504722) 
+Show Flashlight to
+312504723) 
+Show Bag to
+312504724) 
+Ask About Chalk
+312504725) LEE
+[pickup2] [alt]I killed someone. Different than Larry or the St. Johns. Different from everything. This was before the walkers.
+312504726) LEE
+[pickup2] [alt]I killed someone. Different than Larry or the St. Johns. Different from everything. This was before the walkers.
+312504727) LEE
+[pickup2] I've killed before. I mean before the walkers showed up.
+312504728) LEE
+[pickup2] You've always looked at me with kind eyes and I wonder if you would still do that if you knew I was a convicted felon.
+312504729) LEE
+<<id:>>{disgustA}Shut up, man.
+312504730) LEE
+<<id:>>[pickup2] [alt]I killed someone. Different than Larry or the St. Johns. Different from everything. This was before the walkers.

@@ -1,0 +1,234 @@
+312591582) 
+Console
+312643650) LEE
+{thinkingA}What are you thinking about?
+312643652) LEE
+{sadA}You want to talk?
+312643653) CLEMENTINE
+Yes.
+312643687) BEN
+[sad] {disgustA}Yes.
+312643654) LEE
+{sadB}You understand what happened?
+312643655) LEE
+{sadA}Okay.
+312643685) BEN
+[sad, choked up] {sadC}Okay.
+312643656) LEE
+[taken aback] {surpriseB}What? {angryC}The fuck he did.
+312643657) LEE
+{thinkingB}What'd Chuck say?
+312643658) CLEMENTINE
+What Chuck said.
+312643659) CLEMENTINE
+That what happened to Duck would happen to me.
+312643661) LEE
+{sadA}Sorry. {angryB}I'm gonna go talk some sense into him.
+312643662) CLEMENTINE
+[that was a ] Swear.
+312643663) CLEMENTINE
+Don't be mad.
+312643664) LEE
+[jerked out of his own thoughts] {surpriseB}Huh?
+312643665) BEN
+[needs to tell someone, horrifed to do so] {sadB}It was me.
+312643666) BEN
+{disgustA}It's all my fault.
+312643667) BEN
+{sadC}I was the one giving the bandits supplies.
+312643668) LEE
+[dead serious] {angryC}WHAT?
+312643669) 
+I could kill you.
+312643705) LEE
+{angryD}I could kill you. [threatening]
+312643670) 
+Jesus, Ben...
+312643683) LEE
+{sadC}Jesus, Ben...
+312643671) 
+Why would you do that?
+312643673) BEN
+[more broken up] {fearB}Oh fuck...what do I do?
+312643674) BEN
+{sadC}By the time I realized they didn't it was too late... {fearB}they said they'd kill me. Kill all of us. {sadC}I'm sorry, Lee.
+312643680) BEN
+{sadC}By the time I realized they didn't it was too late... {fearB}they said they'd kill me. Kill all of us. {sadC}I'm sorry, Lee.
+312643675) BEN
+[really broken up] {thinkingA}Say something... {sadC}please. I deserve everything; everything I got coming to me.
+312643676) BEN
+[so sad] {sadC}I'm sorry.
+312643677) BEN
+[broken up] {fearA}They said they had my friend, that he was with them.
+312643681) BEN
+[broken up] {fearA}They said they had my friend, that he was with them.
+312643690) BEN
+[broken up] {fearA}They said they had my friend, that he was with them.
+312643678) LEE
+{disgustA}What for? {angryB}Why the hell would you do this?
+312643679) BEN
+{sadB}Well...no, I didn't have a good reason. {sadC}I thought I did. I fucked up. I'm sorry.
+312643682) BEN
+[sad]{sadC}I know.
+312643684) LEE
+{disgustA}Just...stop. {sadC}Fuck. [sigh] {angryB}Can we even trust you?
+312643686) LEE
+{angryB}No. Just... don't tell anybody. {angryC}You can't take any of it back so, don't, okay?
+312643688) BEN
+{sadB}I just--
+312643689) LEE
+{disgustA}Why'd you have to go and tell me that?
+312643703) LEE
+{angryB}WHY SHOULDN'T I?
+312643704) BEN
+{fearC}I...I...I... [being threatened by Lee]
+312643706) LEE
+{angryC}Nobody can see us. I can toss you over right now and be done with it!
+312643707) BEN
+[gasping for air]{sadC}
+312643708) BEN
+[pickup 2] [new read: Good read, but in context it's a little too relaxed. More panicked like he almost was killed.] [destroyed] {disgustA}I had to tell someone...
+312643709) BEN
+{fearC}They said they had my friend! I didn't know what to do! {fearD}LEE, PLEASE!
+312643710) LEE
+{angryC}I bet you did.
+312643711) BEN
+[panicked to hell] {FearD}No-- I-- LEE, PLEASE.
+312643712) LEE
+{angryB}I'm going to go give that hobo a piece of my mind.
+312643713) LEE
+[grumpy] {angryA}Not now.
+312643714) LEE
+{sadA}It's an empty bottle.
+312643715) LEE
+{thinkingB}Chuck's been through a few of these.
+312643716) LEE
+{thinkingA}I can head out towards the cab.
+312643719) LEE
+{thinkingA}It's the door to the cab.
+312643720) LEE
+Hope we're not in this train much longer.
+312643721) CLEMENTINE
+It's small.
+312643722) LEE
+{normalA}And it's not trying to kill you. {sadA}It'l be harder than this, {thinkingB}but we got to start with the basics.
+312643723) LEE
+{thinkingA}I don't need to mess around in there.
+312643725) CLEMENTINE
+[no] Uh uh.
+312643726) LEE
+{thinkingA}Empty, I think.
+312643727) LEE
+{surpriseA}It's a fifth of whiskey.
+312643728) LEE
+{surpriseA}Looks like Chuck has some booze left.
+312643729) LEE
+{thinkingA}It's full of maps and documents.
+312643731) LEE
+{thinkingB}Mind if I get by you for a second, Kenny?
+312643732) KENNY
+{angryA}Can you just leave me alone?
+312643733) KENNY
+{angryA}Get out of here.
+312643734) KENNY
+[pissed]{angryC}What's your problem?
+312643735) LEE
+{sadB}You mind if I look in there for a second?
+312643736) KENNY
+{angryB}I really wish you'd just leave me alone.
+312643737) LEE
+{thinkingB}There are some scissors in Chuck's pack.
+312643738) LEE
+{disgustA}They look clean enough.
+312643740) LEE
+{thinkingA}I found this in your pack, if you want it.
+312643741) CHUCK
+{happyD}Damn, {happyB}didn't realize I had it left. Thank ya.
+312643742) CHUCK
+{happyA}Want a nip?
+312643743) 
+Sure.
+312643745) LEE
+{thinkingA}Sure.
+312643744) 
+Nah, I'm fine.
+312643749) LEE
+{thinkingB}Nah, I'm fine.
+312643746) LEE
+[after a swig of cheap whiskey] {surpriseA}Oof.
+312643747) CHUCK
+{happyB}Not known for its finish.
+312643748) LEE
+{disgustA}No kidding.
+312643750) CHUCK
+{thinkingA}Suit yourself.
+312643753) CHUCK
+{thinkingA}Suit yourself.
+312643751) CHUCK
+[finishing a swig of bad whiskey] {thinkingA}Anybody in there want to share a drink, you let 'em know.
+312643752) LEE
+{sadA}Will do.
+312643754) 
+Talk To
+312643756) 
+Talk To
+312643755) 
+Give Bottle To
+312643757) 
+Show Gun To
+312643758) 
+Show Map To
+312643761) 
+Take
+312643775) 
+Take
+312643762) 
+Look At
+312643768) 
+Look At
+312643769) 
+Look At
+312643773) 
+Look At
+312643776) 
+Look At
+312643766) 
+Bloodstain
+312643767) 
+Open
+312643770) 
+Open
+312643780) 
+Open
+312643786) 
+Open
+312643774) 
+Search
+312643777) KENNY
+[flat] Thanks.
+312643778) LEE
+The door to the boxcar.
+312643781) 
+Cab Door
+312643782) 
+Boxcar Door
+312643785) 
+Map Bin
+312643787) 
+Show Scissors To
+312643789) 
+Bottle of Whiskey
+312643790) 
+Backpack
+312643791) LEE
+[pickup2] I was lucky enough to get it working ONCE.
+312643792) LEE
+[pickup2] [for chucks' camp] He's lived here a while.
+312643793) 
+Chuck's Camp
+312643795) BEN
+[pickup3] [unsure, nervous] Hey, Lee...
+312643796) BEN
+[pickup3] [unsure, nervous] Back at the Motor Inn, you trusted me with your past...
+312643797) BEN
+[pickup3] [unsure, nervous] I... I need to tell you...

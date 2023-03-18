@@ -1,0 +1,190 @@
+312508511) 
+I need to tell you something.
+312508512) LEE
+{normalC}Clem, {normalA}I need to talk to you for a second.
+312508513) CLEMENTINE
+{normalA}Okey dokey.
+312508514) 
+I was going to prison the day I met you.
+312508515) 
+You should know I killed someone once.
+312508516) 
+Nevermind.
+312508517) LEE
+{normalB}The day you and I met, I was in a car accident.
+312508518) CLEMENTINE
+{normalA}I remember, {sadA}your leg was bleeding.
+312508519) LEE
+{sadA}The car I was in was a police car and I was on my way to jail for committing a crime.
+312508520) LEE
+{normalB}I need to tell you now {sadA} 'cause I don't want you to hear it any other way.
+312508521) CLEMENTINE
+{sadA}Okay.
+312508562) LEE
+{normalA}Okay.
+312508581) CLEMENTINE
+{happyA}Okay.
+312508522) LEE
+{normalA}Do you have anything to say?
+312508523) CLEMENTINE
+{sada}I don't think so.
+312508524) LEE
+{normalB}You can go on back to your things.
+312508532) LEE
+{normalD}You can go on back to your things.
+312508525) LEE
+{sadA}Before I met you and before the plague I killed somebody.
+312508526) CLEMENTINE
+{surprisedA}Oh. {sadA}So that's what...
+312508527) LEE
+{normalD}Yeah, that's it.
+312508528) LEE
+{sadA}It was a bad thing and there's no explaining it.
+312508529) CLEMENTINE
+{sadA}Why are you telling me?
+312508530) LEE
+{normalb}Because I didn't want to keep it to myself any more.
+312508531) LEE
+{normalD}Do you have any questions?
+312508533) LEE
+{thinkingA}Never mind, actually.
+312508534) CLEMENTINE
+{fearA}Am I in trouble?
+312508535) LEE
+{fearA}No, sweet pea.
+312508536) CLEMENTINE
+{normalA}Okay. I'm going back to my chalk before Duck breaks more of it.
+312508539) CLEMENTINE
+{normalA}Okay. I'm going back to my chalk before Duck breaks more of it.
+312508537) CLEMENTINE
+{fearA}Lee?
+312508538) CLEMENTINE
+{thinkingA}You said you wanted to say something...
+312508540) CLEMENTINE
+{happyA}Hey, Lee.
+312508597) CLEMENTINE
+{happyA}Hey, Lee.
+312508599) CLEMENTINE
+{happyA}Hey, Lee.
+312508601) CLEMENTINE
+{happyA}Hey, Lee.
+312508603) CLEMENTINE
+{happyA}Hey, Lee.
+312508605) CLEMENTINE
+{happyA}Hey, Lee.
+312508541) LEE
+{normalA}Hey, Clementine.
+312508596) LEE
+{normalA}Hey, Clementine.
+312508598) LEE
+{normalA}Hey, Clementine.
+312508600) LEE
+{normalA}Hey, Clementine.
+312508602) LEE
+{normalA}Hey, Clementine.
+312508604) LEE
+{normalA}Hey, Clementine.
+312508542) 
+What do you think about Doug?
+312508544) LEE
+{normalA}What do you think about Doug?
+312508543) CLEMENTINE
+{normalD}I'm okay.
+312508545) LEE
+{normalD}You?
+312508546) CLEMENTINE
+{sadA}Everyone is.
+312508547) LEE
+{normalD}Yeah.
+312508548) LEE
+{thinkingB}Cool?
+312508549) LEE
+{thinkingA}You don't think he seems down?
+312508550) CLEMENTINE
+{happya}He knows things.
+312508551) CLEMENTINE
+{normalA}He's cool.
+312508552) CLEMENTINE
+{thinkingA}Like sad?
+312508553) 
+Do you have any pink chalk?
+312508554) LEE
+{normalA}Do you have any pink chalk?
+312508555) CLEMENTINE
+{thinkingb}[annoyed] No. {thinkingA}It's gone somewhere.
+312508556) LEE
+{thinkingA}Hmm.
+312508557) CLEMENTINE
+{normalB}Do you want blue?
+312508558) LEE
+{normalA}No, no, it's okay.
+312508559) 
+Have you seen anything weird going on?
+312508560) LEE
+{thinkingA}Have you seen anything strange going on?
+312508561) CLEMENTINE
+{normalA}No, nothing then.
+312508563) LEE
+{normalB}I mean, other than everything that's happening out there.
+312508564) 
+You didn't break a flashlight, accidentally?
+312508565) LEE
+{normalB}Like what?
+312508566) CLEMENTINE
+{sadA}Putting a bug on his pillow.
+312508567) CLEMENTINE
+{sadA}No, {thinkingB}did Duck say I did?
+312508568) LEE
+{thinkingA}Did you do that?
+312508569) LEE
+{normalA}No. {thinkingA}Did Duck break the flashlight?
+312508570) CLEMENTINE
+{thinkingA}I don't think so. He's just always blaming me for stuff.
+312508571) LEE
+{normalC}You didn't accidentally break a flashlight, did you?
+312508572) CLEMENTINE
+[shy/embarassed] {sadA}Yes.
+312508574) CLEMENTINE
+{thinkingA}I don't LIKE it here.
+312508575) CLEMENTINE
+{fearA}I don't know. {thinkingA}Maybe if I knew where.
+312508576) CLEMENTINE
+{normalA}Where are we going?
+312508577) LEE
+{normalD}Do you like it here?
+312508585) 
+Do you like it here?
+312508578) LEE
+{thinkingA}Do you want to leave?
+312508579) LEE
+{normalA}Somewhere else.
+312508580) LEE
+{normalD}Yeah, that'd be a good thing to know.
+312508582) LEE
+{normalA}I'll talk to you later, Clem.
+312508583) LEE
+{normalA}How's the drawing?
+312508584) CLEMENTINE
+{happyA}Good.
+312508586) 
+Whatcha doin' there?
+312508587) LEE
+[pickup2]What's that you're working on, Clem?
+312508588) CLEMENTINE
+[pickup2]It's called a leaf rubbing. My teacher Miss Moore showed us how to
+do 'em when we went to the Botanical Garden once.
+312508589) CLEMENTINE
+[pickup2][holds up a half-completed rubbing in one hand and the leaf in the
+other] See? It's the same! Uhm, kind of.
+312508590) LEE
+[pickup2][smiles and chuckles] [pickup2]That's really something.
+312508591) CLEMENTINE
+[beams] I'll make one for you, too!
+312508592) 
+Talk To
+312508593) 
+Show Bag to
+312508594) 
+Ask About Chalk
+312508595) 
+Show Flashlight To

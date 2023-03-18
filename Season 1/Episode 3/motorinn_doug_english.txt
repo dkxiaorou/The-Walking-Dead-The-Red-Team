@@ -1,0 +1,124 @@
+312516735) 
+You know anything about missing meds?
+312516736) 
+Do you have any chalk I can borrow?
+312516745) LEE
+{thinkingA}Do you have any chalk I can borrow?
+312516796) LEE
+{thinkingA}Do you have any chalk I can borrow?
+312516737) 
+What do you think about Lilly?
+312516751) LEE
+{normalA}What do you think about Lilly.
+312516738) LEE
+{thinkingA}I'm not talking about using.
+312516739) DOUG
+{normalC}I don't know anything. Honest.
+312516740) LEE
+{thinkingA}Do you know anything about the missing meds?
+312516741) DOUG
+{fearA}No, not at all. I can't drink a cup of tea without getting the jitters.
+312516742) DOUG
+{happyA}Since we're on the subject, did you know that while chalk is traditionally known to be calcium carbonate, what's often used in classrooms is actually made of gypsum, thanks to favorable domestic mining conditions?
+312516743) LEE
+{thinkingB}Doug, I did not know that.
+312516744) DOUG
+{happyA}Happy to be of service.
+312516746) DOUG
+{normalA}No, don't the kids have some? You know, a piece of charcoal is a suitable alternative, depending on your marking surface.
+312516747) LEE
+{thinkingB}...Doug?
+312516748) DOUG
+{normalB}I dunno, I guess I'm sad. {sadA}Nobody deserves to lose their parent like that.
+312516749) LEE
+{thinkingA}You don't think that would make her delusional, do you?
+312516750) DOUG
+{normalA} I think it could make you anything. {fearA}Nothing good.
+312516752) 
+What are you working on?
+312516763) LEE
+{thinkingA}What are you working on?
+312516753) 
+Do you feel safe here?
+312516766) LEE
+{thinkingA}Do you feel safe here?
+312516754) 
+You know anything about this flashlight?
+312516755) DOUG
+{happyA}Well, I can tell you --
+312516756) LEE
+{thinkingb}Wait wait wait -- I know you know everything about this flashlight. {normalC} I'm asking if you know how it got busted. Lilly found it in a dumpster.
+312516757) DOUG
+{normalA}Oh. No. I don't. I'll keep my eye out for some suitable parts, though.
+312516758) DOUG
+{happyA}That'll give me something useful to do.
+312516759) LEE
+{normalD}Do you know anything about this flashlight?
+312516760) DOUG
+{normalA}I'm just trying to focus on the wall. {sadA}Anything I'd like to contribute needs batteries or tools I just don't have.
+312516761) LEE
+{happyA}The wall's important.
+312516762) DOUG
+{sada}I guess. I feel worthless on watch because I'm not wild about guns and I just wish I was more helpful.
+312516764) DOUG
+{normalB}I think if we can get whoever is out there to leave us alone, this is a good place to be.
+312516765) DOUG
+{thinkingA}And, you know, they sort of stopped attacking. {normalB}Maybe they forgot about us.
+312516767) DOUG
+{thinkingA}Hmm. Safety has always been a bit of an elusive thing for me...
+312516768) LEE
+{normalA}I mean at the motel, as opposed to finding somewhere new.
+312516769) LEE
+{thinkingA}Or maybe someone convinced them we're worth more alive.
+312516770) LEE
+{normalA}I'll catch you later, Doug.
+312516771) DOUG
+{normalA}Hiya.
+312516783) DOUG
+{normalA}Hiya.
+312516785) DOUG
+{normalA}Hiya.
+312516787) DOUG
+{normalA}Hiya.
+312516789) DOUG
+{normalA}Hiya.
+312516791) DOUG
+{normalA}Hiya.
+312516793) DOUG
+{normalA}Hiya.
+312516794) DOUG
+{normalA}Hiya.
+312516772) LEE
+{normalA}Hey Doug.
+312516782) LEE
+{normalA}Hey Doug.
+312516784) LEE
+{normalA}Hey Doug.
+312516786) LEE
+{normalA}Hey Doug.
+312516788) LEE
+{normalA}Hey Doug.
+312516790) LEE
+{normalA}Hey Doug.
+312516792) LEE
+{normalA}Hey Doug.
+312516795) LEE
+{normalA}Hey Doug.
+312516773) LEE
+{thinkingA}[self] I really don't have anything else to ask him right now.
+312516774) LEE
+{sadA}I wish Doug felt more useful around here.
+312516775) LEE
+{thinkingA}I should show this to Lilly before making any accusations.
+312516776) 
+Talk to
+312516781) 
+Talk To
+312516777) 
+Show Flashlight to
+312516778) 
+Show Bag to
+312516779) 
+Ask About Chalk
+312516780) DOUG
+[pickup2] I'm tearing down this furniture to patch up the wall. If we go on like this, we'll have half the Travelier piled up out here before we know it.

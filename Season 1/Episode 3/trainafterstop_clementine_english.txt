@@ -1,0 +1,728 @@
+312651832) LEE
+{angryA}Where'd he go?
+312651833) CLEMENTINE
+[pickup 2] [new read: Good read, but the emphasis is off. Their emphasizing more 'don't be mad' rather than just making it one statement of 'I said don't be mad.'] {sadA}I said "don't be mad."
+312651834) LEE
+[to clem] {angryA}I heard you.
+312651835) LEE
+{angryA}I'll be right back.
+312651864) LEE
+{thinkingA}I'll be right back.
+312651836) LEE
+{sadB}It's not safe.
+312651837) CLEMENTINE
+{fearA}Just a trim, right?
+312651838) CLEMENTINE
+[sad] {sadB}Oh no, what happened?
+312651839) LEE
+{sadA}So, you're probably not going to like this.
+312651840) CLEMENTINE
+[remembering a shitty thing]  {sadB}Yeah...
+312651841) LEE
+{surpriseA}Nothing. {sadA}We have to talk about your hair.
+312651842) CLEMENTINE
+{angryA}That's not nice.
+312651843) CLEMENTINE
+{sadA}Are you saying it smells?
+312651844) LEE
+[puzzled] {thinkingA}What?
+312651846) LEE
+{happyA}No. [half laugh sigh]
+312651847) LEE
+{thinkingA}I need to cut it short enough so that it can't get grabbed.
+312651848) CLEMENTINE
+[disappointed sigh] {sadA}Okay.
+312651865) CLEMENTINE
+Okay.
+312652060) LEE
+[small] {sadA}Okay.
+312652088) CLEMENTINE
+{thinkingA}Okay.
+312651849) LEE
+{sadA}Well that could happen again. And if it's a walker, well.... We need to trim it.
+312651850) CLEMENTINE
+{sadB}Because it does, kinda.
+312651851) LEE
+{thinkingB}Do you remember when Andy St. John grabbed it? And I got mad?
+312651852) 
+So... here's the thing about your hair.
+312651856) 
+Chuck had a point.
+312651857) 
+I'm going to look around for a few things.
+312651858) 
+I want to talk about Savannah.
+312652038) LEE
+{normalD}I want to talk about Savannah.
+312651859) 
+You need to learn to protect yourself.
+312651861) 
+Be careful around Ben.
+312652004) LEE
+{thinkingB}Be careful around Ben.
+312651862) LEE
+{thinkingA}Try to get some rest.
+312651866) 
+What do you think about Chuck?
+312652026) LEE
+{thinkingA}What do you think about Chuck?
+312651867) 
+What a crappy day.
+312652009) LEE
+{sadB}What a crappy day.
+312651868) CLEMENTINE
+[relaxes] Okay. What should we do?
+312651869) LEE
+{thinkingA}Well, we're going to figure out a plan for when we get to Savannah, {happyA}teach you how to protect yourself and, uh, tidy you up a little {FearA}so you can't get grabbed so easily.
+312651870) CLEMENTINE
+I'd like that.
+312651871) LEE
+{happyA}Good.
+312651930) CLEMENTINE
+{thinkingA}Good?
+312652181) LEE
+{happyB}Good.
+312651872) LEE
+{sadB}Chuck had a point, you know.
+312651873) LEE
+{thinkingA}Look, we're not going to let anything bad happen to you. {sadA}But there are some precautions we have to take.
+312651874) CLEMENTINE
+Okay, yeah, that makes sense.
+312651875) LEE
+{happyA}Don't worry, sweet heart.
+312651882) LEE
+{happyA}Hey, Clem.
+312651893) LEE
+{happyA}Hey, Clem.
+312652210) LEE
+{happyA}Hey, Clem.
+312651883) CLEMENTINE
+Did you talk to him?
+312651884) LEE
+{thinkingA}I did, he had some, {sadB}uh... he explained himself and made some good points.
+312651886) LEE
+{thinkingA}How are you doing?
+312651890) LEE
+{thinkingA}How are you doing?
+312651887) CLEMENTINE
+My hands hurt and my ears have a noise in them.
+312651888) CLEMENTINE
+[makes a ringing noise to illustrate what she's talking about]
+312652108) CLEMENTINE
+{cryingB}[sobbing]
+312652130) CLEMENTINE
+{cryingB}[sobbing]
+312652131) CLEMENTINE
+[quietly sobs, sniffles]
+312652142) CLEMENTINE
+{cryingB}[sobbing]
+312652168) CLEMENTINE
+{cryingB}[sobbing]
+312652170) CLEMENTINE
+[quietly sobs, sniffles]
+312651889) LEE
+{sadA}You'll get used to it.
+312651891) CLEMENTINE
+Good. I'm glad we have a plan.
+312651892) LEE
+{happyA}Me, too.
+312651947) LEE
+{sadB}Me too.
+312652036) CLEMENTINE
+{happyA}Me, too.
+312652203) CLEMENTINE
+{happyB}Me, too.
+312651894) CLEMENTINE
+Hi.
+312651897) 
+Cut hair
+312651898) 
+Wait
+312651899) LEE
+{thinkingA}Mind if we do this now?
+312651900) CLEMENTINE
+{sadB}I guess not.
+312651901) LEE
+{normalD}Don't mope. {happyA}It's a good thing.
+312651902) LEE
+{thinkingA}You know, we don't have to to do this right away.
+312651903) CLEMENTINE
+{happyA}Okay, good.
+312651911) CLEMENTINE
+That would be good. I hope it's safe there.
+312651912) LEE
+{sadB}God, me too.
+312651913) LEE
+{thinkingB}I need to look around for a few things that'll make sure we're prepared when we get to Savannah.
+312651914) CLEMENTINE
+{fearB}Do you know how to do this?
+312651915) 
+Nope. No idea.
+312651916) 
+How hard can it be?
+312651924) LEE
+{happyA}How hard can it be?
+312651917) 
+Yeah, of course.
+312651927) LEE
+{happyA}Yeah, of course.
+312651918) CLEMENTINE
+{sadC}I'd rather be dead.
+312651919) LEE
+{angryA}Shush now.
+312651925) LEE
+{angryA}Shush now.
+312651920) LEE
+{sadA}Nope. No idea. {thinkingA}I'm not much of a stylist, you know.
+312651921) CLEMENTINE
+[flat] {sadB}I'm going to look like a boy.
+312651923) CLEMENTINE
+[flat] {sadB}I'm going to look like a boy.
+312651931) CLEMENTINE
+[flat] {sadB}I'm going to look like a boy.
+312651922) LEE
+{happyA}But think of how much safer you'll be.
+312651926) LEE
+{thinkingA}It means you know when someone is lying to you, {happyA}which is another valuable survival skill.
+312651928) CLEMENTINE
+{sadA}I don't believe you.
+312651929) LEE
+{thinkingA}Well...good.
+312651944) LEE
+[with regret] {sadA}Yep.
+312651945) CLEMENTINE
+{sadA}So you did kill someone, before.
+312651946) CLEMENTINE
+{sadA}I'm glad you finally told me.
+312651948) CLEMENTINE
+{thinkingA}You've killed lots of things now; {sadA}it doesn't even matter.
+312651951) CLEMENTINE
+{thinkingA}You've killed lots of things now; {sadA}it doesn't even matter.
+312651949) LEE
+{sadC}I'm sorry.
+312651950) CLEMENTINE
+{thinkingA}You could've just told me. {sadA}I wouldn't have been afraid of you or anything.
+312651952) 
+No. It's different.
+312651959) LEE
+{sadA}No, it's different.
+312651953) 
+Killing is bad, no matter what.
+312651960) LEE
+{thinkingB}Killing is bad, no matter what.
+312651954) 
+You're right.
+312651965) LEE
+{thinkingA}You're right.
+312651955) CLEMENTINE
+{thinkingA}Did people ever go to jail when they shouldn't?
+312651967) CLEMENTINE
+{thinkingA}Did people ever go to jail when they shouldn't?
+312651956) LEE
+{thinkingA}All the time.
+312651968) LEE
+{thinkingA}All the time.
+312651957) LEE
+{sadB}I was sent to jail.
+312651958) CLEMENTINE
+{thinkingA}But you do it now to protect yourself -- and to protect me.
+312651962) CLEMENTINE
+{thinkingA}But you do it now to protect yourself -- and to protect me.
+312651961) CLEMENTINE
+{thinkingA}But you have to.
+312651963) LEE
+{sadA}It doesn't make it good.
+312651964) LEE
+{angryA}I do it because it's necessary. And walkers aren't people.
+312651969) LEE
+{thinkingB}Before all of this, I was sent to jail, you know.
+312651973) LEE
+{happyB}There, all set.
+312651974) CLEMENTINE
+{happyA}Here, I have some hair thingies.
+312651975) CLEMENTINE
+{thinkingA}Uh, yeah. {happyA}Lilly gave them to me for sleeping.
+312651976) LEE
+{happyA}Okay, I think I'm about done. {thinkingA}I can probably tie these pieces back with something.
+312651977) LEE
+{thinkingA}You do?
+312651978) LEE
+{happyA}Ha, no. You look cute -- {thinkingA}and a lot harder to grab.
+312651979) CLEMENTINE
+{fearA}Does it look dumb?
+312652005) CLEMENTINE
+I like Ben.
+312652006) LEE
+{sadA}I know. He's just...young. And doesn't make the best choices.
+312652007) CLEMENTINE
+I'm young.
+312652008) LEE
+{happyA}You're smart. {thinkingA}Just, listen to me, okay? And be careful.
+312652010) CLEMENTINE
+The crappiest.
+312652011) LEE
+{sadA}If three months ago I'd have known what you'd be seein', I don't know if I would've taken you with me.
+312652012) CLEMENTINE
+I probably would've run out of food.
+312652013) LEE
+{angryA}You damn near starved with me.
+312652014) CLEMENTINE
+I'm glad I came with you.
+312652015) LEE
+{fearC}What the?! Do what he said! I'll be right back!
+312652016) KENNY
+OH, SHIT! HOLD ON EVERYBODY!
+312652017) LEE
+{thinkingA}All right. How do you feel?
+312652018) CLEMENTINE
+{thinkingA}Good. {happyA}Better. {happyB}I'm glad we have a plan.
+312652019) LEE
+{happyB}And you're a good little shot.
+312652020) CLEMENTINE
+{happyA}Thanks.
+312652021) LEE
+{thinkingA}I guess we should see how far--
+312652022) CLEMENTINE
+I don't know.
+312652023) LEE
+{normalD}We'll keep an open mind about him. {sadA}He's probably had it pretty rough.
+312652024) CLEMENTINE
+You think?
+312652025) LEE
+{thinkingB}Me, neither. {thinkingA}He might be an okay guy, though.
+312652027) CLEMENTINE
+[nervous] {fearA}Okay. Okay.
+312652028) LEE
+{thinkingA}First, don't be afraid of it. It's just a thing. Take it.
+312652029) LEE
+{thinkingA}But know where your finger is all the time. {angryA}And don't put it on the trigger unless you want to hurt somebody.
+312652031) LEE
+{angryA}You need to know how to protect yourself.
+312652032) LEE
+{thinkingA}I mean with one of these.
+312652037) LEE
+{thinkingB}And what we're going to do when we get there. We don't know what to expect -- {sadA}the city could be bad or {happyA}totally under control.
+312652039) 
+We should look for your parents.
+312652040) 
+We need to help find a boat.
+312652041) 
+We should go our own way.
+312652059) CLEMENTINE
+{fearB}Well, uhh... I want to find my parents. {fearA}We've come all this way. We have to.
+312652061) LEE
+{happyB}The thing is, you and I, we're a team, you know? And a team needs plan.
+312652062) LEE
+{happyB}Ha, good.
+312652063) CLEMENTINE
+A plan. I like it.
+312652064) LEE
+{thinkingA}Yeah. {sadA}You need to know if they're okay. And, {sadB}well, if they're not, what happened to them.
+312652065) CLEMENTINE
+{happyA}I'm sure they're okay.
+312652066) LEE
+{sadA}I think we should look for your parents.
+312652067) CLEMENTINE
+Really?
+312652120) CLEMENTINE
+{happyA}Really?
+312652151) CLEMENTINE
+{happyA}Really?
+312652068) 
+Don't get your hopes up.
+312652089) LEE
+{sadA}Don't get your hopes up.
+312652069) 
+I think I heard them die.
+312652093) LEE
+{sadC}I think I heard them die.
+312652070) 
+Yeah, stay positive.
+312652071) CLEMENTINE
+{FearA}No. I don't care about safety. {sadA}I care about finding them.
+312652072) CLEMENTINE
+{thinkingB}Okay, but, {fearB}we'll be IN Savannah and my parents were in Savannah.
+312652073) LEE
+{sadA}I know, look--
+312652074) LEE
+{thinkingB}We need to help find a boat. It's our best bet at safety.
+312652075) 
+They're dead. We have to move on.
+312652083) 
+They're dead. We have to move on.
+312652103) LEE
+{sadC}They're dead. We have to move on.
+312652138) LEE
+{sadC}They're dead. We have to move on.
+312652076) 
+Okay. We'll look for them but THEN a boat.
+312652077) 
+Where would we even look?
+312652126) LEE
+{thinkingB}Where would we even look?
+312652157) LEE
+{thinkingB}Where would we even look?
+312652078) LEE
+{thinkingA}We should go our own way when we get there. {sadB}Our crew is falling apart. You and I are stronger alone.
+312652079) LEE
+{sadA}He'll be fine.
+312652080) CLEMENTINE
+{fearB}Can we at least LOOK for my parents when we get there, before we go?
+312652081) CLEMENTINE
+{thinkingA}What about the boat... what about Ben?
+312652084) 
+Okay. We'll look for them but then we move on.
+312652085) 
+Where would we look?
+312652087) LEE
+{happyA}Aside from everyone else, when this train stops you and I should know exactly what we're doing.
+312652090) LEE
+{thinkingB}Let's look at the map. If we can figure out where they were we can start there.
+312652096) LEE
+{thinkingB}Let's look at the map. If we can figure out where they were we can start there.
+312652100) LEE
+{thinkingB}Let's look at the map. If we can figure out where they were we can start there.
+312652102) LEE
+{thinkingB}Let's look at the map. If we can figure out where they were we can start there.
+312652121) LEE
+{thinkingB}Let's look at the map. If we can figure out where they were we can start there.
+312652152) LEE
+{thinkingB}Let's look at the map. If we can figure out where they were we can start there.
+312652091) CLEMENTINE
+{happyB}Okay, let's.
+312652097) CLEMENTINE
+{happyB}Okay, let's.
+312652122) CLEMENTINE
+{happyB}Okay, let's.
+312652150) CLEMENTINE
+{happyB}Okay, let's.
+312652092) CLEMENTINE
+[firm but ont he verge of tears] {sadC}They're not dead.
+312652116) CLEMENTINE
+[firm but ont he verge of tears] {sadC}They're not dead.
+312652140) CLEMENTINE
+[firm but ont he verge of tears] {sadC}They're not dead.
+312652094) CLEMENTINE
+[small] {cryingA}Do you want them to be?
+312652117) CLEMENTINE
+[small] {cryingA}Do you want them to be?
+312652139) CLEMENTINE
+[small] {cryingA}Do you want them to be?
+312652095) LEE
+{sadB}Don't be ridiculous. [revealing] {fearA}I don't want you to get hurt any more than you have.
+312652098) CLEMENTINE
+{happyA}That's what dad always says.
+312652099) LEE
+{fearA}Yeah, it's best to stay positive.
+312652101) CLEMENTINE
+[firm] {thinkingB}I know they're okay.
+312652104) LEE
+{happyA}Okay. That's the plan.
+312652136) LEE
+{happyA}Okay. That's the plan.
+312652145) LEE
+{happyA}Okay. That's the plan.
+312652164) LEE
+{happyA}Okay. That's the plan.
+312652105) LEE
+{sadC}I'm sorry. Don't cry.
+312652133) LEE
+{sadC}I'm sorry. Don't cry.
+312652141) LEE
+{sadC}I'm sorry. Don't cry.
+312652166) LEE
+{sadC}I'm sorry. Don't cry.
+312652106) CLEMENTINE
+[getting over crying] {cryingA}If...we don't find them, then lets get on the boat. {happyA}If we do they can come with us.
+312652135) CLEMENTINE
+[getting over crying] {cryingA}If...we don't find them, then lets get on the boat. {happyA}If we do they can come with us.
+312652107) LEE
+[sigh] {sadC}We're following through with the boat, but we'll look for your parents first.
+312652132) LEE
+[sigh] {sadC}We're following through with the boat, but we'll look for your parents first.
+312652109) LEE
+{sadB}Come here, hon.
+312652134) LEE
+{sadB}Come here, hon.
+312652143) LEE
+{sadB}Come here, hon.
+312652165) LEE
+{sadB}Come here, hon.
+312652118) LEE
+{thinkingB}Okay. We'll look for them.
+312652153) LEE
+{thinkingB}Okay. We'll look for them.
+312652119) LEE
+{sadA}Yes, of course. I'm sorry.
+312652149) LEE
+{sadA}Yes, of course. I'm sorry.
+312652123) LEE
+{sadA}Clementine...
+312652161) LEE
+{sadA}Clementine...
+312652124) CLEMENTINE
+{fearA}I can remember where they were staying. Maybe they didn't go far.
+312652156) CLEMENTINE
+{fearA}I can remember where they were staying. Maybe they didn't go far.
+312652125) CLEMENTINE
+{fearB}Please, Lee.
+312652160) CLEMENTINE
+{fearB}Please, Lee.
+312652127) LEE
+[relents] {sadB}All right. Let's figure that out on the map, but a boat is the ultimate plan.
+312652128) CLEMENTINE
+{sadA}Yes. {fearA}They can come with us, right?
+312652155) CLEMENTINE
+{sadA}Yes. {fearA}They can come with us, right?
+312652129) LEE
+{sadA}Yes.
+312652158) LEE
+{sadA}Yes.
+312652219) CLEMENTINE
+{happyA}Yes!
+312652137) LEE
+[aww...] {sadC}Look...
+312652167) LEE
+[aww...] {sadC}Look...
+312652147) CLEMENTINE
+{sadB}If we don't find them we can go. {happyB}But if we do they can come with us.
+312652148) LEE
+{sadB}We need to separate from the group but we'll look for your parents first.
+312652154) LEE
+But then we're moving on.
+312652162) LEE
+{sadB}All right. Let's figure that out on the map, {sadC}but then we're getting out of town. We have to stay moving.
+312652171) LEE
+{thinkingB}I really think we have to keep moving. But we can look for your parents first.
+312652172) CLEMENTINE
+[getting over sobbing] {sadC}If we don't find them it's okay... we can leave Savannah like you said.
+312652173) LEE
+{thinkingA}And from there, we've got all of Savannah to the southwest of us.
+312652174) LEE
+{thinkingA}It looks like we'll come right through town if there's nothing on the tracks to hold us up.
+312652183) LEE
+{thinkingA}It looks like we'll come right through town if there's nothing on the tracks to hold us up.
+312652186) LEE
+{thinkingA}It looks like we'll come right through town if there's nothing on the tracks to hold us up.
+312652175) LEE
+{thinkingB}We're gonna want to look for a boat here [points], I imagine.
+312652176) CLEMENTINE
+{fearB}I don't like the woods.
+312652177) LEE
+{angryA}And, unless Savannah is somehow walker-free we know we want to stay out of town.
+312652178) CLEMENTINE
+{happyA}So we can't get surprised by walkers.
+312652179) CLEMENTINE
+{happyB}I like the beach.
+312652180) CLEMENTINE
+{fearB}Are we going to have to live in the woods?
+312652182) LEE
+{thinkingB}Well, what I think we should do -- after we look for your mom and dad -- is head north, keeping water -- the ocean -- on our right side.
+312652184) LEE
+{sadA}You don't like the woods?
+312652185) LEE
+{happyA}Exactly.
+312652187) LEE
+{thinkingB}Now, we've got a good chunk of Savannah here. What do you think?
+312652188) CLEMENTINE
+{thinkingA}They always stay in the same place when they go there. {sadA}It's uh...hmm.
+312652189) LEE
+{happyA}Right. [new thought]
+312652191) LEE
+{thinkingB}The M-- ... M something. Muh...Muh...
+312652193) CLEMENTINE
+{thinkingA}It's like a house or something.
+312652194) LEE
+{thinkingB}Wait, did they leave your babysitter a note?
+312652195) CLEMENTINE
+{happyA}Yeah! {thinkingA}It would be sort of irresponsible not to.
+312652198) LEE
+{happyA}All right, so that's where we'll head.
+312652199) LEE
+{happyA}The Marsh House? Is that what it said? {thinkingA}Does that ring any --
+312652200) CLEMENTINE
+{happyB}Yes! That's it! We stayed there once and the restaraunt has chocolate mousse!
+312652201) LEE
+{happyA}You think we have a good plan?
+312652218) LEE
+{happyA}You think we have a good plan?
+312652202) CLEMENTINE
+{happyA}I think it's very good.
+312652217) CLEMENTINE
+{happyA}I think it's very good.
+312652204) LEE
+{happyA}That wasn't so hard. {thinkingA}Glad I snooped around your kitchen.
+312652205) CLEMENTINE
+{thinkingA}Once.
+312652206) LEE
+{happyA}Have you ever been there?
+312652207) LEE
+{thinkingA}Well, think about it --  there are a lot of hotels on here, but read this map and maybe it will jog your memory.
+312652208) LEE
+{thinkingA}Hey. Don't worry, we'll figure it out.
+312652209) CLEMENTINE
+{happyA}Like hiding or running away, got it.
+312652211) LEE
+{thinkingA}I'm sorry about your hair. {happyB}I think it looks cute, though.
+312652212) CLEMENTINE
+[grumpy]My mom isn't going to like it.
+312652213) CLEMENTINE
+{thinkingA}They've got really tasty desserts. It's called the M..M something...Mar...
+312652214) LEE
+{thinkingA}Is this it? The Marsh House?
+312652215) LEE
+{happyA}So we'll head there.
+312652216) CLEMENTINE
+{happyB}Yes, that's it.
+312652220) LEE
+{happyA}You'll get stronger.
+312652221) LEE
+{thinkingA}See, it's not scary.
+312652222) CLEMENTINE
+{sadA}It's heavy.
+312652223) LEE
+{thinkingB}To aim, you look right down the top, through that notch.
+312652224) LEE
+Line up the site at the end with your target.
+312652225) LEE
+Good. Don't lock your elbows.
+312652226) LEE
+{thinkingA}Okay, aim a little a bit more left.
+312652227) LEE
+{thinkingA}A little bit more to the left.
+312652228) LEE
+{thinkingA}Aim lower.
+312652285) 
+Aim lower.
+312652229) LEE
+{thinkingA}A little bit lower.
+312652230) LEE
+{thinkingA}Okay, a little higher.
+312652231) LEE
+{thinkingA}Aim a little higher.
+312652232) LEE
+{thinkingA}A bit to right.
+312652233) LEE
+{thinkingA}Aim more to the right.
+312652234) LEE
+{happyA}Excellent, good shot.
+312652235) LEE
+{happyA}There you go, nice.
+312652236) LEE
+{angryA}Yeah, you do.
+312652237) CLEMENTINE
+{sadB}Do I have to?
+312652238) LEE
+{thinkingA}Let's stick with it, okay?
+312652239) CLEMENTINE
+[scream/squeel] {fearC}EEP!
+312652240) LEE
+{fearA}You okay?
+312652241) CLEMENTINE
+[pickup 2] [new read: Should be My hands hurt.] {sadA}My hands hurt. I don't like this.
+312652242) LEE
+{thinkingA}Okay, let's take your first shot. Squeeze the trigger smoothly and I'll cover your ears. Nice and easy.
+312652243) CLEMENTINE
+{thinkingA}Nice and easy.
+312652244) CLEMENTINE
+[pickup 2] [newread: should be nah uh - read indicates yes.] Nuh-uh. [no]
+312652245) LEE
+{happyA}Yeah, you did. Good job.
+312652246) CLEMENTINE
+{happyB}I did it!
+312652247) CLEMENTINE
+Okay. I feel good.
+312652248) LEE
+No, far from it. But you know how these things work now. We'll graduate you to walkers one day.
+312652249) LEE
+Not so scary, eh?
+312652250) CLEMENTINE
+They're not walkers, though.
+312652251) CLEMENTINE
+[pickup2] [nervous] Is there anything else I should know?
+312652252) 
+Squeeze the trigger, steadily.
+312652253) 
+Take a breath, hold it and fire.
+312652254) 
+Aim for the head.
+312652255) LEE
+[pickup2]Squeeze the trigger, steadily, okay? Don't give it a quick yank or pull.
+312652256) CLEMENTINE
+[pickup2] Steady. I can do that.
+312652257) LEE
+[pickup2] Everytime. It'll be tough, but just remember to do that and you'll hit what you're aiming at.
+312652258) CLEMENTINE
+[pickup2] Okay. I'm ready.
+312652259) LEE
+[pickup2] When you're ready to shoot, make sure you're not breathing too hard and then hold your breath right when you pull the trigger.
+312652260) CLEMENTINE
+[pickup2] Like when I'm swimming?
+312652261) LEE
+[pickup2] No -- just for a quick second. I found that if I did that I was a lot more accurate. It's tough, but it'll help.
+312652262) CLEMENTINE
+[pickup2] I can do that. Okay.
+312652263) LEE
+[pickup2] Head or body. Anywhere.
+312652264) CLEMENTINE
+[pickup2] I don't want to think about that.
+312652265) LEE
+[pickup2] You're right. It might be a lot for your first day. You ready?
+312652266) CLEMENTINE
+[pickup2] Yeah, I'm ready.
+312652267) LEE
+[pickup2] Unless it's not a walker and it's someone trying to hurt you.
+312652268) CLEMENTINE
+[pickup2] [after a beat] ...and then?
+312652269) LEE
+[pickup2] I know these are just bottles, but you have to aim for the head.
+312652270) CLEMENTINE
+[pickup2] I know. Only the head.
+312652271) CLEMENTINE
+[pickup2]  I guess I probably know everything then. [grumbles] Being a little girl, and all.
+312652274) CLEMENTINE
+I squeezed the trigger, just like you said.
+312652275) LEE
+I know; you did good.
+312652276) LEE
+See? You did good.
+312652277) CLEMENTINE
+I was holding my breath and the gun didnt shake so much.
+312652278) CLEMENTINE
+I just pretended they were walker heads.
+312652279) LEE
+Good, just like you should.
+312652280) CLEMENTINE
+I didn't even need more advice!
+312652281) CLEMENTINE
+{happyB}I got it!
+312652282) LEE
+{happyB}[pickup2]On your first shot; good job.
+312652283) 
+Aim left.
+312652284) 
+Aim right.
+312652286) 
+Aim higher.
+312652287) CLEMENTINE
+[pickup2]Can I... tell my parents? You know. [the "you know," is a small, ambiguous nod to the fact that she's been talking into this "broken" walkie-talkie thinking she can communiate with her parents]
+312652288) LEE
+[pickup2] Sure, go ahead. [warm, but humoring clementine out of compassion]
+312652289) CLEMENTINE
+[pickup2][so small. tiny. wind out of your sails.] You can't tell me what to do.
+312652290) LEE
+[pickup2] CLEMENTINE. [intimate convo distance, she's said something that upset you and you're saying "don't be like that"]
+312652291) CLEMENTINE
+[pickup2]I don't want to talk about it anymore.
+312652292) LEE
+[pickup2] Clem... come on. That's not a good idea.
+312652293) LEE
+[pickup2] Close; now keep it steady.
+312652294) LEE
+[pickup2] Steady, now. Almost got it.
+312652296) CLEMENTINE
+[pickup2] [smallish] They'll like it. Promise.
+312652297) 
+Keep it steady.
+312652298) 
+Keep it steady.

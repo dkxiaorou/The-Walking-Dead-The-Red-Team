@@ -1,0 +1,336 @@
+312529188) 
+Run To
+312529189) 
+Left Side Of RV
+312529190) 
+Right Side Of RV
+312529191) LEE
+[temp] Uh, okay.
+312529192) CLEMENTINE
+[temp] OMG I'm scared! Shoot that guy!!1!1
+312529193) BANDITLEADER
+[pickup1] Enough of this bullshit! Drew, start putting your boot to these doors.
+312529194) BANDIT1
+[pickup1] [gleeful] Yeah!
+312529195) BANDITLEADER
+[pickup1][spotting Lee] Hold it asshole!
+312529196) LEE
+[pickup1] Take it easy...
+312529197) 
+We can keep the deal going.
+312529198) 
+Why are you doing this?
+312529199) 
+You assholes better get out of here.
+312529200) LEE
+[pickup1] We have more supplies. We can keep the deal going.
+312529201) LEE
+[pickup1] Why are you doing this? Just leave us the fuck alone!
+312529202) LEE
+[pickup1][aggressive, threatening] You think this shit is going to get you what you want? You best get the fuck out of here.
+312529203) BANDITLEADER
+[pickup1] [condescending laughter] Listen to this hard motherfucker!
+312529204) BANDITLEADER
+[pickup1] Why?! This fucking guy! WHY?! Because we gotta, that's why!
+312529205) BANDITLEADER
+[pickup1][over-the-top] YOU PEOPLE THINK THIS IS A FUCKIN' JOKE!?
+312529206) 
+We can split the supplies.
+312529207) 
+We'll leave you everything.
+312529208) 
+What will it take to reach a deal?
+312529211) LEE
+[pickup1] What will it take to reach a deal?
+312529209) LEE
+[pickup1] We can split the supplies. Spread them around!
+312529210) LEE
+[pickup1] We'll leave you everything. Just let us walk out of here.
+312529213) BANDITLEADER
+[pickup1][surprised] What the fuck?
+312529214) BANDITLEADER
+[pickup1] You son of a bitch!
+312529215) BANDITLEADER
+[pickup1][really irritated] All right, I've had enough of this shit! Drew, take these motherf-
+312529216) BANDIT2
+Oh shit!
+312529333) LILLY
+[pickup1] Oh shit!
+312529360) BANDIT2
+Oh shit!
+312529217) BANDIT1
+Christ!
+312529361) BANDIT1
+Christ!
+312529221) BANDIT1
+[pickup1][getting shot, dying] Uugh!
+312529321) BANDIT1
+[pickup1][getting shot, dying] Uugh!
+312529222) BANDIT2
+[pickup1][getting shot, dying] Augh!
+312529223) BANDIT3
+[pickup1][getting shot in the shoulder] Auugh!
+312529314) BANDIT3
+[pickup1][getting shot in the shoulder] Auugh!
+312529224) BANDITLEADER
+[pickup1] Things you ain't got. [CUT THIS LINE]
+312529225) BANDITLEADER
+[pickup1] [irritated] So you can try to pay US a little visit later? Fuck that!
+312529226) BANDITLEADER
+[pickup1] [irritated] Or we could just kill you and take it ALL.
+312529227) BANDITLEADER
+[pickup1] Too late shithead! We ain't giving second chances!
+312529228) KENNY
+[pickup1] We gotta get out of here!
+312529229) LEE
+[pickup1] [being shot at] No shit!
+312529230) KENNY
+[pickup1] Get those bastards! Cover our people and get them to the RV!
+312529231) BEN
+[pickup1][high-energy, you are being shot at]Help! Jesus!
+312529232) LEE
+[pickup1][high-energy, people are being shot at] Ben! Stay down!
+312529233) LEE
+[pickup1][high-energy, people are being shot at] Hang on Ben!
+312529234) BEN
+[pickup1][high-energy, you are being shot at] Hurry up!
+312529235) LEE
+[pickup1][high-energy, people are being shot at] I've got you Ben!
+312529236) BEN
+[pickup1][panicking, you are being shot at] Get me out of here! Please!
+312529239) LEE
+[pickup1][high-energy, people are being shot at] Doug, stay put!
+312529240) DOUG
+[pickup1][high-energy, you are being shot at] Lee! Help!
+312529241) LEE
+[pickup1][high-energy, people are being shot at] Hold on Doug!
+312529242) DOUG
+[pickup1][panicking, people are being shot at] Not good, oh man!
+312529243) LEE
+[pickup1][high-energy, people are being shot at] Doug!
+312529244) DOUG
+[pickup1][panicking, you are being shot at] Help!
+312529245) LEE
+[pickup1][high-energy, people are being shot at] Carley! Keep your head down!
+312529246) CARLEY
+[pickup1][high-energy, you are being shot at] Could use a little help!
+312529247) LEE
+[pickup1][high-energy, people are being shot at] Carley! Stay there!
+312529248) CARLEY
+[pickup1][high-energy, you are being shot at] Lee, help me!
+312529249) LEE
+[pickup1][high-energy, people are being shot at] Carley!
+312529250) CARLEY
+[pickup1][high-energy, you are being shot at] Any time now!
+312529251) LEE
+[pickup1][high-energy, people are being shot at] Kenny!
+312529253) LEE
+[pickup1][high-energy, people are being shot at] Kat! Hold on!
+312529254) KATJAA
+[pickup1][high-energy, you are being shot at] Please hurry!
+312529255) KATJAA
+[pickup1][high-energy, yoy are being shot at] Help!
+312529256) LEE
+[pickup1][high-energy, people are being shot at] Kat! Keep them down!
+312529257) LEE
+[pickup1][high-energy, people are being shot at] Katjaa!
+312529258) KATJAA
+[pickup1][high-energy, you are being shot at] Oh, God!
+312529259) LEE
+[pickup1][high-energy, people are being shot at] Stay down, Clem! Everything's gonna be okay!
+312529260) CLEMENTINE
+[pickup1][crying, you are being shot at] Help!
+312529261) LEE
+[pickup1][high-energy, people are being shot at] I won't let them hurt you!
+312529262) CLEMENTINE
+[pickup1][crying, you are being shot at] I'm scared!
+312529263) LEE
+[pickup1][high-energy, people are being shot at] Clem! Stay down!
+312529264) CLEMENTINE
+[pickup1][crying, you are being shot at] Lee!
+312529265) LEE
+[pickup1][high-energy, people are being shot at] Hang on!
+312529266) DUCK
+[pickup1][scared, you are being shot at] Mommy!
+312529267) DUCK
+[pickup1][crying, you are being shot at] Wahhh!
+312529268) LEE
+[pickup1][high-energy, people are being shot at] Duck, don't worry!
+312529269) LEE
+[pickup1][high-energy, people are being shot at] Stay down, Duck!
+312529270) DUCK
+[pickup1][crying, people are being shot at] Stop them!
+312529271) LEE
+[pickup1][high-energy, people are being shot at] Lilly!
+312529272) BANDIT1
+[pickup1] GET IN THERE SHIT FOR BRAINS!
+312529273) BANDIT1
+[pickup1] THE ROOMS! FIND OUR SHIT!
+312529274) BANDIT1
+[pickup1] SHIT! WATCH IT!
+312529275) BANDIT2
+[pickup1] THESE ASSHOLES GOT TEETH!
+312529276) BANDIT2
+[pickup1] ROUND THE SIDE! OVER THERE!
+312529277) BANDIT2
+[pickup1] SHIT! SHIT!
+312529278) BANDIT3
+[pickup1] BEHIND THERE! THERE!
+312529279) BANDIT3
+[pickup1] GET THAT MOTHERFUCKER!
+312529280) BANDIT3
+[pickup1] BEHIND THE RV!
+312529281) BANDIT1
+[pickup1] GO! NOW!
+312529282) BANDIT2
+[pickup1] KILL THAT BITCH!
+312529283) BANDIT3
+[pickup1] STOP THAT ASSHOLE!
+312529284) BEN
+[pickup1][shot, dying] Ugggh!
+312529285) BANDIT2
+Asshole!
+312529286) DOUG
+[pickup1][shot, dying] Achkkk!
+312529287) LEE
+[pickup1] Nooo!
+312529288) LEE
+[pickup1] Now! Get over here! Hurry!
+312529289) BEN
+[pickup1] Man, you saved our asses!
+312529290) LEE
+[pickup1] Get inside!
+312529291) BANDIT1
+[pickup1] [being killed by a zombie] Urrgghhh!
+312529292) KATJAA
+Help!
+312529293) LEE
+[pickup1] Katjaa! Hang on!
+312529294) LEE
+[pickup1][seeing Clementine get killed] Nooo!
+312529296) LEE
+[pickup1] It's gonna be okay. Go!
+312529297) LEE
+[pickup1] [high-energy, concerned] Clem! Get inside the RV!
+312529298) LEE
+[pickup1] Katjaa! Hurry! Come on!
+312529299) CLEMENTINE
+[pickup1] Lee!
+312529300) KENNY
+Kat! Oh Christ!
+312529301) LEE
+Lilly! Get in the RV!
+312529319) LEE
+Lilly! Get in the RV!
+312529302) KENNY
+Screw her! Let her stay!
+312529320) KENNY
+Screw her! Let her stay!
+312529303) DOUG
+[pickup1] It's the solenoid!
+312529306) LEE
+[pickup1] Doug?
+312529307) LEE
+[pickup1] Lilly! Last chance! Get down here!
+312529308) LILLY
+[pickup1][under her breath] Shit.
+312529309) LEE
+[pickup1][surprised by a zombie, overpowered] Uh..ah! Oh shit! Auugh!
+312529352) LEE
+[pickup1][surprised by a zombie, overpowered] Uh..ah! Oh shit! Auugh!
+312529311) CARLEY
+[pickup1][horrified] Lee!
+312529346) CARLEY
+[pickup1][horrified] Lee!
+312529312) LEE
+[pickup1] [overpowered by zombies, dying] Unghhh!
+312529351) LEE
+[pickup1] [overpowered by zombies, dying] Unghhh!
+312529322) LILLY
+{SadA}You haven't come up with anything, have you?
+312529323) LEE
+{AngryA}I came up with this.
+312529324) LEE
+{ThinkingA}It's got a bunch of meds in it. {NormalD}It was in a grate {DisgustB}on the outside wall {AngryB}and there's a sign on the other one.
+312529325) LILLY
+{AngryA}Holy fuck.
+312529326) LEE
+{AngryA}Yeah.
+312529327) LILLY
+{AngryE}Okay. {ThinkingA}We line everybody up. {AngryC}Everybody.
+312529328) LILLY
+{AngryE}Somebody is killing us. {ThinkingA}Stealing from that supply is the same as {AngryB}slipping into your room at night and {AngryA}cutting your throat while you sleep.
+312529329) LILLY
+{AngryA}You die. {DisgustB}What is the difference? {SadA}What if Clementine gets sick {AngryB}and we don't have what we need --
+312529330) LILLY
+[pickup2] [new read: A little too weak, she's tired sure, but it needs to be a little more surprised.] [can't believe what she's seeing] {FearB}What the hell?
+312529331) BANDITLEADER
+[pickup1] [far away, through a door] YOU DON'T FUCKING STEAL FROM US!
+312529332) LEE
+{AngryC}Who the fuck is that?!
+312529334) LEE
+[pickup1] They've got our people out there!
+312529335) BANDITLEADER
+[pickup1][far away, through a door] Y'ALL BETTER GET YOUR ASSES OUT HERE! WE AIN'T FUCKIN' AROUND!
+312529336) LILLY
+[pickup1] They're gonna start kicking in doors any second!
+312529337) LEE
+[pickup1] What do we do? Lilly?
+312529338) LEE
+[pickup1] Lilly? What the hell are you...
+312529339) LILLY
+[pickup1] Stall them.
+312529340) LEE
+[pickup1] What?
+312529341) LILLY
+[pickup1] Just keep them talking.
+312529342) BANDITLEADER
+[pickup1] [far away, through a door]YOU MADE THE BIGGEST MISTAKE OF YOUR LIVES!
+312529343) LILLY
+[pickup1] Do whatever it takes to stop him pulling the trigger!
+312529344) LEE
+[pickup1] Shit.
+312529345) LEE
+[pickup1] [A deep, exasperated breath]
+312529353) LEE
+[pickup2] [negotiating] It was a mix-up! We'll make it worth your while.
+312529354) BANDITLEADER
+[pickup2] ...I'm listenin.
+312529355) LEE
+[pickup2] And what about when they run out? When you don't have us out there collecting them for you?
+312529356) LEE
+[pickup2] You got it. Done.
+312529357) BANDITLEADER
+[pickup2] ...Is that so?
+312529358) BANDITLEADER
+[pickup2] 'Bout twice as much as you been giving us!
+312529359) BANDITLEADER
+[pickup2] SHUT UP OR I'LL--
+312529362) BANDITLEADER
+[pickup2] Well... I suppose we oughta hash out some terms, then!
+312529363) BANDIT1
+[pickup2] I don't like no hash!
+312529365) BANDIT2
+[pickup3] He's hidin' behind that van! Get your asses around behind!
+312529367) BANDIT2
+[pickup3] Go around shit for brains! He's back there!
+312529370) LEE
+[pickup2] Shit! Kenny! Hurry up with that thing!
+312529371) DOUG
+[pickup3] Lee! Walkers!
+312529372) BANDIT1
+[pickup3] Where is he?
+312529373) BANDIT3
+[pickup3] Get back there! Smoke him out!
+312529374) DOUG
+[pickup3] [hears his bell system] Lee! The bells! Left side! Left!
+312529375) DOUG
+[pickup3] [hearing his bell system] Left! Left side!
+312529376) DOUG
+[pickup3] [hearing his bell system] Lee! Left!
+312529377) DOUG
+[pickup3] [hearing his bell system] Right side! Walkers on the right!
+312529378) DOUG
+[pickup3] [hearing his bell system] The right bells!
+312529379) DOUG
+[pickup3] [hearing his bell system] Watch the right!

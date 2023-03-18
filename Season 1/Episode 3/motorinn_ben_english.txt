@@ -1,0 +1,172 @@
+312500310) 
+I need to tell you something.
+312500311) LEE
+{normalD}Hey Ben, I need to tell you something.
+312500312) BEN
+{normalb}Sure, Lee. {thinkingA} Is it about my watch? {fearA}I'm trying to do a good job.
+312500313) LEE
+{normalD}You're doing fine.
+312500314) 
+I'm a convicted murderer.
+312500315) 
+I was on my way to prison before this.
+312500327) LEE
+{normalc}I was on my way to prison before this.
+312500316) 
+Never mind.
+312500336) LEE
+{sadA}Never mind.
+312500317) LEE
+{sadA}I'm a {normalD}convicted murderer.
+312500318) BEN
+{surprisedA}Whoa, {sadB}seriously?
+312500328) BEN
+{surprisedA}Whoa, {sadB}seriously?
+312500319) LEE
+{thinkingA}Why would I joke about that?
+312500320) BEN
+{surprisedA}I dunno,{feara} uh...{sadA} wow.
+312500321) LEE
+{normalD}You're a part of this group and you should know.
+312500322) BEN
+{fearb}I've never met a murderer before. {sadB}Well, I hadn't I mean.
+312500323) LEE
+{normalD}I know what you meant.
+312500324) BEN
+{normalb}Thanks for trusting me, man.{fearA} I, uh, I...
+312500333) BEN
+{normalb}Thanks for trusting me, man.{fearA} I, uh, I...
+312500325) LEE
+{normalC}Ben, relax.
+312500334) LEE
+{normalC}Ben, relax.
+312500326) BEN
+[anxious] {fearA}Okay.
+312500335) BEN
+[anxious] {fearA}Okay.
+312500329) BEN
+{feara}What, uh, were you in for?
+312500330) LEE
+{normalb}It's not important.
+312500331) BEN
+{surpriseda}Oh.
+312500332) LEE
+{thinkinga}Just, if you hear anything, {normalb}it's probably true and now you know.
+312500337) BEN
+{fearA}Oh, okay.
+312500338) LEE
+{normalA}It wasn't important.
+312500339) BEN
+{fearb}Did I do something wrong?
+312500340) LEE
+{sadA}No, Ben, {normalA}you're fine.
+312500341) BEN
+{thinkingA}What is it?
+312500342) BEN
+{fearB}Did I screw up?
+312500343) BEN
+{thinkingb}Okay, I'm just gonna go...back...then.
+312500344) BEN
+{normalA}What's up, Lee?
+312500345) LEE
+{normalA}Hey, Ben.
+312500346) 
+Do you feel useful to the group?
+312500347) LEE
+{normalA}What do you think about Lilly?
+312500351) 
+What do you think about Lilly?
+312500348) BEN
+{fearb}She scares the crap out of me.
+312500349) LEE
+{thinkingA}That's a {normalc}reasonable thing to feel.
+312500350) BEN
+{fearA}I'm just worried she's going to snap.
+312500352) LEE
+{normalA}Yeah. How's your spirits.
+312500353) BEN
+{thinkingA}I'm fine. {feara}I'm helping, right?
+312500354) LEE
+{happya}For sure, Ben.
+312500355) LEE
+{thinkingA}You feel useful to the group?
+312500356) BEN
+{sadA}What? {thinkinga}Useful?
+312500357) 
+See anything weird on watch?
+312500358) LEE
+{thinkingA}Really.
+312500359) BEN
+{happyb}Yeah, totally. {happya}Which is good.
+312500360) LEE
+{thinkingA}Have you seen anything weird on watch? Is there anybody out there up to anything?
+312500361) BEN
+{normalA}Nope. Really quiet.
+312500362) 
+Did you ever come down to Macon, much?
+312500363) LEE
+{thinkingb}I grew up in Macon.
+312500364) BEN
+{happya}It's super nice. {sadA} I mean, not now, but I bet it was. Is.
+312500365) BEN
+{thinkingA}I didn't have much reason to. {normalb}My parents would let me take the car into the city on the weekend. {thinkingb}But what's in Macon? {normalA}It's kind of a waste of time compared to Atlanta.
+312500366) BEN
+{surprisedA}Oh. {fearA} I didn't mean to say it's crappy or anything.
+312500367) LEE
+{normalA}Did you ever come down here to Macon much?
+312500368) 
+Do you know anything about missing meds?
+312500369) BEN
+{thinkingb}Well, it's not me. {feara}I didn't do anything.
+312500370) LEE
+{normalA}The count is right, I just think things are getting little legs and walking out of here.
+312500371) LEE
+{normalC}Some meds are missing. {thinkingb}Do you know anything about that?
+312500372) LEE
+{normalA}All right.
+312500373) BEN
+{fearA}The count isn't right?
+312500374) 
+A flashlight got broken. Was it you?
+312500375) BEN
+{fearA}No.
+312500376) LEE
+{normala}You're not in trouble if it was. {thinkingA}I know you get nervous and maybe you went out to go to the bathroom, broke it, got worried and tossed it.
+312500377) BEN
+{thinkingb}What's with the third degree? {fearb}I didn't break any flashlight.
+312500378) LEE
+{normalc}A flashlight was broken. {thinkingA}Was it you?
+312500379) LEE
+{normalc}Okay then.
+312500380) 
+Do you have any chalk I can borrow?
+312500381) LEE
+{normalb}That's what it's there for.
+312500382) LEE
+{normalA}Just asking around.
+312500383) LEE
+{normalA}Hey Ben, I need a piece of chalk. Do you know where I can get any?
+312500384) BEN
+{thinkingb}Well I don't play with that stuff. I've got my... {normalb}well, my thoughts and I've been readin' the Bible I found in my room.
+312500385) BEN
+{thinkingA}Why would I have any?
+312500386) BEN
+{normalA}Bye.
+312500387) LEE
+{normalA}Talk to you later, Ben.
+312500388) BEN
+{normalA}Still fine.
+312500389) LEE
+{normalA}How's it going, Ben?
+312500390) LEE
+{thinkingA}I should show this to Lilly before making any accusations.
+312500391) 
+Talk to
+312500392) 
+Show Bag to
+312500393) 
+Show Flashlight to
+312500394) 
+Ask About Chalk
+312500395) LEE
+[pickup2] [alt] I'm not just some guy you met in the forest. I was a prisoner, a convict, before.

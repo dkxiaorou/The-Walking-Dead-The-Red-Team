@@ -1,0 +1,256 @@
+312655905) CHUCK
+[outside train] {thinkingA}How ya doin?
+312655906) LEE
+[firm][outside train] {normalD}Hey.
+312655907) 
+Don't talk to my girl anymore.
+312655908) 
+Why did you say what you said to Clementine?
+312655909) 
+Say what you said to ME, asshole.
+312655910) LEE
+[outside train]{angryA}Don't talk to my girl. Just stay away from her.
+312655911) CHUCK
+[outside train] {angryA}Excuse me, son?
+312655917) CHUCK
+[outside train] {angryA}Excuse me, son?
+312655912) LEE
+[outside train] {angryB}I heard you told her she was going to die; that she was gonna end up like Duck. {angryC}Why'd you go and do that?
+312655913) CHUCK
+[outside train] {sadB}'Cause she is.
+312655915) CHUCK
+[outside train] {sadB}'Cause she is.
+312655914) LEE
+[outside train]{angryA}I don't care what reasons you had for doing it, {angryB}no reason to go and tell my girl she's gonna end up dead!
+312655916) LEE
+[outside train] {angryA}Say it to me asshole, what you said to my girl.
+312655918) LEE
+[outside train] {angryA}Telling a little girl she's gonna die. {angryC}You want to scare people? Scare me, {angryA}mother fucker.
+312655919) CHUCK
+[outside train]{happyB}Okey dokey. {angryA}She's gonna die.
+312655920) LEE
+[outside train] {angryB}Son of a bitch.
+312655921) CHUCK
+[outside train] [semi sarcastic/flat, trying to get Lee's ire up]{disgustA} How was that?
+312655922) LEE
+[outside train] {angryC}How about I throw your sorry ass off this fucking train?
+312655923) CHUCK
+[outside train] {thinkingB}Now we're both scared.
+312655924) CHUCK
+{happyA}Now I've gone and done it. I've ticked off the papa goose.
+312655925) CHUCK
+{thinkingB}Ya always hear about the mama goose but the papa goose is the one that'll sneak up and put a real dent in your behind.
+312655926) CHUCK
+{thinkingA}This because I told her she was gonna be walkin' if she weren't careful?
+312655927) CHUCK
+{thinkingA}I don't know much about you folks, but I can tell you, sure as the sun gon' come up tomorrow, that {sadA}ya'll keep going on like this and that girl ain't gonna make it.
+312655928) LEE
+{angryB}What do you know?
+312655929) CHUCK
+{angryA}I'll tell ya, long as you don't toss me over the rail.
+312655930) CHUCK
+{angryA}Oh, now you wanna talk.
+312655931) CHUCK
+{angryB}I know that you don't have a goddamn plan. We get to Savannah and then what?
+312655932) 
+I figure it out.
+312655935) LEE
+{angryA}I figure it out.
+312655933) 
+We find a boat.
+312655937) LEE
+{angryA}We find a boat.
+312655934) 
+We do what's best for Clementine.
+312655939) LEE
+{angryA}We do what's best for Clementine.
+312655936) CHUCK
+{angryA}Well get to figurin' because it'll be on top of us before ya know it.
+312655938) CHUCK
+{thinkingB}You think that's a new idea? {angryA}You got even the foggiest idea 'bout where you're gonna find one of those?
+312655940) CHUCK
+{happyA}Oh! Well then! You do have it all figured out! {angryA}Nevermind.
+312655942) CHUCK
+{angryA}That's what I reckoned.
+312655943) CHUCK
+{fearA}Look, sit down with the girl and hash it out. Find a map for Christ's sake -- I'd give you one if I had it.
+312655944) CHUCK
+{thinkingA}And if something were to happen to you...
+312655945) LEE
+{angryA}It won't.
+312655946) CHUCK
+{fearC}If it WERE, {fearA}you gotta prepare the girl. Teach her to use a weapon and {fearB}for criminy, cut that hair.
+312655947) 
+Like a gun? Are you kidding me?
+312655948) 
+She's a little girl.
+312655962) LEE
+{thinkingB}She's a little girl.
+312655949) 
+I'm not a barber.
+312655956) LEE
+{thinkingB}I'm not a barber.
+312655951) CHUCK
+{angryA}Are you listenin to me? For fuck's sake -- I shouldn't even have to be telling you this.
+312655952) CHUCK
+{thinkingA}Find some scissors in my pack and take care of that hair before a walker does it for you.
+312655958) CHUCK
+{thinkingA}Find some scissors in my pack and take care of that hair before a walker does it for you.
+312655968) CHUCK
+{thinkingA}Find some scissors in my pack and take care of that hair before a walker does it for you.
+312655974) CHUCK
+{thinkingA}Find some scissors in my pack and take care of that hair before a walker does it for you.
+312655953) CHUCK
+{sadB}And then show her how to use a gun because like it or not, that's what saves your life from here on out.
+312655959) CHUCK
+{sadB}And then show her how to use a gun because like it or not, that's what saves your life from here on out.
+312655969) CHUCK
+{sadB}And then show her how to use a gun because like it or not, that's what saves your life from here on out.
+312655975) CHUCK
+{sadB}And then show her how to use a gun because like it or not, that's what saves your life from here on out.
+312655954) LEE
+{angryA}All right. I'll do what you're saying.
+312655955) CHUCK
+You're gonna live with the consequences either way.
+312655957) CHUCK
+{thinkingA}It ain't gotta be STYLED, {thinkingB}Jesus.
+312655960) LEE
+{sadA}Okay.
+312655961) CHUCK
+{sadA}Explain to her how they work and to not be afraid.
+312655963) CHUCK
+{angryA}She'll die a little girl if you treat her like one.
+312655964) CHUCK
+{angryA}You gotta consider her a living person. That's it. You're either living or you're not. You ain't little, you ain't a girl, you ain't a boy, you ain't strong or smart. You're alive.
+312655972) CHUCK
+{angryA}You gotta consider her a living person. That's it. You're either living or you're not. You ain't little, you ain't a girl, you ain't a boy, you ain't strong or smart. You're alive.
+312655965) CHUCK
+{fearA}Look at her hair.
+312655973) CHUCK
+{fearA}Look at her hair.
+312655966) CHUCK
+{thinkingA}You got her running around with a mop that's gonna act like velcro to any hands swingin' its way.
+312655967) CHUCK
+{thinkingA}You got her running around with a mop that's gonna act like velcro to any hands swingin' its way.
+312655970) LEE
+{thinkingB}Like a gun? {angryA}Are you kidding me?
+312655971) CHUCK
+{sadA}What? She's too young to handle one? There ain't too young, not anymore.
+312655976) CHUCK
+{sadA}I don't mean to tell you how to do your job, but too many people have died already...
+312655977) LEE
+{sadB}They have.
+312655978) CHUCK
+{sadB}And seein' another little girl die might just do me in.
+312655979) LEE
+{thinkingB}I hear you. A plan, a haircut and a gun. It's good advice.
+312655980) CHUCK
+{sadA}It's something.
+312655981) LEE
+{thinkingA}I found those scissors in your pack.
+312655982) CHUCK
+{happyB}Oh, good. Get to snippin'.
+312655983) LEE
+{thinkingB}There was a map of Savannah in the cab.
+312655984) CHUCK
+{thinkingB}That's where I woulda looked.
+312655985) LEE
+{thinkingA}I'll talk it over with Clementine and make sure she's got a sense of things by the time we arrive.
+312655986) CHUCK
+{normalC}Good.
+312655987) CHUCK
+{happyA}That's what I like to hear.
+312655988) LEE
+{happyA}Hey.
+312655989) CHUCK
+Yo.
+312655990) LEE
+{happyB}Between finding a boat and looking for her parents, I think Clem and I have a decent plan heading into Savannah.
+312655991) LEE
+{happyA}Well, the girl can shoot.
+312655992) CHUCK
+{sadA}It doesn't have to be pretty.
+312655993) LEE
+{thinkingB}Probably will be before too long.{sadB}
+312655994) CHUCK
+{sadA}She will.
+312655995) CHUCK
+{thinkingA}You get that hair sorted?
+312655996) LEE
+{normalD}Yeah. I don't think she cares for it.
+312655999) CHUCK
+{thinkingA}What's on your mind?
+312656001) 
+I shot the kid, you know.
+312656019) LEE
+{sadB}I shot the kid, you know.
+312656002) 
+Kenny ended up shooting his son.
+312656003) 
+We left him. The boy, back in the woods.
+312656004) 
+Where you headed?
+312656005) LEE
+{thinkingB}You have any family?
+312656006) CHUCK
+{sadA}Out there, somewhere.
+312656007) CHUCK
+{thinkingA}Been sorta on my own the past fourteen years now.
+312656008) LEE
+{sadA}I'm sorry to hear that.
+312656009) CHUCK
+{sadA}No one to blame.
+312656010) 
+You got any family?
+312656011) 
+You're homeless then.
+312656015) LEE
+{thinkingA}You're homeless then.
+312656012) CHUCK
+{sadA}Darn.
+312656013) CHUCK
+{happyA}Got any?
+312656014) LEE
+{thinkingB}No.
+312656016) CHUCK
+{thinkingB}Suppose.  {sadA}I've had homes here and there and they just don't work out.
+312656017) CHUCK
+{thinkingA}I like a drink, you know.
+312656018) LEE
+{normalD}Yeah.
+312656020) CHUCK
+{sadA}I suppose someone had to.
+312656024) CHUCK
+{sadA}I suppose someone had to.
+312656021) LEE
+[sad] {sadC}What a mess.
+312656025) LEE
+[sad] {sadC}What a mess.
+312656022) CHUCK
+[agreeing] {sadB}You said it.
+312656026) CHUCK
+[agreeing] {sadB}You said it.
+312656023) LEE
+{sadB}Kenny ended up shooting his son out there.
+312656027) LEE
+{sadC}We left him. Kenny's boy, back in the woods.
+312656028) CHUCK
+{sadB}Criminy...
+312656029) CHUCK
+[alt] Damn...
+312656030) LEE
+{sadB}Couldn't shoot him... {sadC}couldn't do anything.
+312656031) CHUCK
+{sadA}And now he's just roaming around out there.
+312656032) LEE
+{thinkingB}Where are you headed?
+312656033) CHUCK
+{thinkingB}Uh, that way.
+312656034) LEE
+{normalD}I mean, when we get to Savannah.
+312656035) CHUCK
+{thinkingA}Got a few ideas. {sadA}We'll have a talk when we get there about whether or not you folks want company.
+312656036) LEE
+{thinkingA}Be safe up here.
+312656037) CHUCK
+{happyA}You betcha.

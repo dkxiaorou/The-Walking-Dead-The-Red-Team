@@ -1,0 +1,880 @@
+312700930) KENNY
+[yelling up. presumably to god] {angryD}FUUUUCK YOUUUUU.
+312700931) BEN
+[small] Maybe we could walk?
+312700932) KENNY
+[head in his hands] {angryA}That's fucking stupid, Ben.
+312700933) BEN
+I'm just sayin...
+312700934) CHUCK
+Hmm. I dunno; I ain't got much experience with yall's fortitude but we could probably deal with that. We got a goddamn train.
+312700935) KENNY
+{angryB}That thing's not full of milk, Charles. {thinkingA}That's gas or diesel; something that's going to explode.
+312700936) CHUCK
+YOU gotta get ahold of yourself. This is a crew here.
+312700937) KENNY
+{disgustA}This ain't shit.
+312700938) CHUCK
+This--
+312700939) OMID
+Yo, you keep screaming like that and you're gonna get your face chewed off.
+312700940) CHRISTA
+[pickup 2] [new read: - Second sentence is a little dry and quiet; she's yelling down to those guys, trying to sound intimidating.] Are you guys going to be trouble? Because we could've just kept walking.
+312700941) 
+No, we're friendly.
+312700942) 
+Could be. Who are you?
+312700947) LEE
+{angryA}Could be. Who are you?
+312700943) 
+Define "trouble."
+312700950) LEE
+{thinkingA}Define "trouble."
+312700944) LEE
+{happyB}No, we're friendly. [hushed] Put your hand down, Ken.
+312700945) CHRISTA
+That's what everybody says.
+312700946) LEE
+{normalD}We know.
+312700948) CHRISTA
+Two people who have a strategic position on you.
+312700949) OMID
+Come on, hon.
+312700951) CHRISTA
+Anything that gets you killed or worse and it tends to come hand in hand with groups of guys in distress.
+312700952) CHRISTA
+Did you not hear me?
+312700953) KENNY
+{disgustA}We heard you.
+312700954) CHUCK
+We're not bad folks.
+312700955) OMID
+[quiet, to someone right next to him] Let's give these guys a break.
+312700956) CHRISTA
+[quiet to someone right next to you]We'll see.
+312701188) KENNY
+{angryA}We'll see.
+312700957) OMID
+You guys got a problem with your train?
+312700958) KENNY
+{disgustA}Yeah, you're standing right in front of it.
+312700959) OMID
+Dude, it's a wreck. It's not so bad from up here.
+312700960) OMID
+Send your buddy up to have a look.
+312700961) KENNY
+{thinkingA}Anything goes sideways up there, we won't let them escape.
+312700962) OMID
+[intimate talk] {happyB}A group of guys is what we need.
+312700963) CHRISTA
+[intimate talk] {angryA}They're what you think we need. We're doing fine.
+312700964) OMID
+[intimate talk] {thinking}For now. {sadA}What about when?
+312700965) OMID
+[gathering himself] {happyA}Hey dude, I'm Omid.
+312700966) LEE
+{happyA}Lee.
+312700967) CHRISTA
+{angryA}Christa. What's the deal with the train?
+312700968) LEE
+{happyA}We're driving it.
+312700969) OMID
+{happyB}OH, MAN.
+312700970) 
+We could use some good people.
+312700971) 
+It's been a bad day.
+312700972) 
+We're not in the mood for new people.
+312700973) LEE
+{normalD}Look, you want to help us out? We could use some able bodies and... yeah, {sadB}we really need some help.
+312700974) CHRISTA
+{angryA}What's in it--
+312700975) OMID
+[seeing something] {surpriseA}Oh, shit!
+312700976) LEE
+{sadA}I'm not going to bullshit you. {thinkingA}Our group is a little fucked right now. We had a bite victim and then his mom took her life and before that, just... [sigh].
+312700977) CHRISTA
+[sincere]{sadB}It's okay.
+312700978) LEE
+{normalC}We're not really in the meetin' and greetin' mood. {thinkingA}I just came up here to see about the tanker.
+312700979) CHRISTA
+{thinkingA}Well, there it is.
+312700980) CHRISTA
+{thinkingA}That thing does look safe.
+312700981) OMID
+{happyB}And it runs!
+312700982) CHRISTA
+{angryA}I suppose we should--
+312700983) OMID
+[enthusiastic] {happyD}Goddamn, you guys have a kid!
+312700984) LEE
+{thinkingB}What are you doing up here?
+312700985) OMID
+{happyC}Do you know how long it's been since I've seen a kid? Shit! {happyA}What's your name?
+312700986) CLEMENTINE
+{happyB}Clementine.
+312700987) LEE
+[to clementine] {happyA}Oh, so he gets to swear?
+312700988) OMID
+{happyC}Well, this is great. [to his girlfriend] {happyD}See, things are looking up.
+312700989) CHRISTA
+{thinkingA}Hmm. What's your story?
+312700990) 
+I found her. I was on my way to jail, day one.
+312700991) 
+I've been with her since this all started.
+312700992) 
+We've just been trying to get by.
+312700993) LEE
+{thinkingA}I came across Clementine alone the first day all of this happened.
+312701001) LEE
+{thinkingA}I came across Clementine alone the first day all of this happened.
+312700994) LEE
+{thinkingB}I was actually incarcerated.
+312700995) OMID
+{happyA}Sick, do you have any prison tats?
+312700996) LEE
+{normalD}I didn't make it that far.
+312700997) LEE
+{happyA}It's that obvious?
+312700998) LEE
+{thinkingA}And no, he's not down there.
+312700999) CHRISTA
+{angryA}You're not her dad. He down there?
+312701000) CHRISTA
+{angryB}To me.
+312701002) LEE
+{happyA}We've been together ever since.
+312701003) LEE
+{thinkingA}We've just been trying to get by, together. Maybe find her parents.
+312701004) CHRISTA
+{happyB}Hey. I'm Christa.
+312701005) CLEMENTINE
+{happyB}Hi.
+312701006) CHRISTA
+{happyA}Does he not answer questions a lot?
+312701007) CLEMENTINE
+{normalC}Sometimes.
+312701008) CHRISTA
+{normalB}Should we help you guys out?
+312701009) CLEMENTINE
+{fearA}Yes, please.
+312701010) CHRISTA
+{happyA}Okay then.
+312701011) CHRISTA
+{angryA}And everybody down there, they're cool?
+312701012) 
+Kenny lost his wife and kid.
+312701018) LEE
+{sadA}Kenny lost his wife and kid.
+312701013) 
+Ben is young and stupid.
+312701014) 
+We just met Chuck.
+312701015) LEE
+{thinkingA}What time is it?
+312701016) OMID
+{fearB}Man. {fearB}How long ago.
+312701017) LEE
+{thinkingB}Maybe two hours ago.
+312701019) CHRISTA
+{sadB}Goddamn...
+312701020) OMID
+No sweat.
+312701021) LEE
+{thinkingA}I know, we just have to keep an eye on him.
+312701022) LEE
+{sadA}It's been rough for everybody down there. {thinkingA}I'm sure you can say the same.
+312701023) CHRISTA
+{angryA}The first two things you said don't really go with the third.
+312701024) LEE
+{thinkingA}Ben is young and stupid and,{happyA} I think, harmless.
+312701025) LEE
+{thinkingA}We just met Chuck, {happyA}but he seems like an all right guy.
+312701026) LEE
+{normalD}That must've been a long time ago.
+312701027) CHRISTA
+{angryA}You always have to worry about new people.
+312701028) OMID
+{thinking}Used to love meeting new people.
+312701029) CLEMENTINE
+{happyB}They are.
+312701030) CHRISTA
+{happyA}Good.
+312701031) OMID
+{fearA}We're sorry for anything that's happened to you guys.
+312701032) OMID
+{happyB}That train is awesome, though.
+312701033) OMID
+{thinking}You can't just blast through it, I guess.
+312701034) CHRISTA
+{angryA}That tank is your real problem. We'll help you with it, {angryB}but if we see anything we don't like, we're moving on down the road. Alone.
+312701035) CHRISTA
+{thinkingA}If you could get it down, the rest would probably be pretty easy.
+312701036) LEE
+{normalB}We'll start there.
+312701037) CHRISTA
+{normalB}We'll come down and settle in, and see if we can help.
+312701038) LEE
+{happyB}We'd appreciate the help.
+312701039) OMID
+{thinking}I don't know. {sadA}Four?
+312701040) LEE
+{happyA}Guys, this is Omid and Christa.
+312701042) CHRISTA
+{angryA}So says the quiet conductor over here.
+312701043) OMID
+{thinking}Not big on welcomes...
+312701044) LEE
+{happyA}Like I said, we could use some good people.
+312701045) LEE
+{sadA}Like I said, it's been a bit of a day.
+312701046) LEE
+{thinkingA}Like I said, we're not really up for meeting folks.
+312701047) OMID
+{thinking}I get it.
+312701048) CHRISTA
+{angryA}I guess clamming up around new folks is sort of ya'lls thing?
+312701049) OMID
+{surpriseA}We just wanted to say hi {happyA}and say your train is pretty cool.
+312701050) CHRISTA
+{angryA}But we're not looking for charity.
+312701051) OMID
+{surpriseA}We COULD help you guys, though.
+312701052) CHRISTA
+[hmmph] {thinkingA}Maybe.
+312701053) OMID
+{surpriseA}So, yeah... {happyA}hi, {surpriseA}uh, again.
+312701054) CHUCK
+{normalC}Ya'll want some candy?
+312701055) 
+We're going to cut that tanker down.
+312701056) 
+These two are joining us.
+312701061) LEE
+{normalB}These two are joining us.
+312701057) 
+It's time we move forward.
+312701058) KENNY
+{sadC}Seems like plan enough to me.
+312701059) LEE
+{happyA}The plan is to cut that tanker down. It'll roll down the ravine and we can be on our way.
+312701060) LEE
+{happyA}I don't know what it is, but I can tell you two are good people.
+312701062) CHUCK
+{thinkingA}Gotta be careful about newcomers, I say.
+312701063) CHRISTA
+{angryA}We'll see about that.
+312701066) CHRISTA
+{angryA}We'll see about that.
+312701064) LEE
+{normalD}It's time we move forward. {sadA}Omid and Christa are going to help and {normalD}we're gonna get past this damned tanker.
+312701065) OMID
+{happyB}We're happy to stick around.
+312701067) CHRISTA
+{normalB}I'll get to know the girl for a minute, {sadA}if you don't mind.
+312701068) KENNY
+[to omid] {sadC}And why don't I show you how this thing works, in case something happens.
+312701069) LEE
+{thinkingA}Really, Ken?
+312701070) KENNY
+{sadC}It's probably for the best.
+312701071) OMID
+{happyA}Sounds great. Let's do this thing.
+312701072) OMID
+{normalB}You want to start in on that tanker?
+312701073) LEE
+[calling out] {HappyA}{Body-A}I found a blowtorch in the station. {ThinkingA}Should make quick work of the coupling up there.
+312701074) OMID
+{HappyA}{Body-A}Excellent, I'll come up there with you to have a look.
+312701075) OMID
+{DisgustB}Doh...
+312701076) LEE
+{FearB}{Body-A}Just about got it.
+312701077) LEE
+{SadA}Well, fuck.
+312701078) OMID
+{SurpriseA}{Body-A}That is crazy, look at it go. [cutting through a thing with a welding torch]
+312701079) OMID
+That's compressed shit. If there wasn't more where you found the torch, we're boned.
+312701080) LEE
+Think there's any more fuel around?
+312701081) LEE
+{ThinkingB}This thing's hanging by a thread. The smallest cut and it'll go.
+312701082) BEN
+{FearC}WE GOTTA GO!
+312701083) LEE
+[holding omid] {SurpriseB}{Body-A}There must be thousands...
+312701084) LEE
+{FearC}Fuck, Omid! CUT! CUT!
+312701085) OMID
+{SurpriseC}{Body-A}WHAT THE WHAT.
+312701086) BEN
+[yelling] {FearA}{Body-A}Guys... there's something coming.
+312701087) OMID
+{FearB}IT'S GOING! PULL ME UP!
+312701088) OMID
+{FearC}I AM!
+312701089) LEE
+{SurpriseB}{Body-A}KENNY, GO!
+312701090) LEE
+[to omid] {SurpriseA}We gotta jump.
+312701091) OMID
+{Body-A}{FearA}WHAT?! No way!
+312701092) 
+Jump!
+312701093) 
+Have it your way. [Push him]
+312701094) 
+You stay here and we'll go with your lady.
+312701095) LEE
+{AngryA}Fine!
+312701096) LEE
+{AngryC}Jump, DAMMIT!
+312701097) OMID
+{AngryB}Still no!
+312701098) OMID
+[jump!] {Body-A}{FearC}No!
+312701099) LEE
+{Body-A}{FearB}Jump!
+312701100) LEE
+[falling 20 feet] {Body-A}{AngryB}OOF.
+312701107) LEE
+[falling 20 feet] {Body-A}{AngryB}OOF.
+312701101) OMID
+[falling and hurting your leg on the landing] {Body-A}{FearC}AHH!
+312701105) OMID
+[falling and hurting your leg on the landing] {Body-A}{FearC}AHH!
+312701102) CHRISTA
+{Body-A}{FearB}Shit!
+312701106) CHRISTA
+{Body-A}{FearB}Shit!
+312701103) CHRISTA
+{AngryB}RUN!
+312701109) CHRISTA
+{AngryB}RUN!
+312701174) LEE
+RUN!
+312701222) LEE
+RUN!
+312701104) OMID
+[hurt] Oww...
+312701108) OMID
+[hurt] Oww...
+312701110) OMID
+{Body-A}{SurpriseB}I will!
+312701111) LEE
+{Body-A}{DisgustB}Have it your way.
+312701112) OMID
+{FearC}You son of a--!
+312701113) OMID
+{Body-A}{AngryC}The hell you will!
+312701114) LEE
+{Body-A}{DisgustB}Fine, you stay here and we'll go with your lady!
+312701115) BEN
+[far away] {Body-A}{FearB}COME ON!
+312701116) CHRISTA
+[far away] {Body-A}{FearB}GUYS!
+312701117) LEE
+[shoved off a ledge] {Body-A}{FearC}Shi--
+312701118) OMID
+{Body-A}{FearC}It's fucking scary, right?!
+312701119) OMID
+{Body-A}{FearB}SCARIER.
+312701120) LEE
+{normalB}Leads up to that wrecked tanker.
+312701122) LEE
+{Body-A}{thinkingA}This thing is mangled to hell... no releasing it, no nothing.
+312701123) LEE
+{Body-A}{thinkingA}Could I cut through it, maybe? I dunno...
+312701124) LEE
+{Body-A}{ThinkingA}I got this blowtorch...
+312701127) LEE
+{thinkingA}There's no way I'm pulling anything apart down there.
+312701130) LEE
+{normalD}More big shit to move.
+312701131) LEE
+{thinkingA}This would create a hell of a fireball if we tried to blast through.
+312701134) LEE
+{angryA}If I come up there you better not be murderers or thieves.
+312701135) CHRISTA
+{angryA}I guess you'll have to find out.
+312701136) LEE
+{normalB}I guess it's good Clem's got a woman to talk to.
+312701140) CHRISTA
+{angryA}Stop it.
+312701141) 
+What were you guys arguing about?
+312701142) 
+Where you from?
+312701152) LEE
+{thinkingA}Where you from?
+312701143) 
+Not sure how we'll get that tank down.
+312701163) LEE
+{thinkingA}Not sure how we'll get that tank down.
+312701146) LEE
+{happyA}Hey there.
+312701147) CHRISTA
+{thinkingA}You got this girl shooting guns?
+312701148) CHRISTA
+{angryA}You weren't getting one. It's good. {happyA}She should be able to take care of herself.
+312701149) LEE
+{thinkingA}Look, I don't need a lecture.
+312701150) LEE
+{happyA}Careful, she's a crack shot now.
+312701311) 
+Careful, she's a crack shot now.
+312701151) LEE
+{fearA}Jeez, {normalB}a long way from home.
+312701153) CHRISTA
+San Francisco.
+312701154) CHRISTA
+{happyA}I blame the one in there. He wanted the great American road trip.
+312701155) CHRISTA
+{happyA}Wonderful. You two will be thick as thieves.
+312701156) LEE
+{happyB}He got a little more than he bargained for, huh?
+312701157) CHRISTA
+[pickup 2] [new read: - Read well, but strange in context. Maybe if they added 'anyway' to the end of 'history.'] {angryA}Who the hell is into Civil War history anyway? Other than old white guys.
+312701158) CHRISTA
+{angryA}Nothing.
+312701159) LEE
+{thinkingA}If you're going to be around for a while {angryA}it'd be good to know what baggage ya got.
+312701160) CHRISTA
+{angryA}Then maybe we won't be around for a while.
+312701161) LEE
+{thinkingB}What were you two arguing about when I was coming up the ladder?
+312701162) CHRISTA
+{happyA}Maybe ask Omid. He likes to break things.
+312701170) LEE
+{happyA}Hi, girls.
+312701171) CHRISTA
+[response to hi] {happyA}Hey.
+312701172) LEE
+GOTCHA.
+312701173) CHRISTA
+Now Omid!
+312701175) LEE
+GRAB MY HAND!
+312701223) LEE
+GRAB MY HAND!
+312701178) KENNY
+{angryB}I said don't touch it, jackass.
+312701179) KENNY
+{sadC}The whole thing's pretty simple, really.
+312701180) OMID
+{thinking}How could it not be?
+312701181) 
+Learning the ropes?
+312701182) 
+How have you guys made it this far?
+312701184) 
+You like Civil War history, huh?
+312701202) LEE
+{happyB}You like Civil War history, huh?
+312701185) 
+How long since you've been home?
+312701203) LEE
+{happyA}How long since you've been home?
+312701186) LEE
+{happyB}Talk to you later.
+312701187) OMID
+There are a lot of levers I can't wait to use.
+312701189) OMID
+Maybe we can drive in shifts?
+312701190) KENNY
+{angryA}I said if something WERE to happen to me.
+312701191) LEE
+{happyA}Learning the ropes? Can't be too hard, right?
+312701192) OMID
+Please. I've saved her ass hundreds...tens...some times.
+312701193) LEE
+{thinkingA}How have you two made it this far? {angryA}You seem dangerously normal.
+312701194) LEE
+[amused] {thinkingA}I got the feeling {happyB}she takes care of you.
+312701195) OMID
+Christa doesn't let us join groups and I'm a fucking scrapper.
+312701196) OMID
+Excellent. Don't tell Christa, though. That won't be as big a selling point for her.
+312701197) OMID
+Well... yeah.
+312701198) OMID
+Fuck yeah.  What do you know about some Quantrill's Raid?
+312701199) LEE
+{happyB}And we're headed the other way. {normalB}But if it's somehow not crawling with the dead, there should be some cool things to see.
+312701200) LEE
+{happyA}It happened about a thousand miles that way.[points]
+312701201) LEE
+{happyA}You got it.
+312701204) LEE
+{normalD}That's rough.
+312701205) OMID
+Like six months. We were on the road for a while and then, you know.
+312701206) OMID
+Our cat is gonna be pissed.
+312701207) LEE
+[ha] {ThinkingA}No, but I'm gonna lower you over the edge.
+312701208) OMID
+{AngryC}The hell you are!
+312701209) OMID
+{Body-A}{DisgustB}You think it'll be within mine?
+312701210) LEE
+{Body-A}{ThinkingB}Here. The weak portion of the coupling is out of my reach.
+312701212) OMID
+{AngryC}{Body-A}God, you're a real son of a bitch, aren't you?
+312701213) LEE
+I found this hacksaw. It might be enough to finish the job.
+312701214) OMID
+Yeah, it might.
+312701215) LEE
+We're almost through down there.
+312701216) OMID
+I'll keep on the lookout for something that could help.
+312701217) OMID
+{Body-A}{HappyD}Fire that thing up.
+312701218) LEE
+{Body-A}{FearA}Think this will work?
+312701219) OMID
+{Body-A}{HappyD}Dude, you're cutting metal with fire. How could it not?
+312701220) LEE
+I gotcha!
+312701224) OMID
+You gotta get Christa!
+312701225) LEE
+Let's go! Come on!
+312701226) KENNY
+{normalB}We'll be down here.
+312701227) LEE
+{happyA}Teaching him anything?
+312701228) KENNY
+{normalB}Trying to...
+312701229) BEN
+Yeah, we're good for a ways.
+312701230) LEE
+{happyA}Got a clear view up there?
+312701231) BEN
+{happyA}Yeah.
+312701232) LEE
+{happyA}As soon as that thing comes down we'll be on our way.
+312701233) LEE
+{thinkingA}And I hope we won't have any more trouble out of you.
+312701234) BEN
+{fearA}I promise you won't.
+312701235) LEE
+She set off any alarm bells?
+312701236) LEE
+You interrogating this woman for us?
+312701237) CLEMENTINE
+Yep.
+312701238) CHRISTA
+[turns to lee] She's very thorough.
+312701239) CLEMENTINE
+[wryly with a smile] Not yet.
+312701240) LEE
+[with a smile] That's what I like to hear.
+312701241) LEE
+Hurry, dammit!!!
+312701242) LEE
+Watch out!
+312701243) LEE
+Dammit!
+312701244) LEE
+{thinkingA}Maybe I should check out that train station.
+312701245) LEE
+{thinkingB}The train station's over there.
+312701246) LEE
+[announces to the group] {happyA}Clementine and I are checking out this train station, all right? Hustle over if you hear anything.
+312701247) LEE
+{happyc}Yeah, all right. Come on.
+312701248) CLEMENTINE
+{fearA}I do. But... it's like we're a team. {happyB}Like you said.
+312701249) CLEMENTINE
+{happyB}Can I follow you over there?
+312701250) LEE
+{happyA}You don't like the new girl?
+312701251) LEE
+{thinkingB}Whatever government work was going on here didn't seem to help.
+312701252) LEE
+[out of breath]
+312701253) OMID
+[out of breath]
+312701254) CHRISTA
+[out of breath]
+312701255) OMID
+[semi out of breath] {Body-A}{SurpriseA}That... was a LOT... of them.
+312701256) CLEMENTINE
+{Body-HandOnWrist}{FearA}Are you hurt...?
+312701257) LEE
+{Body-A}{HappyA}No, we're okay.
+312701258) OMID
+{AngryB}Speak for yourself, my leg is fucked.
+312701259) CHRISTA
+{Body-A}{HappyA}We're fine, Clementine. We're fine.
+312701260) 
+Look At
+312701263) 
+Look At
+312701265) 
+Look At
+312701272) 
+Look At
+312701274) 
+Look At
+312701279) 
+Look At
+312701281) 
+Look At
+312701284) 
+Look At
+312701286) 
+Look At
+312701351) 
+Look At
+312701365) 
+Look At
+312701262) 
+Use
+312701285) 
+Use
+312701352) 
+Use
+312701357) 
+Use
+312701264) 
+Cut
+312701354) 
+Cut
+312701266) 
+Talk To
+312701273) 
+Talk To
+312701275) 
+Talk To
+312701278) 
+Talk To
+312701280) 
+Talk To
+312701305) 
+Talk To
+312701270) 
+Yell To
+312701283) 
+Yell To
+312701271) 
+Grab
+312701282) 
+Grab
+312701288) 
+Shoot
+312701289) 
+Walk To
+312701290) 
+Hitch
+312701291) 
+Ladder
+312701292) 
+Sign
+312701293) 
+Train Station
+312701294) LEE
+[pickup2] {Body-A}{SadA}Folks probably had their way with that van a while ago.
+312701295) LEE
+[pickup2] {Body-A}{DisgustB}Empty. That's what I figured.
+312701296) LEE
+[pickup2] {Body-A}{ThinkingB}That's about the only useful thing in here.
+312701297) LEE
+[pickup2] {DisgustA}{Body-A}Shut up and start cutting.
+312701299) OMID
+[pickup2] Well, there's all that disaster relief stuff up there.
+312701301) LEE
+[pickup2] {Body-A}{HappyA}It should work now.
+312701302) LEE
+[pickup2] {Body-A}{ThinkingA}Once it's fixed, it should be enough to cut the coupling.
+312701303) LEE
+[pickup2] {Body-A}{DisgustA}Until I patch that hose, it's useless.
+312701304) LEE
+[pickup2] {Body-A}{DisgustB}Hope this holds.
+312701306) 
+Give Blowtorch To
+312701307) OMID
+[pickup2] Crap.
+312701396) OMID
+[pickup2] Crap.
+312701308) LEE
+[pickup2] I found some tape. Should be enough to patch it.
+312701309) OMID
+[pickup2] Okay. I'll meet you up there.
+312701310) KENNY
+{angryA}I don't know what that does yet. Don't touch it.
+312701312) 
+About what happened in the station...
+312701313) CHRISTA
+{thinkingA}I think it's a good idea -- {fearA}figurin' stuff out for yourself -- {thinkingA}for what it's worth.
+312701314) CHRISTA
+{thinkingA}But be smart about it, though, you know? {happyA}Teach her to scan the area for things. {angryA}You two should never be looking in the same spot -- that's a waste. Stay the hell out of places like that building over there, especially if you don't have more than one way to get out.
+312701315) CHRISTA
+{angryB}And be more afraid of groups of living men than dead folk.
+312701316) LEE
+[pickup2] That, we know.
+312701317) CHRISTA
+Omid and I are still alive because we're two and not six or eight or ten. I don't believe in strength in numbers and you shouldn't either.
+312701318) LEE
+[pickup2] We're trying to get used to being on our own, Clementine and I.
+312701319) CHRISTA
+{thinkingA}So you take her into a dark, boarded up building to build character?
+312701320) LEE
+[pickup2] Not exactly.
+312701321) BEN
+[pickup2] Thank god...
+312701322) 
+Get used to them. It's easier.
+312701323) 
+No shit. Walkers, man...
+312701324) 
+Toughen up.
+312701326) LEE
+[pickup2] Get used to them. I don't think they're going anywhere any time soon.
+312701327) BEN
+[pickup2] Their numbers keep going up, and ours...
+312701328) BEN
+[pickup2] I'm glad somebody else feels that way.
+312701329) LEE
+[pickup2] No shit. Walkers, man. You know, sometimes you might see me take care of one, because I have to, but don't start thinking they don't horrify me.
+312701330) LEE
+[pickup2] Toughen up. It's, you, me and now Chuck. Who knows what these new people have planned.
+312701331) LEE
+[pickup2] There are going to be a lot more walkers to take care of.
+312701332) BEN
+[pickup2] That's what I'm afraid of.
+312701333) BEN
+[pickup2] [Exhale, sigh]
+312701334) BEN
+[pickup2] Yeah, take myself out.
+312701335) LEE
+[pickup2] Don't be dramatic.
+312701336) LEE
+[pickup2] And don't let them get a hold of you.
+312701337) BEN
+[pickup2] I'm telling you, Lee, if they ever get a HOLD of me... and I know I'm not getting out of it...that's it, man. I'm just, gonna... punch my own ticket.
+312701338) LEE
+[pickup2] ...Punch your own ticket?
+312701339) CHRISTA
+{Body-A}{AngryA}AHH! [being pulled]
+312701340) LEE
+[pickup2] {Body-A}{FearA}UGH!
+312701348) LEE
+[pickup2] {Body-A}{FearA}UGH!
+312701349) CHRISTA
+{Body-A}{FearA}UGH!
+312701341) CHRISTA
+{AngryB}You son of a bitch! Save HIM! [as in "i told you to save HIM not me]
+312701342) CHRISTA
+[bigger] {FearB}OMID!
+312701343) CHRISTA
+Omid!
+312701344) OMID
+[pickup2] {Body-A}{AngryC}No! Her! NOT ME!
+312701345) OMID
+[pickup2] {Body-A}{FearC}CHRISTA NO!!!! FUCK!
+312701346) OMID
+[pickup2] {AngryC}You piece of shit! She's a woman! Don't you know--
+312701347) OMID
+[pickup2] [distraught. thought he lost her] {SadA}Baby.
+312701350) CHRISTA
+{SadA}It's okay, honey. I'm okay.
+312701353) 
+Use Tape On
+312701355) 
+Blowtorch
+312701356) 
+Tanker
+312701358) LEE
+[pickup2] I'm glad someone's managed to keep their spirit.
+312701362) 
+FRS Truck
+312701363) 
+Cage
+312701364) 
+Open
+312701366) LEE
+[pickup2] {DisgustA}{Body-A}Shit.
+312701367) OMID
+[pickup2] {Thinking}{Body-A}What's up?
+312701368) LEE
+[pickup2] {ThinkingB}The hose has a leak in it.
+312701369) OMID
+[pickup2] {SurpriseB}Turn it off, dude! I don't want my eyebrows burned off!
+312701370) OMID
+[pickup2] {FearA}Better plug that leak with something.
+312701371) CHRISTA
+[pickup2][big, astonished, angry] {Body-A}{AngryB}What the hell is wrong with you? Is this how you protect your people?
+312701378) 
+Cab Door
+312701379) KENNY
+[pickup2] Someone might want to have a look inside of that station back there, too.
+312701380) LEE
+[pickup2][ha] No, but I'm gonna dangle you over that ledge.[this is just a very slight change to what we recorded already, for ref]
+312701381) LEE
+[pickup2] [alt] The plan is to cut that tanker down and be on our way.
+312701382) LEE
+[pickup2] Good thinking.
+312701383) OMID
+[pickup2][alt]  Plus that thing is full of sweet sweet gasoline. We should be sure to siphon some off.
+312701384) CHRISTA
+[pickup2] That's a pretty useful radio for her to be holding onto, no?
+312701385) CHRISTA
+[pickup2] Ah, I understand.
+312701386) LEE
+[pickup2] It's busted, but... it means something to her.
+312701387) KENNY
+[pickup2][long, drawn out] FFFFUUUUUUUUCK YOOOOOOUUUUU!!!
+312701388) KENNY
+[pickup2][start regular volume, escalating to full out screaming] Fuck! 
+Fuck! Fuck! FUCK! FUUUUUUUCK!!!
+312701389) BEN
+[pickup2] [to himself] We need someone, anyone, to come along and... and... exterminate them or something.
+312701390) OMID
+[pickup2][high energy] Shit! What the hell do we do now?
+312701391) LEE
+[pickup2][context: this is so dangerous] Hope to God this works.
+312701392) OMID
+[pickup2] Shit!
+312701393) LEE
+[pickup2][context: the escape route is cut off] It's smashed to hell!
+312701394) OMID
+[pickup2] Holy crap!
+312701395) LEE
+[pickup2][disappointed] It's too far off the edge.
+312701397) LEE
+[pickup2][frustrated] Dammit, it was just about done, too.
+312701398) LEE
+[pickup2][disappointed] I can't reach it now.
+312701399) OMID
+[pickup2] No sweat, man.
+312701400) LEE
+[pickup2] Whoa, thanks!
+312701401) CHRISTA
+[pickup2][context: what did I JUST tell you?] Omid....
+312701402) OMID
+[pickup2][playful, what did I do wrong?] What?
+312701403) OMID
+[pickup2][excited] Let's go talk to your people, man!
+312701404) CHRISTA
+[pickup2][context: get the lead out] Am I gonna have to tell your
+people the plan or what?
+312701405) LEE
+[pickup2][referring to the train] All this power and we're still stuck.
+312701406) LEE
+[pickup2] It's empty.
+312701407) LEE
+[pickup2] Doesn't look like it lasted.
+312701408) 
+Generator
+312701409) 
+Train
+312701410) 
+Railing
+312701411) 
+Truck

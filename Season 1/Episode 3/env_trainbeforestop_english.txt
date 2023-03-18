@@ -1,0 +1,486 @@
+312594698) CHUCK
+{normalA}{body-a}Got to be hard on ya, eh? Three adults taking care of three kids; [to Ben who is 17 and sensitive to being called a kid] no disrespect, son.
+312594699) 
+There were more of us.
+312594700) 
+It is.
+312594701) 
+We'll be fine.
+312594704) CHUCK
+{Normala}{Body-A}Dead get'em?
+312594705) LEE
+{NormalD}{Body-B}There were more of us.
+312594706) LEE
+{AngryA}{Body-B}It is.
+312594707) CHUCK
+{Normala}{Body-A}Your daughter's something else.
+312594708) CHUCK
+{Normala}{Body-A}This one's [points to Ben] gonna grow up quick.
+312594709) CHUCK
+{Normala}{Body-A}I don't doubt it, son.
+312594713) CHUCK
+{Normala}{Body-A}I don't doubt it, son.
+312594710) LEE
+{SadA}{Body-B}We'll be fine. {ThinkingA}We've gone through just as much as anybody else.
+312594711) BEN
+{SadA}{Body-A}I already am.
+312594714) BEN
+{SadA}{Body-A}I already am.
+312594712) CHUCK
+{Normala}{Body-A}Well, it looks like this one's [points to Ben] gonna have to grow up quick.
+312594715) CHUCK
+{Normala}{Body-A}[sincere] [That's a] Shame.
+312594716) LEE
+{AngryA}{Body-B}[stern. he does NOT want to talk] Yes.
+312594717) 
+Yes.
+312594718) 
+No.
+312594720) LEE
+{SadA}{Body-B}[regretful] No.
+312594721) CHUCK
+{Normala}{Body-A}Ah. Livin' got 'em.
+312594722) CHUCK
+{Normala}{Body-A}[giving his question a second thought] Not that it matters much.
+312594723) 
+She's a survivor.
+312594724) 
+She's not my daughter.
+312594726) LEE
+{NormalB}{Body-B}She's a survivor. {HappyA}Has been from day one.
+312594727) CHUCK
+{Normala}{Body-A}Takes after her dad, looks like.
+312594729) CHUCK
+{Normala}{Body-A}Takes after her dad, looks like.
+312594730) CHUCK
+{Normala}{Body-A}Takes after her dad, looks like.
+312594728) LEE
+{ThinkingA}{Body-B}She's not...{FearA}[was going to say she's not my daughter] {NormalD}She's a survivor.
+312594731) KATJAA
+{FearB}{Body-A}[sharp] LEE! [bringing it down, as Duck is in your arms, dying] {FearA}Lee. I need you. {SadB}Right now. I need you to go get Ken.
+312594732) LEE
+[confused] {FearA}{Body-B}What's...
+312594733) KATJAA
+{FearA}[your son is dying but you are in control] Would you get that off of his face? My hands are full here.
+312594734) DUCK
+[coughing up blood. you're dying, kid]
+312594835) KENNY
+[getting shoved, hard, into a wall]
+312594837) KENNY
+[getting shoved, hard, into a wall]
+312594924) KENNY
+[gasping for air having been choked]
+312594931) LEE
+[angry -- pressing your forearm deep into a guy's throat]
+312594934) KENNY
+[punched blocked 1]
+312594935) LEE
+[block punch1]
+312594936) KENNY
+[throw punch1]
+312594937) LEE
+[block punch2]
+312594938) KENNY
+[punched blocked 2]
+312594939) KENNY
+[throw punch2]
+312594949) LEE
+[spitting out some blood, small]
+312594735) KATJAA
+[son dying] {SadA}There's a rag right there, Lee.
+312594736) KATJAA
+[son dying] {SadB}Would you hand me that rag, please?
+312594737) KATJAA
+[son dying] {FearA}Lee, please.
+312594738) KATJAA
+{SadB}{Body-A}[son dying] Forget it. Just go.
+312594739) KATJAA
+{SadB}{Body-A}[son dying] Thank you. Could you just get that off of his face, please?
+312594741) KATJAA
+{FearA}{Body-A}[your son is dying but you are trying to hold it together] He's out of time. {FearB}We need to stop this train.
+312594742) KATJAA
+{SadB}[your son is dying and you need your husband] Please.
+312594748) CLEMENTINE
+{SadB}[urging Lee, small] Please.
+312594743) LEE
+{FearA}{Body-B}[somber but firm] Okay.
+312594744) KATJAA
+{FearA}Lee, please go get him.
+312594745) KATJAA
+{SadB}There isn't much time. He's in the cab. Go.
+312594746) KATJAA
+{SadA}LEE. GO.
+312594747) KATJAA
+{SadB}[urging him to go] LEE.
+312594749) LEE
+[somber but stern] {normalD}{body-b}Kenny.
+312594750) KENNY
+{NormalB}{body-A}What.
+312594751) LEE
+[more stern] {AngryA}KEN.
+312594752) KENNY
+[flat] {DisgustA}What the hell's that?
+312594753) 
+Your son's blood.
+312594754) 
+The beginning of a walker.
+312594755) 
+Nothing you seem to care about.
+312594756) LEE
+{SadA}{Body-B}Your son's blood.
+312594757) KENNY
+{DisgustA}{Body-A}Get out of here, Lee.
+312594758) LEE
+{FearB}You know he's dying.
+312594759) LEE
+{AngryB}{body-b}The beginning of a walker.
+312594760) KENNY
+[mad at the inference] {AngryC}{Body-A}He'll be FINE. {AngryB}We can get to the coast and maybe meet up with people who have this shit figured out.
+312594762) KENNY
+{Angryb}Nobody knows shit! {FearA}He'll be fine.
+312594763) LEE
+{DisgustA}{Body-B}Nothing you seem to care about.
+312594764) KENNY
+{AngryC}{Body-a}Fuck you! {DisgustA}You don't KNOW what I care about. {FearA}I care about saving my son and getting {AngryB}ALL OF US to the ocean.
+312594765) KENNY
+{AngryD}{Body-A}Get that crap out of my face. {DisgustA}I know the boy's sick. {AngryB}But he'll be fine. {AngryC}Watch.
+312594801) KENNY
+{AngryD}{Body-A}Get that crap out of my face. {DisgustA}I know the boy's sick. {AngryB}But he'll be fine. {AngryC}Watch.
+312594766) 
+I'm sorry. I know you care.
+312594767) 
+The same way you cared about Hershel's boy?
+312594768) LEE
+{AngryA}{Body-B}You need to stop the train.
+312594769) 
+You're right, I don't know.
+312594771) LEE
+{SadA}{Body-B}I'm sorry. [comma]
+312594772) KENNY
+[a mess] {FearB}We just gotta focus and {FearA}get to Savannah as fast as we can.
+312594773) LEE
+{SadB}We're out of time, Kenny.
+312594774) LEE
+{AngryA}{Body-B}The same way you cared about Hershel's son?
+312594775) KENNY
+{AngryA}{Body-A}[heavy]No. I won't.
+312594776) LEE
+{AngryA}{Body-B}Will YOU?
+312594777) KENNY
+{DisgustA}{Body-A}[burned, upset]You're never gonna forget that, huh pal?
+312594778) KENNY
+{AngryB}{Body-A}[burned, hurt] That's on BOTH of us.
+312594779) KENNY
+{AngryC}{Body-A}Go back there and tell my wife everything will be fine.
+312594790) KENNY
+{AngryC}{Body-A}Go back there and tell my wife everything will be fine.
+312594798) KENNY
+{AngryC}{Body-A}Go back there and tell my wife everything will be fine.
+312594802) KENNY
+{AngryC}{Body-A}Go back there and tell my wife everything will be fine.
+312594780) LEE
+{AngryB}{Body-B}It is. {AngryA}But you never got over it.
+312594781) KENNY
+{SadB}Who gives a shit.
+312594784) LEE
+{AngryA}{Body-B}You're right, I don't know.
+312594785) LEE
+{DisgustB}{Body-B}You've killed people. {DisgustA}Larry's blood is on your hands. {AngryA}And you can't fucking handle it.
+312594786) KENNY
+{AngryB}{body-A}Leave me alone.
+312594789) KENNY
+{AngryB}{body-A}Leave me alone.
+312594787) LEE
+{FearA}Kenny...
+312594791) LEE
+{SadB}I know you care. {FearA}But man... [look at you.]
+312594792) 
+He won't be.
+312594793) 
+I'm sorry.
+312594925) LEE
+[a little out of breath, having just choked the life out of Kenny] I'm sorry.
+312594794) 
+Wake the fuck up, man.
+312594795) 
+Silent
+312594796) LEE
+{SadA}{Body-B}He won't be. {FearA}He's going, Kenny.
+312594797) LEE
+{SadB}{Body-B}I'm sorry. I shouldn't talk like that right now.
+312594799) LEE
+{AngryB}{Body-B}Wake the fuck up, man. This is over. {FearA}He's dead.
+312594800) KENNY
+{AngryC}{Body-A}Don't tell ME to wake up. {DisgustA}I've got a REAL family I'm trying to protect. Not that fucking {AngryD}sham you're runnin' {AngryC}back there.
+312594803) 
+I said stop the train.
+312594804) 
+Duck's just about gone back there.
+312594805) 
+Katjaa needs you.
+312594807) LEE
+{AngryC}{Body-B}I said stop the train.
+312594808) KENNY
+{DisgustA}{Body-A}Make me.
+312594820) KENNY
+{DisgustA}{Body-A}Make me.
+312594809) LEE
+{SadB}{Body-B}Duck's just about gone back there, man.
+312594810) KENNY
+{Angryc}{Body-A}Don't feed me that bullshit.
+312594811) LEE
+{SadA}{Body-B}Katjaa needs you, Kenny.
+312594812) KENNY
+{AngryC}{Body-A}Duck will be fine.
+312594813) KENNY
+{AngryC}{Body-a}[cold] Quit hoverin' and get out of here.
+312594814) KENNY
+{AngryD}{Body-a}Get your hands off of me.
+312594815) 
+I'm sorry, I just want to talk.
+312594816) 
+No. You're gonna start listening.
+312594817) KENNY
+{AngryB}{Body-a}The hell you will. {FearA}We're gettin' to the coast and Duck'll pull through.
+312594818) LEE
+{Angryb}{Body-b}No. You're gonna listen to me. {AngryA}Your wife and kid need you and {AngryB}I'm going to make sure you stop this train.
+312594819) LEE
+{AngryC}Stop the goddamn train and come deal with this.
+312594821) LEE
+{FearB}{Body-B}I'm sorry. {FearA}I just want to talk. {SadB}We gotta stop this train because Kat needs you, Kenny. {SadA}Duck doesn't have much time left.
+312594822) KENNY
+{Angryb}He'll be fine.
+312594823) KENNY
+{Angryb}He'll be fine.
+312594824) KENNY
+{DisgustA}{Body-a}How the fuck do you {AngryC}"calm down" {AngryA}after a day like today?
+312594825) LEE
+{FearA}{Body-B}Calm down and...
+312594826) LEE
+{FearB}{Body-B}I don't know what the hell is wrong with you {AngryA}but you need to lock it up. {AngryC}Be a man here.
+312594827) KENNY
+{AngryC}{Body-A}You want a piece of me, {AngryD}is that it?
+312594828) 
+Yeah, I do.
+312594834) LEE
+{AngryC}Yeah. I do.
+312594829) 
+I just want to talk.
+312594830) LEE
+{FearA}{Body-b}I just want to talk, Ken. Relax.
+312594831) KENNY
+{Angryc}Then TALK.
+312594832) KENNY
+{DisgustA}{Body-a}That's what I figured.
+312594838) KENNY
+{DisgustA}{Body-a}That's what I figured.
+312594833) LEE
+{AngryC}You're acting like nothing's wrong and {AngryD}somebody's gotta knock some sense into you.
+312594836) LEE
+{AngryC}You're acting like nothing's wrong and {AngryD}somebody's gotta knock some sense into you.
+312594839) KENNY
+{AngryB}{Body-A}What's the goddamn deal? {FearA}He's a little sick, but we can't just quit.
+312594840) 
+Stop. The. Train.
+312594946) LEE
+[having had the shit kicked out of you] Stop the train...
+312594841) KENNY
+{AngryB}It's a scratch! {AngryA}He's not like the others. Jesus, {AngryC}all ya'll are just makin' it worse.
+312594842) 
+You're in denial!
+312594843) 
+This isn't about Duck.
+312594844) LEE
+{AngryC}You're gonna listen.
+312594853) LEE
+{AngryC}You're gonna listen.
+312594845) KENNY
+{AngryD}Or what?
+312594851) KENNY
+{AngryD}Or what?
+312594846) LEE
+{AngryD}STOP IT GODDAMMIT.
+312594854) LEE
+{AngryD}STOP IT GODDAMMIT.
+312594847) KENNY
+{AngryC}{Body-A}Fuck you, Lee.
+312594852) KENNY
+{AngryC}{Body-A}Fuck you, Lee.
+312594848) LEE
+{AngryB}{Body-B}[intimidating] Stop the train.
+312594849) LEE
+{AngryA}{Body-B}You're in denial!
+312594850) KENNY
+{AngryC}{Body-A}And you've given up! On Duck, {AngryD}on EVERYONE!
+312594855) LEE
+{FearA}{Body-B}This isn't about Duck.
+312594856) KENNY
+{DisgustA}You sure as shit haven't done anything for me.
+312594857) LEE
+{SadA}{Body-B}I don't hate you.
+312594858) KENNY
+{DisgustA}{Body-A}It's not about my son dying? {AngryB}The hell do you know? {AngryC}You're not my friend.
+312594859) LEE
+{SadB}{Body-B}It's not like that.
+312594860) KENNY
+{AngryC}The fuck it isn't.
+312594861) KENNY
+{AngryB}You think we're pals and you know me? {DisgustA}You're some elitist prick with a fancy education who can pick me apart?
+312594862) LEE
+{SurpriseB}{Body-B}[getting shoved] Hey!
+312594864) LEE
+{AngryC}{Body-B}DAMMIT KENNY, OPEN THIS DOOR!
+312594880) 
+By getting beat up, I guess.
+312594881) 
+By talking to your friend.
+312594883) LEE
+{FearA}{Body-B}Let's just talk, man.
+312594884) KENNY
+{AngryB}{Body-A}Whatever.
+312594885) KENNY
+{DisgustA} Hmmph.
+312594970) KENNY
+{DisgustA} Hmmph.
+312594887) LEE
+{DisgustA}{Body-B}By getting beaten up, I guess.
+312594888) LEE
+{SadA}{Body-B}By talking to your friend.
+312594889) KENNY
+{Angryb}{Body-A}So you want to fight then.
+312594890) LEE
+{AngryC}{Body-B}Knock this shit off.
+312594891) KENNY
+{DisgustA}{Body-B}You smug son of a bitch.
+312594893) 
+You think you're the reason Duck was bitten.
+312594894) KENNY
+{AngryC}{Body-A}The hell it's not.
+312594895) 
+You couldn't save Shawn OR Duck.
+312594896) 
+How many sons are you going to let die?
+312594899) LEE
+{AngryA}{Body-B}You couldn't save Hershel's son then, and {AngryB}you can't save Duck now!
+312594900) KENNY
+{AngryC}{Body-A}Shut your mouth!
+312594906) KENNY
+{AngryC}{Body-A}Shut your mouth!
+312594901) LEE
+{AngryC}So you're runnin! Like a coward!
+312594902) 
+You need to get over it.
+312594903) 
+You didn't kill Hershel's son.
+312594904) 
+Stop thinking about yourself.
+312594907) LEE
+{AngryC}{Body-B}How many sons are you going to let die?
+312594908) KENNY
+You're an asshole, you know? You just say shit and then stand there...
+312594909) KENNY
+What do you know about a dead son? Nothin'. Now get the fuck out of here.
+312594910) LEE
+{SadB}That's not what went down. {SadA}You looked out for your kid {SadB}and a bad thing happened to someone else's.
+312594911) LEE
+{SadB}{Body-B}You didn't kill Hershel's son.
+312594912) KENNY
+{sadC}{Body-a}[broken] Yes, I did. {FearA}And now it's catching up to me.
+312594913) LEE
+{SadB}{Body-B}And I'm sorry I said otherwise.
+312594914) LEE
+{NormalC}{Body-B}I'm going to go get Kenny. {ThinkingA}Hold on tight in case the train stops fast.
+312594915) CHUCK
+{NormalA}{Body-B}Oughta' get this train stopped right quick.
+312594919) LEE
+[angry] I told Katjaa I'd get you to stop this and you bet your ass I'm gonna.
+312594920) LEE
+[firm] I've had your back, Kenny. What you're goin' through now is hell on earth and you need your friends.
+312594921) LEE
+[firm] I know you don't give a fuck about what I have to say but I can't let you do this to your family.
+312594922) LEE
+[angry] I've had your back! Don't make me fucking regret it!
+312594923) LEE
+[angry] I don't give a fuck that we don't get along! I'm not letting you do this to Kat and Duck!!!
+312594926) LEE
+You're not a bad man. Fuck, that doesn't even mean anything anymore. A man isn't bad... a man just is.
+312594927) LEE
+All we can do is take care of who we can and keep moving forward.
+312594928) LEE
+[final] Now, let's stop the train.
+312594929) LEE
+[angry] You want to hurt people because you're afraid?! Losin' Duck ain't enough for you?! Because you'll fucking LOSE EVERYTHING actin' like this!
+312594930) LEE
+[angry] I'll fucking kill you before I let that happen!!!
+312594940) KENNY
+[punching lee] Just leave me -- the fuck -- alone!
+312594941) KENNY
+[punching lee] I don't need -- you -- and Duck doesn't -- need you!
+312594942) KENNY
+[punching lee] You're not helping my family! You're not helping Clementine! You're not helping ANYBODY!
+312594943) KENNY
+[punching lee] You don't even HAVE a child, you don't know what this is like! You fucker!
+312594944) KENNY
+I fucking hate you, Lee! DO YOU HEAR ME?
+312594945) KENNY
+I...I... [you see Lee, battered to shit, a big emotional realization about your life] I don't know what to do.
+312594948) KENNY
+[small, giving in] Okay.
+312594950) KENNY
+{FearC}There ain't no way this world let's my son live when {FearB}I helped put someone else's in the ground.
+312594959) KENNY
+{FearC}There ain't no way this world let's my son live when {FearB}I helped put someone else's in the ground.
+312594951) LEE
+{NormalD}{Body-B}That's not the way it works. {SadA}You know that.
+312594952) LEE
+{SadB}Stop the train, man.
+312594956) LEE
+{ThinkingA}{Body-B}You think you're the reason Duck was bitten.
+312594957) LEE
+{ThinkingB}Like you had this coming, or something.
+312594958) KENNY
+{FearB}{Body-A}I do have it comin'.
+312594960) LEE
+{FearB}{body-b}You need to just get over it. {disgustA}Fuck, man.
+312594961) LEE
+{FearA}There's no room anymore for feeling bad about things. {ThinkingB}Bad shit's going to happen for the rest {FearA}of our lives. {AngryA}That's just the way it is.
+312594962) LEE
+{AngryB}So stop the goddamn train.
+312594963) LEE
+{DisgustA}Well, there's no room for that shit. {DisgustB}This isn't about you. {AngryB}It's about a woman back there who needs her husband and a {AngryC}boy who needs his dad.
+312594964) LEE
+{FearA}{body-B}Stop thinking about yourself, man. {ThinkingB}You feel guilty; {AngryA}like you killed any chance of a miracle for Duck {AngryB}when you ran away from Shawn Greene.
+312594971) LEE
+{SadA}I know you care for Kat and Duck more than anything {AngryA}so what the fuck is this?
+312594973) 
+Talk To
+312594974) 
+Show Rag To
+312594975) 
+Grab
+312594976) 
+Rag
+312594977) 
+Cab Door
+312594978) 
+Clean
+312594986) 
+Boxcar Door
+312594987) LEE
+{NormalC}{Body-B}[pickup2] I'm not going back in there until I've talked to Kenny.
+312594991) 
+Fist
+312594992) LEE
+[pickup2] I'm stopping the train. Stay put.
+312594993) BEN
+[pickup2][dejected] Okay.
+312594994) 
+Calm down.
+312594996) 
+(Fight him)
+312594997) 
+(Back off)
+312594998) 
+I don't know what's wrong with you.
+312594999) 
+Knock this shit off.

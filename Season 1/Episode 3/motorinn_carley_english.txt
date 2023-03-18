@@ -1,0 +1,336 @@
+312512670) CARLEY
+{normalA}What I wanted to say was, {happyA}I've been thinking a lot. {happyb}About you.
+312512671) 
+I think about you too.
+312512674) LEE
+{happya}I think about you too.
+312512672) 
+What about?
+312512678) LEE
+{normalA}What about?
+312512673) 
+I'm fine.
+312512679) LEE
+{normalD}I'm fine.
+312512676) CARLEY
+{happya}[nervously smitten, just a touch] Our group is small.
+312512677) LEE
+[pickup 2] [new read note: This could be more flirty. As is, it's a bit flat.] {happyb}[flirting "our group is small"]You're small.
+312512680) CARLEY
+{thinkingA}Don't brood. I know you're "fine."
+312512681) LEE
+{AngryA}Carley, Jesus...
+312512682) CARLEY
+{normalC}People need to know because we're hanging by a {sadA}thread here and I can't see Lilly talk about you without thinking it's the next thing she's gonna say.
+312512683) CARLEY
+{normalB}You're a convicted killer.
+312512684) CARLEY
+{normalC}[stepping closer] And I think people should know.
+312512685) CARLEY
+{sadA}Not because they deserve to and not because you're a bad man. {normalA}I think the opposite of those two things.
+312512686) 
+It's a lifetime ago.
+312512687) 
+You're probably right.
+312512692) LEE
+{normald}You're probably right.
+312512688) 
+Forget it.
+312512689) LEE
+{sadA}It was a lifetime ago.
+312512690) CARLEY
+{angryA}Which is only going to make the feeling that you hid it and that there was even more to hide that much worse.
+312512691) LEE
+{angrya}[sigh]
+312512693) CARLEY
+{happyb}[flirty] Of course I'm probably right.
+312512694) LEE
+{normalC}Forget it. I have. You should too.
+312512695) CARLEY
+{angryA}God, I hate it when you do that. Don't you hear what I'm saying?
+312512696) CARLEY
+{angrya}[Frustrated] Larry's gone, but he knew. If he didn't tell Lilly outright, he probably said enough to make her wonder.
+312512697) CARLEY
+{normalB}And I know you told Kenny we met in your parent's drugstore, even though the first thing I ever said to you was keep a damn lid on it.
+312512698) CARLEY
+{normalB}I'll tell you what I would tell anybody, apocalypse or not -- there comes a time when you can get out ahead of something like this and discuss it on your terms.
+312512699) CARLEY
+{sadA}Do it before that chance is taken away.
+312512700) CARLEY
+{normalb}People might be pissed. {normalC}And telling them might cause some trouble, but it will be a far cry from what'll happen if they don't hear it from you.
+312512701) LEE
+{normalD}Yeah.
+312512702) CARLEY
+{normalB}So you'll do it then?
+312512703) 
+I'll let people know.
+312512704) 
+No.
+312512833) CARLEY
+{normalA}No.
+312512705) LEE
+{thinkingA}I'll let people know. {NormalB}You're totally right.
+312512706) CARLEY
+[warm] {happyA}Good. I think it's {fearA}for the best.
+312512707) CARLEY
+[whispers, like in your boyfriend's ear] {happyC}Don't call me small.
+312512708) CARLEY
+[whisper in ear] {happyC}Try not to play stoic. It makes your forehead crinkle.
+312512709) CARLEY
+[whispered in lee's ear] {happyC}You're gonna have to be more talkative if this is gonna work.
+312512710) CARLEY
+[whispered in lee's ear] {happyC}You'll thank me later.
+312512711) LEE
+{AngryA}No. I'm not doing that. {NormalD}People have enough to worry about.
+312512712) CARLEY
+{fearA}What are you so afraid of? {ThinkingA}Three months ago I told you to tell no one and now I'm telling you to tell everyone. Do you think it's because they'll turn on you? {AngryC}We almost got eaten for fuck's sake.
+312512713) CARLEY
+{normalA}Things are different now.
+312512714) CARLEY
+{fearA}I hope you change your mind.
+312512715) CARLEY
+{NormalA}Now. Um, {fearA}is there anything else you want to talk about?
+312512716) LEE
+{thinkingA}No, actually, I'm going to go.
+312512717) CARLEY
+{normalA}Okay.
+312512834) LEE
+{normalA}Okay.
+312512718) CARLEY
+{normalb}Good idea.
+312512719) LEE
+{thinkingA}I'm going to look into this thing.
+312512720) LEE
+{normalA}I'll talk to you later.
+312512721) CARLEY
+{happyA}I'll talk to YOU later.
+312512722) 
+You know anything about missing meds?
+312512723) 
+Do you have any chalk I can borrow?
+312512820) LEE
+{thinkingA}Do you have any chalk I can borrow?
+312512724) 
+You have any thoughts about Lilly?
+312512817) LEE
+{thinkingA}You have any thoughts about Lilly?
+312512725) LEE
+{normalA}Hey Car.
+312512726) 
+You think people are ready to hear about me?
+312512728) 
+I talked to Kenny.
+312512733) 
+I talked to Kenny.
+312512729) 
+I talked to Katjaa
+312512734) 
+I talked to Katjaa
+312512749) LEE
+{normalA}I talked to Katjaa.
+312512789) LEE
+{normalA}I talked to Katjaa.
+312512730) 
+I talked to Clementine.
+312512735) 
+I talked to Clementine.
+312512731) 
+I told Ben.
+312512736) 
+I told Ben.
+312512772) LEE
+{normalA} I told Ben.
+312512801) LEE
+{normalA} I told Ben.
+312512732) 
+I told Lilly.
+312512737) 
+I told Lilly.
+312512776) LEE
+{normalB}I told Lilly.
+312512806) LEE
+{normalB}I told Lilly.
+312512738) 
+Do you feel safe here?
+312512815) LEE
+{thinkingA}Do you feel safe here?
+312512741) LEE
+{normalD}I talked to Kenny about who I am.
+312512783) LEE
+{normalD}I talked to Kenny about who I am.
+312512742) LEE
+{normalA}I changed my mind.
+312512750) LEE
+{normalA}I changed my mind.
+312512765) LEE
+{normalA}I changed my mind.
+312512773) LEE
+{normalA}I changed my mind.
+312512775) LEE
+{normalA}I changed my mind.
+312512743) CARLEY
+{normalA}I thought you weren't going to do that.
+312512751) CARLEY
+{normalA}I thought you weren't going to do that.
+312512766) CARLEY
+{normalA}I thought you weren't going to do that.
+312512774) CARLEY
+{normalA}I thought you weren't going to do that.
+312512799) CARLEY
+{normalA}I thought you weren't going to do that.
+312512744) CARLEY
+{thinkingA}And?
+312512752) CARLEY
+{thinkingA}And?
+312512777) CARLEY
+{thinkingA}And?
+312512784) CARLEY
+{thinkingA}And?
+312512745) CARLEY
+{happyA}That wasn't so hard, was it tough guy?
+312512785) CARLEY
+{happyA}That wasn't so hard, was it tough guy?
+312512746) LEE
+{happyA}He was cool. He just worries about his family.
+312512786) LEE
+{happyA}He was cool. He just worries about his family.
+312512747) LEE
+{sadA}I don't know. Feels like I just gave him ammo if we ever have to make any tough decisions when it comes to a head count.
+312512787) LEE
+{sadA}I don't know. Feels like I just gave him ammo if we ever have to make any tough decisions when it comes to a head count.
+312512748) CARLEY
+{normalC}Ah. Well, don't worry.
+312512788) CARLEY
+{normalC}Ah. Well, don't worry.
+312512753) CARLEY
+{normalA}Talk to Lilly yet?
+312512754) CARLEY
+{happyA}Thanks for doing that.
+312512755) CARLEY
+{thinkingA}Really?
+312512756) LEE
+{normalA}Yeah. {sadA}She thinks supplies have been walking away.
+312512757) LEE
+{thinkingA}There's some broken equipment too. {normalA}I'll look into it.
+312512758) LEE
+{normalb}No, not yet. {normalA} I will.
+312512759) LEE
+{sadA}She was fine, I guess. I think she's more upset about Kenny.
+312512794) LEE
+{sadA}She was fine, I guess. I think she's more upset about Kenny.
+312512760) CARLEY
+{sadA}Because of the St. Johns? What exactly did he do back there?
+312512792) CARLEY
+{sadA}Because of the St. Johns? What exactly did he do back there?
+312512761) LEE
+{normalC}Don't you start, now.
+312512793) LEE
+{normalC}Don't you start, now.
+312512762) CARLEY
+{normalA}She adores you. {happyA}Don't worry.
+312512795) CARLEY
+{normalA}She adores you. {happyA}Don't worry.
+312512763) LEE
+{sadA}I don't know. {thinkingA}She's tough to read.
+312512796) LEE
+{sadA}I don't know. {thinkingA}She's tough to read.
+312512764) CARLEY
+{thinkingA}How'd she handle it?
+312512797) CARLEY
+{thinkingA}How'd she handle it?
+312512767) LEE
+{thinkingb}Not even a little.{normalA} He's just happy I told him [emph] something.
+312512805) LEE
+{thinkingb}Not even a little.{normalA} He's just happy I told him [emph] something.
+312512768) CARLEY
+{normalB}You told Ben?
+312512800) CARLEY
+{normalB}You told Ben?
+312512769) CARLEY
+{thinkingb}I take it he didn't know what to do with the information.
+312512803) CARLEY
+{thinkingb}I take it he didn't know what to do with the information.
+312512770) LEE
+{normalA}Low risk.
+312512802) LEE
+{normalA}Low risk.
+312512771) CARLEY
+{thinkingA}Funny you picked him.
+312512804) CARLEY
+{thinkingA}Funny you picked him.
+312512778) LEE
+{thinkingb}You were right, she and Larry spoke, {normalB}obviously.
+312512782) LEE
+{thinkingb}You were right, she and Larry spoke, {normalB}obviously.
+312512808) LEE
+{thinkingb}You were right, she and Larry spoke, {normalB}obviously.
+312512811) LEE
+{thinkingb}You were right, she and Larry spoke, {normalB}obviously.
+312512779) CARLEY
+{thinkingA}Well, you're about all she's got left.
+312512807) CARLEY
+{thinkingA}Well, you're about all she's got left.
+312512780) LEE
+{normalA} She was all right, though.
+312512809) LEE
+{normalA} She was all right, though.
+312512781) LEE
+{feara}It went about as well as you would expect.
+312512810) LEE
+{feara}It went about as well as you would expect.
+312512790) LEE
+{thinkingA}I talked to Clementine about things.
+312512798) LEE
+{thinkingA}I talked to Clementine about things.
+312512791) CARLEY
+{normalB}How'd she take it?
+312512812) LEE
+{thinkingA}You really think people are ready to hear about me?
+312512813) CARLEY
+{thinkingA}It's not a matter of ready or not. {normalB}There's never going to be a good time {sadA}but there are going to be a lot of bad ones. {normalC}Right now doesn't seem like one of them.
+312512814) CARLEY
+{thinkingA}I don't know, this place is fine but we all know that that could change any second.
+312512816) CARLEY
+{normalB}Show me a bath with a heated floor in a highrise apartment and hand me a full-bodied Malbec, and then I'll feel safe.
+312512818) CARLEY
+{sadA}I worry about her. That's about it. {normalb}She keeps trying to run things but it's just not working.
+312512819) LEE
+{normalC}So you don't have any?
+312512821) CARLEY
+{thinkingA}What, Clementine holding out on you?
+312512822) CARLEY
+{normalA}No, why would I?
+312512823) LEE
+{thinkingA}Do you know anything about the missing meds?
+312512824) CARLEY
+{thinkingA}Are you serious?
+312512825) LEE
+{normalB}Hey, I gotta ask.
+312512826) CARLEY
+[putting it on] {thinkingA}No, detective, I don't know anything about that.
+312512827) LEE
+{happyA}Shut up.
+312512828) 
+Do you know anything about this flashlight?
+312512829) LEE
+{normalD}Do you know anything about this flashlight?
+312512830) LEE
+It uses just one.
+312512831) CARLEY
+{normalC}Everything should. [beat] {normalA}What was the question?
+312512832) LEE
+{sadA}Did you break the flashlight?
+312512835) LEE
+{angrya}I know it's broken.
+312512836) CARLEY
+{normalA}And the batteries might be in backwards.
+312512837) CARLEY
+{normalA}It's broken.
+312512838) CARLEY
+[pickup2] But everyone's different. Who knows how each person would take it, you know? Maybe it's worth thinking about who you want to tell.
+312512839) CARLEY
+[pickup2] You don't have to tell everyone, but think about who you trust and take the opportunity while you have it.
+312512840) 
+Look At
+312512841) 
+Talk To

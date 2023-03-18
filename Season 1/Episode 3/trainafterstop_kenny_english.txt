@@ -1,0 +1,86 @@
+312647718) KENNY
+{thinkingA}You and me. We...uh. [sigh] {angryA}Fuck it. {sadA}Let's just get to the ocean.
+312647719) KENNY
+It'll be good to get to the water.
+312647720) LEE
+{sadB}Hey, man.
+312647721) LEE
+[delicate]{sadA}Hey.
+312647722) KENNY
+[dead inside]Hey.
+312647723) LEE
+{sadA}Hey.
+312647724) KENNY
+Yeah?
+312647753) LEE
+{sadB}Yeah.
+312647727) 
+About my past...
+312647728) 
+Are there any maps in here?
+312647729) LEE
+{thinkingA}Are there any maps up here?
+312647730) KENNY
+{sadA}I don't know.
+312647760) KENNY
+{sadC}I don't know ...
+312647731) LEE
+{thinkingB}I just, uh, want to look over one with Clem so she has a lay of the land once we get to Savannah.
+312647732) 
+If you ever need to talk...
+312647735) LEE
+{sadC}If you ever need to talk...
+312647733) LEE
+{sadB}It should.
+312647734) KENNY
+{sadC}I don't see that needin' to happen.
+312647736) LEE
+{sadB}I wanted to talk you about keeping my past from you all.
+312647737) KENNY
+{thinkingA}You told us it was your parents' store back in Macon. That was enough personal information.
+312647738) LEE
+{sadB}Okay.
+312647761) KENNY
+{sadA}Okay.
+312647739) KENNY
+{sadA}I'm sure [hard swallow, you haven't said your dead wife's name much] {sadC}Kat would be uh... {sadA}okay with you. So, forget it.
+312647740) KENNY
+[di] {sadB}It doesn't matter a lick to me. Fuck. Just gotta move forward.
+312647741) LEE
+{sadB}I'll talk to you later, Kenny. [kat/duck dead]
+312647742) LEE
+{thinkingA}Let me know if we're getting close or you see anything.
+312647743) LEE
+{sadB}Ken--
+312647744) LEE
+{thinkingB}You still want to get a boat?
+312647747) 
+You still want to get a boat?
+312647745) KENNY
+[di] {angryA}It's still the best plan.
+312647746) KENNY
+[di] [firm] {angryB}It's the best plan.
+312647748) 
+Chuck wanted to know if you needed a drink.
+312647751) LEE
+{sadA}Chuck wanted to know if you needed a drink.
+312647749) 
+Have another with Chuck?
+312647757) LEE
+{thinkingA}Have another with Chuck?
+312647750) 
+Why don't you head outside again.
+312647752) KENNY
+{thinkingA}He's got some?
+312647754) KENNY
+{sadC}Yeah, that'd help.
+312647755) LEE
+{sadA}Sure.
+312647756) KENNY
+{thinkingA}You'll keep an eye out up here?
+312647758) KENNY
+{sadC}Okay, then.
+312647759) LEE
+{thinkingB}Why don't you head outside again. Clear your head.
+312647762) KENNY
+[flat] Thanks.

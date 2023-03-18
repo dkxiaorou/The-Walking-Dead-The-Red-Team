@@ -1,0 +1,36 @@
+312762369) KENNY
+We're almost at the river! You want to get on a boat, or you want to wait around until the walkers figure out we're here?
+312762370) KENNY
+Or leave him.
+312762371) CHRISTA
+I don't know how much longer he can keep on like this. If his leg gets any worse we're going to have to carry him.
+312762372) LEE
+[aggressive] Who the hell is this? Answer me, dammit!
+312762373) CAMPMAN
+If I were you, I'd get out of the street. Now.
+312762374) CHRISTA
+So, when were you going to tell us about the radio?
+312762375) LEE
+[forceful/angry] Who have you been talking to?
+312762376) LEE
+[shouting, aggressive] You come back here, I'll kill you! You understand? I will kill you!
+312762377) BEN
+[urgent/freaked out] Lee, you need to get up here now.
+312762378) LEE
+What's wrong?
+312762379) BEN
+It's Kenny.
+312762380) KENNY
+You have no idea what I'm going through. And you sure as shit don't know a damn thing about grief.
+312762381) BEN
+I've been thinking about telling him the truth. That it's my fault Duck and Katjaa got killed.
+312762382) KENNY
+[still fuming/drunk] This is the only fucking thing I have left, and you want to take that from me, too? Fuck you!
+312762383) VERNON
+Who are you?
+312762384) LEE
+We need to focus on finding a boat right now, Clem. Like we talked about on the train.
+312762385) LEE
+I know I promised that we'd find your parents. But Savannah's more dangerous than I thought it would be.
+312762386) LEE
+We can still leave, Clem. Just you and me. But Savannah's more dangerous than I thought.

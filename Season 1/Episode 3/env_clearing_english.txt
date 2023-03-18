@@ -1,0 +1,340 @@
+312639608) KATJAA
+{sadB}{body-a}Ken. It's... I think it's time.
+312639609) KENNY
+{sadA}{body-A}The boy's been bit. {disgustA}In case you haven't figured that out.
+312639610) 
+What do you need?
+312639611) 
+We shouldn't waste time.
+312639612) 
+Take as long as you need.
+312639613) LEE
+{NormalD}{body-B}What do you need?
+312639614) KENNY
+{sadB}{body-A}I... I... [i don't know]
+312639615) LEE
+{sadA}{body-A}Katjaa?
+312639616) KATJAA
+It's time to... this is not possible. [dealign with your son who will turn]
+312639622) KATJAA
+It's time to... this is not possible. [dealign with your son who will turn]
+312639617) LEE
+{sadB}{body-B}We shouldn't waste time.
+312639618) KENNY
+[upset] {disgustA}{body-A}There ain't none left to waste.
+312639619) LEE
+{sadA}{body-A}I'm saying we shouldn't stay put.
+312639620) LEE
+{sadB}{body-B}Take as long as you need.
+312639621) KENNY
+[upset] {fearA}{body-A}There ain't no time left to take.
+312639623) KATJAA
+No.
+312639624) KATJAA
+Kenny, I love you very much. I love our son more than life itself.
+312639625) KENNY
+{disgustA}{body-A}But--
+312639626) KENNY
+{fearA}{body-A}What are we gonna do?
+312639627) KENNY
+{fearA}{body-A}But {fearB}{body-A}what if...
+312639628) KATJAA
+We can't allow him to become one of those things.
+312639629) 
+Katjaa should do it.
+312639630) 
+Kenny should do it.
+312639631) 
+I'll do it.
+312639640) KENNY
+{FearA}I'll do it.
+312639632) KENNY
+{disgustA}{body-A}There's...
+312639633) KATJAA
+If you think of one, you let me know.
+312639634) KENNY
+{fearB}{body-A}Isn't there some sort of pill, {fearB}or something we can just give him....
+312639635) KATJAA
+Stop it.
+312639636) KENNY
+{sadA}{body-A}He can just drift off to sleep,{sadB} right, hon? {disgustA}I mean, Jesus, {sadB}this is our son.
+312639637) KATJAA
+I KNOW. But we know it's... here[points to the brain]. Or nothing.
+312639638) KENNY
+{disgustA}{body-A}Well...{angryC} fuck...{angryA} just... {fearB} who then? {sadB}You want me to?
+312639639) KATJAA
+You don't have to.
+312639641) KATJAA
+No. You don't HAVE to.
+312639642) KENNY
+{AngryC}Katjaa, fuck, [gets panicky choked up] {SadA}I can. {SadB}I can do this. [he can't]
+312639643) KATJAA
+You can't. I love you, Ken. But this is beyond you.
+312639645) KATJAA
+Lee, be with him?
+312639646) KATJAA
+No, hon. Stay with Lee. Your son loves you and you should remember him as the silly boy we used to have. Not this.
+312639647) KENNY
+{fearA}{body-A}I can't...
+312639648) KENNY
+[emotional collapse]
+312639649) KENNY
+[an idle of you with your face in your hands knowing your son is dying offscreen]
+312639757) CLEMENTINE
+[ a really small cry, pull it together fast]
+312639778) DUCK
+[an idle of really small, sick breathing]
+312639779) DUCK
+[a couple small, pained weezes]
+312639780) KENNY
+[exhale, dropping the gun that you were pointing at your son's head]
+312639650) CLEMENTINE
+What's happening?
+312639651) 
+Duck is dying.
+312639653) 
+Nothing, everything is fine.
+312639655) LEE
+{SadA}{body-F}Duck is dying.
+312639656) CLEMENTINE
+[duck is dying] I know.
+312639679) CLEMENTINE
+[small, kinda dark] I know.
+312639657) LEE
+{SadA}{body-F}Katjaa's {SadB}taking care of Duck.
+312639658) CLEMENTINE
+I thought he was going to die.
+312639721) CLEMENTINE
+I thought he was going to die.
+312639659) CLEMENTINE
+What is Katjaa doing?
+312639661) LEE
+{SadA}{body-F}Nothing, {NormalD}everything is fine.
+312639662) CLEMENTINE
+No it's not.
+312639665) 
+She's killing him.
+312639666) 
+She's making sure he's okay.
+312639667) 
+She's putting him out of his misery.
+312639669) LEE
+{SadA}{body-f}Look, Clem. Things will --{surpriseB}
+312639734) LEE
+{SadA}{body-f}Look, Clem. Things will --{surpriseB}
+312639670) KENNY
+[face in hands, just a total wreck] NOOO, GOD....!
+312639671) 
+This will never happen to you.
+312639672) 
+It had to be done.
+312639673) 
+People die.
+312639675) CLEMENTINE
+Not anymore.
+312639676) CLEMENTINE
+The walkers aren't dead. People don't die anymore.
+312639677) LEE
+{NormalD}{body-F}People die.
+312639678) LEE
+{disgustB}Well, Katjaa made sure Duck did.
+312639680) KENNY
+[over his shoulder. flat, cold] {fearA}{body-A}I'm gonna go get her. {disgustA}She's probably a mess.
+312639681) LEE
+[pickup 2] [ new read: - A little too 'by the book' order. Duck just was killed, could be more empathatic.] {DisgustB}{body-F}Ben, get Clementine on the train, all right? {AngryA}{body-B}And keep your eyes open.
+312639682) KENNY
+{SurprisedA}{body-A}[horrified] Guh!
+312639683) KENNY
+{FearC}{body-A}KAT! KAT! KATJAA!
+312639685) 
+We still have to deal with Duck.
+312639687) KENNY
+{SadA}{body-A}[emotionally dead] What do we do.
+312639688) KENNY
+{FearC}{body-A}Why, Kat? Honey, oh fuckin' God...
+312639689) KENNY
+{SadB}{body-A}[whatever you feel like "saying," you're over the body of your dead wife]
+312639690) KENNY
+{FearC}{body-A}You said you could do it, Kat, {SadB} god dammit, you said you could do it!
+312639691) 
+Give me the gun. I'll do it.
+312639692) 
+You do it. End this, Kenny.
+312639695) LEE
+{AngryA}{body-b}Give me the gun, Ken. I'll do it.
+312639696) LEE
+[pickup 2] [new read: Read too quickly. This is a tough thing to say to a friend, could be more sad.] {SadB}{body-b}You're his dad. You've gotta do this. {disgustB}Just put an end to it, man.
+312639699) LEE
+{disgustA}{body-B}Katjaa should do it, Ken. {disgustB}{body-B}She can handle it.
+312639700) KENNY
+{angryC}{body-A}Shut up, Lee.
+312639701) KATJAA
+He's right.
+312639702) KATJAA
+Shush.
+312639703) KENNY
+{normalC}{body-A}Lee's right. {sadA}{body-A}And don't give me that {sadB}"I brought him into this world" junk. [with a pained smile]
+312639704) KATJAA
+And I'm his mother.
+312639706) LEE
+{fearA}{body-B}Kenny, {fearB}you're his dad. {sadA}You do it.
+312639707) LEE
+{AngryA}{body-B}I'll do it.
+312639708) KENNY
+{fearB}{body-A}Lee's right, Kat. {fearA}{body-A}We can say our goodbyes and{sadA}...
+312639709) KATJAA
+I don't know...
+312639710) KATJAA
+No. It should be a parent.
+312639711) LEE
+{AngryB}{body-B}No parent should have to do something like this.
+312639712) KATJAA
+Give us a moment to say goodbye?
+312639713) KATJAA
+Why don't we take him into the forest. So Clementine doesn't have to see.
+312639714) KENNY
+{sadB}{body-A}Yeah. [very sad]
+312639715) LEE
+{sadB}{body-B}Of course.
+312639728) LEE
+{SadA}{body-F}I'm {NormalD}going to take care of Duck.
+312639729) CLEMENTINE
+What are you doing?
+312639730) 
+I'm killing him.
+312639731) 
+I'm going to make sure he's okay.
+312639732) 
+I'm putting him out of his misery.
+312639735) KENNY
+[processed to be far far away] NOOO!
+312639736) LEE
+[urgent] {FearA}{body-B}Ben! {AngryA}Take Clementine into the train!
+312639737) LEE
+[urgent, to clem] {FearA}Go, {AngryA}it'll be fine.
+312639738) LEE
+[shocked] {surpriseA}What the --
+312639739) LEE
+{NormalD}{body-f}Yes. {SadA}So he doesn't come back.
+312639758) LEE
+{NormalD}{body-f}Yes. {SadA}So he doesn't come back.
+312639740) LEE
+[pickup 2] [new read: - Read too fast; he sounds almost happy that it's happening.] {NormalD}{body-B}She's killing him.
+312639741) CLEMENTINE
+For good?
+312639760) CLEMENTINE
+For good?
+312639742) CLEMENTINE
+Oh.
+312639747) CLEMENTINE
+Oh.
+312639764) CLEMENTINE
+Oh.
+312639765) CLEMENTINE
+Oh.
+312639743) CLEMENTINE
+But how... he's bitten.
+312639763) CLEMENTINE
+But how... he's bitten.
+312639744) LEE
+{SadA}She's {SadB}making sure he doesn't come back.
+312639745) LEE
+{FearA}{body-B}She's {NormalD}making sure he's okay.
+312639746) LEE
+[responding to a question that wasn't asked] {SadA}Yeah.
+312639767) LEE
+[responding to a question that wasn't asked] {SadA}Yeah.
+312639748) LEE
+{FearA}{body-B}She's putting him out of his misery.
+312639749) CLEMENTINE
+I'm not stupid. I just want you to tell me. Like my dad would.
+312639768) CLEMENTINE
+I'm not stupid. I just want you to tell me. Like my dad would.
+312639750) LEE
+{FearA}{body-B}Yes I do.
+312639751) CLEMENTINE
+You don't know that.
+312639752) LEE
+{FearB}{body-F}[emphatic] This will never happen to you.
+312639753) LEE
+{normalD}There was no other choice.
+312639754) CLEMENTINE
+[another, sort of flat] Okay.
+312639755) CLEMENTINE
+[kind of in shock, flat] Okay.
+312639756) LEE
+{disgustB}{body-F}It had to be done.
+312639759) LEE
+{angryA}{body-f}I'm killing him.
+312639761) LEE
+{disgustB}By making sure he doesn't come back.
+312639762) LEE
+{disgustA}{body-f}I'm going to make sure he's okay.
+312639766) LEE
+{AngryA}{body-f}I'm putting him out of his misery.
+312639769) 
+What the hell happened?
+312639771) LEE
+[pickup 2] [new read: What the hell happened is shouted a little bit. The way the scene is set up, he's standing right next to Kenny. Also there's a weird disconnect between 'happened' and 'what'.] {SurpriseB}{body-B}What the hell happened? {FearA}What did you--
+312639789) LEE
+[pickup 2] [new read: What the hell happened is shouted a little bit. The way the scene is set up, he's standing right next to Kenny. Also there's a weird disconnect between 'happened' and 'what'.] {SurpriseB}{body-B}What the hell happened? {FearA}What did you--
+312639772) KENNY
+{SadB}{body-A}She couldn't, she just, fuck, oh fuck...
+312639773) KENNY
+{SadB}{body-A}She couldn't, she just, fuck, oh fuck...
+312639777) KENNY
+{SadB}{body-A}She couldn't, she just, fuck, oh fuck...
+312639774) LEE
+{FearA}{Body-B}I'm so sorry.
+312639775) LEE
+{FearA}{Body-B}We still have to deal with Duck.
+312639776) LEE
+[pickup 2'] [ new read: 'by herself' is a weird read, almost angrily choked off, but it reads strange, not emotional. Could be more sad/angry.] {SadB}{body-B}Shouldn't have let her come out here {AngryA}by herself.
+312639790) KENNY
+{FearC}{body-A}I..I..couldn't....{FearB}so Kat took the gun..{SadA}and...{SadB}oh God, oh fuck....[choked up]
+312639791) KENNY
+{SadB}{Body-A}I...can't. Let's just go.
+312639792) 
+DO IT!
+312639793) 
+It'll be okay...
+312639794) LEE
+{AngryD}{Body-B}[emotional] DO IT!
+312639795) LEE
+{SadB}{Body-B}It'll be okay... {SadC}it'll be--
+312639797) KENNY
+[pickup2] I...I...
+312639798) LEE
+[pickup2] Oh my God...
+312639804) 
+Oh my God...
+312639802) 
+I'm so sorry.
+312639803) 
+Shouldn't have let her come out here by herself.
+312639807) KENNY
+[pickup2][Your wife just told you she would be the one to put your kid down]Then I'm coming with you.
+312639808) KATJAA
+Stay with Lee. Your son loves you and you should remember him as the silly boy we used to have. Not this.
+312639809) LEE
+[pickup2] Let's go.
+312639810) KENNY
+[pickup2] [saying goodbye to his zombie son he's leaving in the woods] Goodbye... Duck.
+312639811) KENNY
+[pickup2] [saying goodbye to his dead family] Goodbuh... God. Goodbye, guys. I love you so much. [pull it back if you want, it's obviously so emotional a lot of words may not even come.]
+312639812) KENNY
+{sadB}come on, Kat...
+312639813) KATJAA
+I need you to hear me. What you are saying, that he may not turn, is foolish.
+312639814) KATJAA
+He's still a baby boy.
+312639815) KATJAA
+It would be different if he were older.
+312639816) KATJAA
+Let me do this.
+312639817) KENNY
+What if he doesn't?
+312639818) KENNY
+...just let that be it.
+312639819) KATJAA
+Lee, you'd be doing this family a great service.

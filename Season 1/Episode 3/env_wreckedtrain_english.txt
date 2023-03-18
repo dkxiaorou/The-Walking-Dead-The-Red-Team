@@ -1,0 +1,1535 @@
+312590793) BEN
+{ThinkingA}Is there any way to get around it?
+312590794) KENNY
+{ThinkingA} Doesn't look like it. On foot, maybe. {AngryA}Can't really afford to do that now.
+312590795) LEE
+{NormalC} This seems like a safe area. {ThinkingA}All this brush will stop anything from creeping up on us.
+312590799) KENNY
+{AngryA}And I'd like everyone out of the RV except her. {DisgustA}I don't want folks trapped in there with her.
+312590800) KENNY
+{FearA} Be careful in there.
+312590801) LEE
+{ThinkingA}What, you think there might be something dangerous inside of an abandoned locomotive? [a beat]{HappyA} Hadn't crossed my mind.
+312590802) KATJAA
+{NormalB}Lee, if you come across anything to drink, if there's a dining car or something, I think Duck's a bit dehydrated.
+312590803) KENNY
+{DisgustA}It's a freighter, hon.
+312590804) BEN
+{NormalB} Why don't you and I go look around?
+312590805) LEE
+{NormalB} Yeah, everyone else relax. {HappyA}Clem, stay close to Kenny and Kat, okay?
+312590806) LEE
+{ThinkingA}I hope so, but this looks recently used. {NormalC}Be on the look-out and have your guard up.
+312590807) LEE
+{ThinkingA}Somebody's been livin' in here.
+312590808) BEN
+{NormalB}Yeah, man. {ThinkingA} Shit. {FearB}Think they're gone?
+312590809) BEN
+{SurprisedA}Whoa.
+312591810) KENNY
+Whoa!
+312590810) LEE
+I think these tracks might lead to the coast. [reading off the map]Route 27, Savannah. That's where Kenny's got us headed.
+312590811) LEE
+A map of where the train goes.
+312590820) LEE
+[curious] A clipboard?
+312590821) LEE
+It's a bunch of papers.
+312590822) LEE
+A bunch of maps about Georgia's cities. Nothing about the train.
+312590823) LEE
+Nothing about the train.
+312590825) LEE
+[curious] Damn. Pages are gone.
+312590826) LEE
+Not much left of it.
+312590828) LEE
+[picking up a gross thing] {DisgustA}Ugh.
+312590829) LEE
+[squinting, not really sure] I can kinda see the indentations from the writing.
+312590830) LEE
+Definitely from this pad.
+312590834) LEE
+A pencil. Sharpened, too.
+312590835) LILLY
+{ThinkingB} I'm leaving.
+312590836) 
+GO.
+312590875) 
+GO.
+312590837) 
+Don't move.
+312590838) 
+I'm going to stop you.
+312590843) LEE
+{AngryC} I'm going to stop you.
+312590840) LEE
+{NormalC} Go. {AngryA} Now.
+312590841) LILLY
+{ThinkingB} I'm not going to hurt you.
+312590845) LILLY
+{ThinkingB} I'm not going to hurt you.
+312590846) LILLY
+{ThinkingB} I'm not going to hurt you.
+312590842) LEE
+{NormalC} Don't move. {AngryC} Don't you fucking move.
+312590844) LILLY
+{AngryB} No you're not.
+312590847) LILLY
+{FearA} Come with me.
+312590848) LILLY
+{ThinkingA} We could take the RV right now. He left the keys in it.
+312590849) 
+Okay.
+312590853) LEE
+{NormalD} Okay.
+312590854) LILLY
+[nervous tense] {AngryA} Okay.
+312590850) 
+No way.
+312590862) LEE
+{AngryC} No way.
+312591301) LEE
+No way.
+312590851) 
+Come on, Lilly.
+312590863) LEE
+{NormalD} Come on, Lilly...
+312590852) LILLY
+{ThinkingA} Get Clementine.
+312590855) LEE
+{NormalC}[seriously] Yes.
+312590856) LEE
+{ThinkingA} I'll get her and come right back.
+312590857) LILLY
+{FearA} Seriously?
+312590858) LILLY
+{ThinkingB} You're not letting me take it.
+312590859) LILLY
+{SadA} I didn't think you would say yes.
+312590860) LEE
+{NormalC} I can't let you take the RV. {ThinkingB} Don't be crazy.
+312590861) LILLY
+{SadB} I'm sorry, Lee. I really am.
+312590872) LILLY
+{AngryA} I know you did what you did for a reason and {SadA} part of me understands. {AngryA} But the other part sees you with your back turned to me and knows {AngryB} I could've killed you.
+312590873) LILLY
+{ThinkingB} I could've killed you. I had you while you were {AngryB} rummaging around in the front there.
+312590874) LILLY
+{ThinkingB} I need to go.
+312590876) 
+I'll kill you before that happens.
+312590877) 
+Please, don't.
+312590878) LEE
+Perfect.
+312590882) LEE
+[seeing an impressive zombie killing weapon] Rusted shut, but nice and heavy.
+312590883) LEE
+[seeing an impressive zombie killing weapon] Nice.
+312590941) LEE
+[seeing an impressive zombie killing weapon] Nice.
+312590884) LEE
+[seeing an impressive zombie killing weapon] That'll crack a skull just fine.
+312590885) BEN
+Push it!
+312590895) LEE
+[disbelief] Push it?
+312590886) LEE
+Are you fucking serious?
+312590887) KENNY
+This fucker WORKS?
+312590888) LEE
+Seems like it.
+312590889) BEN
+It's just the brakes.
+312590890) BEN
+Why not?
+312590891) LEE
+I don't know, ask Mister Amtrak over here.
+312590892) LEE
+Okay, I'll give you that one.
+312590893) BEN
+Here, look.
+312590894) LEE
+That light is blinking.
+312590896) KENNY
+I'll be damned. How the hell do we get it movin'?
+312590897) BEN
+No clue.
+312590898) KENNY
+{HappyA} Well, let's look around. Maybe it goes somewhere we'd like to be.
+312590899) LILLY
+{AngryA} Then what's it like?
+312590900) LILLY
+{SadA} I'm sitting here, tied up like an animal while you guys decide what to do with me.
+312590901) LEE
+{NormalD} It's not like that.
+312590902) LEE
+{NormalD} Hey, Lilly.
+312590903) LEE
+{NormalC} Lilly...
+312590904) LEE
+{NormalD} [context: Say something to me] Lilly...
+312590905) CHUCK
+{angryb}You touch any of my stuff?
+312590906) 
+I took the map of the train routes.
+312590910) LEE
+{normalC}I took the map of the train routes.
+312590907) 
+I took a bottle of water.
+312591640) LEE
+[pickup2] I took a bottle of water.
+312590908) 
+This is your stuff?
+312590917) LEE
+{thinkingA}This is your stuff?
+312590909) CHUCK
+{normalC}Yeah, I got 'em all up here.
+312590911) LEE
+{thinkingA}Really?
+312590915) LEE
+{thinkingA}Really?
+312591007) LEE
+{ThinkingA} Really?
+312590912) CHUCK
+{normalb}That's fine, you can have that.
+312590914) CHUCK
+{normalb}That's fine, you can have that.
+312590913) CHUCK
+{normalA}Yeah, I got plenty and ya'll are probably thirsty.
+312590916) CHUCK
+{angryA}Sure is.
+312590918) 
+I didn't take anything.
+312590920) LEE
+{normalC}I didn't take anything.
+312590919) CHUCK
+{thinkingA}I asked if you touched it.
+312590921) LEE
+{angryA}I didn't.
+312590922) 
+Who are you?
+312590924) LEE
+{thinkingA}Who are you?
+312590923) CHUCK
+{thinkingA}The guy who owns that stuff.
+312590925) CHUCK
+{thinkingA}Nothin'? Ain't no fear in you, boy.
+312590926) CHUCK
+{normalb}I guess it's no worse for wear.
+312590927) LEE
+{normalA}Yeah.
+312591008) BEN
+{NormalC} Yeah.
+312591155) LEE
+Yeah?
+312591196) BEN
+Yeah.
+312591261) LEE
+Yeah.
+312590928) CHUCK
+{normalC}[softens] Name's Chuck. Charles if you're fancy.
+312590929) CHUCK
+{normalA}That your crew outside?
+312590930) LEE
+{normalA}Lee.
+312590931) LEE
+{normalA}Him too.
+312590932) CHUCK
+{normalA}And the guy up in the cab?
+312590933) LEE
+{thinkingA}What?
+312591257) KENNY
+[context: someone telling you he's found a problem] {ThinkingA} What?
+312591312) LEE
+[confused] {ThinkingB} What?
+312590934) LEE
+You're still kinda freaking me out.
+312590935) CHUCK
+{normalC}I saw you walking through here and thought about scaring the pants off of you.
+312590936) CHUCK
+{happyA}But I couldn't force myself to do it.
+312590937) CHUCK
+{normalC}Train folk'll do that. {happyA}Already met everyone outside; they all warmed to me right quick in direct sunlight.
+312590942) LEE
+Looks unopened.
+312590943) LEE
+I'll take this to Katjaa for Duck.
+312590944) KENNY
+Holy shit she's stealing the RV!
+312590963) KENNY
+Holy shit she's stealing the RV!
+312591801) KENNY
+Holy shit she's stealing the RV!
+312591804) KENNY
+Holy shit she's stealing the RV!
+312590945) KENNY
+Come back here you crazy bitch!
+312590961) KENNY
+Come back here you crazy bitch!
+312591802) KENNY
+Come back here you crazy bitch!
+312591805) KENNY
+Come back here you crazy bitch!
+312590946) KENNY
+FUCK! STOP!
+312590962) KENNY
+FUCK! STOP!
+312591803) KENNY
+FUCK! STOP!
+312591806) KENNY
+FUCK! STOP!
+312590947) 
+I'm glad she's gone.
+312590951) LEE
+{AngryB} I'm glad she's gone.
+312590948) 
+We're fucked.
+312590953) LEE
+{AngryB} We're fucked.
+312590949) 
+Let's focus on the train.
+312590956) LEE
+{ThinkingA} Let's focus on the train.
+312590950) KENNY
+{AngryB} With our only reliable vehicle!
+312590952) LEE
+{ThinkingB} Maybe, man. Maybe.
+312591778) LEE
+{ThinkingB} Maybe, man. Maybe.
+312591779) LEE
+{ThinkingB} Maybe, man. Maybe.
+312590954) KENNY
+{AngryB} Yeah we are. [fucked]
+312590966) 
+Yeah we are.
+312590958) KENNY
+{SadA} The hell we do now?!
+312590959) KENNY
+[through grit teeth] {AngryA} Duck is still sick, you know. We need to get to the city. The coast.
+312590960) KENNY
+{AngryB} Well, we're fucked if we don't figure out how this thing works. {SadA} We can't spend the night out here.
+312590964) KENNY
+{HappyC} Holy shit, we're golden!
+312590965) 
+Duck though...
+312590967) 
+This thing is loud.
+312590975) LEE
+{FearA} This thing is loud.
+312590968) LEE
+{SadB} Look, Kenny, it's something {ThinkingA} we're going to have to deal with.
+312590969) KENNY
+{AngryA}What about him?
+312591175) KENNY
+{AngryA} What about him?
+312590970) KENNY
+{HappyA}Let's fucking enjoy this.
+312590971) KENNY
+{ThinkingA}Did you not hear Kat? {AngryB} We don't know shit, Lee.
+312590972) LEE
+{SadA}What about Duck?
+312591166) 
+What about Duck?
+312591180) LEE
+{NormalD} What about Duck?
+312590973) LEE
+{HappyC} Yeah, we are. Golden. {HappyB} Man, feels good.
+312590976) KENNY
+{ThinkingA}So what? {AngryA}We're barrelling down the tracks at forty miles an hour. {HappyA}I don't care about the noise.
+312590978) KENNY
+{HappyB}Finally. {SadA}Something.
+312590980) KENNY
+This hoss will take us right to Savannah. A hundred tons of steel. Put a thousand walkers between us and the ocean and we don't have to give a shit!
+312590981) LEE
+{HappyA} I think so.
+312590982) KENNY
+{SurprisedA} Whoa, {HappyA} is this what it looks like?
+312590983) LEE
+{NormalB} We found this in the boxcar back there.
+312590984) KENNY
+{ThinkingA} I can't believe it...
+312590988) KENNY
+{ThinkingA} These tracks lead right to Savannah...
+312590989) KENNY
+{NormalA} Holy hell.. {ThinkingA} can you guys see about moving that thing? {HappyB} We could have something here.
+312590990) LEE
+{NormalB} Yeah, we're on it.
+312590991) 
+Was it you?
+312590995) LEE
+{NormalC} Was it you?
+312590992) BEN
+{AngryA} [emphatic] NO.
+312591224) CLEMENTINE
+[why would it?] No.
+312590993) LEE
+{NormalC} Okay, then.
+312591151) LEE
+Okay then.
+312590994) LEE
+{AngryB} Was it?
+312590996) BEN
+{ThinkingB} Not this again...
+312590997) 
+What would you have done with Lilly?
+312591000) LEE
+{SadA} What would you have done with Lilly?
+312590998) BEN
+{ThinkingA} Yeah, but not like that.
+312590999) BEN
+{FearA} I don't know. Left her. {SadA} I've never seen anybody kill someone like that before.
+312591001) LEE
+{ThinkingA} You've seen a bunch of other stuff by now.
+312591002) 
+Happy you stayed with us all this time?
+312591003) BEN
+{FearA} It's with you guys or dead. {ThinkingA} I woulda died out there in the woods,{SadA}  just like my classmates.
+312591004) LEE
+{ThinkingB} You think this is better?
+312591005) LEE
+{NormalB} You happy you stayed with us all this time?
+312591006) BEN
+{FearB} Yeah, of course.
+312591009) LEE
+{NormalC} Keep it down, I don't want you scaring the kids.
+312591010) LEE
+{ThinkingA} Have you heard or seen anything out here?
+312591011) BEN
+{FearA} No sign of whatever lives in the train.
+312591012) BEN
+{AngryA} I'm watching the girls and not working on a {NormalB}  mega-cool train. {ThinkingB} What do you think? [bummed]
+312591013) LEE
+{NormalB} How ya doing, Ben?
+312591014) LEE
+{NormalD} We did that and it was ruined.
+312591015) BEN
+{NormalB} Well, I'm sure you guys will figure it out.
+312591016) BEN
+{ThinkingB} I guess find the torn off page?
+312591017) LEE
+{NormalB} We found a notebook that we think might've had some starter directions on it {ThinkingB} but the page is missing.
+312591018) KENNY
+{NormalB} Want a ride?
+312591019) KENNY
+{ThinkingA} We don't got much left, so just gather whatever you have.
+312591020) KENNY
+{AngryA} Let me look at him.
+312591021) CHUCK
+{ThinkingA} Well, it sounds like you're taking my home.
+312591022) CLEMENTINE
+{SadC} Duck's sick.
+312591023) KENNY
+{AngryA} That's a yes then.
+312591024) CHUCK
+{ThinkingB} Haven't found anything better for keeping the creepy-crawlies out than that boxcar.
+312591025) KATJAA
+{SadA} He is getting sicker.
+312591026) KENNY
+{AngryB} Get on the train, Clementine.
+312591027) 
+Is the train really a good idea?
+312591028) 
+We can keep going if you want.
+312591036) LEE
+{NormalD} We can keep going if you want.
+312591029) 
+We can't ignore this.
+312591030) KENNY
+{AngryB} YES. {SadA} What can we do here?
+312591031) KENNY
+{AngryC} It's TALKED THROUGH. {AngryA} Get on, Kat.
+312591038) KENNY
+{AngryC} It's TALKED THROUGH. {AngryA} Get on, Kat.
+312591041) KENNY
+{AngryC} It's TALKED THROUGH. {AngryA} Get on, Kat.
+312591049) KENNY
+{AngryC} It's TALKED THROUGH. {AngryA} Get on, Kat.
+312591032) KENNY
+{AngryB} We get on the train and we find something better. THAT is the plan.
+312591042) KENNY
+{AngryB} We get on the train and we find something better. THAT is the plan.
+312591033) KATJAA
+{ThinkingA} I think Lee just wants to talk it through.
+312591037) KATJAA
+{ThinkingA} I think Lee just wants to talk it through.
+312591043) KATJAA
+{ThinkingA} I think Lee just wants to talk it through.
+312591034) LEE
+{ThinkingB} Is the train really a good idea, with Duck like that... {NormalD} maybe we should focus on one thing at a time.
+312591035) KENNY
+{AngryA} Damn right I want. That's what we're doing.
+312591039) LEE
+{NormalD}We can't ignore this. Look at the kid, Kenny. {SadA} This is happening.
+312591040) KENNY
+{AngryB} Ain't shit happening. And if it were, {SadA} what can we do here?
+312591044) KATJAA
+{SadA} I'm worried about him, Kenny.
+312591045) KENNY
+{SadA} So am I. {NormalB} But he'll be fine. Let's go.
+312591046) KENNY
+{AngryA} I don't want you making a big deal out of a scratch. He'll be fine.
+312591047) KATJAA
+[worried]{SadB}  I don't know...
+312591203) 
+I don't know.
+312591048) KATJAA
+{ThinkingA} Maybe we can just talk it through?
+312591050) LEE
+{ThinkingA} Is that right?
+312591051) KATJAA
+{HappyA}Ah, thank you, perfect.
+312591052) LEE
+{HappyA} Here, I found some water.
+312591053) KATJAA
+{ThinkingA} It's all I can keep thinking about. [hushes her voice] {SadB} Like somehow that matters.
+312591054) LEE
+It doesn't.
+312591055) KATJAA
+{NormalB} He's allergic to bees.
+312591056) KATJAA
+{NormalC} I know. Well, I don't. {FearA} But you're probably right.
+312591057) CLEMENTINE
+{HappyA}He gave us candy. Ben, too!
+312591058) LEE
+{ThinkingA} Yeah... I did.
+312591059) CLEMENTINE
+{HappyB} You met Chuck!
+312591060) KATJAA
+{HappyC} It's so nice to meet someone normal for a change.
+312591061) 
+Welcome.
+312591067) LEE
+{NormalB} Welcome.
+312591062) 
+What's your game, man?
+312591072) LEE
+{ThinkingB} What's your game, man?
+312591063) 
+You have candy?
+312591078) LEE
+{ThinkingB} You have candy?
+312591064) CHUCK
+{HappyC} Thank ya.
+312591065) CHUCK
+{HappyB} Sure did. Man shares my love of the road.
+312591085) CHUCK
+{HappyB} Sure did. Man shares my love of the road.
+312591791) CHUCK
+{HappyB} Sure did. Man shares my love of the road.
+312591796) CHUCK
+{HappyB} Sure did. Man shares my love of the road.
+312591066) LEE
+{ThinkingA} You met Kenny?
+312591789) LEE
+{ThinkingA} You met Kenny?
+312591795) LEE
+{ThinkingA} You met Kenny?
+312591068) LEE
+{NormalB} That's for certain.
+312591084) LEE
+{NormalB} That's for certain.
+312591790) LEE
+{NormalB} That's for certain.
+312591797) LEE
+{NormalB} That's for certain.
+312591069) LEE
+{NormalB} That's not bad.
+312591070) CHUCK
+{HappyB} I like it.
+312591071) CHUCK
+{ThinkingB} Keepin' alive.
+312591076) CHUCK
+{HappyA} Boy got the last piece I had on me.
+312591077) LEE
+{NormalC} Figures.
+312591082) KATJAA
+{AngryA} Don't intimidate the man. {HappyB} He's nice. We need nice.
+312591083) KATJAA
+{NormalC} Kenny is on board. He talked to him.
+312591086) CHUCK
+{HappyA} Sure do!{HappyC} And boy do I have some stories.
+312591087) CHUCK
+{HappyA} Of course, I'll be happy to join you. Til then, {HappyB} I suppose I oughta get to know ya'll.
+312591088) CHUCK
+{ThinkingB} I hear you guys are trying to get her runnin'. {HappyA} Good luck.{ThinkingA}  I flipped switches for a week doin' the same.
+312591089) CLEMENTINE
+You live on a train?
+312591090) KENNY
+{NormalB} It's fine. Radiator could use a rest as it is.
+312591091) LEE
+{NormalB} Hey man, we're still looking around {ThinkingA} and haven't figured much out yet.
+312591092) LEE
+{ThinkingA} You worried about keeping her in there?
+312591093) KENNY
+{HappyB} I cracked a window. [sarc]{AngryA} I sure as hell don't want her out here with us.
+312591102) KENNY
+{NormalB}What's up.
+312591103) LEE
+{NormalB} Hey, Ken.
+312591104) 
+I hope you're okay about bringing Lilly.
+312591105) 
+I don't know about leaving Lilly back there.
+312591116) LEE
+{NormalD} I don't know about leaving Lilly back there.
+312591106) 
+I'm sorry about the RV.
+312591141) 
+I'm sorry about the RV.
+312591157) LEE
+I'm sorry about the RV.
+312591107) 
+You want to talk about Duck?
+312591108) 
+We need something to help us get the train going.
+312591109) 
+I'm working on starting this thing.
+312591111) KENNY
+[sideways glance] {ThinkingA} Turning over a new leaf, huh?
+312591112) KENNY
+{NormalC}It's fine for now, but we have to deal with it eventually.
+312591113) LEE
+{NormalD} I hope it's all right I chose to keep Lilly with us.
+312591114) LEE
+{NormalC} I'm just doing what I can.
+312591115) LEE
+{NormalC} Abandoning someone on the side of the road is the same as murder.
+312591118) KENNY
+[sideways glance] {ThinkingA}Don't worry about it.
+312591119) KENNY
+{NormalC}We just would've had to deal with her eventually.
+312591120) LEE
+{SadA} I'm sorry about the RV.{ThinkingB} Keeping her was my call. This one's on me.
+312591121) KENNY
+{ThinkingA} The radiator is fucking hosed in that thing, so {HappyA} she won't make it thirty miles. {ThinkingA}We figure this train out, {HappyB} maybe it turns out she did us a favor.
+312591122) LEE
+{NormalD} You want to talk about Duck? {SadA} I'm really sorry, Kenny. Nobody deserves this.
+312591123) KENNY
+{NormalC} There's nothing to talk about. You heard Kat, he could be fine.
+312591124) KENNY
+{AngryB}Nobody's ignoring nothin'. {NormalC}I'm not worried, you shouldn't be either.
+312591125) LEE
+{SadB} We probably shouldn't ignore...
+312591126) LEE
+{ThinkingB}God, we need some help getting this train going.
+312591127) KENNY
+{NormalC} People take notes, right, when working on stuff like this? [sigh] {ThinkingA} We're smart guys, we can figure it out.
+312591128) KENNY
+{NormalB} We'll find out. {ThinkingA} You mess around in the engine compartment yet?
+312591129) LEE
+{NormalB} With the directions I was able to piece together,{HappyA} I think I might be able to get this thing started. {ThinkingA} I don't know. It's a long-shot. {ThinkingB} I don't even know what the fuel situation is with this thing.
+312591130) KENNY
+{NormalC} I like him fine.
+312591131) KENNY
+{HappyA} Got a good sense about him, yeah. {ThinkingA} Why, you not a fan?
+312591132) LEE
+{ThinkingB} It was just weird to come up on a guy like that, I guess.
+312591133) LEE
+{ThinkingA} You think Chuck is a stand up guy?
+312591134) LEE
+{NormalB} I'll get back to it.
+312591135) KENNY
+{NormalB} Me too.
+312591136) LEE
+{NormalB} All right, then.
+312591137) KENNY
+{NormalB} Yep.
+312591338) CHUCK
+{HappyB} Yep.
+312591138) 
+How's Duck?
+312591144) LEE
+How's Duck?
+312591139) 
+Hear anything out of Lilly in there?
+312591140) 
+Would you have left Lilly?
+312591142) 
+Has Clementine said anything?
+312591143) KATJAA
+Exactly.
+312591145) LEE
+Yeah. His body is probably fighting whatever is in it.
+312591146) KATJAA
+I don't know. Tired. Which could mean a lot of things, right?
+312591147) LEE
+Have you heard anything out of Lilly in there?
+312591148) KATJAA
+She's probably in shock. She did a monstrous thing.
+312591149) KATJAA
+Not a peep.
+312591150) LEE
+I don't like that.
+312591152) LEE
+Would you have left Lilly back there? On the side of the road like that...
+312591153) KATJAA
+We have to have lines. Yes. I would've left her.
+312591154) KATJAA
+Yes, Lee.
+312591156) LEE
+Well, we're putting some time into this train and, worse comes to worst, the boxcar's safe enough to sleep in.
+312591158) KATJAA
+I'm worried. We're really on our own out here now.
+312591159) KATJAA
+She's so smart, though.
+312591160) LEE
+Has Clementine said anything to you about Duck, or Lilly or anything? I'm worried about her.
+312591161) LEE
+Yeah, she is.
+312591703) LEE
+Yeah, she is.
+312591162) KATJAA
+No. [sigh] That little girl is a puzzle.
+312591704) KATJAA
+No. [sigh] That little girl is a puzzle.
+312591163) LEE
+Anyway, let me know if anything changes here.
+312591164) LEE
+I better get back to it.
+312591167) 
+I wouldn't mind plowing through some walkers.
+312591182) LEE
+{HappyA} I wouldn't mind plowing through some walkers.
+312591168) LEE
+{ThinkingA} We just have to figure out how to get it started.
+312591353) 
+We just have to figure out how to get it started.
+312591170) KENNY
+{HappyA} I'm sure we can figure it out. {NormalB} How tough can it be?
+312591359) KENNY
+{HappyA} I'm sure we can figure it out. {NormalB} How tough can it be?
+312591625) KENNY
+{HappyA} I'm sure we can figure it out. {NormalB} How tough can it be?
+312591171) LEE
+{NormalD} Doug would've known. But {ThinkingA} we'll figure it out.
+312591172) LEE
+{NormalB} No idea, but we'll find out.
+312591173) KENNY
+{HappyB} That's the spirit.
+312591181) KENNY
+{HappyB} That's the spirit.
+312591372) KENNY
+{HappyB} That's the spirit.
+312591375) KENNY
+{HappyB} That's the spirit.
+312591378) KENNY
+{HappyB} That's the spirit.
+312591174) KENNY
+{AngryB} We can't act like he's dead either.
+312591176) LEE
+{NormalD} Okay. Fair enough. [solemn]
+312591177) LEE
+{HappyA} Ha, I don't know about that.
+312591374) LEE
+{HappyA} Ha, I don't know about that.
+312591178) KENNY
+{NormalB} Try to get this thing started. There's gotta be some {ThinkingA} sort of... manual or somethin'.
+312591187) KENNY
+{NormalB} Try to get this thing started. There's gotta be some {ThinkingA} sort of... manual or somethin'.
+312591373) KENNY
+{NormalB} Try to get this thing started. There's gotta be some {ThinkingA} sort of... manual or somethin'.
+312591179) LEE
+{SadA} We can't act like nothin' happened to him.
+312591186) KENNY
+{ThinkingA} Look....
+312591188) KENNY
+{AngryA} Don't give me any shit.
+312591380) KENNY
+{AngryA} Don't give me any shit.
+312591382) KENNY
+{AngryA} Don't give me any shit.
+312591189) KENNY
+Ben, if you could keep an eye on the girls and Duck, I'd appreciate it. I'm going to make sense of these controls.
+312591190) KENNY
+Man, this could be exactly what we need.
+312591191) LEE
+[hushed] Walker. Sitting in the chair. We got 'im.
+312591192) LEE
+[hushed] We got one.
+312591193) LEE
+[exhale, relief]
+312591195) BEN
+[exhale, relief]
+312591194) LEE
+Suppose we ought to look him over.
+312591198) LEE
+[exertion, lifting a body] Urrrgh...
+312591199) BEN
+[exertion, lifting a body] Urrgh...
+312591200) KENNY
+{AngryA} I'll be up front. I don't want to hear any nonsense until we get where we're goin'.
+312591201) LEE
+Hey, Clem.
+312591202) CLEMENTINE
+{NormalA}What are you going to do with Lilly?
+312591204) 
+Punish her, somehow.
+312591205) 
+Nothing.
+312591206) LEE
+I don't know. Something, I suppose. I don't know what we can do.
+312591207) LEE
+Punish her, somehow. She did a terrible thing.
+312591208) CLEMENTINE
+We could lock her away forever.
+312591209) LEE
+[hah] I don't know about that one, hon.
+312591210) LEE
+There's nothing to do that would even begin to fit the crime.
+312591211) LEE
+Yeah. It's horrible.
+312591214) LEE
+Yeah. It's horrible.
+312591212) CLEMENTINE
+She killed him.
+312591213) CLEMENTINE
+She killed her.
+312591215) LEE
+Hey, sweet pea.
+312591216) CLEMENTINE
+I don't think Duck feels good.
+312591217) LEE
+Hey, sweet pea. You okay out here?
+312591218) LEE
+Me, neither.
+312591219) LEE
+That candy Chuck gave you... it taste okay?
+312591220) CLEMENTINE
+It was really good.
+312591221) LEE
+The train's cool, huh?
+312591222) CLEMENTINE
+I guess. Scary, kind of.
+312591223) LEE
+No funny aftertaste?
+312591225) CLEMENTINE
+Oh. Well if you don't end up using it, I'd take it. I like to put leaves between the pages and color over them.
+312591226) CLEMENTINE
+No. I wish. Maybe in the RV? What do you need it for?
+312591690) CLEMENTINE
+No. I wish. Maybe in the RV? What do you need it for?
+312591227) LEE
+There used to be something written on the notepad that I need to know about.
+312591691) LEE
+There used to be something written on the notepad that I need to know about.
+312591228) LEE
+There's a notepad on the train. Do you have any pencils or anything in your pack?
+312591692) LEE
+There's a notepad on the train. Do you have any pencils or anything in your pack?
+312591229) CLEMENTINE
+Yeah, it's fun.
+312591230) LEE
+Like, make a rubbing?
+312591231) LEE
+Hey, Chuck.
+312591232) CHUCK
+Howdy.
+312591233) 
+Where are you from?
+312591235) 
+Why are you alone?
+312591242) LEE
+Why are you alone?
+312591236) CHUCK
+Georgia boy. You saw where I live.
+312591237) LEE
+Where are you from? You live around here?
+312591241) CHUCK
+Eh, you still got a couple kids and this one's got a good spirit.
+312591243) CHUCK
+I'm sorry; I do like being around you all, actually. It's nice.
+312591244) CHUCK
+That's some kinda something.
+312591245) LEE
+You caught us on a bad day.
+312591246) LEE
+Fine, then.
+312591247) CHUCK
+Why not? Seem to be doin' all right.
+312591248) LEE
+I'll talk to you later.
+312591249) CHUCK
+Hope so.
+312591250) LEE
+[surprised, a zombie just woke up right near you] Jesus!
+312591251) LEE
+Yeah. Should be able to just follow the steps to get the engine on.
+312591800) LEE
+Yeah. Should be able to just follow the steps to get the engine on.
+312591252) KENNY
+You can read it now?
+312591255) KENNY
+It's all yours.
+312591256) LEE
+{NormalB} We got a problem.
+312591258) LEE
+{ThinkingB}We still got the rest of the train attached to us back there.
+312591259) KENNY
+Damn it!
+312591260) KENNY
+[context: I'm an idiot] Of course, we're still attached.
+312591262) KENNY
+Can you go find out where we're stuck, and get us UN-stuck?
+312591265) LEE
+That's the throttle.
+312591267) LEE
+Looks like it'll get that pin out.
+312591268) LEE
+[straining against a stuck lever] Urrggh...
+312591567) LEE
+[straining against a stuck lever] Urrggh...
+312591570) LEE
+[straining against a stuck lever] Urrggh...
+312591269) LEE
+It's stuck.
+312591566) LEE
+It's stuck.
+312591571) LEE
+It's stuck.
+312591270) LEE
+That's definitely what's got us stuck.
+312591271) LEE
+There's got to be a better way to do this.
+312591281) KENNY
+{ThinkingA} So that's it? We're cut loose?
+312591282) LEE
+{NormalB} Seems that way, yeah.
+312591284) KENNY
+[excited to get a move on] {HappyB} Great.
+312591300) LEE
+The kids might like those.
+312591302) KENNY
+Sounds good.
+312591809) KENNY
+Sounds good.
+312591303) LEE
+[context: bad idea] Too loud.
+312591304) LEE
+He's pinned in there good.
+312591305) LEE
+I thought those things were designed to save lives.
+312591306) LEE
+[frustrated] I can't get at him in there.
+312591753) LEE
+[frustrated] I can't get at him in there.
+312591756) LEE
+[frustrated] I can't get at him in there.
+312591307) LEE
+[smashing a zombie head] RRAAHH!
+312591308) LEE
+[context: hell no] Not without a silent way to kill him.
+312591309) LEE
+[zombie biting you, you die] Auuugh!
+312591310) LEE
+[unsure] {NormalB} Here.  I found these... {NormalD}if Duck's up for it.
+312591311) KATJAA
+{HappyB} Thank you, that's very thoughtful.
+312591313) KATJAA
+[sincere] {NormalB}Thank you, Lee.
+312591314) KATJAA
+No. {HappyA} The most trouble I ever have is making him use a fork.
+312591315) KATJAA
+{NormalB} Most kids, they're really fussy about what they'll eat. Hate vegetables, that kind of thing.
+312591316) LEE
+{NormalD}Sure.
+312591317) KATJAA
+{SadA}He isn't fussy, you know?
+312591318) LEE
+{HappyA} Not Duck huh?
+312591319) LEE
+{thinkingB} I tried to yank the pin out, but it won't budge.
+312591320) KENNY
+{AngryA}Shit.
+312591812) LEE
+Shit.
+312591321) KENNY
+Can you go see if you can get us UN-stuck?
+312591322) KENNY
+[frustrated] {ThinkingA} Well, we ain't going anywhere until it does.
+312591335) CHUCK
+[to Lee] {NormalB} Your friend mentioned Savannah. {ThinkingA} That where y'all are going?
+312591336) CHUCK
+{HappyB} Have a look.
+312591337) LEE
+{NormalB}Trying to.
+312591339) LEE
+[reading off a map] {HappyA} Route 27 will get us straight there.
+312591340) LEE
+{HappyA} I should go show Kenny.
+312591341) KATJAA
+{HappyA} To Savannah?
+312591342) CHUCK
+{HappyC} Yup.
+312591348) KENNY
+{NormalA}Let's get this thing moved and get back on the road.
+312591349) KENNY
+[concerned] {AngryA} I think we're all chompin' at the bit to get moving, {FearA}but we should know where it goes.
+312591350) LEE
+{NormalC}Yeah, we don't want to end up circling back to somewhere like Atlanta.
+312591351) KENNY
+{ThinkingA} They wouldn't drive blind, would they? I didn't see anything in the cab though.
+312591352) LEE
+{NormalB} I'll have a look around.
+312591354) 
+We just need to figure out the controls.
+312591624) LEE
+[pickup2] {ThinkingA} We just need to figure out the controls.
+312591355) 
+We just need to detatch that back car.
+312591358) LEE
+{ThinkingB} We just need to detatch that back car.
+312591357) KENNY
+{HappyB}C'mon, let's see if she'll move.
+312591367) KENNY
+{HappyB}C'mon, let's see if she'll move.
+312591371) KENNY
+{HappyB}C'mon, let's see if she'll move.
+312591376) KENNY
+{ThinkingA} Once we figure out how to get loose, everything will be all right.
+312591377) KENNY
+{ThinkingA} Once we figure out how to get loose, everything will be all right.
+312591379) KENNY
+{NormalB} Let's just get this thing going.
+312591381) KENNY
+{NormalB} Just get us unstuck.
+312591392) KENNY
+Whatever you just did killed the lights up here.
+312591393) LEE
+[frustrated] Damn. Okay.
+312591394) KENNY
+Nope, the lights are off again.
+312591395) LEE
+[frustrated] Ugh. Okay.
+312591396) KENNY
+(The lights are) Off again.
+312591397) KENNY
+Nope. Back it up.
+312591399) LEE
+So far so good.
+312591400) KENNY
+[excited] Son of a bitch! Whatever you did lit the dash up!
+312591401) KATJAA
+Ken took off in a hurry.
+312591402) LEE
+You're right.
+312591403) KATJAA
+How?
+312591404) LEE
+I... have no idea.
+312591405) KATJAA
+Well SOMEONE must have known, right?
+312591406) LEE
+We think the train might actually work. I'm trying to find out how to start the engine.
+312591407) LEE
+Same thing... sort of. I found some instructions, but I can't read them.
+312591408) KATJAA
+Oh, well, I'm sure someone can help you.
+312591409) KATJAA
+Is Ken all right? What is he doing?
+312591410) LEE
+He's put his mind to figuring out the train.
+312591411) KATJAA
+What about you?
+312591441) LEE
+{NormalC} Yeah, well, he isn't talking.
+312591442) BEN
+{NormalC} That guy in the cab probably knew.
+312591443) LEE
+{ThinkingB} I've got no idea how to get the engine started.
+312591444) BEN
+{ThinkingA} Well, HE had to learn it somewhere.
+312591445) KENNY
+{ThinkingA} You're asking ME? What do I know about a train?
+312591446) LEE
+{NormalD} More than me.
+312591447) LEE
+{NormalC} I can't get us free. {ThinkingA} Any ideas?
+312591448) KENNY
+{NormalC} Sorry, man.
+312591453) LEE
+Shit, this is it. Instructions on starting the engine.
+312591454) LEE
+The door to the boxcar.
+312591455) LEE
+I can get in over there.
+312591460) LEE
+Leads out of this boxcar.
+312591461) LEE
+Might be something inside.
+312591462) LEE
+Might be something inside.
+312591463) LEE
+Might be something inside.
+312591464) LEE
+Might be something inside.
+312591465) LEE
+The door's closed.
+312591776) LEE
+The door's closed.
+312591777) LEE
+The door's closed.
+312591466) LEE
+[moving a heavy rolling door] Urrrghh!
+312591469) LEE
+[pickup2] Shit. Broken.
+312591470) LEE
+[pickup2][context: After a lot of work, you moved a stubborn thing] There.
+312591569) LEE
+[pickup2][context: After a lot of work, you moved a stubborn thing] There.
+312591572) LEE
+[pickup2][context: After a lot of work, you moved a stubborn thing] There.
+312591471) LEE
+[pickup2][straining to move a stuck thing] Urgh.
+312591568) LEE
+[pickup2][straining to move a stuck thing] Urgh.
+312591573) LEE
+[pickup2][straining to move a stuck thing] Urgh.
+312591472) CHUCK
+{SadA} I'm awfully sorry your son's not feeling good.
+312591473) KATJAA
+{HappyB} I appreciate your concern. [warm]
+312591474) CHUCK
+{HappyA} Well, with a little TLC I'm sure he'll be fit as a fiddle in no time.
+312591475) CHUCK
+{HappyC} And I can offer ya'll whatever I got, {NormalA} although it ain't much.
+312591476) KATJAA
+{HappyC} Thank you... we'd like to do the same.
+312591477) KENNY
+{ThinkingA} Why don't we hold off on...
+312591478) KATJAA
+[ignoring kenny] {NormalB} Stay with us, {HappyA} we'd like the company.
+312591479) 
+Boxcar Door
+312591481) 
+Boxcar Door
+312591480) 
+Cab Door
+312591484) 
+Use
+312591489) 
+Use
+312591491) 
+Use
+312591561) 
+Use
+312591562) 
+Use
+312591593) 
+Use
+312591643) 
+Use
+312591815) 
+Use
+312591485) 
+Look At
+312591488) 
+Look At
+312591492) 
+Look At
+312591495) 
+Look At
+312591497) 
+Look At
+312591502) 
+Look At
+312591504) 
+Look At
+312591506) 
+Look At
+312591508) 
+Look At
+312591511) 
+Look At
+312591512) 
+Look At
+312591514) 
+Look At
+312591524) 
+Look At
+312591528) 
+Look At
+312591529) 
+Look At
+312591531) 
+Look At
+312591540) 
+Look At
+312591542) 
+Look At
+312591544) 
+Look At
+312591559) 
+Look At
+312591560) 
+Look At
+312591585) 
+Look At
+312591591) 
+Look At
+312591592) 
+Look At
+312591642) 
+Look At
+312591644) 
+Look At
+312591493) LEE
+{normalB}It's locked up.
+312591494) 
+Open
+312591498) 
+Open
+312591500) 
+Open
+312591503) 
+Open
+312591505) 
+Open
+312591507) 
+Open
+312591509) 
+Open
+312591525) 
+Open
+312591526) 
+Open
+312591780) 
+Open
+312591496) 
+Ladder
+312591499) 
+RV Door
+312591501) 
+Engine Compartment
+312591510) 
+Take
+312591513) 
+Take
+312591515) 
+Take
+312591516) 
+Monkey Wrench
+312591517) 
+Spanner
+312591518) 
+Spike Remover
+312591519) 
+Switch
+312591603) 
+Switch
+312591520) 
+Turn Left
+312591645) 
+Turn Left
+312591521) 
+Turn Right
+312591647) 
+Turn Right
+312591522) 
+Use Notepad With
+312591607) 
+Use Notepad With
+312591609) 
+Use Notepad With
+312591611) 
+Use Notepad With
+312591613) 
+Use Notepad With
+312591615) 
+Use Notepad With
+312591617) 
+Use Notepad With
+312591619) 
+Use Notepad With
+312591621) 
+Use Notepad With
+312591623) 
+Use Notepad With
+312591646) 
+Use Notepad With
+312591814) 
+Use Notepad With
+312591527) 
+Unlock
+312591530) 
+Slam
+312591532) 
+Grab
+312591541) 
+Grab
+312591545) 
+Grab
+312591535) 
+Hit
+312591536) 
+Hit
+312591537) 
+Hit
+312591549) 
+Hit
+312591550) 
+Hit
+312591551) 
+Hit
+312591538) 
+Shoot
+312591548) 
+Shoot
+312591539) 
+Water
+312591543) 
+Pick Up
+312591547) 
+Examine
+312591590) 
+Examine
+312591557) 
+Car Door
+312591558) 
+Pencil
+312591563) 
+Pry
+312591564) 
+Pry
+312591565) 
+Pry
+312591574) 
+Coupler Bar
+312591575) 
+Coupler Pin
+312591576) 
+Map
+312591577) 
+Walker
+312591578) 
+Animal Crackers
+312591579) 
+Seatbelt Buckle
+312591580) 
+Map Bin
+312591581) 
+Engineer
+312591582) 
+Console
+312591813) 
+Console
+312591583) 
+Notepad
+312591584) 
+Throttle
+312591586) 
+Use Pencil On
+312591587) 
+Torn Paper
+312591594) 
+Talk To
+312591597) 
+Talk To
+312591599) 
+Talk To
+312591595) 
+Give Water To
+312591596) 
+Give Animal Crackers To
+312591598) 
+Show Map To
+312591600) 
+Show Map To
+312591601) 
+I can't get us unstuck.
+312591602) 
+Dial
+312591604) 
+Switch Bank
+312591605) 
+Toggle
+312591608) 
+Toggle
+312591610) 
+Toggle
+312591612) 
+Toggle
+312591614) 
+Toggle
+312591616) 
+Toggle
+312591618) 
+Toggle
+312591620) 
+Turn
+312591622) 
+Turn
+312591626) LEE
+[pickup2] I have no idea what to do with these.
+312591628) LEE
+[pickup2] [a futile attempt to start an engine] Nothing.
+312591634) LEE
+[pickup2] Could be the engine switch.
+312591635) LEE
+[pickup2] Doesn't look like the engine has any power.
+312591637) LEE
+[pickup2][calling to someone far away] Hey Kenny, we're loose!
+312591638) LEE
+[pickup2][calling to someone far away] Hey Kenny, we're loose!
+312591639) LEE
+[pickup2][calling to someone far away] Hey Kenny, we're loose!
+312591641) LEE
+[pickup2] A switch.
+312591693) CLEMENTINE
+[pickup2] Well, if you're not using it, I'd take it. I'm out of paper and there's all sorts of new leaves around here.
+312591694) LEE
+[pickup2] It's an old firepit. It's mostly dirt now.
+312591695) LEE
+[pickup2] It's mostly dirt now, though. Nothing of use.
+312591696) LEE
+[pickup2] I can definitely pry this thing free if I can break it loose first.
+312591697) LEE
+[pickup2] We need a bunch of force to break away all this rust and whatnot before I can pry anything free.
+312591698) LEE
+[pickup2] I don't know. [heavy]
+312591705) LEE
+[pickup2] I don't know. [heavy]
+312591699) KATJAA
+[pickup2] Poor Doug. [overwhelmed] God. Where did yesterday go?
+312591700) LEE
+[pickup2]Has Clementine said anything to you about Doug or...Duck, or anything? I'm worried about her.
+312591706) KATJAA
+[pickup2] Poor Carley.[overwhelmed] God. Where did yesterday go?
+312591707) KATJAA
+[pickup2] Are you okay? I know you were fond of her.
+312591708) 
+I'm fine.
+312591728) 
+I'm fine.
+312591709) 
+I was.
+312591710) 
+I'm used to it by now.
+312591730) 
+I'm used to it by now.
+312591711) KATJAA
+[pickup2] I'm sorry. [seeing]You don't want to talk about it.
+312591731) KATJAA
+[pickup2] I'm sorry. [seeing]You don't want to talk about it.
+312591712) KATJAA
+[pickup2] I liked him very much. He'd spent some time in Belgium. [revealing a fact]
+312591734) KATJAA
+[pickup2] I liked him very much. He'd spent some time in Belgium. [revealing a fact]
+312591742) KATJAA
+[pickup2] I liked him very much. He'd spent some time in Belgium. [revealing a fact]
+312591713) LEE
+[pickup2] I'm fine. It's just such a waste. He was a good guy.
+312591714) KATJAA
+[pickup2] Yes. [sigh] Even further away now. [her homeland feels further away with the woman she shared knowledge of it with dead]
+312591735) KATJAA
+[pickup2] Yes. [sigh] Even further away now. [her homeland feels further away with the woman she shared knowledge of it with dead]
+312591744) KATJAA
+[pickup2] Yes. [sigh] Even further away now. [her homeland feels further away with the woman she shared knowledge of it with dead]
+312591715) LEE
+[pickup2] Where your family is from.
+312591736) LEE
+[pickup2] Where your family is from.
+312591743) LEE
+[pickup2] Where your family is from.
+312591719) LEE
+[pickup2] I was. This isn't any time for, you know, romance, but yeah... I was [quoting katjaa] fond of her, yeah.
+312591720) LEE
+[pickup2] I was THERE, Kat.
+312591740) LEE
+[pickup2] I was THERE, Kat.
+312591721) LEE
+[pickup2] I'm used to it by now. We all are, aren't we?
+312591737) LEE
+[pickup2] I'm used to it by now. We all are, aren't we?
+312591722) KATJAA
+[pickup2] She murdered her, Lee.
+312591725) KATJAA
+[pickup2] I'm sorry.
+312591738) KATJAA
+[pickup2] I'm sorry.
+312591727) KATJAA
+[pickup2] You were standing right there... are you doing okay?
+312591729) 
+I was. It was horrible.
+312591732) KATJAA
+[pickup2] I'm sorry you, and, my God, Clementine, had to see that.
+312591733) LEE
+[pickup2] I was. It was awful -- one of the worst things I've seen yet.
+312591741) KATJAA
+[pickup2] She murdered him, Lee.
+312591745) KATJAA
+[pickup2] I'm sorry, Lee.
+312591746) LEE
+[pickup2] Don't. I liked her, but she's gone now.
+312591747) LEE
+[pickup2] I'm fine. Don't worry about me.
+312591748) KATJAA
+[pickup2] I do.
+312591750) 
+Campfire
+312591751) LEE
+[pickup2] Dammit. No room.
+312591754) LEE
+[pickup2] Dammit. No room.
+312591757) LEE
+[pickup2] Dammit. No room.
+312591752) LEE
+[pickup2] There's no way to get at him. [zombie]
+312591755) LEE
+[pickup2] There's no way to get at him. [zombie]
+312591758) LEE
+[pickup2] There's no way to get at him. [zombie]
+312591759) LEE
+[pickup2][deep breath, psyching yourself up] Okay.
+312591760) LEE
+[pickup2][to the zombie] You aren't gonna like this.
+312591761) LEE
+[pickup2] This door's gonna hurt.
+312591762) LEE
+[pickup2]Has Clementine said anything to you about Carley or...Duck, or anything? I'm worried about her.
+312591763) BEN
+[pickup2] I don't think this guy came back...
+312591764) LEE
+[pickup2] Christ...
+312591765) KENNY
+[pickup2] Now we're talkin'!
+312591766) LEE
+[pickup2][Noticing the zombie in the cab]{SurpriseA} Shit.
+312591767) LEE
+[pickup2]{NormalD} He'll see me if I come in this way.
+312591768) LEE
+[pickup2]{ThinkingA}He'll see me if I try to go in that way.
+312591772) LEE
+[pickup2] It's in pretty good shape for a wreck.
+312591773) LEE
+[pickup2]  That's one hell of a mess.
+312591774) LEE
+[pickup2][disappointed] {NormalD} 
+Derailed.
+312591781) 
+Use Monkey Wrench With
+312591782) 
+Use Spike Remover With
+312591783) 
+Use Spanner With
+312591784) 
+Use Pistol With
+312591785) 
+Cow Catcher
+312591786) 
+Sheet Metal
+312591787) 
+Train Wheels
+312591788) 
+Photograph
+312591798) 
+Rotten Lunch
+312591807) LEE
+Here, Kenny.
+312591808) LEE
+Should be able to just follow the steps to get the engine on.
+312591811) KENNY
+Let's go.

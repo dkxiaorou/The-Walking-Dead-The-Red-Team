@@ -1,0 +1,30 @@
+312520781) 
+Have you found anything else?
+312520784) LEE
+{normalA}Have you found anything else?
+312520782) 
+You didn't break the flashlight, did you?
+312520783) 
+You seem to know a bit about all this...
+312520785) DUCK
+{normalA}Just the chalk. {thinkingA}I also found some bugs underneath the stairs. {sadA}Don't tell Clementine.
+312520786) LEE
+{thinkingA}[confused] Okay, I won't.
+312520787) LEE
+{normalB}You didn't break the flashlight, did you Duck?
+312520788) DUCK
+{sadB}No. Mom and Dad won't let me touch any of their stuff. Lilly neither.
+312520789) LEE
+{normalC}That's probably for the best.
+312520790) DUCK
+{happyC}No! I'm a good guy.
+312520791) LEE
+{thinkingA}You seem to know a bit about all of this...{thinkingB} the chalk, you found the scuff here, this is going to sound crazy but you're not involved, are you?
+312520792) LEE
+{angrya}Stay inside the gate.
+312520793) DUCK
+{sadB}I will, I will.
+312520794) 
+Talk To
+312520796) 
+Show Flashlight to

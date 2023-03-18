@@ -1,0 +1,648 @@
+312483841) KENNY
+[cautious optimism] {Body-A}{HappyA}Looks like this is our lucky day.
+312483854) 
+This might go smoothly.
+312483855) 
+Maybe.
+312483856) 
+I don't like it.
+312483858) LEE
+[cautiously optimistic]{Body-B} {HappyA}Yeah, this might actually go smoothly.
+312483859) LEE
+[doubtful] {Body-B}{HappyA}Maybe, {ThinkingA}they tend to take us by surprise.
+312483860) LEE
+[mildly irritated] {Body-B}{AngryA}I don't like it. {ThinkingA}Keep your eyes open, all right?
+312483861) KENNY
+{Body-A}{ThinkingA}We deserve it after last time.
+312483863) KENNY
+{Body-A}{HappyA}Yeah, {ThinkingA}well, the less I see, {HappyB}the happier I am.
+312483866) LEE
+{AngryA}Let's just get inside.
+312483868) KENNY
+{Body-A}{ThinkingA}Well, {NormalC}let's just get to it then.
+312483871) KENNY
+{Body-A}{ThinkingA}Okay, just like last time. {DisgustA}Over the rig, {ThinkingA}into the pharmacy and scrape {NormalC}together whatever supplies are left.
+312483874) LEE
+{Body-B}{ThinkingA}We didn't leave much in there.
+312483875) KENNY
+{ThinkingA}We're out of options. {HappyA}Somethin's better than nothin'.
+312483877) KENNY
+[Grunts with exertion / pain as he climbs] {Body-A}{AngryB}Urrgh...
+312483878) LEE
+{Body-B}{SurpriseA}You okay?
+312483879) KENNY
+{ThinkingA}No kiddin'.
+312483880) KENNY
+{SurprisedA}The ladder's come loose. {AngryB}I'm not sure how many more trips she's got in her.
+312483881) LEE
+{SadA}I'm not sure how many more trips we've got in US.
+312483882) KENNY
+{AngryC}Shit!
+312483883) LEE
+{Body-B}{ThinkingA}Looks like she's had it.
+312483884) KENNY
+{Body-A}{ThinkingA}What now?
+312483897) KENNY
+{AngryA}Better get a move-on.
+312483899) LEE
+{Body-B}{ThinkingA}Are you sure you can't reach me?
+312484277) LEE
+{Body-B}{ThinkingA}Are you sure you can't reach me?
+312484288) LEE
+{Body-B}{ThinkingA}Are you sure you can't reach me?
+312483900) KENNY
+{Body-A}{HappyB}Listen, {ThinkingA}you're either gonna have to get a hell of a lot taller, {AngryA}or my arms are gonna have to get a hell of a lot longer.
+312484276) KENNY
+{Body-A}{HappyB}Listen, {ThinkingA}you're either gonna have to get a hell of a lot taller, {AngryA}or my arms are gonna have to get a hell of a lot longer.
+312484286) KENNY
+{Body-A}{HappyB}Listen, {ThinkingA}you're either gonna have to get a hell of a lot taller, {AngryA}or my arms are gonna have to get a hell of a lot longer.
+312483905) LEE
+{NormalD}I get it. {ThinkingA}I'll keep looking.
+312484278) LEE
+{NormalD}I get it. {ThinkingA}I'll keep looking.
+312484287) LEE
+{NormalD}I get it. {ThinkingA}I'll keep looking.
+312483909) LEE
+{ThinkingB}I'll find another way up.
+312484246) LEE
+{ThinkingB}I'll find another way up.
+312483910) KENNY
+Dammit, {DisgustA}I can't reach.
+312484252) KENNY
+Dammit, {DisgustA}I can't reach.
+312484261) KENNY
+Dammit, {DisgustA}I can't reach.
+312483911) KENNY
+{SadB}Sorry, pal.
+312484254) KENNY
+{SadB}Sorry, pal.
+312484263) KENNY
+{SadB}Sorry, pal.
+312483912) LEE
+{SadB}[Lee sighs]
+312484178) BEATRICE
+[SHRIEK in pain]
+312484190) BEATRICE
+[ear piercing scream1]
+312484191) BEATRICE
+[ear piercing scream 2]
+312484192) BEATRICE
+[animalistic scream]
+312484193) BEATRICE
+[bitten scream]
+312484194) BEATRICE
+[sad, "help me" scream]
+312484253) LEE
+{SadB}[Lee sighs]
+312484262) LEE
+{SadB}[Lee sighs]
+312483913) LEE
+All right, {ThinkingA}stay put.
+312484255) LEE
+All right, {ThinkingA}stay put.
+312484264) LEE
+All right, {ThinkingA}stay put.
+312483914) LEE
+{Body-B}{HappyA}Kenny, c'mon.
+312484250) LEE
+{Body-B}{HappyA}Kenny, c'mon.
+312484259) LEE
+{Body-B}{HappyA}Kenny, c'mon.
+312483916) KENNY
+[grunt of pain] {Body-A}{DisgustA}Unngh...{AngryB}shit.
+312484251) KENNY
+[grunt of pain] {Body-A}{DisgustA}Unngh...{AngryB}shit.
+312484260) KENNY
+[grunt of pain] {Body-A}{DisgustA}Unngh...{AngryB}shit.
+312483917) KENNY
+{Body-A}{DisgustA}Not gonna happen pal.
+312483918) KENNY
+{Body-A}{ThinkingA}Not while you're standing there.
+312484257) KENNY
+{Body-A}{ThinkingA}Not while you're standing there.
+312484266) KENNY
+{Body-A}{ThinkingA}Not while you're standing there.
+312483921) LEE
+[grunting with exertion while pushing] {Body-B}{AngryC}Urgh...
+312483928) LEE
+{Body-B}{ThinkingA}You sure{SadB} you're up for this?
+312483929) KENNY
+{Body-A}{HappyA}Lee, {HappyB}I'm fine. I've got this. {ThinkingA}Gimme your hand.
+312483930) LEE
+{Body-B}{SurpriseB}SHI-[gets cut off as he hits the windshield]
+312483931) KENNY
+[in intense pain] {Body-A}{AngryC}ARRG!
+312483935) 
+Nice one.
+312483936) 
+What the hell happened?
+312483937) 
+Are you okay?
+312483939) LEE
+[wincing] {Body-B}{DisgustA}Nice one. {AngryC}Next time I'm bringing Ben! {ThinkingB}Help me get up.
+312483940) LEE
+{Body-B}{AngryC}What the hell happened? {AngryD}I thought you said you could handle it!
+312483941) KENNY
+[defensive] {Body-A}{DisgustA}You ever been shot before? {SadB}I'm sorry, {AngryA}Christ. {AngryC}You'd think you-
+312483942) LEE
+{Body-B}{SadB}You're lucky it wasn't any worse.... {ThinkingA}You cou-
+312483943) LEE
+{Body-B}{SurpriseA}Jesus, {DisgustA}are you okay?
+312484078) LEE
+{Body-B}{SurpriseA}Jesus, {DisgustA}are you okay?
+312483944) KENNY
+[wincing] {Body-A}{DisgustA}I'm fine. {AngryB}Shit, {SadB}I'm sorry, pal, {ThinkingA}I thought it'd be healed up better.
+312483945) LEE
+[curt] {AngryB}I'm fine, {DisgustA}forget it. {ThinkingB}Let's just-
+312483946) LEE
+[wincing]{Body-B}{AngryC}
+312483947) KENNY
+I'm sorry. {SadB}I just...
+312483948) KENNY
+{Body-A}{AngryC}Sonofabitch! {SadB}You all right?
+312483951) KENNY
+{Body-A}{SurprisedA}What the--{FearC}what the hell is that!? {AngryB}A walker?!
+312483952) LEE
+{Body-B}{SurpriseB}Walkers don't scream! {FearC}Do they?
+312483954) KENNY
+{FearC}Jesus! {SurprisedA}I don't think so.
+312483996) LEE
+{AngryA}Okay, {ThinkingA}okay.
+312483997) LEE
+{Body-B}{ThinkingB}Maybe if you just lean down {HappyB}far enough...
+312483998) 
+Still sore?
+312483999) 
+Think we'll find anything left?
+312484000) 
+I'm coming up.
+312484003) LEE
+{ThinkingA}Maybe you shoulda stayed behind.
+312484004) KENNY
+{Body-A}{DisgustA}I took a bullet to the gut, {ThinkingA}what do you think?
+312484005) KENNY
+{NormalC}I'll be all right.
+312484009) KENNY
+{Body-A}{AngryA}If we'd hit the road like I suggested, {DisgustA}we wouldn't be in this situation.
+312484010) KENNY
+{Body-A}{ThinkingA}Ladder's right there.
+312484011) LEE
+{Body-B}{NormalC}I'm coming up.
+312484012) LEE
+{Body-B}{NormalC}Hey.
+312484013) KENNY
+{Body-A}{ThinkingA}Yeah?
+312484014) LEE
+{Body-B}{HappyA}Still can't reach?
+312484256) LEE
+{Body-B}{HappyA}Still can't reach?
+312484265) LEE
+{Body-B}{HappyA}Still can't reach?
+312484023) KENNY
+{Body-A}Just tryin' to be optimistic.
+312484025) KENNY
+{Body-A}{SadA}Lilly's not doin' so good, huh.
+312484026) 
+You slaughtered her dad.
+312484027) 
+Well, we killed her dad.
+312484028) 
+She'll be fine.
+312484029) 
+It's not good. I'm worried.
+312484031) KENNY
+{Body-A}{ThinkingA}Your girl still upset with you for agreeing to take that stuff from the station wagon?
+312484032) KENNY
+{Body-A}{ThinkingA}Your girl still upset with me for taking stuff out of that car last week?
+312484033) 
+I think she understands.
+312484083) LEE
+I think she understands.
+312484034) 
+I wouldn't blame her.
+312484035) 
+I haven't asked.
+312484086) LEE
+I haven't asked.
+312484089) LEE
+I haven't asked.
+312484036) 
+I hope not.
+312484093) LEE
+I hope not.
+312484094) LEE
+I hope not.
+312484040) 
+What'd he say?
+312484299) 
+What'd he say?
+312484041) 
+He'll get over it.
+312484306) 
+He'll get over it.
+312484042) 
+Still?
+312484311) 
+Still?
+312484043) 
+It was a scary situation for him.
+312484296) 
+It was a scary situation for him.
+312484053) 
+We should go.
+312484054) KENNY
+[grumpy] {Body-A}{ThinkingA}You made up your mind yet?
+312484055) KENNY
+{HappyA}Yeah. We've been talking about it, {ThinkingA}but you made up your mind yet?
+312484056) LEE
+{Body-B}{NormalC}You mean {ThinkingA}packing up the motel and getting in the RV?
+312484057) KENNY
+{Body-A}{NormalC}Lee, where do you come down on stayin' or goin'?
+312484059) 
+We should stay.
+312484060) 
+We could split up.
+312484061) LEE
+{Body-B}{ThinkingA}We should go. {ThinkingB}The motel's run its course and it's not safe.
+312484062) LEE
+{Body-B}{ThinkingA}We should stay, Kenny. {HappyA}We've made an all right go of it so far.
+312484063) LEE
+{Body-B}{ThinkingA}Maybe we split up, then.
+312484064) KENNY
+[grumpy] {Body-A}{AngryA}Well if that's what you think {AngryB}you should probably fuckin' speak up. {DisgustA}Lilly's dug in.
+312484065) KENNY
+{Body-A}{AngryA}You're damn right it has. {ThinkingA}We pile into the RV and don't pull over 'til we see water. {DisgustA}And if Lilly's deadset on staying, then, {HappyA}well, {ThinkingA}that's the way it goes.
+312484066) KENNY
+{DisgustA}Fucking figures. {AngryB}It's only a matter'a time til you and Lilly put a white picket fence around that shit hole.
+312484067) KENNY
+{Body-A}{DisgustA}Lee, you know that's bullshit. {AngryA}Those folks in the woods keep giving us hell{SadA}... {ThinkingA}it's only a matter of time.
+312484068) KENNY
+We should get in the RV and get to the ocean. {HappyA}I need you with me on this, pal.
+312484070) KENNY
+{Body-A}{DisgustA}So you stay with Lilly? {AngryA}And Doug'll stick with your ass because you saved him {AngryB}ONE time, and I get, {ThinkingA}who? {SurprisedA}Ben? {AngryB}That gangly shit for brains?
+312484071) KENNY
+{Body-A}{DisgustA}So you stay with Lilly, then? {AngryA}And Carley'll stick with your ass because you saved her {AngryB}ONE time, and I get, {ThinkingA}who? {SurprisedA}Ben? {AngryB}That gangly shit for brains?
+312484073) KENNY
+{Body-A}{SadB}Split up? {SadA}If I thought that wasn't suicide {ThinkingA}I'd have been gone a long time ago.
+312484074) KENNY
+[grumbly] {Body-A}{AngryA}Fine, {AngryB}I'll take that as a yes then. {DisgustA}I swear, Lee, {ThinkingA}I'd be on my boat right this goddamn minute if I {AngryB}didn't think splitting up was suicide.
+312484075) KENNY
+{Body-A}{SadA}I know it's a tough call, {ThinkingA}but come on, man. {HappyA}You know it's the way to go.
+312484079) KENNY
+{Body-A}{AngryC}No, dick. {AngryD}I'm shot. {DisgustA}Now get off your--
+312484082) KENNY
+[grumpy] {Body-A}{AngryB}No shit. {DisgustA}There's a lot to be worried about. {AngryA}She's gonna snap.
+312484087) KENNY
+[grumpy] You even TALK to that girl anymore?
+312484090) LEE
+Right.
+312484091) KENNY
+Hope so. Not like we had much of a choice.
+312484092) KENNY
+Christ, I've heard your opinion. What's done is done.
+312484095) KENNY
+Hopin' ain't worth a damn.
+312484096) KENNY
+She'll get there.
+312484097) KENNY
+[grumpy] Guess so.
+312484098) KENNY
+Well, I hope not.
+312484100) LEE
+{Body-B}He'll get over it. Hershel's son is one of how many, now? We've all seen a lot worse.
+312484307) LEE
+{Body-B}He'll get over it. Hershel's son is one of how many, now? We've all seen a lot worse.
+312484101) LEE
+{Body-B}{ThinkingA}Still? What happened to {HappyA}"water off a duck's back?"
+312484312) LEE
+{Body-B}{ThinkingA}Still? What happened to {HappyA}"water off a duck's back?"
+312484102) KENNY
+[grumpy, sarcastic] {Body-A}{AngryB}He wanted to know if Hershel's son somehow made it. {SadA}Pretty sure he knows he didn't. [catches a glance from Lee]{AngryC}Don't worry, you made out like a hero in his eyes.
+312484301) KENNY
+[grumpy, sarcastic] {Body-A}{AngryB}He wanted to know if Hershel's son somehow made it. {SadA}Pretty sure he knows he didn't. [catches a glance from Lee]{AngryC}Don't worry, you made out like a hero in his eyes.
+312484103) KENNY
+{Body-A}{ThinkingA}He just {SadA}woke up in the middle of the night,{SadB} screamin' his head off. {FearB}He thinks he killed Hershel's son.
+312484305) KENNY
+{Body-A}{ThinkingA}He just {SadA}woke up in the middle of the night,{SadB} screamin' his head off. {FearB}He thinks he killed Hershel's son.
+312484104) LEE
+{Body-B}{SadB}It was a scary situation for him; {SadA}Shawn dying and all.
+312484298) LEE
+{Body-B}{SadB}It was a scary situation for him; {SadA}Shawn dying and all.
+312484105) KENNY
+{Body-A}{SadB}I'm just worried he'll {FearB}always think it was his fault. [with regret]
+312484297) KENNY
+{Body-A}{SadB}I'm just worried he'll {FearB}always think it was his fault. [with regret]
+312484107) KENNY
+[grumpy] That's a fucking thing to say. I'm talkin' about my kid here.
+312484308) KENNY
+[grumpy] That's a fucking thing to say. I'm talkin' about my kid here.
+312484108) KENNY
+He's a tough kid, ya know. Like I said, not much phases him, but it's startin' to add up. The farm, the dairy...
+312484133) KENNY
+He's a tough kid, ya know. Like I said, not much phases him, but it's startin' to add up. The farm, the dairy...
+312484134) KENNY
+He's a tough kid, ya know. Like I said, not much phases him, but it's startin' to add up. The farm, the dairy...
+312484309) KENNY
+He's a tough kid, ya know. Like I said, not much phases him, but it's startin' to add up. The farm, the dairy...
+312484314) KENNY
+He's a tough kid, ya know. Like I said, not much phases him, but it's startin' to add up. The farm, the dairy...
+312484318) KENNY
+He's a tough kid, ya know. Like I said, not much phases him, but it's startin' to add up. The farm, the dairy...
+312484109) LEE
+{Body-B}{SurpriseA}Christ... {SadB}I'm sorry.
+312484304) LEE
+{Body-B}{SurpriseA}Christ... {SadB}I'm sorry.
+312484110) KENNY
+Fact of the matter is {AngryB}we[emphasis on we] did.
+312484303) KENNY
+Fact of the matter is {AngryB}we[emphasis on we] did.
+312484111) KENNY
+I need to get to the coast. Get him out of all this madness.
+312484132) KENNY
+I need to get to the coast. Get him out of all this madness.
+312484135) KENNY
+I need to get to the coast. Get him out of all this madness.
+312484310) KENNY
+I need to get to the coast. Get him out of all this madness.
+312484315) KENNY
+I need to get to the coast. Get him out of all this madness.
+312484317) KENNY
+I need to get to the coast. Get him out of all this madness.
+312484113) KENNY
+[grumpy] We're dealin' with a little more than water here.
+312484313) KENNY
+[grumpy] We're dealin' with a little more than water here.
+312484119) LEE
+{Body-B}{SadB}You murdered her dad.
+312484120) LEE
+{Body-B}{SadA}Well, we killed her dad.
+312484121) LEE
+{Body-B}{ThinkingA}She'll be fine.
+312484122) LEE
+{Body-B}{ThinkingA}It's not good. {SadB}I'm worried.
+312484123) LEE
+What do you think?
+312484124) KENNY
+Just gonna let it stew, huh.
+312484125) KENNY
+[grumpy] {AngryB}Of course it did.
+312484320) KENNY
+[grumpy] {AngryB}Of course it did.
+312484327) KENNY
+[grumpy] {AngryB}Of course it did.
+312484127) LEE
+{Body-B}{SurpriseA}Really? {ThinkingA}I wasn't sure it phased him.
+312484129) LEE
+{Body-B}{SurpriseA}Really? {ThinkingA}I wasn't sure it phased him.
+312484321) LEE
+{Body-B}{SurpriseA}Really? {ThinkingA}I wasn't sure it phased him.
+312484323) LEE
+{Body-B}{SurpriseA}Really? {ThinkingA}I wasn't sure it phased him.
+312484130) LEE
+{Body-B}{AngryA}It's not like that.
+312484302) LEE
+{Body-B}{AngryA}It's not like that.
+312484131) LEE
+{Body-B}{ThinkingA}What'd he say?
+312484300) LEE
+{Body-B}{ThinkingA}What'd he say?
+312484136) KENNY
+[grumpy] You know, don't worry about it.
+312484316) KENNY
+[grumpy] You know, don't worry about it.
+312484137) KENNY
+{Body-A}{SadA}No. {SadB}It's not. I hope she doesn't snap. {ThinkingA}I might've saved our lives in that meat locker, {SadA}you know?
+312484138) KENNY
+{Body-A}{ThinkingA}If you say so. You're the only one she seems to {AngryA}give a damn about anymore. {SadA}Well, {NormalC}you and Clem.
+312484139) KENNY
+{Body-A}{ThinkingA}You really think so? {SadA}I dunno, man. {ThinkingA}I've been thinking and, {SurprisedA}huh, {SadA}I just don't know.
+312484140) KENNY
+[grumpy] {Body-A}{SadB}I did what I had to, {AngryA}and you know it.
+312484141) KENNY
+[lead in: "well, we killed her dad." sort of coming to terms with those words by repeating them. yep. we did do THAT.] {Body-A}{ThinkingA}We did kill her dad.
+312484142) LEE
+{Body-B}{HappyA}Still sore?
+312484143) LEE
+{Body-B}{HappyA}Think we'll find anything? {ThinkingA}Ain't much left in there.
+312484144) KENNY
+{Body-A}{ThinkingA}We'll see. {NormalC}Station wagon stuff's not gonna last as long as we thought.
+312484145) KENNY
+{Body-A}{HappyA}You're right. {ThinkingA}We're lucky we found that station wagon, {DisgustA}despite you getting all high and mighty about it.
+312484146) 
+It doesn't matter. We must keep moving.
+312484147) 
+It's a girl, she's going to get us killed.
+312484148) 
+It's a girl, we have to help.
+312484161) KENNY
+You can't kill all of 'em!
+312484163) KENNY
+You're wasting bullets! JESUS!
+312484165) KENNY
+{DisgustA}"Split up." Hmmph.
+312484166) KENNY
+{DisgustA}"Split up." Hmmph.
+312484167) KENNY
+{Body-A}{ThinkingA}How?! {FearC}There's no gettin' to her.
+312484168) LEE
+{Body-B}{SadB}It's a girl. {FearC}We have to help her.
+312484169) KENNY
+[urgent but hiding] {AngryC}Think about it! {FearB}We're always worryin' about the ones we can't see -- {SurprisedA}she stays alive and brings them all out of their holes!
+312484170) LEE
+[urgent but hiding] {SurpriseB}What do you mean?
+312484171) LEE
+[urgent but hiding] {SurpriseC}Ken...[disbelief]
+312484172) LEE
+[urgent but hiding] {Body-B}{SurpriseB}It's a girl! {FearD}She's going to get us killed!
+312484173) KENNY
+[urgent but hiding] {ThinkingA}I mean, {DisgustA}we leave her alive and she draws them all to her, {FearB}buying us time.
+312484174) KENNY
+[urgent but hiding]  {Body-A}{FearC}No shi...{DisgustA}actually...
+312484175) KENNY
+[urgent but hiding--realizing] {Body-A}{DisgustA}They don't know we're here.
+312484176) LEE
+[pickup 2] [new read: Wrong emphasis - should be We gotta do SOMETHIN' not We gotta DO somethin'.] {DisgustA}We gotta do somethin'.
+312484177) LEE
+[urgent but hushed] {Body-B}{AngryB}Fuck, {AngryC}we gotta shoot her. {FearB}Put her out of this misery.
+312484179) KENNY
+This could be our last time back here -- we need all the time we can get!
+312484180) LEE
+[urgent, hushed] {Body-B}{FearC}It doesn't matter, {AngryB}we gotta keep moving. {DisgustB}Let's just leave her.
+312484181) KENNY
+[urgent, hushed] {Body-A}{AngryB}Let's think about this...
+312484182) KENNY
+[hushed, urgent] Leave her, Lee! Let's go!
+312484183) KENNY
+[hushed, urgent] COME ON, MAN!
+312484184) KENNY
+{Body-A}{AngryB}GO. NOW.
+312484185) KENNY
+[hushed angry] {AngryD}Now look what you done. {DisgustA}Let's MOVE.
+312484186) KENNY
+[hushed, angry]  {Body-A}{AngryC}God dammit.
+312484187) KENNY
+[hushed] {Body-A}{AngryB}Good, {ThinkingA}let's go -- {DisgustA}she'll keep 'em busy.
+312484188) KENNY
+Stop it, man! They're gonna see us!
+312484189) KENNY
+Knock it the fuck off!!
+312484195) KENNY
+[grumpy] {AngryA}When it comes to the gettin' the hell out of Macon. {DisgustA}I bet you're in the "let's stay put" camp, {AngryA}considerin' I been pushin' everyone to leave.
+312484196) LEE
+{Body-B}{ThinkingA}About what?
+312484197) KENNY
+[pickup 2] [new read: too fast, could be more thoughtful.]{Body-A}{SadB}Duck was asking about that guy at Hershel's farm last night.
+312484198) KENNY
+[pickup 2] [new read: too fast, could be more thoughtful.]{Body-A}{SadB}Duck was asking about that guy at Hershel's farm last night.
+312484319) KENNY
+[pickup 2] [new read: too fast, could be more thoughtful.]{Body-A}{SadB}Duck was asking about that guy at Hershel's farm last night.
+312484322) KENNY
+[pickup 2] [new read: too fast, could be more thoughtful.]{Body-A}{SadB}Duck was asking about that guy at Hershel's farm last night.
+312484199) KENNY
+Fuck, man! You're not hitting anything!
+312484200) KENNY
+Knock it off! Jesus, if you're gonna shoot at least fucking hit something!
+312484201) LEE
+[pickup2] {Body-B}{NormalB}Huh.{ThinkingA} Looks like it still works.
+312484202) LEE
+[pickup2] {Body-B}{ThinkingA}It's completely flat.
+312484289) LEE
+[pickup2] {Body-B}{ThinkingA}It's completely flat.
+312484291) LEE
+[pickup2] {Body-B}{ThinkingA}It's completely flat.
+312484203) LEE
+[pickup2][struggling vainly to move a stuck car] {Body-B}{AngryC}Urrghhhh. [exhausted exhale]
+312484293) LEE
+[pickup2][struggling vainly to move a stuck car] {Body-B}{AngryC}Urrghhhh. [exhausted exhale]
+312484204) LEE
+[pickup2] {Body-B}{ThinkingA}Hmm.
+312484205) 
+Look At
+312484207) 
+Look At
+312484209) 
+Look At
+312484226) 
+Look At
+312484227) 
+Look At
+312484228) 
+Look At
+312484229) 
+Look At
+312484258) 
+Look At
+312484280) 
+Look At
+312484290) 
+Look At
+312484206) 
+Push
+312484292) 
+Push
+312484208) 
+Grab
+312484214) 
+Grab
+312484210) 
+Use
+312484211) 
+Attach Winch
+312484212) 
+Climb On
+312484245) 
+Climb On
+312484295) 
+Climb On
+312484213) 
+Talk To
+312484215) 
+Climb
+312484216) 
+Jeep
+312484217) 
+Winch
+312484218) 
+Power Switch
+312484219) KENNY
+[pickup2] [hushed urgent]That's enough of that! You're just causing more trouble!
+312484220) KENNY
+[pickup2] [hushed urgent]'Nother one of those and we gotta move, jackass!
+312484221) KENNY
+[pickup2][working over a sore part of your body, your bullet wound] Mmph, man.
+312484222) KENNY
+[pickup2][working over a sore part of your body, your bullet wound] Mmph, man.
+312484223) LEE
+[pickup2][under his breath, urgent frustration] I know.
+312484224) KENNY
+[pickup2] [empathic, final explanation] Saving her is impossible.
+312484225) KENNY
+[pickup2] [empathic, final explanation] So we do the next best thing. Do NOT put her out of her misery, you understand?
+312484230) LEE
+[pickup2] {Body-B}{NormalC}So much for the military.
+312484231) LEE
+[pickup2] {Body-B}{ThinkingA}There's no safe way through that mess.
+312484233) 
+Helicopter
+312484234) 
+Debris Under Truck
+312484235) 
+Sign
+312484236) 
+Windows
+312484248) 
+Windows
+312484237) LEE
+[pickup2] {Body-B}{NormalD}Blocked by all the fallen concrete.
+312484238) LEE
+{ThinkingA}No good.
+312484294) LEE
+{ThinkingA}No good.
+312484241) 
+Attach
+312484247) LEE
+312483909
+312484249) 
+Wrecked Car
+312484267) LEE
+[pickup2] I have no idea what to do with these.
+312484281) LEE
+[pickup2] I have no idea what to do with these.
+312484268) LEE
+[pickup2]  That's one hell of a mess.
+312484282) LEE
+[pickup2]  That's one hell of a mess.
+312484269) LEE
+[pickup2] There's gotta be something useful in here....
+312484283) LEE
+[pickup2] There's gotta be something useful in here....
+312484270) LEE
+{thinkingB}I don't think it's anything.
+312484284) LEE
+{thinkingB}I don't think it's anything.
+312484271) LEE
+[pickup2] We've been here too long already.
+312484285) LEE
+[pickup2] We've been here too long already.
+312484272) 
+Barrel
+312484273) 
+Debris
+312484324) 
+Debris
+312484274) 
+Rubble
+312484275) 
+Grocery Cart
+312484279) 
+Tire
+312484325) 
+Winch Control
+312484326) 
+Trailer Axle
+312484328) LEE
+{ThinkingB}Hmm.
+312484329) LEE
+{thinkingA}Hmm.
+312484330) 
+Ladder

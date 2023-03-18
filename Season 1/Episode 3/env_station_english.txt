@@ -1,0 +1,396 @@
+312681599) CLEMENTINE
+Sorry.
+312681600) LEE
+{normalc}{body-B}You should wait for me before trying to open doors.
+312681601) LEE
+{thinkinga}Luckily it's locked. {happya}We'll get better at working together.
+312681602) CLEMENTINE
+Maybe I could look in?
+312681603) LEE
+{thinkinga}{body-b}The window's open up there.
+312681604) CLEMENTINE
+Sounds good.
+312681605) LEE
+{happya}{body-b}Why don't I put you on my shoulders and you can peek into that window up there.
+312681606) LEE
+{normalb}{body-b}We'll have to find a way in.
+312681607) 
+What do you see?
+312681608) 
+Getting this door open is going to be tough.
+312681609) 
+Jump in if you can.
+312681610) LEE
+{sada}{body-B}What do you see?
+312681611) CLEMENTINE
+Lots of crates and stuff.
+312681612) CLEMENTINE
+I think I opened it.
+312681613) LEE
+{surpriseb}{body-B}For real?
+312681614) CLEMENTINE
+I think so.
+312681615) LEE
+{happyc}Well I'll be damned.
+312681616) CLEMENTINE
+Let's go. Be careful.
+312681617) LEE
+{happyb}{body-B}I'm supposed to tell you that.
+312681618) LEE
+{thinkinga}Maybe we can find the key or figure out a way to knock this door down. {normalb}Kenny'd probably have me pick the lock, {thinkinga}which actually might work now that we have the time... {thinkingb}Hmm....
+312681621) LEE
+{thinkinga}Maybe we can find the key or figure out a way to knock this door down. {normalb}Kenny'd probably have me pick the lock, {thinkinga}which actually might work now that we have the time... {thinkingb}Hmm....
+312681619) LEE
+{angrya}{body-B}Getting this door open is going to be tough.
+312681620) CLEMENTINE
+It might not be that hard.
+312681622) LEE
+{normala}{body-B}Jump in if you can.
+312681623) CLEMENTINE
+What about staying together?
+312681624) LEE
+{angrya}If there aren't any walkers in there, {happya}you'll be fine.
+312681625) CLEMENTINE
+It's too far to fall.
+312681626) LEE
+{normald}Well, what do you think we should do?
+312681627) CLEMENTINE
+Grr... fine. Can you get me closer, please?
+312681628) CLEMENTINE
+Okay, I can see in, what do I do now?
+312681629) CLEMENTINE
+Maybe I can hold the door open?
+312681630) LEE
+{angryb}I don't like that. {normalb}I'll prop it open with something.
+312681631) LEE
+{angrya}Goddamn it's dark in here.
+312681632) CLEMENTINE
+It's way too dark.
+312681633) LEE
+{angrya}{body-B}Yeah, you're right.
+312681634) LEE
+{sadb}I don't like it when I only have our gun to protect us.
+312681709) LEE
+{sadb}I don't like it when I only have our gun to protect us.
+312681712) LEE
+{sadb}I don't like it when I only have our gun to protect us.
+312681635) CLEMENTINE
+The noise, right?
+312681710) CLEMENTINE
+The noise, right?
+312681714) CLEMENTINE
+The noise, right?
+312681636) LEE
+{happya}Exactly.
+312681711) LEE
+{happya}Exactly.
+312681713) LEE
+{happya}Exactly.
+312681638) LEE
+{angryc}{body-b}[shoulder shove into door]
+312681677) LEE
+{sadc}{body-b}[recovering]
+312681639) LEE
+{sada}Yeah, won't budge.
+312681640) LEE
+{thinkinga}{body-b}I can't see in there.
+312681641) LEE
+{happyb}{body-b}How we doin'?
+312681642) CLEMENTINE
+Good. What do we need?
+312681643) LEE
+{normalb}Something to help us deal with the tanker out there.
+312681644) LEE
+{sada}{body-b}You okay going over the top of this fence?
+312681645) CLEMENTINE
+Yeah, definitely.
+312681646) LEE
+{normalb}{body-b}The keys are on the opposite wall. {angrya}Grab them and get this gate open.
+312681647) LEE
+{thinkinga}{body-b}It's locked up good, {normalc}but there's some space at the top.
+312681648) CLEMENTINE
+We're lucky I'm so little.
+312681649) LEE
+{happyb}Yeah, we are.
+312681650) LEE
+{angryb}{body-b}Goddammit, it's locked!
+312681651) LEE
+{angrya}{body-b}Locked up good.
+312681652) LEE
+{angryc}{body-b}Fuck, it's still locked!
+312681654) LEE
+{angrya}That's exactly {happya}what we need.
+312681655) CLEMENTINE
+Over there?
+312681656) LEE
+{normalb}Yeah. We need to get in there and get that blowtorch.
+312681657) LEE
+[phew]  {happyb}{body-b}We got it.
+312681658) CLEMENTINE
+Let's go outside now.
+312681659) LEE
+{normalb}What did we learn?
+312681660) CLEMENTINE
+I'm not ready for a gun.
+312681661) LEE
+{angrya}No, Clem. We learned that everything we will ever do is dangerous. {normalc}We'll get better, smarter and faster. {happya}Okay?
+312681662) CLEMENTINE
+Okay.
+312681663) LEE
+{normalb}{body-b}There are keys over there.
+312681664) CLEMENTINE
+For the gate?
+312681665) LEE
+{sada}I hope so.
+312681666) LEE
+{angrya}{body-b}Can't reach 'em from here.
+312681667) LEE
+{sada}{body-b}Wish that thing was in my hands instead of over there.
+312681668) CLEMENTINE
+It's too dark otherwise.
+312681669) LEE
+{happyb}{body-b}Go on and grab the keys, Clem.
+312681670) LEE
+{normalb}Come on, scoot.
+312681671) CLEMENTINE
+{fearb}{body-stand}Behind you!
+312681672) LEE
+{surpriseB}Fuck!
+312681673) LEE
+{angryC}[UGH!]
+312681756) CHRISTA
+{angryb}[frustrated exhale, short, upon exit]
+312681674) LEE
+{sada}{body-b}It's okay...it's okay... everything's fine.
+312681675) LEE
+{angryC}KEYS! NOW!
+312681676) LEE
+{angryd}SHIIIT!
+312681678) LEE
+{angryb}God...damn...
+312681679) CLEMENTINE
+That didn't go so good.
+312681680) LEE
+{sada}No, it did {surpriseb}not go so good. {normalb}But we're okay. {happya}Everything's okay.
+312681681) 
+Talk To
+312681684) 
+Talk To
+312681682) 
+Grab
+312681683) 
+Boost
+312681685) 
+Boost
+312681686) 
+Pick Up
+312681721) 
+Pick Up
+312681724) 
+Pick Up
+312681726) 
+Pick Up
+312681687) 
+Look At
+312681701) 
+Look At
+312681702) 
+Look At
+312681715) 
+Look At
+312681722) 
+Look At
+312681723) 
+Look At
+312681725) 
+Look At
+312681689) 
+Door
+312681690) 
+Shoot
+312681692) 
+Punch
+312681766) 
+Punch
+312681693) 
+Hit
+312681694) 
+Hit
+312681695) 
+Hit
+312681696) 
+Hit
+312681697) 
+Hit
+312681698) 
+Hit
+312681699) CLEMENTINE
+[Pickup2]It's too dark in there.
+312681700) LEE
+[Pickup2]Yeah, we should prop the door open with something.
+312681703) 
+Open
+312681705) 
+Open
+312681717) 
+Open
+312681704) 
+Shove
+312681706) 
+Prop
+312681707) 
+Prop
+312681708) 
+Prop
+312681718) 
+Unlock
+312681720) 
+Take
+312681727) CHRISTA
+[through a door] {angrya}What's going on? I thought I heard a gunshot.
+312681728) LEE
+[pickup2] [unnerved] We're fine.
+312681729) LEE
+[pickup2] [not sure what to say] We found some walkers.
+312681730) CHRISTA
+{thinkinga}You and an eight year old versus three of them, huh?
+312681731) 
+We handled it.
+312681740) LEE
+[pickup2] We handled it.
+312681732) 
+Mind your own business.
+312681733) 
+It was stupid.
+312681737) LEE
+[pickup2] It was stupid.
+312681734) LEE
+[pickup2] Mind your own business. If we wanted you to help out we would've asked.
+312681735) CHRISTA
+{angrya}If you two were to die in here, three dead turns to five and THAT'S my business.
+312681736) LEE
+[pickup2] Good thing it didn't happen, then.
+312681738) CHRISTA
+{normalb}You think? [sarc but stern]
+312681739) LEE
+[pickup2] What do you want me to say? I'm trying to teach her how to take care of herself. We're getting used to working together.
+312681741) CHRISTA
+{normalb}Yeah, it looks like. {angrya}What if you hadn't?
+312681742) CHRISTA
+{thinkinga}....Looks like it worked out for you. {normalb}Probably ought to be a little more careful when using a gun. Noise and all.
+312681743) CLEMENTINE
+[pickup2] We know.
+312681744) CHRISTA
+{normalb}I'm going to go make sure the noise didn't cause us any problems.
+312681745) CLEMENTINE
+[pickup2] That's a good idea.
+312681746) CHRISTA
+{angryA}I hope you know what you're doing with her.
+312681747) 
+We're still alive, aren't we?
+312681750) LEE
+[pickup2]We're still alive, aren't we?
+312681748) 
+Me too.
+312681752) LEE
+[pickup2]Me too.
+312681749) 
+I don't.
+312681754) LEE
+[pickup2]I don't.
+312681751) CHRISTA
+{normala}Yes, you are.
+312681753) CHRISTA
+{sada}For her sake.
+312681755) CHRISTA
+{thinkinga}Then she's more impressive than I thought.
+312681757) 
+Window
+312681758) 
+Cage Door
+312681759) 
+Blowtorch
+312681760) 
+Key
+312681761) 
+Monkey Wrench
+312681762) 
+Spanner
+312681763) 
+Spike Remover
+312681767) 
+We learned everything is dangerous.
+312681768) 
+You have to learn to pull the trigger.
+312681769) 
+We learned not to be afraid.
+312681770) CLEMENTINE
+[pickup2] I'll try.
+312681771) LEE
+[pickup2] No, you just have to learn to pull the trigger.
+312681772) CLEMENTINE
+[pickup2] It's so hard.
+312681773) LEE
+[pickup2] Don't think, just do it. Live with what happens.
+312681774) LEE
+[pickup2] We learned not to be afraid. They shoulda got us, but we got them.
+312681775) CLEMENTINE
+[pickup2] Yeah, you're right.
+312681776) LEE
+[pickup2] Fear is the thing that will kill us, you understand?
+312681777) LEE
+[pickup2] Me, neither.
+312681778) CLEMENTINE
+[pickup2] I'm sorry. I'll get better. I don't want us to die.
+312681779) LEE
+[pickup2] [to Clem] Ready to go?
+312681780) CLEMENTINE
+[pickup2] Uh huh.
+312681783) LEE
+[pickup2] [to Clem, concerned]You sure you're okay?
+312681784) CLEMENTINE
+[pickup2] Yeah. I'm a little shaky.
+312681785) LEE
+[pickup2][to Clem] It'll pass.
+312681786) LEE
+{fearA}You okay?
+312681787) LEE
+[pickup2] Somebody was doing some painting.
+312681788) LEE
+[pickup2] Somebody was doing A LOT of painting...
+312681789) LEE
+[pickup2] That paint has been dry for months.
+312681792) LEE
+[pickup2] Doesn't look like that thing's worked for years.
+312681793) LEE
+[pickup2] There's gotta be something useful in here....
+312681794) LEE
+[pickup2] They didn't have much business back then.
+312681795) LEE
+[pickup2] Somebody must have been pretty desperate....
+312681796) LEE
+[pickup2] There's some space up there, but not much.
+312681797) 
+Forklift
+312681798) 
+Paint Cans
+312681799) 
+Survivors Sign
+312681800) 
+Gap
+312681801) 
+Sign
+312681805) 
+Sign
+312681806) 
+Sign
+312681807) 
+Sign
+312681808) 
+Sign
+312681802) 
+Empty Shelf
+312681803) 
+Overpass
+312681804) LEE
+{thinkingA}Hmm.

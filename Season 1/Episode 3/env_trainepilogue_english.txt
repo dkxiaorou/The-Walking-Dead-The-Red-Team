@@ -1,0 +1,90 @@
+312705025) KENNY
+[flat] {normalC} Next stop, the Atlantic.
+312705029) LEE
+{thinkingA} We have to find a boat. {normalD} We just have to.
+312705030) KENNY
+{sadA} We will.
+312705031) LEE
+{thinkingA} I just think it's time she and I parted ways with you. {normalD} Omid and Christa can make their own call.
+312705032) LEE
+{sadA} I'm sorry, we made a plan. {thinkingA} We talked it through.
+312705033) LEE
+{disgustA} We're going our own way, {normalC} Clementine and me.
+312705034) KENNY
+{disgustA} What the fuck does that mean?
+312705035) KENNY
+{angryA} Hmmph.
+312705036) KENNY
+That's not the plan.
+312705037) KENNY
+I thought they were dead.
+312705038) LEE
+[pickup 2] [new read: Odd pause after 'parents' and before 'get there.'] {normalD} We're finding Clementine's parents when we get there.
+312705039) LEE
+{disgustA} Well, it's ours. {normalC} She and I talked it through.
+312705040) LEE
+{thinkingA} Looking for them, then.
+312705041) 
+You'll never get over today.
+312705047) LEE
+{sadA} You'll never get over today.
+312705042) 
+You'll be all right.
+312705049) LEE
+{thinkingA} You'll be all right.
+312705043) 
+It's just gotten too bad.
+312705044) KENNY
+{sadA} That's why I keep thinking it.
+312705045) KENNY
+{sadC} That's all I keep thinking.
+312705046) LEE
+{thinkingA} Try to think about what's ahead of you.
+312705048) KENNY
+{sadA} I'll be alive, I guess. {sadC} Blood in my heart, blood in my brain at least.
+312705055) KENNY
+{sadA} I'll be alive, I guess. {sadC} Blood in my heart, blood in my brain at least.
+312705050) LEE
+{normalD} It's gotten too bad, you know? {sadA} You, me, {thinkingB} nobody can take all this.
+312705051) KENNY
+[big sigh] {sadB} Me, too.
+312705052) KENNY
+{sadC} But we have.
+312705053) LEE
+{sadA} What we're supposed to do isn't clear anymore. {disgustA} I'd give anything to go back to fighting over the motel.
+312705054) KENNY
+{sadC} Yeah. There ain't much to say.
+312705056) LEE
+{surpriseB} Holy shit...
+312705057) CAMPMAN
+[radio processed] Hell...o...oo...there?...
+312705058) CAMPMAN
+[radio processed] Can't wait for you to get to Savannah, Clementine. I told your parents what you're doing and they can't wait to see you. Now, what I nee--[radio cuts out]
+312705059) LEE
+{thinkingA} She's out cold like I never seen.
+312705060) LEE
+{disgustB} What the...?
+312705061) LEE
+{normalD} I'll leave you to your thoughts.
+312705062) KENNY
+[heavy] {disgustA} Ya'll might want to rethink your plan.
+312705063) LEE
+{fearA} Who the fuck...
+312705064) KENNY
+{thinkingA} I don't know, {angryA} but we're going to find out.
+312705065) KENNY
+{disgustA} Sounds like somebody knows where we're headed.
+312705066) KENNY
+[pickup2] I thought that fucking thing was broken...
+312705067) LEE
+[pickup2] So did I.
+312705068) KENNY
+[pickup2] [alt] Well, it sounds like somebody knows where we're headed.
+312705069) KENNY
+[pickup2] I don't know. But I doubt we're going to be happy when we find out.
+312705070) CAMPMAN
+[pickup2][radioprocessed] Can't wait for you to get to Savannah, Clementine. I've got your parents right here, and you be sure to find me whether Lee wants you to or not. Now, what I need-- [radio cuts out]
+312705072) CAMPMAN
+[pickup2] Can't wait for you to get to Savannah. I know you said Lee wants to help, but your parents want you to come alone, Clementine. I need you to--
+312705073) LEE
+[pickup2] Who the fuck was that... if he's convinced Clementine that he has her parents...

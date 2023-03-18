@@ -1,0 +1,344 @@
+312497031) DUCK
+{thinkingA}[to himself] A mystery...!
+312497032) LEE
+{angryB}Jesus, Duck!
+312497033) DUCK
+{sadA}I'm sorry, {normalA}I heard you guys talking.
+312497034) LEE
+{angryA}You need to un-hear all of that.
+312497035) DUCK
+{happyC}Can I help?
+312497036) LEE
+{angryb}What did I just say?
+312497037) DUCK
+{happyC}You're the greatest detective and I can be Dick Grayson! Your ward!
+312497038) DUCK
+{happya}That's Robin.
+312497039) LEE
+{angryb}[annoyed] I know who it is.
+312497040) 
+You can help. Don't tell anyone.
+312497041) 
+No. If you tell anybody, there will be trouble.
+312497042) 
+Fine, you're Robin.
+312497043) DUCK
+{happya}Secrecy!
+312497050) DUCK
+{happya}Secrecy!
+312497044) LEE
+{NormalC} You can help. {angryA}Don't tell anybody.
+312497045) LEE
+{normalC}Yeah. Good.
+312497046) DUCK
+{fearA}[small] What do I do?
+312497057) DUCK
+{fearA}[small] What do I do?
+312497047) LEE
+{thinkingA}I don't know. {normalC}Go look around. Let me know if you find anything {disgustA}weird.
+312497058) LEE
+{thinkingA}I don't know. {normalC}Go look around. Let me know if you find anything {disgustA}weird.
+312497048) DUCK
+{happyA}I'm on the case!
+312497059) DUCK
+{happyA}I'm on the case!
+312497049) LEE
+{angryA}You can't help. {thinkingA}And if you tell anybody, {normalC}it will be trouble.
+312497051) DUCK
+{thinkingA}I will live in the shadows!
+312497060) DUCK
+{thinkingA}I will live in the shadows!
+312497052) LEE
+{angryB}Did you hear what I just said?
+312497053) DUCK
+I won't tell a soul.
+312497054) LEE
+{angryb}The part about not helping. {angryC}You can't help.
+312497055) DUCK
+{happyB}Yes!
+312497056) LEE
+{ThinkingB}Okay, you're Robin.
+312497061) LEE
+{thinkingA} There's some broken glass on the ground there.
+312497062) LEE
+{thinkingA}Hmm.
+312497063) LEE
+{thinkingB}There's something drawn there...
+312497064) DUCK
+{happyA}A clue!
+312497065) LEE
+{angryA}[frustrated] Maybe.
+312497066) DUCK
+{normalA}What do you think it is?
+312497067) LEE
+{thinkingA}Huh. Chalk.
+312497068) DUCK
+{thinkingA}[whispering] Pink. Hmm.
+312497069) LEE
+{angryB}[surprised]Duck!
+312497070) LEE
+{angryC}I thought I told you couldn't help.
+312497071) DUCK
+{sadA}I'm curious.
+312497072) LEE
+{thinkingB}You don't say.
+312497073) LEE
+{thinkingB}I don't think it's anything.
+312497074) DUCK
+{happyb}Maybe it's a sign!
+312497075) LEE
+{normalB}It could be. {thinkingA}It's pink chalk, which is {thinkingb}weird.
+312497076) DUCK
+{thinkingA}Okay, {happyA}back to investigating!
+312497077) LEE
+{thinkingA}More chalk...
+312497078) LEE
+{normalC}Somebody was over here too.
+312497079) LEE
+{normalA}Yeah, Duck, you did.
+312497080) DUCK
+{happya}See, I did good, huh.
+312497081) DUCK
+{normalA}Okay.
+312497082) LEE
+{thinkingA}I suppose I should go out there and look around.
+312497083) LEE
+{normalA}You stay here this time. {normalC}Seriously.
+312497084) LEE
+{normalB}Not gonna shoot that.
+312497085) LEE
+{thinkingA}Huh. There's {fearA}something in there... [worried]
+312497086) LEE
+{normalB}There's a grate down there.
+312497087) LEE
+{thinkingB}[tiny effort] Hmmph.
+312497088) LEE
+{normalB}It's a bag of something.
+312497089) LEE
+{fearA}[disbelief, quiet] Son of a bitch...
+312497090) LEE
+{thinkingA}Sounds like Kenny actually has that thing running. {HappyA}I'll believe it when I see it.
+312497091) LEE
+{normalA} It's Lilly's room.
+312497092) LEE
+{normalB}I don't need to go in there.
+312497093) LEE
+{normalB}It's locked up.
+312497097) DUCK
+{happyA}I found something.
+312497098) LEE
+{thinkingA}What is it?
+312497099) LEE
+{thinkingA}Yeah, Duck, I got it. {normalA}Good job.
+312497100) DUCK
+{happyc}Cool!
+312497101) DUCK
+{happyb}I found this piece of pink chalk and a scuff of it over by the gate!
+312497102) LEE
+{normalA}Really?
+312497103) DUCK
+{happyc}Totally!
+312497104) DUCK
+{normalA}Psst, Lee.
+312497105) DUCK
+{happya}I was combing the scene for clues and--
+312497106) KATJAA
+{sadA}Would you?
+312497136) KATJAA
+{sadA}Would you?
+312497107) KENNY
+{normalC}I'd do what it takes.
+312497138) KENNY
+{normalC}I'd do what it takes.
+312497108) KENNY
+{sadA}She's gonna have to let this go...
+312497137) KENNY
+{sadA}She's gonna have to let this go...
+312497109) LEE
+{normalB}Yep. {thinkingA} I've just been calling 'em "days" lately.
+312497141) LEE
+{normalB}Yep. {thinkingA} I've just been calling 'em "days" lately.
+312497110) DOUG
+And now if she's paranoid? That's a bad mix.
+312497139) DOUG
+And now if she's paranoid? That's a bad mix.
+312497111) DOUG
+I don't know what it is but it's probably worth talking to Lilly about things going missing. Ever since her dad died she's been a live wire.
+312497142) DOUG
+I don't know what it is but it's probably worth talking to Lilly about things going missing. Ever since her dad died she's been a live wire.
+312497112) DOUG
+Uh, rough day, I guess.
+312497140) DOUG
+Uh, rough day, I guess.
+312497113) LEE
+{normalD}No question.
+312497148) LEE
+{normalD}No question.
+312497114) LEE
+{sadA}You could say that.
+312497143) LEE
+{sadA}You could say that.
+312497115) CARLEY
+Well, I think you did good today. And I find myself thinking that most days.
+312497150) CARLEY
+Well, I think you did good today. And I find myself thinking that most days.
+312497116) CARLEY
+It's probably worth following up with Lilly about what she was saying about missing supplies.
+312497145) CARLEY
+It's probably worth following up with Lilly about what she was saying about missing supplies.
+312497117) CARLEY
+With her wound up the way she is, I don't want to see her paranoid.
+312497147) CARLEY
+With her wound up the way she is, I don't want to see her paranoid.
+312497118) LEE
+{normalA}Thanks.
+312497149) LEE
+{normalA}Thanks.
+312497119) CARLEY
+Oof. Things are coming to a head.
+312497144) CARLEY
+Oof. Things are coming to a head.
+312497120) CARLEY
+And I'd like to talk, when you've got a minute.
+312497146) CARLEY
+And I'd like to talk, when you've got a minute.
+312497121) 
+She'll get over it.
+312497123) LEE
+{normalC}She'll get over it.
+312497151) 
+She'll get over it.
+312497152) LEE
+{normalC}She'll get over it.
+312497122) KATJAA
+{normalB}You understand, Ken.
+312497153) KATJAA
+{normalB}You understand, Ken.
+312497124) KENNY
+{angryA}She's riling everybody up, otherwise.
+312497154) KENNY
+{angryA}She's riling everybody up, otherwise.
+312497125) 
+She's right.
+312497155) 
+She's right.
+312497126) LEE
+{angryA}She's right, you know. {normalC}Shit's just getting worse by the day.
+312497158) LEE
+{angryA}She's right, you know. {normalC}Shit's just getting worse by the day.
+312497127) KENNY
+{angryA}Whatever, Lee. You've picked your sides.
+312497156) KENNY
+{angryA}Whatever, Lee. You've picked your sides.
+312497128) KATJAA
+{sadA}Ken, that's not fair.
+312497157) KATJAA
+{sadA}Ken, that's not fair.
+312497129) 
+Happy, Kenny?
+312497130) LEE
+{AngryA} Happy, Kenny?
+312497159) 
+Happy, Kenny?
+312497160) LEE
+{AngryA} Happy, Kenny?
+312497131) KATJAA
+{sadA}Everyone is under great stress.
+312497161) KATJAA
+{sadA}Everyone is under great stress.
+312497132) KENNY
+{normalC}My family's alive and that RV is runnin.' You're goddamn right I am.
+312497162) KENNY
+{normalC}My family's alive and that RV is runnin.' You're goddamn right I am.
+312497133) 
+silence
+312497163) 
+silence
+312497134) KENNY
+{angryb}All I know is whenever this shit happens I'm the fucking bad guy. {angryA}I'd like a thank you for once. {angryB}FOR ONCE.
+312497135) KENNY
+{sadA}She's right about one thing. None of this is gettin' any easier.
+312497172) 
+Look At
+312497174) 
+Look At
+312497177) 
+Look At
+312497179) 
+Look At
+312497180) 
+Look At
+312497183) 
+Look At
+312497191) 
+Look At
+312497214) 
+Look At
+312497215) 
+Look At
+312497216) 
+Look At
+312497173) 
+Inspect
+312497175) 
+Inspect
+312497181) 
+Inspect
+312497176) 
+Open
+312497178) 
+Open
+312497185) 
+Open
+312497190) 
+Climb
+312497192) 
+Pick Up
+312497193) 
+Lilly's Door
+312497194) 
+Chalk Scuff
+312497195) 
+Chalk X
+312497196) 
+Broken Glass
+312497197) 
+Gate
+312497198) 
+Grate
+312497199) 
+Inventory
+312497200) 
+RV
+312497201) 
+Bag
+312497202) 
+Stairs
+312497203) 
+High Five
+312497204) LEE
+[pickup2] It's the chalk mark Duck found.
+312497205) LEE
+[pickup2] Hmm. Definitely weird.
+312497206) LEE
+[pickup2] Someone was probably just clumsy.
+312497207) LEE
+[pickup2] It can't just be a coincidence.
+312497208) KENNY
+[pickup2] [alt] Hey, man -- she's not helping, is she?
+312497209) KATJAA
+[pickup2][alt] Now, Kenny, she's been through so much.
+312497210) LEE
+[pickup2] Duck's favorite[game].
+312497211) LEE
+[pickup2] We've been here too long already.
+312497212) LEE
+[pickup2] Still the safest place for us.
+312497213) LEE
+[pickup2] Those bandits gave us hell, but they've been quiet for days now.
+312497217) 
+Hopscotch Course
+312497218) 
+Fence
+312497219) 
+Motel Sign

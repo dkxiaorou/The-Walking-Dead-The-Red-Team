@@ -1,0 +1,126 @@
+312492069) KENNY
+[urgent, on the move, not too loud] We're still clear, let's hustle.
+312492074) BEATRICE
+HEL---
+312492105) BEATRICE
+HEL---
+312492075) KENNY
+{sadB} She's gone. There's not much time now.
+312492106) KENNY
+{sadB} She's gone. There's not much time now.
+312492076) KENNY
+{fearC}Fuck! Incoming! {angryA}Come on, Lee!
+312492090) KENNY
+{disgustA}It's sturdy as hell but we ain't got much time.
+312492091) KENNY
+{disgustA}We should be good to clear this place out, {fearB}but we ain't got all day.
+312492092) KENNY
+[urgent] {angryA}Get everything you can out of these racks.
+312492148) KENNY
+[urgent] {angryA}Get everything you can out of these racks.
+312492153) KENNY
+[urgent] {angryA}Get everything you can out of these racks.
+312492093) KENNY
+[urgent] {angryA}Don't forget underneath the counter this time!
+312492149) KENNY
+[urgent] {angryA}Don't forget underneath the counter this time!
+312492154) KENNY
+[urgent] {angryA}Don't forget underneath the counter this time!
+312492094) KENNY
+[urgent] {disgustA}I'll clear down here {angryB}and then we gotta go!
+312492150) KENNY
+[urgent] {disgustA}I'll clear down here {angryB}and then we gotta go!
+312492155) KENNY
+[urgent] {disgustA}I'll clear down here {angryB}and then we gotta go!
+312492095) KENNY
+[urgent] {angryA}We ain't got time to talk!
+312492096) KENNY
+[urgent] {angryA}Come on, get that shit!
+312492097) LEE
+[pickup 2] [new read: - Too shoutey - kenny's reaction to his voice does not match that lee has just screamed KENNY.][urgent] {angryC}Kenny!
+312492098) KENNY
+[urgent] {angryA}WHAT? [like, what do you want?] {angryC}Let's just do this!
+312492099) KENNY
+[urgent] {angryC}Just get it done!
+312492100) BEATRICE
+[screaming, fighting for her life, horrified, zombies grabbing at her, biting at her, gonna record a few of these with the same description for an idle.]
+312492101) BEATRICE
+[screaming, fighting for her life, horrified, zombies grabbing at her, biting at her, gonna record a few of these with the same description for an idle.]
+312492102) BEATRICE
+[screaming, fighting for her life, horrified, zombies grabbing at her, biting at her, gonna record a few of these with the same description for an idle.]
+312492103) BEATRICE
+[screaming, fighting for her life, horrified, zombies grabbing at her, biting at her, gonna record a few of these with the same description for an idle.]
+312492104) BEATRICE
+[screaming, fighting for her life, horrified, zombies grabbing at her, biting at her, gonna record a few of these with the same description for an idle.]
+312492113) LEE
+[grabbed and bitten by zombies]
+312492114) LEE
+[idle where Lee struggles to push a door off of him -- he is trapped under a pile of zombies]
+312492126) LEE
+[exhale, just saved your own life]{fearC}
+312492107) LEE
+[pickup 2] [new read:- Kenny is shouting, Lee is whispering. There should be consistencey here. Whisper or shout?] [urgent] {FearA}I think that's everything!
+312492108) KENNY
+[pickup 2] [new read:- Kenny is shouting, Lee is whispering. There should be consistencey here. Whisper or shout?][urgent] {sadA}That girl didn't die for nothin' then.
+312492109) KENNY
+[pickup 2] [new read:- Kenny is shouting, Lee is whispering. There should be consistencey here. Whisper or shout?][urgent] {fearA}Up and over!
+312492141) KENNY
+[pickup 2] [new read:- Kenny is shouting, Lee is whispering. There should be consistencey here. Whisper or shout?][urgent] {fearA}Up and over!
+312492110) LEE
+[a bunch of zombies fallign on you] {fearD}UGH!
+312492111) LEE
+[trapped]{fearC} Kenny! HELP!
+312492115) LEE
+[escaping out from underneath a deadly pile of zombies] {fearC}AH!
+312492123) LEE
+[smashing a zombie in the face with a bat]{angryC}AH!
+312492124) LEE
+[mashing a zombie in the face with a bat 2] {angryC}AH!
+312492125) LEE
+[mashing a zombie in the face with a bat 3] AH!
+312492143) LEE
+[escaping out from underneath a deadly pile of zombies] {fearC}AH!
+312492117) LEE
+[pulling down a heavy bookshelf onto a pile of zombies] {angryC}AHH!
+312492121) KENNY
+[killing zombies]  {angryC}AHH!
+312492118) KENNY
+[urgent] {angryB} Out! Let's fucking get out!
+312492119) KENNY
+[killing zombies] {angryC}HURAH!
+312492120) KENNY
+[killing zombies] {angryC}GOT 'EM.
+312492122) LEE
+[grabbed by zombie] {fearD}G-AH!
+312492127) KENNY
+{angryB}LET'S GO!!!
+312492128) KENNY
+{thinkingA}Let's go, pal.
+312492129) KENNY
+{angryB}They're everywhere; you took care of yourself, didn't you?
+312492130) LEE
+{angryC}The fuck was that?
+312492134) 
+Smash
+312492135) 
+Medicine Bottle
+312492136) 
+Medicine Box
+312492137) 
+Energy Bar
+312492138) 
+Counter
+312492140) 
+Shelf
+312492144) KENNY
+[pickup2] FRIDGE!
+312492145) KENNY
+[pickup2] FRIDGE!
+312492152) 
+Fridge
+312492146) 
+Jump Over
+312492147) 
+Tip Over
+312492151) 
+Supplies

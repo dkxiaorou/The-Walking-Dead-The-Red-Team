@@ -1,0 +1,360 @@
+312774657) 
+Your backpack is empty.
+312774658) 
+Your backpack has a few supplies.
+312774659) 
+Your backpack has lots of supplies.
+312774660) 
+Your backpack is stuffed with supplies.
+312774661) 
+Kenny will remember that.
+312774662) 
+Kenny will remember that.
+312774679) 
+Kenny will remember that.
+312774690) 
+Kenny will remember that.
+312774761) 
+Kenny will remember that.
+312774823) 
+Kenny will remember that.
+312774824) 
+Kenny will remember that.
+312774825) 
+Kenny will remember that.
+312774826) 
+Kenny will remember that.
+312774827) 
+Kenny will remember that.
+312774831) 
+Kenny will remember that.
+312774836) 
+Kenny will remember that.
+312774663) 
+Kenny does not agree with you on this.
+312774664) 
+You have collected 1 item.
+312774665) 
+You have collected 2 items.
+312774666) 
+You have collected 3 items.
+312774667) 
+You have collected 4 items.
+312774668) 
+You have collected 5 items.
+312774669) 
+You have collected 6 items.
+312774670) 
+You have collected 9 items.
+312774671) 
+You have collected 7 items.
+312774672) 
+You have collected 8 items.
+312774673) 
+You have collected 10 items.
+312774674) 
+You have collected 11 items.
+312774675) 
+You have collected 12 items.
+312774676) 
+You have collected 13 items.
+312774677) 
+You have collected 14 items.
+312774678) 
+You have collected 15 items.
+312774680) 
+Kenny noticed your interest.
+312774681) 
+Kenny didn't appreciate that.
+312774682) 
+Kenny didn't appreciate that.
+312774683) 
+Kenny noticed your indifference.
+312774684) 
+You chose to shoot the girl.
+312774685) 
+You chose to leave the girl.
+312774686) 
+You weren't able to save the girl.
+312774687) 
+Kenny noticed that you changed your mind.
+312774688) 
+Lilly will remember that you want to leave.
+312774689) 
+You told Lilly you want to stay.
+312774691) 
+Kenny heard that you want to stay put.
+312774692) 
+Duck will help.
+312774693) 
+Duck heard that you didn't want his help.
+312774694) 
+Carley will remember that.
+312774708) 
+Carley will remember that.
+312774771) 
+Carley will remember that.
+312774695) 
+Carley is not pleased with your decision.
+312774696) 
+Kenny appreciates your honesty.
+312774697) 
+You kept your past hidden from Kenny.
+312774698) 
+Katjaa will remember that.
+312774699) 
+You didn't tell Katjaa about your past.
+312774700) 
+Clementine understands what you did.
+312774701) 
+You chose to keep your past from Clementine.
+312774702) 
+Ben won't forget that.
+312774707) 
+Ben won't forget that.
+312774722) 
+Ben won't forget that.
+312774832) 
+Ben won't forget that.
+312774703) 
+You didn't reveal your past to Ben.
+312774704) 
+Lilly won't forget that.
+312774828) 
+Lilly won't forget that.
+312774830) 
+Lilly won't forget that.
+312774705) 
+You didn't tell Lilly about your past.
+312774706) 
+You don't want Duck's help, but he isn't really listening.
+312774709) 
+Ben was hurt by your accusation.
+312774710) 
+Carley won't forget that.
+312774711) 
+You made Lilly stay behind.
+312774712) 
+You let Lilly back on the RV.
+312774713) 
+Katjaa is thankful for your help.
+312774714) 
+Katjaa appreciates your concern.
+312774715) 
+You told Lilly you'd go with her.
+312774716) 
+You told Lilly you wouldn't leave the group.
+312774717) 
+You told him the truth.
+312774768) 
+You told him the truth.
+312774718) 
+You lied to Chuck.
+312774719) 
+You avoided Chuck's question.
+312774720) 
+Chuck noticed your interest in his story.
+312774721) 
+Clementine noticed how you feel about Lilly.
+312774723) 
+You knocked some sense into Kenny.
+312774725) 
+You knocked some sense into Kenny.
+312774724) 
+You were able to talk some sense to your friend.
+312774726) 
+You talked Kenny into stopping the train.
+312774727) 
+Katjaa agrees with your suggestion.
+312774728) 
+Kenny agrees.
+312774729) 
+Kenny and Katjaa appreciate your kindness.
+312774730) 
+Clementine will remember your honesty.
+312774731) 
+You chose to tell her nothing.
+312774732) 
+You decided to let the father finish it.
+312774733) 
+You chose to do it yourself.
+312774734) 
+You chose to let Kenny shoot Duck.
+312774735) 
+Chuck doesn't like that.
+312774736) 
+You came down hard and threatened Ben
+312774737) 
+Ben feels how disappointed you are.
+312774738) 
+You threatened Ben.
+312774739) 
+You shared a drink with Chuck.
+312774740) 
+You decided not to share a drink with Chuck.
+312774741) 
+You taught Clementine to protect herself.
+312774742) 
+Clementine's hair is a lot safer now.
+312774777) 
+Clementine's hair is a lot safer now.
+312774743) 
+You really hurt Clementine's feelings.
+312774744) 
+That really upset Clementine.
+312774745) 
+You and Clementine formed a plan to find a boat.
+312774746) 
+You and Clementine formed a plan to find her parents.
+312774747) 
+You and Clementine formed a plan to go your own way.
+312774748) 
+They'll remember that.
+312774820) 
+They'll remember that.
+312774821) 
+They'll remember that.
+312774749) 
+The strangers don't seem pleased by your answer.
+312774750) 
+The strangers seem wary of you.
+312774751) 
+The strangers we
+312774752) 
+You bonded with Omid over some Southern history.
+312774753) 
+Omid and Christa will remember what you said about Ben.
+312774754) 
+They will remember what you said about Kenny.
+312774755) 
+They will remember what you said.
+312774756) 
+They will remember what you said about Chuck.
+312774757) 
+Christa won't forget that.
+312774758) 
+You made a risky decision in order to slow them down.
+312774759) 
+You pushed Omid.
+312774760) 
+Lilly will remember that.
+312774810) 
+Lilly will remember that.
+312774829) 
+Lilly will remember that.
+312774762) 
+High five!
+312774763) 
+You left Duck hanging.
+312774764) 
+You made Duck's day.
+312774765) 
+Lilly noticed that.
+312774811) 
+Lilly noticed that.
+312774766) 
+He noticed you didn't answer his question.
+312774767) 
+Chuck saw through your lie.
+312774769) 
+Clementine noticed your silence.
+312774770) 
+Ben is thankful for your loyalty.
+312774772) 
+You convinced Kenny to stop the train.
+312774773) 
+Kenny will remember this.
+312774774) 
+Kenny will remember this.
+312774775) 
+Neither of you could do it.
+312774776) 
+You left Duck in the woods.
+312774778) 
+Ben will remember that.
+312774779) 
+Clementine will remember that.
+312774780) 
+You learned that Omid is interested in Southern history.
+312774781) 
+Christa and Omid will both remember what you said.
+312774782) 
+Christa noticed your silence.
+312774783) 
+Christa didn't appreciate you prying into her business.
+312774784) 
+You chose to save the injured Omid.
+312774785) 
+You saved Christa first.
+312774786) 
+You saved Omid first.
+312774787) 
+You didn't help.
+312774788) 
+Kenny noticed you changed your mind.
+312774789) 
+They will remember that.
+312774822) 
+They will remember that.
+312774834) 
+They will remember that.
+312774790) 
+You chose to tell them Kenny's story.
+312774791) 
+You have collected 16 items.
+312774792) 
+You have collected 16 items.
+312774793) 
+You have collected 17 items.
+312774794) 
+You have collected 18 items.
+312774795) 
+You have collected 19 items.
+312774796) 
+You have collected 20 items.
+312774797) 
+You told Lilly you want to leave.
+312774798) 
+Looks like Duck is going to help you anyway.
+312774799) 
+You didn't tell Kenny about your past.
+312774800) 
+Duck thinks you are incredibly awesome.
+312774801) 
+You lied to him.
+312774802) 
+You  were honest with Clementine about Lilly.
+312774803) 
+Clementine noticed that.
+312774804) 
+Kenny appreciates your optimism.
+312774805) 
+Kenny noted your caution.
+312774807) 
+Kenny noted your caution.
+312774806) 
+Kenny noticed your pessisism.
+312774808) 
+Kenny noticed that.
+312774809) 
+Kenny will remeber that.
+312774812) 
+Everyone noticed you sided with Lilly.
+312774813) 
+Everyone noticed that.
+312774814) 
+You tried to let it go.
+312774815) 
+You chose to remain silent on this.
+312774816) 
+You voted against Ben.
+312774817) 
+You and Lilly agree on this one.
+312774818) 
+Clementine will remember your silence.
+312774819) 
+Kenny will remember your compassion.
+312774833) 
+Clementine won't forget that.
+312774835) 
+Ben noticed your reaction.

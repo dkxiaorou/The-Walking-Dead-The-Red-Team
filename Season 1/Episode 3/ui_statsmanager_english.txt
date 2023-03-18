@@ -1,0 +1,100 @@
+312729601) 
+Game Title
+312729602) 
+Game Details
+312729604) 
+desc_achieved_StatsItem_Chapter1
+312729605) 
+desc_unachieved_StatsItem_Chapter1
+312729607) 
+desc_achieved_StatsItem_Chapter2
+312729608) 
+desc_unachieved_StatsItem_Chapter2
+312729609) 
+Hit the Road
+312729610) 
+desc_achieved_StatsItem_Chapter3
+312729611) 
+desc_unachieved_StatsItem_Chapter3
+312729612) 
+What Now?
+312729613) 
+desc_achieved_StatsItem_Chapter4
+312729614) 
+desc_unachieved_StatsItem_Chapter4
+312729616) 
+desc_achieved_StatsItem_Chapter5
+312729617) 
+desc_unachieved_StatsItem_Chapter5
+312729619) 
+desc_achieved_StatsItem_Chapter6
+312729620) 
+desc_unachieved_StatsItem_Chapter6
+312729622) 
+desc_achieved_StatsItem_Chapter7
+312729623) 
+desc_unachieved_StatsItem_Chapter7
+312729625) 
+desc_achieved_StatsItem_Chapter8
+312729626) 
+desc_unachieved_StatsItem_Chapter8
+312729627) 
+Goodbye, She Quietly Says
+312729628) 
+Bad Blood
+312729629) 
+Handle It
+312729630) 
+Unexpected Delay
+312729631) 
+Look Behind You
+312729632) 
+Lend Me Your Ears
+312729633) 
+name_StatsItem_103_Chapter1
+312729634) 
+desc_achieved_StatsItem_103_Chapter1
+312729635) 
+desc_unachieved_StatsItem_103_Chapter1
+312729636) 
+name_StatsItem_103_Chapter2
+312729637) 
+desc_achieved_StatsItem_103_Chapter2
+312729638) 
+desc_unachieved_StatsItem_103_Chapter2
+312729639) 
+name_StatsItem_103_Chapter3
+312729640) 
+desc_achieved_StatsItem_103_Chapter3
+312729641) 
+desc_unachieved_StatsItem_103_Chapter3
+312729642) 
+name_StatsItem_103_Chapter4
+312729643) 
+desc_achieved_StatsItem_103_Chapter4
+312729644) 
+desc_unachieved_StatsItem_103_Chapter4
+312729645) 
+name_StatsItem_103_Chapter5
+312729646) 
+desc_achieved_StatsItem_103_Chapter5
+312729647) 
+desc_unachieved_StatsItem_103_Chapter5
+312729648) 
+name_StatsItem_103_Chapter6
+312729649) 
+desc_achieved_StatsItem_103_Chapter6
+312729650) 
+desc_unachieved_StatsItem_103_Chapter6
+312729651) 
+name_StatsItem_103_Chapter7
+312729652) 
+desc_achieved_StatsItem_103_Chapter7
+312729653) 
+desc_unachieved_StatsItem_103_Chapter7
+312729654) 
+name_StatsItem_103_Chapter8
+312729655) 
+desc_achieved_StatsItem_103_Chapter8
+312729656) 
+desc_unachieved_StatsItem_103_Chapter8
