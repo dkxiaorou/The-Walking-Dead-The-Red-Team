@@ -13,65 +13,65 @@
 54) 
 [Exit]
 2) LEE
-[pickup 2] {thinkingA}Apple, Doug?
+[pickup 2] {thinkingA}Táo không, Doug?
 3) DOUG
-[pickup 2] {happyB}Sure! {thinkingA}I never used to eat fruit...{happyA}now this seems like just about the best thing in the world. {normalA}Thanks, Lee.
+[pickup 2] {happyB}Chắc chắn rồi! {thinkingA}Tôi chưa bao giờ ăn hoa quả...{happyA}giờ đây có lẽ là thứ tốt nhất trên thế giới. {normalA}Cảm ơn, Lee.
 7) LEE
-[pickup 2] {thinkingA}Don't suppose I could interest you in some food?
+[pickup 2] {thinkingA}Không nghĩ tôi khiến anh hứng thú với chút đồ ăn à?
 56) LEE
-[pickup 2] {thinkingA}Don't suppose I could interest you in some food?
+[pickup 2] {thinkingA}Không nghĩ tôi khiến anh hứng thú với chút đồ ăn à?
 8) LEE
-[pickup 2] {sadA}Sorry I ran out before I could give you any food.
+[pickup 2] {sadA}Xin lỗi tôi đã hết đồ ăn trước khi cho anh một chút.
 9) DOUG
-[pickup 2] {normalB}That's okay, Lee. You don't need to be saving my life ALL the time.
+[pickup 2] {normalB}Không sao, Lee. Anh không cần LÚC NÀO cũng phải cứu tôi.
 10) LEE
-[pickup 2] {thinkingA}Think Katjaa can save that guy?
+[pickup 2] {thinkingA}Nghĩ Katjaa có thể cứu gã ấy không?
 24) 
-Think Katjaa can save that guy?
+Nghĩ Katjaa có thể cứu gã ấy không?
 11) DOUG
-[pickup 2] {sadA}Maybe. {normalC}I mean, I know about computers, but that doesn't mean I can fix a calculator.
+[pickup 2] {sadA}Có lẽ. {normalC}Ý tôi là, tôi biết về máy tính, không có nghĩa tôi có thể sử được máy tính toán.
 12) DOUG
-[pickup 2] {thinkingA}Well, yeah... {happyA}Good point.
+[pickup 2] {thinkingA}Thì, ừ... {happyA}Ý hay đó.
 13) LEE
-[pickup 2] {happyA}But you probably COULD fix a calculator.
+[pickup 2] {happyA}nhưng có lẽ anh CÓ THỂ sửa một cái máy tính toán.
 14) DOUG
-[pickup 2] {normalC}You too, Lee.
+[pickup 2] {normalC}Anh cũng vậy, Lee.
 15) LEE
-[pickup 2] {normalA}Take it easy, Doug.
+[pickup 2] {normalA}Nhẹ nhàng thôi, Doug.
 16) DOUG
-[pickup2]{normalC}I worked up a little "warning system" for outside.
+[pickup2]{normalC}Tôi đã làm ra một chút "hệ thống cảnh báo" ở ngoài.
 17) LEE
-[pickup2]{happyA}{thinkingA}What are you working on, Doug?
+[pickup2]{happyA}{thinkingA}Anh đang làm gì vậy, Doug?
 18) DOUG
-[pickup2]{happyA}No, it's a LOT of string, wired to {happyB}several bells {happyA}strategically placed to let us know when walkers are coming, where they're coming from, {happyB}and how long 'till they get here.
+[pickup2]{happyA}Không, nó rất nhiều dây, nối với {happyB}vài cái chuông {happyA}đặt nó khôn ngoan sẽ cho ta biết khi nào bọn walker tới, tới từ đâu, {happyB}và tới bao lâu chúng tới.
 19) LEE
-[pickup2][responding to "I worked up a little "warning system" for outside."]{thinkingB}It's just some string and some old bells.
+[pickup2][responding to "I worked up a little "warning system" for outside."]{thinkingB}Nó chỉ lầ một ít dây và một ít chuông.
 20) LEE
-[pickup2]{happyA}{happyA}Nice.
+[pickup2]{happyA}{happyA}Tuyệt.
 21) 
-What are you working on?
+Anh đang làm gì vậy?
 22) DOUG
-[pickup2] {sadA}...I owe you a lot more than a half a day's rations.
+[pickup2] {sadA}...Tôi nợ anh nhiều hơn một nửa một ngày bữa ăn lot more than a half a day's rations.
 23) DOUG
-[pickup 2] [sacrificing food to pay Lee back fro saving him] {normalC}Actually, {sadA}why don't you keep my share today...
+[pickup 2] [sacrificing food to pay Lee back fro saving him] {normalC}Thực ra, {sadA}tại sao anh không giữ phần của tôi hôm nay...
 25) 
-Talk To
+Nói với
 26) 
-Give Food To
+Đừa đồ ăn cho
 27) DOUG
-[pickup3][Thanking Lee for saving him 3 months ago] I know you didn't consciously choose to save me, but...
+[pickup3][Thanking Lee for saving him 3 months ago] Tôi biết anh đã không có ý thức chọn để cứu tôi, nhưng...
 28) DOUG
-[pickup3][Thanking Lee for saving him 3 months ago] I still wish I wasn't the one you thought needed help, but...
+[pickup3][Thanking Lee for saving him 3 months ago] Tôi vẫn mong tôi không phải là người anh nghĩ anh cần sự trợ giúp, nhưng...
 29) 
-I'm out of food.
+Tôi hết đồ ăn rồi.
 30) 
-Want some food? [Give Food]
+Muốn đồ ăn không? [Give Food]
 31) LEE
-[flat]{normalD}Hey, Doug.
+[flat]{normalD}Này, Doug.
 32) LEE
-[flat]{normalD}Hey, Doug.
+[flat]{normalD}Này, Doug.
 33) DOUG
-[pickup3][standing up absentmindedly and hitting his head] Oof!  Ahh..ssss...[As in Family guy Knee gag, then with a bit of wincing] What's up, Lee?
+[pickup3][standing up absentmindedly and hitting his head] Oof!  Ahh..ssss...[As in Family guy Knee gag, then with a bit of wincing] Sao vậy, Lee?
 34) LEE
 [pickup3][knowing there is only one more piece of food left]Hm.  Tôi có nên giữ cái này cho bản thân không?
 35) LEE
@@ -81,32 +81,32 @@ Want some food? [Give Food]
 39) LEE
 [pickup3][to himself - choosing to save the food for someone else]Không.  Một số người đã trải qua nhiều hơn tôi mà không có đồ ăn.  Họ là những người cần nó.
 40) LEE
-[pickup3][talking to doug about his alarm]So we'll know where they are and how long we have. Smart.
+[pickup3][talking to doug about his alarm]Vậy chúng ta sẽ biết chúng ở đâu và bao lâu chúng ta có. Thông mình.
 41) DOUG
-[pickup3][talking  about his alarm]I set up triplines at four locations, and each one triggers one of these four bells. So-
+[pickup3][talking  about his alarm]Tôi đã đặt bẫy ở bốn địa điểm, và mỗi cái sẽ kích hoạt một trong bốn chiếc chuông này. Nên-
 42) LEE
-[pickup3][talking to doug about his alarm]How does it work?
+[pickup3][talking to doug about his alarm]Nó hoạt động như thế nào?
 43) LEE
-[pickup3][talking about Dougs alarm]Does it work?
+[pickup3][talking about Dougs alarm]Nó có hoạt động không?
 44) DOUG
-[pickup3][talking about Dougs alarm]It should.  We'll have to wait and see.
+[pickup3][talking about Dougs alarm]Nó nên vậy.  Chúng ta sẽ phải chờ và xem.
 45) DOUG
-[pickup3][talking about Dougs alarm]I know it doesn't look like much, but the bells will ring when walkers get nearby.
+[pickup3][talking about Dougs alarm]Tôi biết nó nhìn không nhiều, nhưng những cái chuông sẽ rung khu bọn walkers tới gần.
 46) LARRY
-[pickup3]Hey, if Dough-Boy doesn't want his food, hand it this way.
+[pickup3]Này, nếu Dough-Trai không muốn đồ ăn của nó, đưa nó hướng này.
 47) LEE
-[pickup3]It doesn't work like that.  I'll decide who gets the food.
+[pickup3]Nó không hoạt động như vậy.  Tôi sẽ quyết định ai có được đồ ăn.
 51) LEE
-[pickup3]It doesn't work like that.  I'll decide who gets the food.
+[pickup3]Nó không hoạt động như vậy.  Tôi sẽ quyết định ai có được đồ ăn.
 48) LARRY
-[pickup3]Well, decide smart.  You don't really want to piss me off, do you?
+[pickup3]Thì, quyết định thông minh đi.  Mày không muốn làm tao bực mình đâu, được chưa?
 49) MARK
-[pickup3]Hey, if Doug doesn't want any food, I'll take it.
+[pickup3]Này, nếu Doug không lấy đồ ăn, Tôi sẽ lấy nó.
 50) MARK
-[pickup3][appologetic]Right, I'm sorry. The hunger is just getting to me. I'll  let you do your job.
+[pickup3][appologetic]Đúng rồi, tôi xin lỗi. Cơn đói đang đến với tôi. Tôi sẽ để anh làm việc của anh.
 52) DOUG
-[pickup3][Thanking Lee for saving him 3 months ago]I know you wanted to save me AND Carley... But, well...
+[pickup3][Thanking Lee for saving him 3 months ago]Tôi biết anh muốn cứu tôi VÀ Carley... Nhưng, thì...
 53) DOUG
-[pickup3][Thanking Lee for saving him 3 months ago] I know I said it didn't matter why you saved me and not Carley, but...
+[pickup3][Thanking Lee for saving him 3 months ago] Tôi biết tôi nói rằng nó không quan trọng tại sao anh cứu tôi và không phải Carley, nhưng...
 55) LEE
-Sorry.
+Xin lỗi.
