@@ -1,30 +1,30 @@
 312737797) 
-Press A or D to move!
+Ấn A hoặc D để di chuyển!
 312737798) 
-Push left or right on the left stick to move!
+Đẩy trái hoặc phải trên cần gạt trái để di chuyển!
 312737799) 
-Get Kenny to stop the train.
+Khiến Kenny dừng tàu.
 312737800) 
-Press A or D to peek back and forth!
+Ấn A hoặc D để nhìn đi nhìn lại!
 312737801) 
-Push left or right on the left stick to peek back and forth!
+Đẩy trái hoặc phải trên cần gạt trái để peek nhìn sau nhìn trước!
 312737802) 
-Press A or D to move between sides!
+Ấn A hoặc D để di chuyển giữa các bên!
 312737803) 
-Push left or right on the left stick to move between sides!
+Đẩy trái hoặc phải trên cần gạt trái để di chuyển giữa các bên!
 312737804) 
-Press W to back away!
+Ấn W để lùi về!
 312737805) 
-Push up on the left stick to back away!
+Đẩy lên trên cần gạt trái để lùi về!
 312737806) 
-Find a way to read the notepad.
+Tìm cách để đọc sổ tay.
 312737807) 
-Tap the arrows to move!
+Nhấn những mũi tên để di chuyển!
 312737808) 
-Tap the arrows to peek back and forth!
+Nhấn những mũi tên nhìn đi nhìn lại!
 312737809) 
-Tap the arrows to move between sides!
+Nhấn những mũi tên mdi chuyển giữa các bên!
 312737810) 
-Touch and drag to move the scope. Tap on what you want to shoot.
+Ấn vào kéo để di chuyển ông ngắm. Ấn vào cái bạn muốn bắn.
 312737811) 
-Press Down to back away!
+Bấm Xuống để lùi về!
