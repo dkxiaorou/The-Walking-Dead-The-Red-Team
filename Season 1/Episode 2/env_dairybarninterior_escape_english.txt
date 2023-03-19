@@ -1,59 +1,59 @@
 1) LILLY
-[slowly... quietly, still in shock]...Yeah. Just be careful, and get us out of here.
+[slowly... quietly, still in shock]...Ừ. Hãy cẩn thận, và đưa chúng tôi ra khỏi đây.
 2) LILLY
-[coldly, quiet, still in shock] Whatever.
+[coldly, quiet, still in shock] Sao cũng được.
 3) DANNY
-[in pain] ...The farm hands understood. After a while.
+[in pain] ...Các tay nông dân đã hiểu. Sau một lúc.
 4) DANNY
-[in pain] Give part of yourself... so others can live.
+[in pain] Cho đi một phần của bản thân... để những người khác có thể sống.
 5) LEE
-[angry]What sacrifices?
+[angry]Sự hy sinh gì?
 6) DANNY
-[in pain] I'm no good to you dead.
+[in pain] Nếu chết, tôi sẽ không có ích nữa.
 7) DANNY
-[in pain]... The meat gets tainted.
+[in pain]... Thịt sẽ bị nhiễm mất.
 8) LEE
-I should kill you right now.
+Tao nên giết mày ngay bây giờ.
 9) DANNY
-[in pain] The vet & the boy are in the house.
+[in pain] Ả thú y và thằng nhóc đang ở trong nhà.
 10) LEE
-What have you done with the others?
+Mày đã làm gì với những người khác?
 11) DANNY
-[in pain] Come on, man... Get this thing off of me!
+[in pain] Thôi nào, trời... Lấy thứ này ra khỏi tôi!
 12) DANNY
-[in pain] ...At least give me something to kill the pain!
+[in pain] ...Ít nhất cho tôi gì đó để giảm cơn đau chứ!
 13) CLEMENTINE
-[quietly; pointing into the dark] Shhh... He's there. See?
+[quietly; pointing into the dark] Shhh... Chú ta ở đó. Thấy không?
 14) DANNY
-[mumbling anrgily to himself]... It ain't right keeping me out here all night. I didn't do nothin', but they just treat me like I'm some kind of screw up.
+[mumbling anrgily to himself]... Giữ mình ở đây cả đêm không ổn chút nào. Mình chẳng làm gì cả, nhưng họ đối xử với mình như thể mình là thứ gì tồi tệ lắm vậy.
 15) DANNY
-[mumbling anrgily to himself]...Seriously, how long am I supposed to stay out here?  What the hell could they be talking about in the house?  Ain't no big debate needed, keep some alive for meat, kill the rest.
+[mumbling anrgily to himself]...Nghiêm túc đấy à, mình phải ở đây bao lâu nữa? Họ có thể nói về cái quái gì ở trong nhà vậy? Đâu cần phải tranh luận nhiều, giữ vài tên còn sống để làm thịt và giết đám còn lại là được.
 16) DANNY
-[mumbling anrgily to himself]...And momma, I know you mean well, and God bless you, but you have GOT to stop playing favorites with Andy.  I know he's older, but that don't make him better.  And it certainly don't make him smarter.
+[mumbling anrgily to himself]...Và mẹ à, con biết mẹ có ý tốt, và Chúa phù hộ cho mẹ, nhưng mẹ PHẢI ngừng chơi trò thiên vị với Andy đi. Con biết anh ấy lớn hơn, nhưng điều đó không có nghĩa anh ấy tốt hơn. Và chắc chắn cũng không thông minh hơn.
 17) DANNY
-[mumbling anrgily to himself]... This is bullshit!  [mocking]Danny do this ... Danny do that...
+[mumbling anrgily to himself]... Thật nhảm nhí mà!  [mocking]Danny làm này... Danny làm nọ...
 18) DANNY
-[this line should play at a lower volume in the background. It does not need subtitles] [mumbling anrgily to himself]...My fault... my ASS my fault! This whole idea was his.  But who gets blamed?  Right.  Blame it on Danny.  He's the fuck up!
+[this line should play at a lower volume in the background. It does not need subtitles] [mumbling anrgily to himself]...Lỗi của mình... lúc đéo nào cũng lỗi mình! Cả ý tưởng là của anh ta.  Nhưng rồi ai bị khiển trách vậy?  Phải rồi.  Đổ hết lên đầu Danny.  Luôn luôn là nó!
 19) DANNY
-[mumbling anrgily to himself]...Fuck, it's dull out here.
+[mumbling anrgily to himself]...Mẹ nó, ngoài đây chán thật chứ.
 20) DANNY
-[mumbling anrgily to himself]... If Daddy were here everything would be fine.  That's when things started going to shit around here anyway.  Daddy had an order to things.  You knew what you were supposed to be doing.  Now it's all just whatever!
+[mumbling anrgily to himself]... Nếu bố ở đây thì mọi chuyện đã ổn rồi.  Dù sau sau đó cũng là lúc mọi chuyện bắt đầu lộn xộn lên.  Bố có một trật tự trong mọi việc.  Mình sẽ biết được đáng lẽ nên làm gì.  Giờ thì làm sao cũng được!
 21) DANNY
-[process: in he distance] What the hell was that?
+[process: in he distance] Cái quái gì thế?
 22) LEE
-[quietly but with urgeny] Ok. Go, go!
+[quietly but with urgeny] Được rồi. Đi, đi!
 23) LEE
-[quietly but frustrated] Come on!!
+[quietly but frustrated] Đi nào!!
 84) LEE
-[calling out a few feet away] Come on...
+[calling out a few feet away] Đi nào...
 24) DANNY
-What the fuck?
+Cái đéo gì vậy?
 25) DANNY
 [Screams In pain]   AAAAAHHHHHHHHHH!!!!!
 26) DANNY
-[breathless, in pain] You don't... you don't understand....
+[breathless, in pain] Mày không... mày không hiểu....
 27) DANNY
-[in pain] It's how the world works now.
+[in pain] Đó là cách mà bây giờ thế giới vận hành.
 28) DANNY
 [Grunting in pain7]
 29) DANNY
@@ -69,273 +69,273 @@ What the fuck?
 34) DANNY
 [Grunting in pain5]
 35) DANNY
-[in pain] You've got to make... sacrifices.
+[in pain] Cần phải đưa ra sự... hy sinh.
 36) DANNY
-[Sounding scary] Where are you?  Come on out, you know I'm gonna find you anyway...
+[Sounding scary] Mày đâu rồi?  Ra đây đi, mày biết đằng nào tao cũng phải tìm mày mà...
 37) DANNY
-[To himself]Not here...
+[To himself]Không phải ở đây...
 38) DANNY
-[sounding scary] Where are they, girl?
+[sounding scary] Chúng đâu rồi, cô bé?
 39) DANNY
-[To himself]Nothing...
+[To himself]Chẳng có gì...
 40) DANNY
-[Sounding scary] You can't hide forever... Come on out now and maybe I'll let the girls live...
+[Sounding scary] Mày không thể trốn mãi được... Ra đây đi và có lẽ tao sẽ để đám con gái sống...
 41) DANNY
-[To himself]Shit, where are they?
+[To himself]Đệt, chúng đâu rồi?
 42) DANNY
-[Sounding scary]Ya'll screwed up everything!  Don't you understand?  This is how we have to survive now.  Things aren't the way they used to be anymore!
+[Sounding scary]Bọn mày đã làm hỏng mọi việc!  Chúng mày không hiểu à?  Đây là cách mà giờ ta phải sinh tồn.  Mọi chuyện không còn như lúc trước nữa!
 43) DANNY
-[To himself]Where are ya, Lee?
+[To himself]Mày đâu rồi, Lee?
 44) DANNY
-[Sounding scary]You couldn't just be grateful!  You couldn't just eat and get with the program!
+[Sounding scary]Mày không thể chỉ biết ơn thôi à! Mày không thể vừa ăn vừa thuận theo thôi à!
 45) DANNY
-[To himself]Damnit.
+[To himself]Con mẹ nó.
 46) DANNY
-[mumbling anrgily to himself]...[Calling out into the night] Who wants some?  I DARE some dead asshole to try to cross my fence tonight!
+[mumbling anrgily to himself]...[Calling out into the night] Ai muốn ăn đạn?  Tao THÁCH một tên chó chết nào dám vượt qua hàng rào tối nay đấy!!
 47) DANNY
-[mumbling anrgily to himself]..[frustrated sigh] Gah!!  What's taking Momma and Andy so long?  What are they finishing their damn dinner first?  Coulda brought me out a plate at least.
+[mumbling anrgily to himself]..[frustrated sigh] Gah!!  Mẹ với Andy làm gì mà lâu vậy chứ?  Đang ăn nốt bữa tối à?  Ít nhất cũng mang cho mình một dĩa chứ.
 48) DANNY
-[mumbling anrgily to himself]... How was I supposed to know that legless asshole would wake up?  I thought he had enough drugs in him to keep him out for the rest of the night.
+[mumbling anrgily to himself]... Sao mình biết được tên khốn cụt chân đó sẽ tỉnh dậy chứ?  Mình cứ nghĩ hắn đã nốc đủ thuốc để làm một giấc xuyên đêm rồi chứ.
 49) DANNY
-[mumbling anrgily to himself]... those people are gonna ruin everything.
+[mumbling anrgily to himself]... đám đó sẽ làm hỏng mọi chuyện.
 50) LEE
-[quietly]It's too risky
+[quietly]Nó quá mạo hiểm.
 51) KENNY
-[quietly]Let's take this asshole down and get my family back!
+[quietly]Lên xử tên khốn này và lấy lại gia đình tôi nào!
 52) KENNY
-[quietly]Those assholes still have my family!  I'm willing to take the risk.
+[quietly]Bọn chó đó vẫn còn giữ gia đình tôi!  Tôi sẵn sàng mạo hiểm.
 53) KENNY
-[quietly/responing to Lee's silence]Well, I'm going with or without you.
+[quietly/responing to Lee's silence]Tôi vẫn sẽ lên dù có anh hay không.
 54) LEE
-[quietly]Lilly, you stay here and keep Clementine safe. Can you manage that?
+[quietly]Lilly, cô ở lại đây và giữ cho Clementine an toàn. Được chứ?
 55) LEE
-[quietly]Sounds good.  I'll lead.
+[quietly]Nghe hay đấy.  Tôi sẽ đi trước.
 56) KENNY
-[quietly] That dumbass is so caught up in his own rant that he probably won't see us...
+[quietly] Tên ngu đó đang bận nói chuyện một mình rồi nên có lẽ hắn sẽ không nhìn thấy chúng ta...
 57) LEE
-[Quietly] What's the plan?
+[Quietly] Kế hoạch là gì đây?
 58) DANNY
-[angry] You son of a bitch!
+[angry] Mẹ thằng chó đẻ!
 59) KENNY
-[whispering] Shit. Now what?
+[whispering] Đệt. Giờ sao?
 60) LEE
-[whispering] Let's find another way.
+[whispering] Tìm cách khác thôi.
 61) LEE
-[whispering]We're screwed.
+[whispering]Chúng ta tiêu rồi.
 62) LEE
-[whispering]I still think we can take him.
+[whispering]Tôi vẫn nghĩ ta có thể xử hắn.
 63) KENNY
-[whispering]No, Lee, I've got to get to that house.  I can make it from here, I know I can!
+[whispering]Không, Lee, tôi cần phải đến chỗ căn nhà.  Tôi có thể làm thế từ đây, tôi biết mình có thể!
 64) KENNY
-[whispering]No.  No, we're not screwed.  That guy is off his rocker right now.  I'm sure I could sneak past him and get to the house.
+[whispering]Không.  Không, chúng ta chưa tiêu.  Tên đó giờ đang lơ là.  Tôi chắc rằng có thể lẻn qua hắn và đến căn nhà.
 65) KENNY
-[whispering]The house isn't that far off though.  I bet I can get around him if I go alone.
+[whispering]Căn nhà cũng không xa lắm.  Tôi chắc rằng có thể lẻn qua hắn nếu đi một mình.
 66) KENNY
-[whispering] Fuck that!  That rifle kind of puts the odds in his favor!
+[whispering] Thôi bỏ đi!  Khẩu súng trường đó đang đặt phần có lợi nghiêng về hắn!
 67) KENNY
-[whispering/stern] They have my family, Lee.  I have to.
+[whispering/stern] Chúng đang giữ gia đình tôi, Lee.  Tôi phải làm thế.
 68) DANNY
-[spotting his hostages on the loose]What?!  Oh Shit!
+[spotting his hostages on the loose]Gì đây?!  Ôi đệt!
 69) LEE
-[Spotted!] SHIT!
+[Spotted!] ĐỆT!
 99) LEE
-[Spotted!] SHIT!
+[Spotted!] ĐỆT!
 70) KENNY
-[Whispering/stern]If I can make it to the gate, I can shut down the generator, giving us all a better chance of getting the hell out of here!
+[Whispering/stern]Nếu tôi có thể đến được chỗ cổng, tôi có thể tắt máy phát điện, giúp tất cả chúng ta có cơ hội tốt hơn để thoát khỏi đây!
 71) DANNY
-[creepy/menacing] Oh I see... y'all think you can hide from me?
+[creepy/menacing] Ồ hiểu rồi... bây nghĩ rằng có thể trốn khỏi tao à?
 72) DANNY
-[creepy/menacing] There ain't but one way out of here.  I will find you.
+[creepy/menacing] Chỉ có một đường ra khỏi đây thôi.  Tao sẽ tìm ra bây.
 73) LEE
 [whispering] Shhhhh.
 74) DANNY
-There you are, you son of a bitch!
+Mày đây rồi, thằng chó đẻ!
 75) DANNY
-You gotta get me outta here!
+Anh cần đưa tôi ra khỏi đây!
 76) DANNY
-[In pain/ panicing]Hey... You can leave me like this... If I die, you know what'll happen!
+[In pain/ panicing]Này... Anh không thể để tôi ở đây được... Nếu tôi chết, anh biết chuyện gì sẽ xảy ra mà!
 77) LEE
-I'm gonna let you rot in there!
+Tao sẽ để mày chết mục ở đây!
 78) LEE
-How about if I just kill you instead?
+Vậy còn giết quách mày luôn thì sao nhỉ?
 79) DANNY
-[in pain]Do what ya gotta do... Just make it count.
+[in pain]Cứ làm gì mày phải làm đi... chắc rằng nó đáng là được.
 80) DANNY
-[In pain/panicing] No, man!  You can't do that.  We were helping you to survive!
+[In pain/panicing] Không, anh bọn!  Không thể làm thế.  Bọn tôi đang giúp các anh sống sót mà!
 81) LEE
-Fine with me.
+Nghe ổn với tao đấy.
 82) DANNY
-[STERN!] Do something, you son of a bitch!!
+[STERN!] Làm gì đó đi, thằng chó đẻ!!
 83) LEE
-Can I trust you with this to keep Clementine safe?
+Tôi có thể tin tưởng giao an toàn của Clementine cho cô chứ?
 85) LILLY
-[Still a little cold and out of it] Yeah.  I won't let anything happen to her.
+[Still a little cold and out of it] Được.  Tôi sẽ không để chuyện gì xảy ra với con bé.
 86) LEE
-I gotta find Kenny.  You do what you've gotta do. [to Clementine] Stay with Lilly.
+Tôi đi tìm Kenny đây.  Cần phải làm việc cần làm. [to Clementine] Ở lại với cô Lilly.
 87) LILLY
-[cold/pissed] I don't know, Lee.  Can you?
+[cold/pissed] Tôi không biết, Lee.  Anh có thể không?
 88) LEE
-Good.  I gotta find Kenny. [to clementine] Stay with Lilly.
+Tốt.  Tôi đi tìm Kenny đây. [to clementine] Ở lại với cô Lilly.
 89) KENNY
 [process: in the distance][getting Shot] Ahhh!!
 90) DANNY
-[pickup1] [quietly/offscreen] huh?
+[pickup1] [quietly/offscreen] hở?
 91) DANNY
-[pickup1][In pain from the bear trap. (Continues into line 310513883)]...Yeah... I know you got it in you.  I've seen you in action...
+[pickup1][In pain from the bear trap. (Continues into line 310513883)]...Phải... Tôi biết anh cũng có nó trong mình. Có thể nhận thấy từ hành động của anh...
 92) DANNY
-[pickup1][in pain from the bear trap - Lee has just threatened to kill him]I don't think so... You don't have what it takes!... You just freeze up.  [Then to himself - huffs out a chuckle] Fucking coward.
+[pickup1][in pain from the bear trap - Lee has just threatened to kill him]Tao không nghĩ vậy đâu... mày không có đủ sự can đảm!... Mày chỉ đờ ra đó.  [Then to himself - huffs out a chuckle] Thằng chó hèn nhát.
 93) LEE
-[pickup1][Whispering/stern/ warning Kenny that RUnning out of the barn is a bad idea] Kenny, don't.
+[pickup1][Whispering/stern/ warning Kenny that RUnning out of the barn is a bad idea] Kenny, đừng.
 94) KENNY
-[pickup1][quiet, sneaking through the barn]Maybe one of us can grab that rifle...
+[pickup1][quiet, sneaking through the barn]Có lẽ một trong hai ta có thể chộp lấy khẩu súng...
 95) LEE
-[pickup1][whispering - making a plan to get to the house with Kenny]We might be able to sneak up to the house if we go one at a time.  Are you up for it?
+[pickup1][whispering - making a plan to get to the house with Kenny]Chúng ta có thể lẻn đến căn nhà nếu đi từng người một. Anh sẵn sàng chưa?
 96) LEE
-[pickup1][whispering - making a plan to get to the house with Kenny]If we can shut down that generator, it'd give us all a better chance of getting the hell out of here!
+[pickup1][whispering - making a plan to get to the house with Kenny]Nếu chúng ta có thể tắt cái máy phát điện, thì tất cả chúng ta sẽ có cơ hội tốt hơn để biến khỏi đây!
 97) KENNY
-[pickup1][nervous - gerring ready to sneak up to the house/ whispering]Yeah... I'll see what I can do. [about shutting off the Generators]
+[pickup1][nervous - gerring ready to sneak up to the house/ whispering]Ừ... tôi sẽ xem mình làm được gì. [about shutting off the Generators]
 98) KENNY
-[pickup1][nervous - gerring ready to sneak up to the house/ whispering]Here goes nutthin.
+[pickup1][nervous - gerring ready to sneak up to the house/ whispering]Đến lúc điên rồ rồi.
 100) KENNY
-[pickup1][whispering, making a plan to sneak past Danny]Well if you have any ideas, now's the time to speak up.
+[pickup1][whispering, making a plan to sneak past Danny]Nếu anh có ý tưởng gì, thì giờ là lúc để nói ra đấy.
 101) KENNY
-[pickup1][whispering, making a plan to sneak past Danny]Well, we gotta do something!
+[pickup1][whispering, making a plan to sneak past Danny]Ta cần làm gì đó chứ!
 102) KENNY
-[pickup1][hesitant- unsure of Lee's plan to sneak past Danny to the house.  Responding to "Are you up for it?"]... I'd better be.
+[pickup1][hesitant- unsure of Lee's plan to sneak past Danny to the house.  Responding to "Are you up for it?"]... Tôi nên vậy chứ sao.
 103) KENNY
-[pickup2][Trying to sneak out of the barn past danny after killing Lillys dad, Kenny knows it's best to leave Lilly alone right now.][Projected whisper]Just... forget about Lilly right now.  What are we gonna do about this guy at the front of the barn?
+[pickup2][Trying to sneak out of the barn past danny after killing Lillys dad, Kenny knows it's best to leave Lilly alone right now.][Projected whisper]Hãy... giờ quên về Lilly đi.  Chúng ta phải làm gì ở phía trước cửa chuồng đây?
 104) LEE
-[pickup2][knowing that Clementine will be safest for the moment in the meatlocker with Lilly... Convincing himself] Clem will be safe in there for now.
+[pickup2][knowing that Clementine will be safest for the moment in the meatlocker with Lilly... Convincing himself] Clem sẽ an toàn trong đó lúc này.
 105) KENNY
-[pickup2][quiet - making a plan]Just stick behind me, in case anything goes down.  When we get to the front, grab his gun.
+[pickup2][quiet - making a plan]Hãy theo sát tôi, phòng khi mọi chuyện tệ đi.  Khi ta đến được phía trước, giật lấy khẩu súng của hắn.
 106) LEE
-[pickup2][quiet - making a plan] So, what's the plan?
+[pickup2][quiet - making a plan] Vậy, kế hoạch là gì?
 107) KENNY
-[pickup2][quiet - making a plan] That dumbass is so caught up in his own rant that we could probably sneak right up on him.
+[pickup2][quiet - making a plan] Tên ngu đó đang cuốn vào cơn thịnh nộ của chính mình đến nỗi chúng ta có thể lẻn đến sau hắn.
 108) LEE
-[pickup2][quiet - making a plan]Sounds good.
+[pickup2][quiet - making a plan]Nghe hay đấy.
 109) KENNY
-[pickup2][quiet - making a plan]Okay, you ready?
+[pickup2][quiet - making a plan]Được rồi, sẵn sàng chưa?
 110) 
-Let's go.
+Đi thôi.
 111) KENNY
-[pickup2][whispered, ready to carry out Kenny's plan to take down Danny] Stay close.
+[pickup2][whispered, ready to carry out Kenny's plan to take down Danny] Bám sát đấy.
 112) LEE
-[pickup2][whispered, ready to carry out Kenny's plan to take down Danny] Yeah, let's go.
+[pickup2][whispered, ready to carry out Kenny's plan to take down Danny] Rồi, đi thôi.
 113) 
-Not yet.
+Vẫn chưa.
 114) KENNY
-[pickup2][whispered, Lee is NOT ready to carry out Kenny's plan to take down Danny] Well, hurry up.  We only got one shot at this.
+[pickup2][whispered, Lee is NOT ready to carry out Kenny's plan to take down Danny] Vậy, nhanh lên.  Ta chỉ có một cơ hội thôi.
 115) LEE
-[pickup2][whispered, NOT ready to carry out Kenny's plan to take down Danny] Not yet.
+[pickup2][whispered, NOT ready to carry out Kenny's plan to take down Danny] Vẫn chưa.
 116) LEE
-[pickup2][quiet - Trying to keep kenny from doing something stupid.]What are you gonna do, walk up and grab his gun?
+[pickup2][quiet - Trying to keep kenny from doing something stupid.]Thế anh định làm gì, cứ tiến đến và giật khẩu súng của hắn à?
 117) LEE
-[pickup2][quiet - Trying to keep kenny from doing something stupid.] What the hell do you think you're doing?
+[pickup2][quiet - Trying to keep kenny from doing something stupid.] Anh nghĩ mình đang làm quái gì vậy?
 118) KENNY
-[pickup2][quiet - making his OWN plan, doesnt give a fuck what Lee wants] Getting my family back!
+[pickup2][quiet - making his OWN plan, doesnt give a fuck what Lee wants] Lấy lại gia đình của mình!
 119) KENNY
-[pickup2][quiet - making his OWN plan, doesnt give a fuck what Lee wants] Good a plan as any.
+[pickup2][quiet - making his OWN plan, doesnt give a fuck what Lee wants] Đủ cho một kế hoạch rồi.
 120) DANNY
 [pickup2][deciding he didnt hear anything while on guard] Hmm.
 121) DANNY
-[pickup2][while on guard, hears a noise in the distance.  (to himself)] Huh?
+[pickup2][while on guard, hears a noise in the distance.  (to himself)] Hở?
 122) ANDY
-[pickup2][outside the barn, Andy shows up and  to fill Danny in on the plan.  It's raining outside]Dan, what are you doing outside the barn?
+[pickup2][outside the barn, Andy shows up and  to fill Danny in on the plan.  It's raining outside]Dan, em đang làm gì ở bên ngoài chuồng thế?
 123) KENNY
-[pickup2][The appearance of Andy walking TOWARD the barn totally screws up Kenny's plan][whispered panic] Oh, shit!
+[pickup2][The appearance of Andy walking TOWARD the barn totally screws up Kenny's plan][whispered panic] Ôi, đệt!
 124) DANNY
-[pickup2][outside the barn, Andy shows up and "What are you doing out here in the rain?"]Just guarding the place, like you said.
+[pickup2][outside the barn, Andy shows up and "What are you doing out here in the rain?"]Chỉ đang canh gác nơi này, như anh đã bảo.
 125) ANDY
-[pickup2][outside the barn, Andy shows up and  to fill Danny in on the plan.  It's raining outside]Well, quit sittin' out in the rain like a damn weirdo.  Mama says we can't keep that many folks alive and not expect trouble.
+[pickup2][outside the barn, Andy shows up and  to fill Danny in on the plan.  It's raining outside]Vậy, ngưng việc ngồi ngoài mưa như một thằng ngáo đi.  Mẹ bảo chúng ta không thể giữ nhiều người như vậy còn sống mà không gặp rắc rối được.
 126) ANDY
-[pickup2][outside the barn, Andy shows up and  to fill Danny in on the plan.  It's raining outside]Pick one to keep and kill the rest.
+[pickup2][outside the barn, Andy shows up and  to fill Danny in on the plan.  It's raining outside]Chọn một tên để giữ còn lại giết hết đi.
 127) DANNY
-[pickup2][outside the barn, Andy shows up and  to fill Danny in on the plan.  It's raining outside]Can I pick which one to keep alive?
+[pickup2][outside the barn, Andy shows up and  to fill Danny in on the plan.  It's raining outside]Em được chọn tên nào để giữ lại không?
 128) ANDY
-[pickup2][outside the barn, Andy shows up and  to fill Danny in on the plan.  It's raining outside - Projected a bit as Andy walks away.] [process. This line fades out as Andy walks away.] Not the kid.  Not enough meat on her to trade.
+[pickup2][outside the barn, Andy shows up and  to fill Danny in on the plan.  It's raining outside - Projected a bit as Andy walks away.] [process. This line fades out as Andy walks away.] Không phải là đứa nhóc.  Nó không đủ thịt để trao đổi.
 129) DANNY
-[pickup2][creepily talking to the cow as he sets a traps for the people.]Oh, I know, Maybelle.  This is my favorite part, too.  When I let one think they can just walk right out.  [laughing a bit]They never look down!
+[pickup2][creepily talking to the cow as he sets a traps for the people.]Ồ, tao biết, Maybelle.  Đây cũng là phần tao thích nhất.  Khi tao để cho một tên nghĩ là mình có thể chạy thoát.  [laughing a bit]Chúng không bao giờ nhìn xuống dưới chân cả!
 130) KENNY
-[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]See what he's doing now.
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Nhìn xem giờ hắn đang làm gì.
 131) LEE
-[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]What should we do?
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Ta nên làm gì đây?
 132) KENNY
-[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Do you have a weapon?
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Anh có vũ khí không?
 133) KENNY
-[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them] We keep it simple, as soon as he passes us, we jump him from behind.
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them] Ta làm đơn giản thôi, ngay khi hắn đi qua chúng ta, ta xông vào hắn từ phía sau.
 144) KENNY
-[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]We keep it simple, as soon as he passes us, we jump him from behind.
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Ta làm đơn giản thôi, ngay khi hắn đi qua chúng ta, ta xông vào hắn từ phía sau.
 134) LEE
-[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Yeah. [I have a weapon]
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Có. [I have a weapon]
 135) KENNY
-[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Good. [that you brought a waepon]
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Tốt. [that you brought a waepon]
 136) LEE
-[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]No.
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Không.
 137) KENNY
-[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Why didn't you grab a weapon?  [not really waiting for an answer]Whatever, I have one.
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Sao anh không lấy một cái chứ?  [not really waiting for an answer]Sao cũng được, tôi có đây.
 138) LEE
-[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]I'll keep an eye on him.  Be ready to act when I say.
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Tôi sẽ để mắt đến hắn.  Hãy sẵn sàng hành động khi tôi bảo.
 139) LEE
-[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]We'll take him out together.
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Chúng ta sẽ xử hắn cùng nhau.
 140) KENNY
-[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]How?
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Bằng cách nào?
 141) LEE
-[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]He doesn't know we're out. He's gotta walk past us to get to the meat locker.  We can take him when his back is to us.
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Hắn chưa biết là ta đã thoát ra. Hắn sẽ phải đi qua ta để đến phòng chứa thịt.  Rồi xông đến hắn khi hắn quay lưng với ta.
 142) LEE
 [pickup2][SUPER quiet! strugling to think of a plan] Uhh...
 143) KENNY
-[pickup2][SUPER quiet! Responding to lee saying nothing right after he says "Here's the plan" - Sarcastic]Dammit, Lee!  This is NOT the time to freeze up!
+[pickup2][SUPER quiet! Responding to lee saying nothing right after he says "Here's the plan" - Sarcastic]Đệt mẹ nó, Lee!  Giờ không phải lúc đờ ra đó đâu!
 145) KENNY
-[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]See where he is now.
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Xem thử hắn đâu rồi.
 146) KENNY
-[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]What's he doing out there?
+[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]Hắn đang làm gì ngoài đó?
 147) LEE
-[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn] I don't know.
+[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn] Tôi không biết.
 148) LEE
-[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn] They're talking about killing us!
+[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn] Chúng đang nói về việc giết chúng ta!
 149) KENNY
-[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]No shit.
+[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]Ôi đệt.
 150) LEE
-[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]He's inside, but he's not coming any closer.
+[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]Hắn vào trong rồi, nhưng hắn không đến gần đây.
 151) LEE
-[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]Sick fucker thinks this is a game!
+[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]Bon bệnh hoạn đó nghĩ đây là trò chơi!
 152) LEE
-[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]I don't see him anymore.
+[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]Tôi không thấy hắn nữa.
 153) KENNY
-[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]Well, where the fuck did he go?
+[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]Vậy, hắn đi đéo đâu rồi?
 154) LEE
-[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]I don't know. [where he went]
+[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]Tôi không biết. [where he went]
 155) KENNY
-[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]Look again.  He didn't go past us.
+[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]Nhìn lại xem.  Hắn vẫn chưa đi qua chúng ta.
 156) KENNY
-[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks] What's going on?
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks] Chuyện gì thế?
 157) KENNY
 [pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Lee...
 158) KENNY
-[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Where is he?
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Hắn đâu?
 159) KENNY
-[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]What's he doing?
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Hắn đang làm gì?
 160) KENNY
-[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]What's he doing now?
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Giờ hắn đang làm gì?
 161) KENNY
-[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]What do you see?
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Anh thấy gì?
 162) KENNY
-[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Lee, talk to me.
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Lee, nói với tôi đi.
 163) KENNY
-[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Hey!  Tell me something!
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Này!  Nói gì đó đi!
 164) KENNY
-[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Can you see him?
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Anh thấy hắn chứ?
 165) KENNY
-[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Tell me what's going on.
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Nói với tôi có chuyện gì.
 166) KENNY
-[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks] Hey, keep your eye on him!
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks] Này, để mắt đến hắn!
 167) KENNY
-[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks] Take a look through the cracks...
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks] Thử ngó qua khe nứt đi...
 168) KENNY
-[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks] See where he is now.
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks] Xem thử hắn đang ở đâu.
 169) KENNY
-[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks] Lee!  Focus!  Where's Danny?
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks] Lee!  Tập trung đi!  Danny đang ở đâu?
 170) DANNY
 [pickup2] [almost growling as He suprises Lee, grabbing him and pushing him toward the bear trap!] Gggrraaaaaaaahhhh!!!
 171) LEE
@@ -351,166 +351,166 @@ Not yet.
 179) DANNY
 [pickup2][in extreme pain, a bear trap just snapped on his leg!! ] Arrghh!!!!
 175) KENNY
-[pickup2][Shouting, threatening Danny?!] {angryc}Where's my family, asshole?!!
+[pickup2][Shouting, threatening Danny?!] {angryc}Gia đình tao đâu, thằng khốn?!!
 246) KENNY
-[pickup2][Shouting, threatening Danny?!] {angryc}Where's my family, asshole?!!
+[pickup2][Shouting, threatening Danny?!] {angryc}Gia đình tao đâu, thằng khốn?!!
 176) DANNY
-[pickup2][in extreme pain & being threatened] {disgusta}You can't have 'em! {feard}We need the vet.
+[pickup2][in extreme pain & being threatened] {disgusta}Mày không thể lấy chúng đi! {feard}Bọn tao cần ả thú y.
 247) DANNY
-[pickup2][in extreme pain & being threatened] {disgusta}You can't have 'em! {feard}We need the vet.
+[pickup2][in extreme pain & being threatened] {disgusta}Mày không thể lấy chúng đi! {feard}Bọn tao cần ả thú y.
 178) LILLY
 [pickup2][Stabbing Danny!  Attack!!] Aaahhh!!!!
 180) DANNY
 [pickup2][suffering the pain ] Arrghh!!!!
 181) DANNY
-[pickup2][stuck in a bear trap, in extreme pain! - Knows he's better off now as food than a person]Eerrgghhh!!!   You see?!! You understand now, don't you?!  You can have me!
+[pickup2][stuck in a bear trap, in extreme pain! - Knows he's better off now as food than a person]Eerrgghhh!!!   Thấy chưa?!! Giờ đã hiểu rồi, đúng chứ?!  Mày có thể làm thịt tao!
 182) DANNY
-[pickup2][stuck in a bear trap, in extreme pain! - Knows he's better off now as food than a person]It's how the world works now! Give part of yourself... so others can live!
+[pickup2][stuck in a bear trap, in extreme pain! - Knows he's better off now as food than a person]Đó là cách mà thế giới hoạt động bây giờ! Cho đi một phần của chính mình... để người khác có thể sống!
 183) 
-That's why you killed that woman!
+Đó là lý do mày giết người phụ nữ đó!
 184) 
-That crazy woman tried to warn me!
+Người phụ nữ điên đó đã cố cảnh cáo tao!
 185) LEE
-[pickup2][threatening Danny, about to kill him!]That crazy woman in the woods tried to warn me... And I killed her.
+[pickup2][threatening Danny, about to kill him!]Người phụ nữ trong rừng đó đã cố cảnh cáo tao... Và tao lại giết cô ta.
 186) DANNY
-[pickup2][in extreme pain! being threatened] That bitch never got it!  She almost fucked up our best deal!!
+[pickup2][in extreme pain! being threatened] Con chó cái đó không thể sống! Ả xém đã phá hỏng thỏa thuận tốt nhất của bọn tao!!
 187) LEE
-[pickup2][threatening Danny, about to kill him! - Realizing.]That's why you killed that woman in the woods!  She was about to spill everything!
+[pickup2][threatening Danny, about to kill him! - Realizing.]Đó là lý do mày giết người phụ nữ ở trong rừng đó!  Cô ta chuẩn bị nói ra mọi thứ!
 188) DANNY
-[pickup2][in extreme pain! being threatened] You weren't ready to hear yet, Lee!  Had to stop her.
+[pickup2][in extreme pain! being threatened] Mày vẫn chưa sẵn sàng để nghe, Lee!  Cần phải ngăn ả lại.
 189) KENNY
-[pickup2][Kenny had just eard Katjaa scream in the house!!! Full on panic mode!!] {angryc}Lee!  Come on!!
+[pickup2][Kenny had just eard Katjaa scream in the house!!! Full on panic mode!!] {angryc}Lee!  Nhanh lên!!
 250) KENNY
-[pickup2][Kenny had just eard Katjaa scream in the house!!! Full on panic mode!!] {angryc}Lee!  Come on!!
+[pickup2][Kenny had just eard Katjaa scream in the house!!! Full on panic mode!!] {angryc}Lee!  Nhanh lên!!
 190) LEE
-[pickup2][while Lee is threatening to kill Danny, Kenny wants to hurry to the house to save his family.]{angryb}Just go.  {angryc}I won't be far behind.
+[pickup2][while Lee is threatening to kill Danny, Kenny wants to hurry to the house to save his family.]{angryb}Cứ đi đi.  {angryc}Tôi sẽ không ở xa phía sau đâu.
 251) LEE
-[pickup2][while Lee is threatening to kill Danny, Kenny wants to hurry to the house to save his family.]{angryb}Just go.  {angryc}I won't be far behind.
+[pickup2][while Lee is threatening to kill Danny, Kenny wants to hurry to the house to save his family.]{angryb}Cứ đi đi.  {angryc}Tôi sẽ không ở xa phía sau đâu.
 191) LILLY
-[pickup3][still shellshocked. Lee is threateing one of the crazy cannibal rednecks, but she's utterly disgusted,Wanting to put this whole situation behind her.  NOT very projected.] I should fucking kill you right now.
+[pickup3][still shellshocked. Lee is threateing one of the crazy cannibal rednecks, but she's utterly disgusted,Wanting to put this whole situation behind her.  NOT very projected.] Tao nên giết quách mày ngay bây giờ.
 192) LEE
-[pickup2][threatening Danny, about to kill him! pissed]The man in your upstairs bathroom wasn't asking to be food!
+[pickup2][threatening Danny, about to kill him! pissed]Người ở phòng tắm tầng trên của các người đâu muốn trở thành thức ăn!
 193) LEE
-[pickup2][threatening Danny, about to kill him!  Pissed] Mark never volunteered to be food!
+[pickup2][threatening Danny, about to kill him!  Pissed] Mark chưa bao giờ tình nguyện trở thành thức ăn!
 194) 
-Cannibalism?!
+Ăn thịt đồng loại ư?!
 195) LEE
-[pickup2][threatening Danny, about to kill him! pissed]Cannibalism is NOT the answer!  Aren't the Walkers eating enough of us?!
+[pickup2][threatening Danny, about to kill him! pissed]Ăn thịt đồng loại KHÔNG phải câu trả lời! Chẳng phải đám xác sống đã ăn đủ chúng ta rồi sao?!
 196) DANNY
-[pickup2][In extreme pain!!] You gotta keep me alive.  If you kill me, the meat gets tainted!!  You can't eat it!
+[pickup2][In extreme pain!!] Mày phải giữ cho tao sống.  Nếu mày giết tao, thịt sẽ bị nhiễm!!  Mày sẽ không thể ăn nó!
 197) LEE
-{angryd}[pickup2][threatening Danny, deciding that Danny isn't worth killing]I'm not gonna kill you, you son of a bitch!
+{angryd}[pickup2][threatening Danny, deciding that Danny isn't worth killing]Tao sẽ không giết mày, thằng chó đẻ!
 198) LEE
-{angryd}[pickup2][threatening Danny, about to kill him]You don't deserve to live!!
+{angryd}[pickup2][threatening Danny, about to kill him]Mày không đáng được sống!!
 199) DANNY
-[pickup2][in pain from the bear trap - Lee has just threatened to kill him]You ain't gonna kill me, just like you didn't kill Jolene... You don't have what it takes!...[to himself] Fucking coward.
+[pickup2][in pain from the bear trap - Lee has just threatened to kill him]Mày sẽ không giết tao đâu, giống như việc mày đã không giết Jolene vậy... Mày không có sự can đảm đó!...[to himself] Thằng ngu hèn nhát.
 200) DANNY
-[pickup2][in extreme pain, Lee has just threatened to kill him] Do it then! I know you can, I seen you do it!   Just like you killed that woman in the camp!
+[pickup2][in extreme pain, Lee has just threatened to kill him] Vậy làm đi! Tao biết mày có thể, tao đã chứng kiến rồi!   Giống như cách mày đã giết ả phụ nữ ở trại vậy!
 201) LILLY
-[pickup2][still a bit numb, but Clementine has just watched Lee stab a guy in the face with a pitchfork!! She tries to comfort Clem.] It's okay, Clem.  He was a bad man.
+[pickup2][still a bit numb, but Clementine has just watched Lee stab a guy in the face with a pitchfork!! She tries to comfort Clem.] Nó ổn mà, Clem.  hắn là người xấu.
 202) CLEMENTINE
-[pickup2][has just watched Lee stab a guy in the face with a pitchfork!!] NOO!!!
+[pickup2][has just watched Lee stab a guy in the face with a pitchfork!!] KHÔÔÔNNG!!!
 203) KATJAA
-[pickup2][process - FAR in the distance!  As Andy takes Duck away from her] Nooooo!!
+[pickup2][process - FAR in the distance!  As Andy takes Duck away from her] Khôôônng!!
 248) KATJAA
-[pickup2][process - FAR in the distance!  As Andy takes Duck away from her] Nooooo!!
+[pickup2][process - FAR in the distance!  As Andy takes Duck away from her] Khôôônng!!
 204) KENNY
 [pickup2][Kenny had just eard Katjaa scream in the house!!! Full on panic mode] {fearc}KAT!!
 249) KENNY
 [pickup2][Kenny had just eard Katjaa scream in the house!!! Full on panic mode] {fearc}KAT!!
 205) KATJAA
-[pickup2][process FAR in the distance][screaming in the as Andy pulls Duck away from her] Please, noo!!!
+[pickup2][process FAR in the distance][screaming in the as Andy pulls Duck away from her] Làm ơn, khôông!!!
 206) LEE
-[pickup2][ thinking Kenny might have gotten hurt, Lee asks Lilly to prottect Clem while he's gone, even though Lilly hates him] Lilly, please keep her safe!
+[pickup2][ thinking Kenny might have gotten hurt, Lee asks Lilly to prottect Clem while he's gone, even though Lilly hates him] Lilly, làm ơn giữ an toàn cho con bé!
 207) LEE
-[pickup2][Hearing katjaa scream in the house!!] That's Katjaa!!
+[pickup2][Hearing katjaa scream in the house!!] Đó là Katjaa!!
 208) LILLY
-[pickup2][Pissed!!!  Lee has decided NOT to kill the crazy canibal guy right after helping Kenny kill her dad!]Fuck you, Lee. You and Kenny MURDER my dad, but you leave THIS piece of shit alive?!  You're a fucking asshole.
+[pickup2][Pissed!!!  Lee has decided NOT to kill the crazy canibal guy right after helping Kenny kill her dad!]Đệt mẹ anh, Lee. Anh và Kenny đã SÁT HẠI bố tôi, nhưng lại ĐỂ tên khốn này sống ư?!  Mẹ, tên khốn nạn.
 209) DANNY
 [pickup2][Frightened yelp as Lee just misses his head with a pitchfork] Aahhh!!
 210) LEE
-[pickup2][trying to hang on to his humanity! seething, trying to convince himself]This is NOT how the world works now.
+[pickup2][trying to hang on to his humanity! seething, trying to convince himself]Đây KHÔNG phải là cách mà giờ thế giới vận hành.
 211) LEE
-[pickup2][trying to hang on to his humanity! ]You won't make me kill you!!
+[pickup2][trying to hang on to his humanity! ]Mày không thể khiến tao giết mày đâu!!
 212) LEE
-[pickup2] [worried more about Clems safety than his own] Just stay here and keep Clementine safe.
+[pickup2] [worried more about Clems safety than his own] Hãy ở đây và giữ cho Clementine an toàn.
 213) LILLY
-[pickup2][Lilly, still numb, know that Lee has to find Kenny before Kenny gets more poeple killed]Go.  I'll cover you.
+[pickup2][Lilly, still numb, know that Lee has to find Kenny before Kenny gets more poeple killed]Đi đi.  Tôi sẽ yểm trợ cho.
 214) LEE
-[pickup2][turns to Clem as he's about to leave her in the barn under Lillys protection]I'll be right back.
+[pickup2][turns to Clem as he's about to leave her in the barn under Lillys protection]Chú sẽ trở lại ngay.
 215) LEE
-[pickup2][Lee looks up at Lilly, knowing this isnt over yet, but he doesnt see Kenny in the Barn]Where's Kenny?
+[pickup2][Lee looks up at Lilly, knowing this isnt over yet, but he doesnt see Kenny in the Barn]Kenny đâu?
 216) KENNY
-[pickup2][quiet, bitter]I told you there was something up with this room!  It's a goddamned human slaughterhouse!
+[pickup2][quiet, bitter]Tôi đã nói với anh là có gì đó với căn phòng này mà!  Nó là cả một lò mổ người!
 217) KATJAA
-[pickup2][process - FAR in the distance!  As Andy takes Duck away from her] Oh God!  Don't hurt him!!
+[pickup2][process - FAR in the distance!  As Andy takes Duck away from her] Ôi Chúa ơi!  Đừng làm đau thằng bé!!
 218) KATJAA
-[pickup2][process - FAR in the distance!  As Andy takes Duck away from her] God, nooooo!
+[pickup2][process - FAR in the distance!  As Andy takes Duck away from her] Chúa ơi, khôôônng!
 219) LEE
 [pickup2][Hearing katjaa scream in the house!!] Katjaa!!
 220) LILLY
-[pickup2][still a bit numb, but hearing Katjaa scream from the house] Just go.  I'll keep Clementine safe.
+[pickup2][still a bit numb, but hearing Katjaa scream from the house] Cứ đi đi.  Tôi sẽ giữ cho Clementine an toàn.
 221) LEE
-[pickup2][calling back to Danny saying "Dont kill me, the meat gets tainted"]You're already tainted.
+[pickup2][calling back to Danny saying "Dont kill me, the meat gets tainted"]Mày đã bị nhiễm sẵn rồi.
 222) 
-Door
+Cửa
 223) 
-Door
+Cửa
 224) 
-Mini Cattle Prod
+Sản Phẩm Gia Súc mini
 225) 
-Kill
+Giết
 226) 
-Punch
+Đấm
 227) 
-Skewer
+Xiên
 228) 
-Eviscerate
+Chém
 229) 
-Hay Hook
+Móc Gom Rơm
 230) 
-Sickle
+Lưỡi Liềm
 231) LEE
-[pickup3][hushed. sneaking around In the killing room behind the barn]Jesus, this is where they butcher people.
+[pickup3][hushed. sneaking around In the killing room behind the barn]Chúa ơi, đây là nơi chúng chặt thịt con người.
 232) KENNY
-[pickup3][hushed. sneaking around In the killing room behind the barn - Looking at Killing station]Sick bastards.  All of em!
+[pickup3][hushed. sneaking around In the killing room behind the barn - Looking at Killing station]Bọn khốn bệnh hoạn.  Tất cả bọn chúng!
 233) LEE
-[pickup3][hushed.to himself. sneaking around In the killing room behind the barn - looking at the bloody powersaw]Oh, god.  What is wrong with these people?!
+[pickup3][hushed.to himself. sneaking around In the killing room behind the barn - looking at the bloody powersaw]Ôi, trời ạ.  Có chuyện gì với đám người này vậy?!
 234) LEE
-[pickup3][hushed.to himself. sneaking around In the killing room behind the barn]Ugk... I think I'm gonna be sick.
+[pickup3][hushed.to himself. sneaking around In the killing room behind the barn]Ugk... Tôi nghĩ tôi phát ốm mất.
 235) LEE
-[pickup3][hushed to himself. sneaking around In the killing room behind the barn - looking at the vent]Maybe I shouldn't have sent Clementine through there.  This room would give anybody nightmares.
+[pickup3][hushed to himself. sneaking around In the killing room behind the barn - looking at the vent]Tôi đáng lẽ không nên đưa Clementine đến đây.  Căn phòng này sẽ khiến bất cứ ai gặp ác mộng mất.
 236) LEE
-[pickup3][hushed to himself. sneaking around In the killing room behind the barn ]I wonder how long they've been chaining people up in here?
+[pickup3][hushed to himself. sneaking around In the killing room behind the barn ]Tôi tự hỏi chúng đã xích những người đó ở đây bao lâu rồi?
 237) LEE
 [pickup3][hushed to himself. sneaking around In the killing room behind the barn - looking at a smeared long trail of blood ]Ugh..
 238) KENNY
-[pickup3][hushed. sneaking around In the killing room behind the barn - Looking pool of blood on the ground ]Hey, watch your step.  That's slippery.
+[pickup3][hushed. sneaking around In the killing room behind the barn - Looking pool of blood on the ground ]Này, coi chừng.  Trơn lắm đấy.
 239) 
-Blood
+Máu
 240) 
-Chain
+Dây Xích
 241) 
-Jars
+Những Cái Lọ
 242) 
 Meat Chart
 243) 
-Mitre Saw
+Máy Cưa Đứng
 244) 
-Bloody Tub
+Bồn Đầy Máu
 245) 
-Vent
+Lỗ Thông Hơi
 252) 
-Grab
+Lấy
 253) 
-Zap
+Hạ Gục
 254) 
 Danny
 255) 
-Spare
+Tha Mạng
 256) 
-Mark never volunteered to be food!
+Mark chưa bao giờ tình nguyện trở thành thức ăn!
 257) 
-Rifle
+Súng Trường
 258) 
-I'll keep an eye on him.  Be ready to act when I say.
+Tôi sẽ để mắt đến hắn.  Hãy sẵn sàng hành động khi tôi bảo.
