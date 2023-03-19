@@ -1,473 +1,473 @@
 1) CLEMENTINE
-[excited] {HappyB}Katjaa says Maybelle could have her baby tonight!
+[excited] {HappyB}Cô Katjaa nói rằng Maybelle có thể sinh con tối nay đấy ạ!
 2) KATJAA
-{HappyC}We'll see, Clementine.
+{HappyC}Chúng ta sẽ biết thôi, Clementine.
 3) LEE
-{body-B}{FearA}I...I'm sorry.
+{body-B}{FearA}Tôi...Tôi xin lỗi.
 4) ANDY
 [annoyed/frustrated] {body-A}{AngryA}*sigh*
 5) LEE
-{body-B}{FearA}Katjaa needed water. I... {HappyA}thought there might be some back here.
+{body-B}{FearA}Katjaa cần nước uống. Tôi... {HappyA}nghĩ sẽ có một chút ở sau đây.
 6) ANDY
-[annoyed]{body-A}{ThinkingA}Well next time just ask one of us.
+[annoyed]{body-A}{ThinkingA}Vậy lần sau hãy hỏi một trong chúng tôi.
 7) LEE
-{body-B}{ThinkingA}You guys seem to have a lot of medicine back there.
+{body-B}{ThinkingA}Mọi người có vẻ có khá nhiều thuốc ở đây.
 8) ANDY
-[with a creepy smile] {body-A}{HappyA}Sign o' the times, I guess.  {HappyB}You gotta stock up when you get the opportunity.
+[with a creepy smile] {body-A}{HappyA}Chỉ là dấu hiệu của thời gian thôi.  {HappyB}Cần phải tích trữ đồ khi có cơ hội mà.
 9) ANDY
-[Trying hard to keep his cool]{body-A}{ThinkingA}Look. Y'all seem like nice people, {HappyA}and God knows we appreciate your help.
+[Trying hard to keep his cool]{body-A}{ThinkingA}Nghe này. Các anh có vẻ là người tốt, {HappyA}và Chúa biết bọn tôi cảm kích sự giúp đỡ của các anh.
 10) ANDY
-[Trying hard to keep his cool]{NormalC}But you can't just go wandering around into {HappyA}locked places if you want us to trust you.
+[Trying hard to keep his cool]{NormalC}Nhưng anh không thể cứ lang thang quanh {HappyA}những nơi bị khóa nếu muốn bọn tôi tin tưởng các anh.
 11) ANDY
-[frustrated]{AngryA}All right...listen, {HappyA}dinner will be ready soon.  Why don't ya head on out, {HappyB}get the rest of your group and come back.
+[frustrated]{AngryA}Được rồi...nghe này, {HappyA}bữa tối sẽ sẵn sàng sớm thôi.  Sao anh không ra ngoài đi, {HappyB}tập hợp mọi người trong nhóm rồi quay lại đây.
 12) DUCK
-{body-A}{ThinkingA}Dad couldn't get it open.
+{body-A}{ThinkingA}Bố không mở nó ra được.
 13) KATJAA
-[scolding/hushed] {body-Sit}{DisgustA}Ah, you're just like Kenny! {AngryA}Put that axe away, or you'll get us {AngryB}all thrown out.
+[scolding/hushed] {body-Sit}{DisgustA}Ah, chẳng khác gì Kenny! {AngryA}Cất cái rìu đi, không thì anh sẽ khiến {AngryB}tất cả bị đá ra ngoài mất.
 14) KATJAA
-{body-Sit}{AngryB}No, you'll destroy the door!
+{body-Sit}{AngryB}Không, anh sẽ phá hỏng cái cửa mất!
 15) LEE
-[reading; quietly to himself] {Body-B}{SadA}Morphine?
+[reading; quietly to himself] {Body-B}{SadA}Thuốc Morphine?
 16) LEE
-{body-B}{ThinkingA}How's she doing?
+{body-B}{ThinkingA}Nó sao rồi?
 17) LEE
-{body-B}{ThinkingA}Nothing up there I need.
+{body-B}{ThinkingA}Không có gì trên đó mà mình cần.
 18) LEE
-[to himself; quiet but somewhat urgent][It's] {body-B}{AngryA}Clean.
+[to himself; quiet but somewhat urgent][It's] {body-B}{AngryA}Sạch sẽ.
 19) LEE
-[to himself; quiet but somewhat urgent] {body-B}{ThinkingA}I guess it's broken.
+[to himself; quiet but somewhat urgent] {body-B}{ThinkingA}Mình đoán là nó hỏng rồi.
 20) LEE
-[to himself; quiet but somewhat urgent]{Body-B}{ThinkingB}It's pretty scratched up.
+[to himself; quiet but somewhat urgent]{Body-B}{ThinkingB}Nó bị xước khá nhiều.
 21) LEE
-[to himself; quiet but somewhat urgent/shocked...looking at chains with meat hooks]{body-B}{DisgustA}What those are for?
+[to himself; quiet but somewhat urgent/shocked...looking at chains with meat hooks]{body-B}{DisgustA}Những thứ đó để làm gì?
 22) LEE
-[to himself; quiet but somewhat urgent]{Body-B}{NormalC}Nothing useful.
+[to himself; quiet but somewhat urgent]{Body-B}{NormalC}Chẳng có gì hữu ích.
 23) LEE
-[to himself; quiet but somewhat urgent]{Body-B}{ThinkingA}Looks old. I wonder if it still works?
+[to himself; quiet but somewhat urgent]{Body-B}{ThinkingA}Trông cũ rồi. Mình tự hỏi nó còn hoạt động không?
 24) LEE
-[to himself; quiet but somewhat urgent]{Body-B}{AngryA}Empty.
+[to himself; quiet but somewhat urgent]{Body-B}{AngryA}Trống rỗng.
 316) LEE
-[to himself; quiet but somewhat urgent]{Body-B}{AngryA}Empty.
+[to himself; quiet but somewhat urgent]{Body-B}{AngryA}Trống rỗng.
 25) LEE
-[to himself; quiet but somewhat urgent]{Body-B}{ThinkingA}Nothing. [Inside these boxes]
+[to himself; quiet but somewhat urgent]{Body-B}{ThinkingA}Không có gì. [Inside these boxes]
 26) KATJAA
-{body-Sit}{HappyA}If she goes into labor soon, she should be fine.  {SadA}But the calf... {NormalC}we'll see.
+{body-Sit}{HappyA}Nếu nó chuyển dạ sớm, thì sẽ ổn thôi..  {SadA}Nhưng con bê thì... {NormalC}để xem như nào.
 27) DUCK
-[defensive] {body-A}{HappyB}I'm helping!
+[defensive] {body-A}{HappyB}Con đang giúp mà!
 28) ANDY
-{body-A}{ThinkingA}What is it?
+{body-A}{ThinkingA}Sao thế?
 29) KATJAA
-{HappyB}Yes, baby. {HappyA}I need grown-up help.
+{HappyB}Ừ, con yêu. {HappyA}Mẹ cần một người lớn giúp.
 30) ANDY
-{NormalC}Okay, {ThinkingA}I'll be right back.
+{NormalC}Được thôi, {ThinkingA}tôi sẽ trở lại ngay.
 31) KATJAA
-[Calling Out] {body-Sit}{HappyA}Hey, Andrew... {NormalC}I need help in here.
+[Calling Out] {body-Sit}{HappyA}Này, Andrew... {NormalC}tôi cần giúp đỡ ở đây.
 32) KATJAA
-{body-Sit}{HappyA}She's fine. {NormalB}I'm trying to prepare her for labor. {ThinkingA}Could you get me some towels? From the house?
+{body-Sit}{HappyA}Nó ổn cả. {NormalB}Tôi đang cố gắng chuẩn bị cho nó chuyển dạ. {ThinkingA}Có thể lấy cho tôi vài cái khăn? Từ trong nhà không?
 33) ANDY
-{HappyA}All right.  Well, {HappyB}give me a holler if ya need anything.  {NormalC}I'm right outside.
+{HappyA}Được rồi.  Vậy, {HappyB}cứ hú tôi một tiếng nếu cần gì đó.  {NormalC}Tôi ở ngay bên ngoài.
 34) KATJAA
-{body-Sit}{HappyA}She's all right for now.
+{body-Sit}{HappyA}Giờ thì nó ổn thôi.
 35) ANDY
-{body-A}{NormalC}How's she doin'?
+{body-A}{NormalC}Nó sao rồi?
 36) LEE
-{body-B}{ThinkingA}Yeah.
+{body-B}{ThinkingA}Phải.
 37) KATJAA
-{body-Sit}{ThinkingA}Did Kenny tell you? {FearA}About the room?
+{body-Sit}{ThinkingA}Kenny đã nói với anh à? {FearA}Về căn phòng ấy?
 38) KATJAA
-I hate to say it, but he's right.  {ThinkingA}We need to know what's back there.{AngryA} I tried to look myself, {ThinkingA}but Andrew keeps poking his head in here...
+Tôi ghét phải nói thế, nhưng anh ấy đúng.  {ThinkingA}Chúng ta cần biết có gì ở sau đó.{AngryA} Tôi đã cố thử tự mình ngó xem, {ThinkingA}nhưng Andrew cứ luẩn quẩn quanh đây mãi...
 39) LEE
 {body-B}{NormalC}Katjaa...
 40) KATJAA
-{body-Sit}{FearA}Andy will be back any minute. {FearB}Please hurry.
+{body-Sit}{FearA}Andy sẽ trở lại bất cứ lúc nào. {FearB}Làm ơn nhanh lên.
 41) LEE
-{body-B}{HappyB}How do ya like that cow, Clem?
+{body-B}{HappyB}Sao cháu lại thích con bò thế, Clem?
 42) CLEMENTINE
-{body-Stand}{HappyA}She's pretty.
+{body-Stand}{HappyA}Nó đẹp ạ.
 43) LEE
-{body-B}{HappyB}You guys having fun?
+{body-B}{HappyB}Mấy đứa có vẻ vui nhỉ?
 44) DUCK
 {body-A}{HappyB}Uh huh!
 45) KATJAA
-{body-Sit}{FearA}Lee, hurry.
+{body-Sit}{FearA}Lee, nhanh lên.
 46) KATJAA
-[a little annoyed] {body-Sit}{AngryA}Lee, please!
+[a little annoyed] {body-Sit}{AngryA}Lee, làm ơn!
 47) LEE
-{body-B}{SadA}She looks skinny.
+{body-B}{SadA}Cô bé trông hơi gầy.
 48) KATJAA
-{FearB}Yeah... {HappyA}I guess we're lucky.
+{FearB}Ừ... {HappyA}tôi đoán chúng ta đã gặp may.
 49) LEE
-{body-B}{FearA}It's okay. {ThinkingA}I thought he'd be furious...
+{body-B}{FearA}Không sao cả. {ThinkingA}Tôi cứ nghĩ anh ta sẽ tức giận...
 50) LEE
-[puzzled]{ThinkingA}Yeah.  {NormalC}Guess so.
+[puzzled]{ThinkingA}Ừ.  {NormalC}Chắc vậy.
 51) KATJAA
-{body-Sit}{SadA}Sorry, Lee.  {SadB}I didn't hear him coming...
+{body-Sit}{SadA}Xin lỗi, Lee.  {SadB}Tôi không nghe thấy anh ta tới...
 52) KATJAA
-{body-Sit}{ThinkingA}Lee, are you {SadA}headed back for Lilly and everyone else?
+{body-Sit}{ThinkingA}Lee, anh {SadA}trở lại chỗ Lilly và mọi người chứ?
 53) LEE
-{HappyA}I will.
+{HappyA}Tôi sẽ làm thế.
 54) LEE
-{body-B}{NormalB}Yeah.
+{body-B}{NormalB}Ừ.
 55) KATJAA
-{NormalB}Okay.  {HappyA}We'll see you at dinner, then.  {SadA}Be careful out there.
+{NormalB}Được rồi.  {HappyA}Bọn tôi sẽ gặp anh lúc bữa tối, vậy.  {SadA}Cẩn thận ngoài đó đấy.
 56) DUCK
-[disapointed] {SadA}Okay.
+[disapointed] {SadA}Vâng ạ.
 57) LEE
-{body-B}{HappyA}Just stay close to your mom for now.
+{body-B}{HappyA}Giờ hãy ở gần mẹ thôi.
 58) DUCK
-{body-A}{HappyB}I wanna play on the hay!
+{body-A}{HappyB}Con muốn chơi trên chỗ cỏ khô!
 59) KATJAA
-{body-Sit}{AngryA}Lee, not up there.  {FearB}Check out the BACK room.
+{body-Sit}{AngryA}Lee, không phải chỗ đó.  {FearB}Kiểm tra căn phòng PHÍA SAU ấy.
 60) KATJAA
-{body-Sit}{FearA}He'll be gone for a few minutes, {ThinkingA}but we don't have any time to waste. {FearB} Hurry up.
+{body-Sit}{FearA}Anh ta sẽ rời đi trong vài phút, {ThinkingA}nhưng chúng ta không có thời gian lãng phí đâu. {FearB} Nhanh lên.
 61) LEE
-{body-B}{ThinkingA}Call him.  {NormalC}I'll see what I can do.
+{body-B}{ThinkingA}Gọi anh ta tới đi.  {NormalC}Tôi sẽ xem thử mình làm được gì.
 62) LEE
-{body-B}{NormalC}It's the cow...
+{body-B}{NormalC}Là con bò...
 63) LEE
-{body-B}{FearA}It's my wrist...
+{body-B}{FearA}Là cổ tay tôi...
 64) LEE
-{body-B}{HappyA}The kids are thirsty...
+{body-B}{HappyA}Bọn nhóc đang khát...
 65) ANDY
-{body-A}{FearA}Is Maybelle okay?
+{body-A}{FearA}Maybelle ổn chứ?
 66) LEE
-{SadA}I think I twisted it when we were fixing the fence.  {NormalC}Can ya get me some ice?
+{SadA}Tôi nghĩ nó đã bị bong gân khi đang sửa hàng rào  {NormalC}Có thể lấy giúp tôi ít đá không?
 67) ANDY
-{body-A}{ThinkingA}I'll go check up at the house.
+{body-A}{ThinkingA}Tôi sẽ đi xem thử trong nhà.
 68) ANDY
-{body-A}{HappyA}Yeah, I'll check with Momma.
+{body-A}{HappyA}Ừ, tôi sẽ xem thử cùng với mẹ.
 69) LEE
-{HappyB}Think you could bring 'em somethin'?
+{HappyB}Có thể lấy cho bọn nó gì đó chứ?
 70) KATJAA
-{body-Sit}{ThinkingA}That should buy you a few minutes...
+{body-Sit}{ThinkingA}Việc đó sẽ cho ta vài phút...
 71) DUCK
-{body-A}{ThinkingA}Daddy says it's called a salt lick.
+{body-A}{ThinkingA}Bố cháu nói nó được gọi là bãi liếm.
 72) CLEMENTINE
-{body-Stand}{ThinkingA}Yeah, but don't lick it.  {DisgustA}It's gross.
+{body-Stand}{ThinkingA}Đúng vậy, nhưng chú đừng liếm nó.  {DisgustA}Kinh lắm.
 73) LEE
-{body-B}{ThinkingA}What's this thing?
+{body-B}{ThinkingA}Thứ này là gì?
 74) CLEMENTINE
-[bashful] {HappyB}I don't know...
+[bashful] {HappyB}Cháu không biết...
 75) LEE
-{HappyA}Did you lick it?
+{HappyA}Cháu liếm nó rồi à?
 76) LEE
-[hushed] {body-B}{DisgustA}This room looks like a slaughter house...
+[hushed] {body-B}{DisgustA}Căn phòng này trông như một lò mổ vậy...
 77) LEE
-[hushed] {ThinkingA}Yeah, that was my thought, too.
+[hushed] {ThinkingA}Phải, đó cũng là suy nghĩ của tôi.
 78) KATJAA
-[hushed]{body-Sit}{ThinkingB}In a dairy?
+[hushed]{body-Sit}{ThinkingB}Trong một trang trại sữa ư?
 79) KATJAA
-{body-Sit}{HappyA}What do you see? {ThinkingA}Any food?
+{body-Sit}{HappyA}Anh thấy gì? {ThinkingA}Có chút thức ăn nào không?
 80) ANDY
-[stern] {body-A}{ThinkingA}Lookin' for something, Lee?
+[stern] {body-A}{ThinkingA}Đang tìm gì à, Lee?
 81) ANDY
-[with undertones of accusation]{body-A}{ThinkingA}Looks like Maybelle is doing better, {HappyA}huh?
+[with undertones of accusation]{body-A}{ThinkingA}Có vẻ Maybelle ổn hơn rồi, {HappyA}nhỉ?
 82) ANDY
-[with undertones of accusation]{body-A}{ThinkingA}Glad to see your wrist seems to be feeling better.
+[with undertones of accusation]{body-A}{ThinkingA}Thật mừng khi thấy cổ tay anh khá hơn.
 83) ANDY
-[with undertones of accusation]{body-A}{AngryA}Momma says the kids are welcome to come up to the{ThinkingA} house for drinks.
+[with undertones of accusation]{body-A}{AngryA}Mẹ nói rằng bọn nhỏ được chào đón vào trong{ThinkingA} nhà để uống nước.
 84) KATJAA
-{body-A}{HappyA}It's okay, Clementine, you can pet her.
+{body-A}{HappyA}Không sao đâu, Clementine, cháu có thể vuốt ve nó.
 85) LEE
-{HappyB}It's okay, go ahead.
+{HappyB}Không sao đâu, cứ làm đi.
 86) CLEMENTINE
-[amazed by the cow]{body-Stand}{HappyC}Woah...
+[amazed by the cow]{body-Stand}{HappyC}Quào...
 87) CLEMENTINE
-[ambient]{HappyB}There's a baby in there?
+[ambient]{HappyB}Có một em bé trong đó ạ?
 279) CLEMENTINE
-[ambient]{HappyB}There's a baby in there?
+[ambient]{HappyB}Có một em bé trong đó ạ?
 88) KATJAA
-[ambient]{ThinkingA}Careful, don't spook her.
+[ambient]{ThinkingA}Cẩn thận, đừng làm nó sợ.
 280) KATJAA
-[ambient]{ThinkingA}Careful, don't spook her.
+[ambient]{ThinkingA}Cẩn thận, đừng làm nó sợ.
 89) LEE
-[pickup3][slightly hushed, general worry about the kids]{body-B}{ThinkingA}How are the kids?
+[pickup3][slightly hushed, general worry about the kids]{body-B}{ThinkingA}Bọn nhỏ sao rồi?
 90) KATJAA
-{body-Sit}{HappyA}I never did thank you for saving Duck from the walkers {SadA}back at Hershel's farm.[Recorded during 101 pickups]
+{body-Sit}{HappyA}Tôi cũng chưa cảm ơn anh vì đã cứu Duck khỏi bọn xác sống {SadA}lúc ở trang trại của Hershel.[Recorded during 101 pickups]
 91) KATJAA
-[Ya know what, despite it all-]{body-Sit}{HappyA}They're doing okay.[Recorded during 101 pickups]
+[Ya know what, despite it all-]{body-Sit}{HappyA}Bọn chúng ổn cả.[Recorded during 101 pickups]
 92) LEE
-{body-B}{ThinkingA}What do you think of the Dairy?
+{body-B}{ThinkingA}Cô nghĩ sao về trang trại này?
 93) KATJAA
-{body-Sit}{HappyA}It's nice... {ThinkingA}But I don't think we should get to comfortable.  {NormalC}We don't really know these people yet, {ThinkingA}ya know?
+{body-Sit}{HappyA}Nó khá tuyệt... {ThinkingA}Nhưng tôi không nghĩ ta nên quá thoải mái.  {NormalC}Chúng ta chưa thật sự biết những người này, {ThinkingA}anh biết đấy?
 94) KATJAA
-{body-Sit}{HappyA}The St. John's have been very friendly to them. {ThinkingA}But...[Recorded during 101 pickups]
+{body-Sit}{HappyA}Nhà St. John's đã rấ thân thiện với chúng. {ThinkingA}Nhưng...[Recorded during 101 pickups]
 95) KATJAA
-If something happens and you've gotta choose between the kids or them, {AngryA}don't repeat what happened with the walkers at Hershel's farm.[Recorded during 101 pickups]
+Nếu có chuyện gì xảy ra và anh buộc phải chọn giữa bọn nhỏ với họ, {AngryA}đừng lặp lại điều xảy ra với đám xác sống ở trang trại của Hershel.[Recorded during 101 pickups]
 96) KATJAA
-[cont.]{ThinkingA}You choose the kids this time.[Recorded during 101 pickups]
+[cont.]{ThinkingA}Anh phải chọn bọn nhóc lần này.[Recorded during 101 pickups]
 97) KATJAA
-[pickup1][Asking Lee to check out the back room, but thinking he might chicken out][Follows: 310411407] {body-Sit}{AngryA}I'm not asking you to help out with surgery or anything...
+[pickup1][Asking Lee to check out the back room, but thinking he might chicken out][Follows: 310411407] {body-Sit}{AngryA}Cũng không phải tôi nhờ anh giúp làm phẫu thuật hay gì...
 98) LEE
-[pickup1][awkward, having been called out for not helping Katjaa with surgery earlier in the day]{body-B}{SadA}Listen, I -
+[pickup1][awkward, having been called out for not helping Katjaa with surgery earlier in the day]{body-B}{SadA}Nghe này, tôi -
 99) KATJAA
-[pickup1][Assuring Lee an apology isn't neccessary, just do this thing instead]{NormalC}You don't need to say anything.  {SadA}Just please, {ThinkingA}get rid of Andrew for a minute so we can get a look back there.
+[pickup1][Assuring Lee an apology isn't neccessary, just do this thing instead]{NormalC}Anh không cần nói gì cả.  {SadA}Chỉ là làm ơn, {ThinkingA}đuổi Andrew đi trong vài phút để chúng ta ngó qua xem có gì sau đó.
 100) LEE
-[pickup1][responding to katjaa asking for help distracting Danny in the barn]{body-B}{ThinkingA}I'll do whatever I can. [Remembering how his help didnt save David]{SadA}Maybe this time I can actually help.
+[pickup1][responding to katjaa asking for help distracting Danny in the barn]{body-B}{ThinkingA}Tôi sẽ làm những gì có thể. [Remembering how his help didnt save David]{SadA}Có lẽ lần này tôi thật sự có thể giúp gì đó.
 101) KATJAA
-[pickup1][Lee offers help with the Barn, but regrets that his help earlier didnt save david]{body-Sit}{SadA}Lee... {SadB}you did your best with David.  So did I.  {ThinkingA}But if you want to help the rest of us, {NormalC}you need to distract Andrew and see what's in that back room.
+[pickup1][Lee offers help with the Barn, but regrets that his help earlier didnt save david]{body-Sit}{SadA}Lee... {SadB}anh đã làm hết sức với David rồi.  Tôi cũng vậy.  {ThinkingA}Nhưng nếu anh muốn giúp chúng ta, {NormalC}anh cần phải đánh lạc hướng Andrew và xem thử có gì sau căn phòng đó.
 102) 
-Dairy Box
+Hộp Trang Trại Sữa
 103) 
-Cow
+Con Bò
 104) 
-Door
+Cửa
 105) 
-Barn Door
+Cửa Chuồng
 106) 
-Hay Bale
+Kiện Cỏ Khô
 107) 
 Lock
 108) 
-Fence Posts
+Cọc Hàng Rào
 109) 
-Look At
+Nhìn Vào
 228) 
-Look At
+Nhìn Vào
 110) 
-Stall Door
+Cửa Gian Chuồng
 111) 
-Feeding Trough
+Máng Ăn
 112) 
-Wheelbarrow
+Xe  Cút Kít
 113) TEMP
 Lee looks into the boxes.  They are empty.
 114) LEE
-[pickup1]{body-B}{ThinkingA}[talking to katjaa about the back room after searching it (And getting caught)]I don't know what that room is for, but if they are stockpiling food somewhere, it's not back there.
+[pickup1]{body-B}{ThinkingA}[talking to katjaa about the back room after searching it (And getting caught)]Tôi không biết căn phòng đó để làm gì, nhưng nếu họ có trữ thức ăn đâu đó, thì hẳn không phải ở đó.
 115) KENNY
-[pickup2] {Body-D}{ThinkingA}You found it too, eh?
+[pickup2] {Body-D}{ThinkingA}Anh cũng tìm thấy nó rồi nhỉ?
 116) LEE
-[pickup2][trying to calm Kenny down]{Body-B}{ThinkingA}Don't get paranoid.
+[pickup2][trying to calm Kenny down]{Body-B}{ThinkingA}Đừng hoang tưởng quá.
 117) KENNY
-[pickup2][whisper]  {Body-HandsHips}{AngryA}Lee, they're hiding something.  Behind this door.
+[pickup2][whisper]  {Body-HandsHips}{AngryA}Lee, bọn họ đang giấu thứ gì đó.  Ở đằng sau cánh cửa này.
 118) KENNY
-[pickup2]{Body-D}{AngryA}It's my JOB to be paranoid, Lee.  {AngryB}I got my whole family on this farm right now.  {ThinkingA}How about you?  What about Clem?
+[pickup2]{Body-D}{AngryA}Hoang tưởng là VIỆC của tôi, Lee.  {AngryB}Tôi còn cả một gia đình ở trang trại này nữa.  {ThinkingA}Còn anh? Clem thì sao?
 119) LEE
-[pickup2]I'll protect her, no matter what.
+[pickup2]Tôi sẽ bảo vệ con bé, dù cho có chuyện gì đi nữa.
 249) 
-I'll protect her, no matter what.
+Tôi sẽ bảo vệ con bé, dù cho có chuyện gì đi nữa.
 120) LEE
-[pickup2]{Body-B}{SadB}She's not actually family...
+[pickup2]{Body-B}{SadB}Con bé không hẳn là gia đình...
 121) LEE
-[pickup2]{Body-B}{AngryA}You're being stupid, Kenny.
+[pickup2]{Body-B}{AngryA}Anh đang cư xử ngu ngốc đấy, Kenny.
 122) KENNY
-[pickup2]{Body-D}I know you will.
+[pickup2]{Body-D}Tôi biết anh sẽ làm thế.
 123) KENNY
-[pickup2]{Body-D}{SadA}Pfft.  May as well be now, man.  {ThinkingA}That girl needs you.
+[pickup2]{Body-D}{SadA}Pfft.  Có lẽ là vậy, anh bạn.  {ThinkingA}Đứa nhóc đó cần anh.
 124) KENNY
-[pickup2][hurt] {Body-D}{AngryA}Stupid?  {AngryB}Stupid?!  {DisgustA}Nice one, Lee.
+[pickup2][hurt] {Body-D}{AngryA}Ngu ngốc?  {AngryB}Ngu ngốc á?!  {DisgustA}Được đấy, Lee.
 125) KENNY
-[pickup2]{Body-D}{SadB}You gotta think about that little girl now, Lee.
+[pickup2]{Body-D}{SadB}Anh phải nghĩ về cô bé nhỏ đó, Lee.
 126) KENNY
-[pickup2]{ThinkingA}So go find a hammer, and I'll have this thing off in a second.  {AngryA}You back me up in case them farmers come running.
+[pickup2]{ThinkingA}Vậy nên đi tìm một cây búa hay gì đó đi, và tôi sẽ khiến thứ này mở ra trong một giây.  {AngryA}Anh trông chừng cho tôi phòng trường hợp những tên nông dân kia tới.
 127) LEE
-[pickup2]{ThinkingB}Hang on, man.  Think this through.  {AngryA}You smash the lock.  {ThinkingA}Then what if it turns out you're wrong?   {ThinkingB}You just fucked your chance to get a good meal in those kids you're trying to protect.  {SurpriseA}Use your head, Kenny.
+[pickup2]{ThinkingB}Chờ chút, anh bạn.  Nghĩ cho thông đã.  {AngryA}Anh phá ổ khóa ra.  {ThinkingA}Vậy sẽ như nào nếu anh sai?   {ThinkingB}Lúc đó sẽ là anh ném đi cơ hội có một bữa ăn ngon cho đứa con mà anh đang cố bảo vệ.  {SurpriseA}Sử dụng cái đầu của mình đi, Kenny.
 128) LEE
-[pickup2]{Body-B}{ThinkingA}What?
+[pickup2]{Body-B}{ThinkingA}Tiếng gì?
 129) KENNY
-[pickup2]{Body-D}{AngryA}Look, {ThinkingA}that guy with Katjaa...  What's-his-name.  {DisgustA}He locked it up real TIGHT the second we came in.  [conspiratorially closer]I definitely heard a noise back there, Lee.
+[pickup2]{Body-D}{AngryA}Nhìn đi, {ThinkingA}cái tên ở cùng với Katjaa đó...  tên hắn là gì nhỉ.  {DisgustA}Hắn ta khóa nó lại thật sự rất CHẮC CHẮN lần thứ hai mà bọn tôi vào.  [conspiratorially closer]Tôi chắc chắn đã nghe thấy tiếng động trong đó, Lee.
 130) KENNY
-[pickup2]{Body-D}{AngryB}My point is, we gotta know for sure.
+[pickup2]{Body-D}{AngryB}Ý tôi là, chúng ta cần phải biết chắc.
 131) KENNY
-[pickup2][friendly joshing] {Body-D}{HappyA}All right, professor.  {ThinkingA}What do you have in mind?
+[pickup2][friendly joshing] {Body-D}{HappyA}Được rồi, thưa giáo sư.  {ThinkingA}Anh có ý tưởng gì trong đầu rồi?
 132) LEE
-[pickup2]{Body-B}{ThinkingB}Let me have a look at what we're dealing with first.
+[pickup2]{Body-B}{ThinkingB}Để tôi ngó qua xem chúng ta đang đối đầu với vấn đề gì đã.
 133) KENNY
-[pickup2][sardonic] {AngryA}What's YOUR genius idea, {Body-D}professor?
+[pickup2][sardonic] {AngryA}Ý tưởng thiên tài của ANH là gì, {Body-D}hả giáo sư?
 134) KENNY
-[pickup2]{Body-D}{AngryB}That's the second time {Body-HandsHips}you called me stupid, Lee.  {DisgustA}I'm gettin' kind sick of it.
+[pickup2]{Body-D}{AngryB}Đó là lần thứ hai {Body-HandsHips}anh gọi tôi là ngu ngốc rồi đấy, Lee.  {DisgustA}Tôi đang khá phát mệt vì nó rồi.
 135) KENNY
-[pickup2]{SadB} Jesus, man!  I'm from Florida!  {DisgustA}Crazy shit just comes out of my mouth sometimes.  {SurprisedA}Sorry.
+[pickup2]{SadB} Trời ạ, anh bạn!  Tôi tới từ Florida mà!  {DisgustA}Những thứ tào lao đôi lúc cứ tuôn ra từ miệng tôi thôi.  {SurprisedA}Xin lỗi.
 136) LEE
-[pickup2] {Body-B}{SurpriseA}No. [beat while he considers the implication] No!  {ThinkingB}Why would you say that?
+[pickup2] {Body-B}{SurpriseA}Không. [beat while he considers the implication] Không có!  {ThinkingB}Sao anh lại nói thế?
 137) LEE
-[pickup2] {AngryA}Oh, you are NOT saying what I {ThinkingA}think you're saying.
+[pickup2] {AngryA}Ôi trời, đừng bảo là anh đang nói {ThinkingA}điều mà tôi nghĩ anh muốn nói chứ.
 138) KENNY
-[pickup2] [anxious] {Body-D}{NormalC}Hey.  Lee.  {ThinkingA}You know how to pick a lock, right?
+[pickup2] [anxious] {Body-D}{NormalC}Này.  Lee.  {ThinkingA}Anh biết cách phá khóa chứ, nhỉ?
 139) KENNY
-[pickup2] {FearA}Well.  You're... {SadB}you know... {ThinkingA}urban?
+[pickup2] {FearA}Thì.  Anh là... {SadB}anh biết đấy... {ThinkingA}dân đô thị?
 140) LEE
-[pickup2] [subsequent inspections]  {Body-B}{AngryA}Pretty sturdy.
+[pickup2] [subsequent inspections]  {Body-B}{AngryA}Khá chắc chắn.
 141) LEE
 [pickup2][just had a breakthrough thought] {Body-B}{ThinkingA}Hm!
 142) KENNY
-[pickup2]{Body-D}{SurprisedA}What?
+[pickup2]{Body-D}{SurprisedA}Gì thế?
 143) LEE
-[pickup2]{ThinkingB}See those screws?  {HappyA}Instead of breaking the padlock, we can just take off the assembly, have a peek inside, {ThinkingA}and then replace it all again, like nothing ever happened.
+[pickup2]{ThinkingB}Thấy chỗ ốc vít đó chứ?  {HappyA}Thay vì phá đi ổ khóa, chúng ta chỉ cần tháo chốt khóa ra, ngó qua bên trong, {ThinkingA}và rồi lắp nó lại về chỗ cũ, giống như chưa có chuyện gì xảy ra vậy.
 144) KENNY
-[pickup2]{HappyB}All right.  Sounds like you got a plan.  {ThinkingA}I'll hang around and keep an eye on that guy with the cow.
+[pickup2]{HappyB}Được rồi.  Nghe có vẻ như anh đã có kế hoạch.  {ThinkingA}Tôi sẽ ở loanh quanh và để mắt tới tên đang cùng với con bò đó.
 145) LEE
 [pickup2]{NormalD}Andy.
 146) KENNY
-[pickup2]{DisgustA}Shit.  {FearB}I thought that {SurprisedA}was Danny.  {AngryA}Whatever.
+[pickup2]{DisgustA}Đệt.  {FearB}Tôi tưởng đó {SurprisedA}là Danny.  {AngryA}Mà sao cũng được.
 147) LEE
-[pickup2][subsequent inspections] [looking at the lock assembly] {Body-B}{ThinkingB}Screws holding it to the door.  {ThinkingA}If I can remove 'em, I don't even need to deal with the lock.
+[pickup2][subsequent inspections] [looking at the lock assembly] {Body-B}{ThinkingB}Cái ốc vít giữ nó vào cửa.  {ThinkingA}Nếu tôi có thể tháo nó, thì tôi không cần phải đối phó với ổ khóa.
 148) LEE
-[pickup2]{Body-B}{ThinkingA}Kenny thought he heard a noise
+[pickup2]{Body-B}{ThinkingA}Kenny nghĩ rằng anh ấy nghe thấy tiếng động.
 149) LEE
-[pickup2]{Body-B}{HappyA}Just checking out the barn here.  {HappyB}Never been to a dairy farm before.
+[pickup2]{Body-B}{HappyA}Chỉ là kiểm tra cái chuồng ở đây.  {HappyB}Chưa đến một trang trại sữa bao giờ ấy mà.
 150) LEE
-[pickup2]{Body-B}{ThinkingA}What's behind this door, Andy?
+[pickup2]{Body-B}{ThinkingA}Có gì ở sau cánh cửa vậy, Andy?
 151) ANDY
-[pickup2]Just tools.  We keep it locked so the people in the woods don't try and grab 'em.  We'd be dead without our tools.
+[pickup2]Chỉ là dụng cụ thôi.  Bọn tôi giữ cho nó khóa để bọn người trong rừng không cố lấy chúng đi.  Chúng tôi sẽ chết chắc nếu không có chúng.
 152) ANDY
-[pickup2]{HappyA}Well, we're all sure glad his wife is here.  {NormalC}She's a lifesaver-- {HappyB}you got no idea.
+[pickup2]{HappyA}Thì, bọn tôi đều rất mừng vì vợ anh ấy ở đây.  {NormalC}Cô ấy đúng là đấng cứu thế mà-- {HappyB}anh không biết đâu.
 153) ANDY
-[pickup2]{Body-A}{ThinkingA}He's a little jumpy, eh?
+[pickup2]{Body-A}{ThinkingA}Anh ta có tật giật mình, nhỉ?
 154) ANDY
-[pickup2]{Body-A}{HappyA}Okay.  Well, don't just roam around without me or Danny.  {NormalC}The farm can be a dangerous place.
+[pickup2]{Body-A}{HappyA}Được rồi.  Vậy, đừng lang thang xung quanh mà không có tôi hoặc Danny.  {NormalC}Trang trại có thể là một nơi nguy hiểm.
 155) ANDY
-[pickup2]{ThinkingA}You know, the bandits and all.  {NormalB}Sorry about your friend.
+[pickup2]{ThinkingA}Anh biết mà, bọn cướp và tất cả.  {NormalB}Rất tiếc vì bạn của anh.
 156) ANDY
-[pickup2]Hey, uh...  do me a favor.  Don't fuck around with this door.  Just, you know, Mama gets nervous.
+[pickup2]Này, ờ...  giúp tôi một chuyện nhé.  Đừng lởn vởn quanh cái cửa được chứ.  Chỉ là, các anh biết đấy, mẹ tôi sẽ lo lắng lắm.
 157) ANDY
-[pickup2]{NormalC}No problem!  {HappyB}Right away, doc!
+[pickup2]{NormalC}Không vấn đề gì!  {HappyB}Đến ngay đây, bác sĩ!
 158) KATJAA
-[pickup2][calling across the barn] {Body-Sit}{FearA}Andrew!  I need your help again.
+[pickup2][calling across the barn] {Body-Sit}{FearA}Andrew!  Tôi cần anh giúp lần nữa.
 159) ANDY
-[pickup2] {Body-A}{NormalC}Yeah?
+[pickup2] {Body-A}{NormalC}Vâng?
 160) LEE
-[pickup2] {Body-B}{HappyB}Hey there, Andy.
+[pickup2] {Body-B}{HappyB}Chào anh, Andy.
 161) ANDY
-[pickup2] {Body-A}{HappyA}Well, better now we got {HappyB}Doc on the case.
+[pickup2] {Body-A}{HappyA}Thì, tốt hơn nhiều {HappyB}khi có bác sĩ ở đây.
 162) ANDY
-[pickup2][laughs]{Body-A}{HappyA}Hungry, huh?  {HappyB}Don't worry.  {HappyC}Mama's cooking up some good grub.
+[pickup2][laughs]{Body-A}{HappyA}Đói rồi, hở?  {HappyB}Đừng lo.  {HappyC}Mẹ tôi đang nấu mấy món ngon lắm đấy.
 163) LEE
-[pickup2] {Body-B}{ThinkingA}How's the cow?
+[pickup2] {Body-B}{ThinkingA}Con bò sao rồi?
 164) LEE
-[pickup2]{Body-B}{FearA}Uh... [hems a bit] {ThinkingA}when do you think, {FearA}uh, {SadA}we might eat?
+[pickup2]{Body-B}{FearA}Ờm... [hems a bit] {ThinkingA}anh nghĩ khi nào, {FearA}ờ, {SadA}chúng ta sẽ được ăn?
 165) ANDY
-[pickup2][reluctant]{Body-A}{SurprisedA}Yeah.  {ThinkingA}He, uh, {HappyA}probably talks a little more than he oughta.
+[pickup2][reluctant]{Body-A}{SurprisedA}Ừ.  {ThinkingA}Nó, ờm, {HappyA}có lẽ nói hơi nhiều hơn là cần thiết.
 166) LEE
-[pickup2]{Body-B}{SadA}We met this woman up in the woods.  {ThinkingA}She seemed to know your brother.
+[pickup2]{Body-B}{SadA}Bọn tôi có gặp một người phụ nữ trong rừng.  {ThinkingA}Cô ta có vẻ biết em của anh.
 167) ANDY
-[pickup2]{Body-A}{NormalC}Yup.
+[pickup2]{Body-A}{NormalC}Ừ.
 168) LEE
-[pickup2]{Body-B}{HappyA}Thanks.
+[pickup2]{Body-B}{HappyA}Cảm ơn.
 169) LEE
-[pickup2]{Body-B}{ThinkingA}You got a screwdriver?
+[pickup2]{Body-B}{ThinkingA}Anh có cái tua vít nào không?
 170) ANDY
-[pickup2]{Body-A}{ThinkingA}For what?
+[pickup2]{Body-A}{ThinkingA}Để làm gì?
 171) LEE
-[pickup2]{SadA}Uhh... {FearA}never mind.
+[pickup2]{SadA}Ờ... {FearA}thôi không có gì.
 172) LEE
-[pickup2]{Body-B}{ThinkingB}Why do you lock that door?
+[pickup2]{Body-B}{ThinkingB}Sao anh phải khóa cánh cửa đó?
 173) ANDY
-[pickup2]Cuz we can't afford to lose our shit to the people In the woods.  They come down here every once in a while, raid our stuff.  Even with the fence.
+[pickup2]Bởi vì bọn tôi không thể để cho đồ của mình rơi vào tay bọn trong rừng nữa.  Thỉnh thoảng chúng có xuống đây, cướp đi đồ đạc của chúng tôi. Ngay cả với cái hàng rào.
 174) ANDY
-[pickup2]{Body-A}{NormalC}All righty, then.
+[pickup2]{Body-A}{NormalC}Vậy, được rồi.
 175) ANDY
-[pickup2]  {Body-A}{HappyA}No problem.
+[pickup2]  {Body-A}{HappyA}Không vấn đề gì.
 176) LEE
-[pickup2]It's a small tool box.
+[pickup2]Là một hộp dụng cụ nhỏ.
 177) LEE
-[pickup2]Brenda must use this thing for household repairs.
+[pickup2]Brenda hẳn đã dùng thứ này sửa chữa đồ đạc trong nhà.
 178) LEE
-[pickup2]I wonder if they keep a screwdriver in there.
+[pickup2]Không biết là họ có để cái tua vít trong đây không.
 179) LEE
-[pickup2]Multi-tool.  That should be handy.
+[pickup2]Dụng cụ đa năng.  Thứ này sẽ có ích đấy.
 180) LEE
-[pickup_2]Just gonna borrow this for a second.
+[pickup_2]Chỉ sẽ mượn thứ này một chút thôi.
 181) KENNY
-[pickup2]I got a quick look.  {FearA}They got boxes of stuff.  {FearB}And something metal and sharp.
+[pickup2]Tôi đã nhìn qua một chút.  {FearA}Họ có những chiếc hộp và vài thứ nữa.  {FearB}Và cả thứ gì đó bằng kim loại và rất sắc.
 182) ANDY
-[pickup_2]{Body-A}{ThinkingA}Did he say what?
+[pickup_2]{Body-A}{ThinkingA}Nó nói gì à?
 183) LEE
-[pickup_2]{Body-B}{ThinkingA}Danny mentioned he needed something.
+[pickup_2]{Body-B}{ThinkingA}Danny đề cập rằng anh ta cần gì đó.
 184) LEE
-[pickup_2]{FearA}Shit, I can't remember now.  Sorry.
+[pickup_2]{FearA}Đệt, tôi không nhớ ra được.  Xin lỗi.
 185) LEE
-[pickup_2]{Body-B}{ThinkingA}Danny needs something again.
+[pickup_2]{Body-B}{ThinkingA}Danny cần gì đó lần nữa.
 186) ANDY
-[pickup_2][huge sigh]{Body-A}{HappyA}...  All right, all right.  {NormalB}Be right back, doc.
+[pickup_2][huge sigh]{Body-A}{HappyA}...  Được rồi, được rồi.  {NormalB}Sẽ trở lại ngay, bác sĩ.
 187) LEE
-[pickup_2]{NormalB}Naw, {NormalA}not that important.
+[pickup_2]{NormalB}Không, {NormalA}không quan trọng đến thế.
 188) ANDY
-[pickup_2]{Body-A}{ThinkingA}If you need something, {HappyA}tell me what it is, {HappyB}and I can get it for ya.
+[pickup_2]{Body-A}{ThinkingA}Nếu anh cần gì, {HappyA}cứ nói thẳng với tôi, {HappyB}và tôi có thể lấy nó cho anh.
 189) LEE
-[pickup_2]{Body-B}{ThinkingA}So... {HappyA}Where do you keep the rest of the tools?
+[pickup_2]{Body-B}{ThinkingA}Vậy... {HappyA}Anh để chỗ dụng cụ còn lại ở đâu?
 190) LEE
-[pickup_2]{Body-B}{ThinkingB}I'm not gonna take the lock apart.
+[pickup_2]{Body-B}{ThinkingB}Tôi sẽ không tháo cái khóa ra đâu.
 191) ANDY
-[pickup_2][alt] C'mon.  Enough already.
+[pickup_2][alt] Thôi nào.  Đủ rồi đấy.
 192) ANDY
-[pickup_2][calling out, serious]  {Body-A}{ThinkingA}Guys.  Seriously.  {AngryA}Don't fuck around with that.
+[pickup_2][calling out, serious]  {Body-A}{ThinkingA}Các anh.  Nghiêm túc đấy.  {AngryA}Đừng lởn vởn quanh đó.
 193) LEE
-[pickup_2]{Body-B}{ThinkingA}Okay, let's do this...
+[pickup_2]{Body-B}{ThinkingA}Được rồi, làm thôi...
 194) ANDY
-[pickup_2]{Body-A}{NormalB}False alarm.  {HappyA}I'm back.
+[pickup_2]{Body-A}{NormalB}Báo động nhầm.  {HappyA}Tôi quay lại rồi.
 195) DUCK
-[pickup_2]{Body-A}{HappyA}Mom!  Dad!  {HappyB}Dinner time!   {SurprisedA}Dinner time!!!
+[pickup_2]{Body-A}{HappyA}Mẹ!  Bố!  {HappyB}Giờ ăn tối!   {SurprisedA}Đến giờ ăn tối rồi!!!
 196) KATJAA
-[pickup_2]{Body-Sit}{HappyC}Okay, honey.  {Body-A}Let's get Dad.
+[pickup_2]{Body-Sit}{HappyC}Được rồi, con yêu.  {Body-A}Đi kêu bố nào.
 197) DUCK
-[pickup_2]{HappyA}Dad!  Dad!  {SadB}C'mon, {HappyB}let's EEAAAAAT!!!
+[pickup_2]{HappyA}Bố ơi!  Bố!  {SadB}Đi nào, {HappyB}đi ĂĂNNN thôi!!!
 198) KATJAA
-[pickup_2]{ThinkingA}Kenny?  Come {HappyA}along, honey.
+[pickup_2]{ThinkingA}Kenny?  Đi cùng {HappyA}nào, anh yêu.
 199) KATJAA
-[pickup_2]Kenny, c'mon, {NormalA}don't make the children wait.
+[pickup_2]Kenny, nhanh nào, {NormalA}đừng để bọn trẻ phải đợi chứ.
 200) KENNY
-[pickup_2][whispered]  {Body-D}{ThinkingA}I'll make an excuse for you...
+[pickup_2][whispered]  {Body-D}{ThinkingA}Tôi sẽ tìm cớ cho anh...
 201) KENNY
-[pickup_2][intense whisper] {Body-A}{DisgustA}Get that thing off!
+[pickup_2][intense whisper] {Body-A}{DisgustA}Tháo thứ đó ra!
 202) ANDY
-[pickup_2][flat but strong] {HappyA}Dinner time.
+[pickup_2][flat but strong] {HappyA}Đến giờ ăn tối rồi.
 215) ANDY
-[pickup_2][flat but strong] {DisgustA}Dinner time.
+[pickup_2][flat but strong] {DisgustA}Đến giờ ăn tối rồi.
 203) ANDY
-[pickup_2][flat but strong] {Body-A}{AngryA}Boy.  {AngryB}Didn't you hear the bell?
+[pickup_2][flat but strong] {Body-A}{AngryA}Anh bạn.  {AngryB}Không nghe chuông kêu à?
 204) LEE
-[pickup_2]{Body-B}{SurpriseB}Andy, what the hell is in that back room?!
+[pickup_2]{Body-B}{SurpriseB}Andy, có quái gì trong căn phòng đó vậy?!
 205) LEE
-[pickup_2]{Body-B}{ThinkingB}Why was there so much blood in there?
+[pickup_2]{Body-B}{ThinkingB}Tại sao lại có nhiều máu trong đó vậy?
 206) LEE
-[pickup_2]{Body-B}{ThinkingA}Look.  {SurpriseA}I just came in and found the door open like that.
+[pickup_2]{Body-B}{ThinkingA}Nghe này.  {SurpriseA}Tôi chỉ vừa mới vào và thấy cái cửa mở như thế.
 207) ANDY
-[pickup_2] {Body-A}{ThinkingA}Look.  We have food here, but {HappyB}Danny and I still gotta do a lot of hunting to keep everyone fed.  {NormalA}When we catch something in the woods, we skin it and dress it back there.  {ThinkingA}Mama doesn't like us to make a mess in the house.  {NormalB}So you see?  {HappyA}Nothin' to worry about.
+[pickup_2] {Body-A}{ThinkingA}Nghe này.  Bọn tôi có thức ăn ở đây, nhưng {HappyB}Danny và tôi vẫn cần phải đi săn rất nhiều để giữ cho mọi người được ăn đủ.  {NormalA}Khi chúng tôi bắt được gì đó ở trong rừng, bọn tôi lột da nó và đem nó về đây.  {ThinkingA}Mẹ không thích chúng tôi gây bừa bộn ở trong nhà.  {NormalB}Nên anh thấy đấy?  {HappyA}Không có gì phải lo cả.
 208) LEE
-[pickup_2]{ThinkingA}No. She went in the house.
+[pickup_2]{ThinkingA}Không. Cô ấy vào trong nhà rồi.
 209) ANDY
-[pickup_2]{NormalC}Oh, good...  {HappyA}Yeah.  {HappyB}Good.
+[pickup_2]{NormalC}Ồ, tốt...  {HappyA}Ừ.  {HappyB}Tốt.
 210) ANDY
-[pickup_2]{Body-A}{ThinkingA}Huh... probably my idiot brother.  Hey, {HappyA}was anyone with you just now?
+[pickup_2]{Body-A}{ThinkingA}Hờ... có lẽ là thằng em ngốc của tôi.  Này, {HappyA}có ai khác ở cùng với anh lúc nãy không?
 211) ANDY
-[pickup_2]{ThinkingA}Not the doc?
+[pickup_2]{ThinkingA}Không phải cô bác sĩ à?
 212) LEE
-[pickup_2]{NormalD}No.
+[pickup_2]{NormalD}Không.
 213) ANDY
-[pickup_2]{NormalC}Well, anyway.  {ThinkingA}We best get going.  [pause] I'll fix that door later.
+[pickup_2]{NormalC}Vậy, dù sao thì.  {ThinkingA}Ta nên đi thôi.  [pause] Tôi sẽ sửa cánh cửa đó sau.
 214) ANDY
-[pickup_2][laughs]{Body-A}{HappyB}You know... You're a strange guy, Lee.
+[pickup_2][laughs]{Body-A}{HappyB}Anh biết không... anh là một người kỳ lạ đấy, Lee.
 216) ANDY
-[pickup_2][flat but strong] [alt version] Supper's ready.
+[pickup_2][flat but strong] [alt version] Rất sẵn sàng rồi.
 217) LEE
-[pickup_2]{Body-B}{AngryB}Shit!
+[pickup_2]{Body-B}{AngryB}Đệt!
 218) ANDY
-[pickup_2][flat but strong] {Body-A}{AngryB}Boy. Didn't you hear the bell?
+[pickup_2][flat but strong] {Body-A}{AngryB}Anh bạn không nghe tiếng chuông à?
 219) LEE
-[pickup2] I still can't get that lock off the door.
+[pickup2] Tôi vẫn không thể tháo cái chốt ra được.
 220) KENNY
-[pickup2][reminder] Hmmm.  You probably just need a screwdriver or something.
+[pickup2][reminder] Hmmm.  Anh có lẽ cần cái tua vít hay gì đó.
 221) LEE
-[pickup2]{Body-B}{ThinkingB}I picked up something I think could help with the lock.
+[pickup2]{Body-B}{ThinkingB}Tôi tìm thấy một thứ có thể giúp chúng ta tháo ổ khóa ra.
 222) KENNY
-[pickup2]{Body-D}{HappyA}All right.  {HappyB}Good to hear.
+[pickup2]{Body-D}{HappyA}Được rồi.  {HappyB}Thật tốt khi nghe điều đó.
 223) KENNY
-{Body-D}{HappyA}Good.  {ThinkingA}Now we just gotta keep that guy busy.
+{Body-D}{HappyA}Tốt.  {ThinkingA}Giờ ta chỉ cần giữ cho tên đó bận rộn.
 224) LEE
 {Body-B}{ThinkingA}Andy.
 225) KENNY
-{NormalC}Yeah.  {AngryA}He's been... watching.
+{NormalC}Phải.  {AngryA}Hắn đang... để ý đến.
 226) KENNY
-{Body-D}{AngryB}I wish that guy would just leave...
+{Body-D}{AngryB}Ước gì tên đó rời đi...
 227) KENNY
-[pickup_2]{Body-D}{ThinkingA}Nothin' to stop you now.
+[pickup_2]{Body-D}{ThinkingA}Không còn gì cản anh nữa cả.
 229) 
-Use Multi-Tool On
+Dùng Dụng Cụ Đa Năng
 230) LEE
-[friendly, talking to Duck]{normalD}Have I missed anything?
+[friendly, talking to Duck]{normalD}Chú có bỏ lỡ chuyện gì không?
 231) DUCK
-No, not really.
+Không, không hẳn ạ.
 232) CLEMENTINE
 [pickup1][giggles at the word "doo-dee"]
 235) DUCK
@@ -477,156 +477,156 @@ No, not really.
 242) DUCK
 [pickup1][giggles at the word "doo-dee"]
 233) KATJAA
-[pickup1]Kids! [dont be rude!...and stop giggling over the word Doo-Dee!]
+[pickup1]Mấy đứa! [dont be rude!...and stop giggling over the word Doo-Dee!]
 244) KATJAA
-[pickup1]Kids! [dont be rude!...and stop giggling over the word Doo-Dee!]
+[pickup1]Mấy đứa! [dont be rude!...and stop giggling over the word Doo-Dee!]
 234) CLEMENTINE
-[pickup1][whispered] Doo-dee!
+[pickup1][whispered] Phân ấy!
 236) DUCK
-[pickup1][confused]What's "manure"?
+[pickup1][confused]"Phân chuồng" là gì?
 237) CLEMENTINE
-[pickup1][When duck says Lee smells funny, Clem remembers what Lee said at Hershel's Barn][proud that she learned a new word]...Like manure!
+[pickup1][When duck says Lee smells funny, Clem remembers what Lee said at Hershel's Barn][proud that she learned a new word]...Như phân chuồng vậy!
 238) CLEMENTINE
-[pickup1][When duck says Lee smells funny, Clem remembers what Lee said at Hershel's Barn]Like... shit, right Lee?
+[pickup1][When duck says Lee smells funny, Clem remembers what Lee said at Hershel's Barn]Như... cứt ấy, nhỉ chú Lee?
 239) CLEMENTINE
-[pickup1][sad and embarased after being scolded about using swear words]Okay....
+[pickup1][sad and embarased after being scolded about using swear words]Vâng ạ....
 240) LEE
-[pickup3][after Clem says something smells like "shit"] Hey, don't use swear words, okay?
+[pickup3][after Clem says something smells like "shit"] Này, đừng dùng từ đó, được chứ?
 243) CLEMENTINE
-[pickup1][When duck says Lee smells funny, Clem remembers what Lee said at Hershel's Barn]...Like doo-dee!
+[pickup1][When duck says Lee smells funny, Clem remembers what Lee said at Hershel's Barn]...Giống mùi phân vậy!
 245) 
-Screw
+Ốc vít
 246) LEE
-[pickup3] It's a feeding trough.
+[pickup3] Là một cái máng ăn.
 247) LEE
-[pickup3] Just some fence posts.
+[pickup3] Chỉ là vài cái cọc hàng rào.
 248) DUCK
-[pickup2][sniffing the air] {DisgustA}It smells funny in here.
+[pickup2][sniffing the air] {DisgustA}Mùi ở đây lạ thật.
 250) 
-She's not actually family...
+Con bé không hẳn là gia đình tôi...
 251) 
-You're being stupid.
+Anh đang cư xử ngu ngốc đấy.
 252) 
-Kenny heard a noise.
+Kenny nghe thấy tiếng động.
 253) 
-Just checking out the barn.
+Chỉ đang xem thử cái chuồng thôi.
 254) 
-What's behind the door?
+Có gì ở sau cánh cửa vậy?
 255) 
-What the hell is this?!
+Cái quái gì đây?!
 256) 
-Why is there so much blood in there?
+Sao lại có nhiều máu trong đó vậy?
 257) 
-I  found the door open like that.
+Tôi vừa vào và thấy cửa mở như vậy.
 258) 
-How's the cow?
+Con bò sao rồi?
 259) 
-When do you think we might eat?
+Anh nghĩ khi nào chúng ta sẽ được ăn?
 260) 
-You got a screwdriver?
+Anh có một cái tua vít không?
 261) 
-Danny and I met a woman in the woods...
+Danny và tôi đã gặp một người phụ nữ trong rừng...
 262) 
-Where do you keep your tools?
+Anh giữ đống dụng cụ của mình ở đâu?
 263) 
 Danny necesita algo.
 264) 
 Danny necesita algo de nuevo.
 265) 
-Why do you lock that door?
+Tại sao phải khóa cánh cửa đó?
 266) LEE
-[pickup2][to himself]Looks like a bunch of old, dirty clothes.
+[pickup2][to himself]Trông như một đống quần áo cũ và bẩn.
 267) LEE
-[pickup2][to himself]Smells pretty foul.
+[pickup2][to himself]Mùi khá là hôi.
 268) ANDY
-[pickup3][returning to the barn after Lee sent him away for the 2nd time - Annoyed, but still friendly]Hey Lee, I know we all gotta have a little fun from time to time, but I got work to do.  Enough with the games, okay?
+[pickup3][returning to the barn after Lee sent him away for the 2nd time - Annoyed, but still friendly]Này Lee, tôi biết thỉnh thoảng ta cần phải vui vẻ một chút, nhưng tôi còn việc phải làm. Giỡn vậy đủ rồi, phải chứ?
 269) 
-I can't get that lock off the door.
+Tôi không tháo cái chốt khóa ra được.
 270) 
-I found a Multitool.
+Tôi tìm thấy một chiếc dụng cụ đa năng.
 271) LEE
-[pickup3][hushed - In the barn making a plan with Kenny to get Andy to leave]I tried distracting Andy, but he keeps coming back.
+[pickup3][hushed - In the barn making a plan with Kenny to get Andy to leave]Tôi đã cố đánh lạc hướng Andy, nhưng anh ta cứ quay lại.
 272) KENNY
-[pickup3][hushed - In the barn making a plan with Kenny to get Andy to leave]There's gotta be something out there you can mess with to keep him busy for a while...
+[pickup3][hushed - In the barn making a plan with Kenny to get Andy to leave]Phải có cái gì đó ngoài kia có thể khiến anh ta bận rộn trong một thời gian ...
 273) KENNY
-[pickup3][hushed - In the barn making a plan with Kenny to get Andy to leave][continuing his thought]What about thoses generators?
+[pickup3][hushed - In the barn making a plan with Kenny to get Andy to leave][continuing his thought]Cái máy phát thì sao?
 274) 
-Andy keeps coming back.
+Andy cứ quay lại.
 275) 
-How do I distract Andy?
+Làm sao để có thể đánh lạc hướng Andy?
 276) LEE
-[pickup3][hushed - In the barn making a plan with Kenny to get Andy to leave]Any thoughts on how do to distract Andy?
+[pickup3][hushed - In the barn making a plan with Kenny to get Andy to leave]Có ý tưởng gì để đánh lạc hướng Andy không?
 277) KENNY
-[pickup3][hushed - In the barn making a plan with Kenny to get Andy to leave]I don't know, man.  Just look for something outside of the barn, we need him out of here.
+[pickup3][hushed - In the barn making a plan with Kenny to get Andy to leave]Tôi không biết nữa, anh bạn.  Hãy thử tìm gì đó bên ngoài cái chuồng, chúng ta cần anh ta ra khỏi đây.
 278) LEE
-[pickup3][giving Clem her hat back, but he's cautious about it having found it in a crazy womans camp]Here Clementine.
+[pickup3][giving Clem her hat back, but he's cautious about it having found it in a crazy womans camp]Đây Clementine.
 281) LEE
-[pickup3][giving clementine back her hat, but cautious considering he found it at a crazy womans camp]Hey, Clementine...
+[pickup3][giving clementine back her hat, but cautious considering he found it at a crazy womans camp]Đây, Clementine...
 282) CLEMENTINE
-[pickup3]{HappyA}Okay, I will.
+[pickup3]{HappyA}Vâng ạ, cháu sẽ làm thế.
 283) LEE
-[pickup3][cautiously questing clem about her lost hat]{HappyA}It's probably nothing.  {ThinkingA}Just let me know if you ever see anything like that.
+[pickup3][cautiously questing clem about her lost hat]{HappyA}Có thể là không có gì đâu.  {ThinkingA}Chỉ là hãy cho chú biết nếu cháu thấy chuyện gì như thế.
 284) CLEMENTINE
-[pickup3][responding to "did you give your hat to anyone]{body-Stand}{SadA}No.
+[pickup3][responding to "did you give your hat to anyone]{body-Stand}{SadA}Không ạ.
 285) LEE
-[pickup3][cautiously questing clem about her lost hat]{ThinkingA}Did you see any strangers around the motor inn who might have taken it?
+[pickup3][cautiously questing clem about her lost hat]{ThinkingA}Cháu có thấy người lạ nào ở gần nhà nghỉ mà có thể đã lấy nó không?
 286) CLEMENTINE
-[pickup3][starting to worry about Lee's line of questioning] {NormalB}No.  {ThinkingA}Why?
+[pickup3][starting to worry about Lee's line of questioning] {NormalB}Không.  {ThinkingA}Tại sao ạ?
 287) LEE
-[pickup3][cautiously questing clem about her lost hat] {body-B}{HappyA}Listen, did you... {ThinkingA}give your hat to anyone?
+[pickup3][cautiously questing clem about her lost hat] {body-B}{HappyA}Nghe này, cháu có... {ThinkingA}đưa mũ của mình cho ai không?
 288) CLEMENTINE
-[pickup3][excited that Lee foud her hat!] My hat!  You found it!!
+[pickup3][excited that Lee foud her hat!] Mũ của cháu!  Chú đã tìm thấy nó!!
 289) 
-Danny mentioned he needed something.
+Danny đề cập rằng anh ta cần gì đó.
 290) 
-Danny needs something again.
+Danny lại cần gì đó rồi.
 291) 
-Talk to
+Nói chuyện
 292) 
-Give Hat To
+Đưa Chiếc Mũ
 293) LEE
-[pickup3][explaining why he stinks]Well, we are in a barn.  Ya get used to it after a while.
+[pickup3][explaining why he stinks]Thì, chúng ta đang ở trong một cái chuồng mà. Sẽ quen với nó sau một thời gian thôi.
 294) ANDY
-[pickup3][alt][when Andy appears while Lee & Kenny are planning to get into the back room - Flat, but not menancing]Can I help you boys find something?
+[pickup3][alt][when Andy appears while Lee & Kenny are planning to get into the back room - Flat, but not menancing]Tôi có thể giúp hai anh tìm gì không?
 295) CLEMENTINE
-[pickup3]{body-HandsOpen}{HappyC}I knew you'd find it!  {HappyB}You said you would!
+[pickup3]{body-HandsOpen}{HappyC}Cháu biết chú sẽ tìm được nó mà!  {HappyB}Chú nói chú sẽ tìm được!
 296) CLEMENTINE
-[pickup3]{body-Stand}{ThinkingA}I thought you didn't have time.
+[pickup3]{body-Stand}{ThinkingA}Cháu tưởng chú không có thời gian.
 297) CLEMENTINE
-[pickup3]{body-Stand}You knew I needed it!
+[pickup3]{body-Stand}Chú biết là cháu cần nó!
 298) CLEMENTINE
-[pickup3]{body-Stand}{HappyB}Thanks Lee.
+[pickup3]{body-Stand}{HappyB}Cảm ơn chú Lee.
 299) LEE
-[pickup3][about your hat]{body-B}{HappyA}I came across it {ThinkingA}by accident.
+[pickup3][about your hat]{body-B}{HappyA}Chú vô tình {ThinkingA}tìm thấy nó.
 300) LEE
-[pickup3]{body-B}{HappyA}Well, you did tell me it was a {HappyB}birthday present from your dad.
+[pickup3]{body-B}{HappyA}Thì, cháu đã nói với chú nó là {HappyB}quà sinh nhật từ bố cháu mà.
 301) CLEMENTINE
-[pickup3]Hey, Lee.  {HappyB}Do you think you'll ever have kids?
+[pickup3]Chú Lee này.  {HappyB}Chú nghĩ có bao giờ chú sẽ có con không?
 302) 
-I'd like to, someday.
+Chú muốn chứ, một ngày nào đó.
 303) 
-I don't think so.
+Chú không nghĩ vậy.
 304) 
-I haven't thought bout it in a while.
+Chú chưa nghĩ về nó trong một thời gian rồi.
 305) LEE
-[pickup3]{body-B}{HappyA}I'd like to someday.  {HappyB}Maybe a little girl, like you.
+[pickup3]{body-B}{HappyA}Chú có muốn một ngày nào đó.  {HappyB}Có thể là một đứa con gái nhỏ, giống như cháu vậy.
 306) CLEMENTINE
-[pickup3]{body-Stand}{HappyA}That's nice.  {body-HandOnWrist}You'd be a good daddy.
+[pickup3]{body-Stand}{HappyA}Thế thì tuyệt ạ.  {body-HandOnWrist}Chú sẽ là một người bố tốt.
 307) LEE
-[pickup3]{body-B}{SadA}I don't think so, Clem. {ThinkingA} Not the way the world is now.  {NormalC}I just... {SadA}I don't think I could do that.
+[pickup3]{body-B}{SadA}Chú không nghĩ vậy, Clem. {ThinkingA} Không phải tình hình hiện tại của thế giới này.  {NormalC}Chú chỉ là... {SadA}chú không nghĩ chú có thể.
 308) CLEMENTINE
-[pickup3]{body-Stand}{SadA}Oh.  {HappyA}{body-HandOnWrist}Maybe when the world gets better then.
+[pickup3]{body-Stand}{SadA}Ồ.  {HappyA}{body-HandOnWrist}Vậy, có lẽ khi thế giới trở nên tốt đẹp hơn.
 309) LEE
-[pickup3][sad]{SadA} Maybe.
+[pickup3][sad]{SadA} Có lẽ.
 310) LEE
-[pickup3]{body-B}{ThinkingA}I don't know.  {SadA}I haven't thought about having kids in a long time...
+[pickup3]{body-B}{ThinkingA}Chú không biết nữa.  {SadA}Chú chưa nghĩ về việc đó trong một thời gian rồi....
 311) LEE
-[pickup3]{HappyA}Nah, but {HappyB}you go on ahead.
+[pickup3]{HappyA}Thôi, nhưng {HappyB}cháu cứ tiếp tục đi.
 312) LEE
-[pickup3]{body-B}{HappyA}You're welcome Clem.
+[pickup3]{body-B}{HappyA}Không có gì cả, Clem.
 313) CLEMENTINE
-[pickup3][personal]{body-HandOnWrist}{HappyA}Well, {HappyB}thanks for finding my hat.
+[pickup3][personal]{body-HandOnWrist}{HappyA}Vậy, {HappyB}cảm ơn chú đã tìm mũ cho cháu.
 314) CLEMENTINE
-[pickup3]{body-Stand}{HappyC}Do you want to pet the cow with me?
+[pickup3]{body-Stand}{HappyC}Chú có muốn vuốt ve con bò với cháu không?
 315) KENNY
-[pickup3]Ah, no.  We're fine.  Just looking around...
+[pickup3]À, không.  Bọn tôi ổn.  Chỉ đang ngó xung quanh thôi...
