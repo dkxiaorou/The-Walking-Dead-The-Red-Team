@@ -1,132 +1,132 @@
 1) LEE
-[pickup3]Này, Clem, cháu thích đó dây không?
+[pickup3]Này, Clem, Cháu thích chiếc xích đu chứ?
 2) CLEMENTINE
-[pickup3]Có ạ!  Nó vui lắm!
+[pickup3]Có ạ!  Nó vui lắm luôn!
 3) CLEMENTINE
-[pickup3]Cảm ơn đã sửa nó giúp!
+[pickup3]Cảm ơn chú đã vì đã sửa nó ạ!
 4) LEE
-[pickup3]Không có gì ạ.
+[pickup3]Không có gì cả.
 5) CLEMENTINE
-[pickup3]Cháu sẽ!
+[pickup3]Cháu sẽ làm vậy ạ!
 6) LEE
-[pickup3]Nhớ bảo Andy "Cảm ơn chú," nhé?
+[pickup3]Nhớ nói với chú Andy một tiếng "Cảm ơn," được chứ?
 7) CLEMENTINE
-[pickup3] Chú đẩy cháu trên nó được không?
+[pickup3] Chú đẩy cho Cháu được không?
 8) CLEMENTINE
-[pickup3] Chú đẩy cháu trên nó được không?
+[pickup3] Chú đẩy cho Cháu được không?
 9) 
-Được.
+Tất nhiên.
 10) 
-Để lúc khác đi.
+Có lẽ để sau.
 11) CLEMENTINE
-[pickup3]Lee!  Chú đẩy cháu trên nó lần nữa được không?
+[pickup3]Chú Lee!  Chú đẩy cho Cháu lần nữa được không?
 12) LEE
-[pickup3]Được, đẩy cháu trên cái đu dây vui lắm. [I'll push you on the swing Clem]
+[pickup3]Được thôi, rất vui lòng đẩy xích đu cho Cháu. [I'll push you on the swing Clem]
 13) LEE
-[pickup3]Để lúc khác đi, okay?
+[pickup3]Có lẽ để sau, được chứ?
 14) CLEMENTINE
-[pickup3[bummed out] Oh.  Okay.
+[pickup3[bummed out] Ồ.  Vâng ạ.
 15) DUCK
-[Bummed]...Okay.
+[Bummed]...vâng ạ.
 58) CLEMENTINE
-[pickup3]Okay.
+[pickup3]Vâng ạ.
 16) LEE
-[pickup3][turning to Kenny]Phiền nếu Clementine được một lượt không?
+[pickup3][turning to Kenny]Có phiền không nếu để Clementine chơi một chút?
 17) KENNY
-[pickup3]Được rồi, Duck, hãy để cho Clementine thử một chút.
+[pickup3]Được rồi, Duck, để cho Clementine thử nó một chút nào.
 18) LEE
-[PICKUp3]Phiền nếu chúng tôi chen tí không?
+[PICKUp3]Có phiền không nếu nhường cho chúng tôi lần nữa?
 19) KENNY
-[pickup3]Được rồi, Duck, đến lúc nghĩ một lúc rồi.
+[pickup3]Được rồi, Duck, đến lúc nghỉ chút rồi.
 20) 
-Cháu thế nào rồi?
+Cháu sao rồi?
 21) 
-Cháu nghĩ sao về cái nông trại?
+Cháu thấy trang trại như thế nào?
 22) 
 Chúng ta an toàn ở đây.
 23) CLEMENTINE
-[pickup3][smiling] {HappyA}Ổn ạ.
+[pickup3][smiling] {HappyA}Vâng ạ.
 24) CLEMENTINE
-[pickup3]{ThinkingA}Cháu ổn cháu nghĩ vậy. Vậy chú có ổn không?
+[pickup3]{ThinkingA}Cháu ổn, Cháu đoán vậy. Chú có ổn không?
 25) LEE
-[pickup3]{HappyA}Anh ấy may mắn ra khỏi đó. Cũng có thể tệ hơn rất nhiều.
+[pickup3]{HappyA}Chú ấy may mắn ngoài đó đấy. Có thể đã tệ hơn rồi.
 26) CLEMENTINE
-[pickup3]{SadA}Cẩn thận.  Cháu cũng muốn chú an toàn nữa.
+[pickup3]{SadA}Chú cẩn thận nhé.  Cháu cũng muốn chú giữ may mắn nữa.
 27) LEE
-[pickup3]{ThinkingA}We have to make sure they don't hurt anyone else.
+[pickup3]{ThinkingA}Chúng ta phải chắc rằng họ sẽ không làm đau ai khác nữa.
 28) CLEMENTINE
-[pickup3]{SadA}Is Mark going to be okay?
+[pickup3]{SadA}Chú Mark sẽ ổn chứ ạ?
 29) LEE
-[pickup3]{Body-CrouchAxe}{ThinkingA}How are you holding up Clementine?
+[pickup3]{Body-CrouchAxe}{ThinkingA}Cháu sao rồi Clementine?
 30) LEE
-[pickup3]{HappyB}Từ lúc chú gặp cháu chú đã có may mắn, nên đừng lo.
+[pickup3]{HappyB}Kể từ khi gặp Cháu chú có khá nhiều may mắn đấy, vậy nên đừng lo.
 31) CLEMENTINE
-[pickup3] {ThinkingA}Chú có tìm được người đã hại Mark không?
+[pickup3] {ThinkingA}Chú đang chuẩn bị đi tìm những người đã làm đau chú Mark ạ?
 32) LEE
-[pickup3]Ừ, Chú chỉ cũng chút lo cho Mark.
+[pickup3]Ừ, chú chỉ hơi lo cho Mark thôi.
 57) LEE
-[pickup3]{NormalA}Ừ, Chú chỉ cũng chút lo cho Mark.
+[pickup3]{NormalA}Ừ, chú chỉ hơi lo cho Mark thôi.
 33) CLEMENTINE
-[pickup3]{HappyA}Nó đẹp mà. Nó gợi cho cháu về mọi thứ từng như trước.
+[pickup3]{HappyA}Đẹp lắm ạ. Nó gợi nhớ cho cháu mọi thứ trước đây trông như thế nào.
 34) CLEMENTINE
-[pickup3]{ThinkingA}Chú có nghĩ mọi thứ sẽ về như trước không?
+[pickup3]{ThinkingA}Chú nghĩ mọi thứ có thể nào trở lại như trước kia không?
 35) LEE
-[pickup3]{HappyB}Có, Nó có.
+[pickup3]{HappyB}Ừ, đúng là vậy.
 36) LEE
-[pickup3]{Body-CrouchAxe}{ThinkingA}Cháu nghĩ gì về nông trại này?
+[pickup3]{Body-CrouchAxe}{ThinkingA}Cháu thấy trang trại như thế nào?
 37) 
-Ừ.
+Có.
 38) 
-Chú không rõ nữa.
+Chú không chắc.
 39) 
 Chú không nghĩ vậy.
 40) LEE
-[pickup3]{Body-CrouchAxe}{HappyA}Ừ.  Chú không biết khi nào, nhưng một ngày nào đó mọi thứ sẽ trở lại như cũ.
+[pickup3]{Body-CrouchAxe}{HappyA}Có chứ.  Chú không chắc là khi nào, nhưng rồi sẽ có một ngày mọi thứ trở lại bình thường thôi.
 41) CLEMENTINE
-[pickup3]{HappyA}Thật tốt. Cháu cũng mong sớm vậy.
+[pickup3]{HappyA}Thế thì tốt ạ. Cháu mong là sẽ sớm.
 42) LEE
 [pickup3]{HappyB}Chú cũng vậy.
 43) LEE
-[pickup3]{Body-CrouchAxe}{ThinkingA}Chú không chắc nữa, Clem. Chú mong vậy.
+[pickup3]{Body-CrouchAxe}{ThinkingA}Chú không chắc nữa, Clem. Mong là vậy.
 44) CLEMENTINE
-[pickup3]{SadA}Cháu cũng mong vậy.
+[pickup3]{SadA}cháu cũng mong vậy nữa.
 45) LEE
-[pickup3] {SadA}Chú biết , Clem.  Chú cũng nhớ của chú.
+[pickup3] {SadA}Chú biết, Clem.  Chú cũng nhớ gia đình mình.
 46) LEE
 [pickup3]{Body-CrouchAxe}{SadA}Chú không nghĩ vậy.
 47) CLEMENTINE
-[pickup3]{SadB}Oh.
+[pickup3]{SadB}Ồ.
 48) CLEMENTINE
-[pickup3]{NormalA}Lee?
+[pickup3]{NormalA}Chú Lee?
 49) CLEMENTINE
-[pickup3]{SadA}Cháu nhớ gia đình của cháu.
+[pickup3]{SadA}Cháu nhớ gia đình mình.
 50) LEE
-[pickup3]{ThinkingA}Yeah?
+[pickup3]{ThinkingA}Vậy à?
 63) DUCK
-Yeah!!
+Vâng!!
 51) CLEMENTINE
-[pickup3][After Lee is silent] {SadA}Cháu nhớ mọi thứ từng như cũ.
+[pickup3][After Lee is silent] {SadA}Cháu nhớ mọi thứ như trước kia.
 52) LEE
 [pickup3]Chú hứa.
 53) CLEMENTINE
-[pickup3]Miễn là bọn người xấu không đến được với cháu, đúng không?
+[pickup3]Miễn là những người xấu không bắt được cháu, phải chứ ạ?
 54) LEE
-[pickup3]Chú sẽ không để chuyện xảy ra với Mark xảy ra với cháu.
+[pickup3]Chú sẽ không để chuyện đã xảy ra với Mark xảy đến với cháu đâu.
 55) CLEMENTINE
-[pickup3] Hứa chứ?
+[pickup3] Chú hứa chứ?
 56) LEE
-[pickup3] {Body-CrouchAxe}{HappyB}Đừng lo, chúng ta hiện đang an toàn tại đây.
+[pickup3] {Body-CrouchAxe}{HappyB}Đừng lo, bây giờ chúng ta an toàn ở đây.
 59) LEE
-[pickup3]{Body-CrouchAxe}{ThinkingA}Chú có vài việc phải xử lý.  Chú sẽ quay lại trong chốc lát.
+[pickup3]{Body-CrouchAxe}{ThinkingA}Chú còn việc khác cần xử lý nữa.  Chú sẽ trở lại ngay thôi.
 60) CLEMENTINE
-[pickup3]Okay. Cảm ơn đã đẩy cháu.
+[pickup3]Vâng ạ. Cảm ơn đã đẩy giúp cháu.
 61) LEE
-[pickup3]Được rồi, Clem, đủ cho hiện tại rồi đó.
+[pickup3]Được rồi, Clem, thế là đủ cho bây giờ rồi.
 65) LEE
-[pickup3]Được rồi, Clem, đủ cho hiện tại rồi đó.
+[pickup3]Được rồi, Clem, thế là đủ cho bây giờ rồi.
 62) LEE
-[pickup3]Được rồi. [turns to Kenny] Nó là của anh hết!
+[pickup3]Tất nhiên rồi. [turns to Kenny] Của hai người đấy!
 64) KENNY
-[pickup3][Duck reallly want to get back on the swing]Okay, Duck, không chọc thủng một miếng đệm.
+[pickup3][Duck reallly want to get back on the swing]Được rồi, Duck, từ từ thôi.
 66) CLEMENTINE
-[pickup3]Lee!  Chú đẩy cháu được không?
+[pickup3]Chú Lee!  Chú sẽ đẩy giúp cháu chứ?
