@@ -15,104 +15,104 @@ Katjaa
 308412427) 
 Zombie
 308412444) 
-Look At
+Nhìn
 308412445) 
-Talk To
+Nói với
 308412446) 
-Use
+Dùng
 308412447) 
-Take
+Lấy
 308412448) 
-Open
+Mở
 308412450) 
-Move To
+Di chuyển tới
 308412451) 
-Push
+Đẩy
 308412453) 
-Unlock
+Mở khoá
 308412454) 
-Search
+Tìm kiếm
 308412455) 
-Look Through
+Nhìn qua
 308412456) 
-Exit
+Rời đi
 310550531) 
-Exit
+Rời đi
 308412457) 
-Examine
+Kiểm tra
 308412458) 
-Move
+Di chuyển
 308412460) 
-Help
+Giúp
 308412461) 
-Hit
+Đánh
 308412462) 
-Pick Up
+Nhặt lên
 308412463) 
-Pull
+Kéo
 308412465) 
 ...
 308412466) 
-Stomp
+Giẫm lên
 308412467) 
-TO BE CONTINUED...
+CÒN TIẾP...
 310550529) 
 Ben
 310550530) 
-Chop
+Chặt
 310550537) 
-Close
+Đóng
 310550538) 
-Eat
+Ăn
 310550539) 
-Look Under
+Nhìn dưới
 310550540) 
-Back
+Lùi
 312717313) 
-Shoot
+Bắn
 312717314) 
-Grab
+Nhặt
 312717315) 
-Yell To
+La
 312717316) 
-Look In
+Nhìn
 312717317) 
-Boost
+Đẩy
 312717319) 
-Kick
+Đá
 312717320) 
-Punch
+Đấm
 312717321) 
 Christa
 312717322) 
 Omid
 312717323) 
-Give
+Đưa
 312717324) 
-Shove
+Nhét
 312717325) 
-Jab
+Chọc
 312717326) 
-Fight
+Đánh
 312717327) 
-Back Off
+Lùi về
 312717328) 
-Walk To
+Đi bộ tới
 312717329) 
-Enter
+Vào
 312717330) 
-Pry
+Phá
 312717331) 
-Block
+Chặn
 312717332) 
-Toggle
+Bật/Tắt
 312717333) 
-Turn
+Quay
 312717334) 
 Chuck
 312717335) 
-Jump Over
+Nhảy qua
 312717336) 
-Attach
+Gắn vào
 312717337) 
-Leave Her
+Bỏ rơi Cô ấy
