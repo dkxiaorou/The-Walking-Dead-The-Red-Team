@@ -1,128 +1,128 @@
 1) LILLY
-{normalB}Nếu những cuộc săn bắt gần đây không có tác dụng, ta sẽ phải rời đi nơi xa hơn.
+{normalB}Nếu cuộc đi săn ở gần không ra gì, ta đành phải đi xa hơn.
 2) LILLY
-{angryB}Nhưng đây là một địa điểm tốt.  {normalB}Chúng ta được bảo vệ, chúng ta gần cửa hàng tốt, {thinkingA}chúng ta có một lịch trình và nó đang hoạt động.
+{angryB}Nhưng đây là một địa điểm tốt.  {normalB}Chúng ta được bảo vệ, vị trí gần với tiệm thuốc, {thinkingA}ta cũng đã hình thành một thông lệ và nó cũng hoạt động khá tốt.
 3) LILLY
-{angryA}Trời, cả anh nữa.  Tôi biết Kenny muốn rời đi.  Tôi nghĩ đó là tại sao anh ấy nôn nóng muống cho xe RV chạy thế.
+{angryA}Trời ạ, cả anh nữa ư?  Tôi biết rằng Kenny muốn rời đi.  Tôi nghĩ đó là lý do tại sao anh ta lại muốn khiến cho chiếc RV hoạt động như vậy.
 4) LILLY
-[pickup2]Ừ, thì, đừng mong nó thay đổi.  Đó chỉ là anh ấy thôi.
+[pickup2]Ừ, chà, đừng mong rằng điều đó sẽ thay đổi.  Ông ấy là như thế đấy.
 5) LEE
-[pickup2]Được ba tháng rồi, bố cô vẫn cư xử tôi như một thằng khốn nào đấy.
+[pickup2]Đã ba tháng rồi, bố cô vẫn cứ cư xử với tôi cứ như tôi là tên khốn nào đó vậy.
 6) LEE
-[pickup2]Vậy ÔNG ẤY là một thằng khốn.
+[pickup2]Vậy ra ÔNG TA là tên khốn.
 7) LEE
-[pickup2]Ông ấy có cư xử với cô như vậy không?
+[pickup2]Ông ta cũng đối xử với cô như vậy à?
 8) LEE
-[pickup2]Sao cô có thể chuiuj đựng được ông ấy?
+[pickup2]Sao cô có thể chịu đựng được ông ta vậy?
 9) LILLY
-{angryA}Tất cả những gì ông ấy còn trên thế giới này là tôi.  {sadA}Và nó có thể đi hai hường.  {disgustA}Vậy, ừ, ông ấy sẽ vẫn đối xử với anh như cứt, nhưng đó là vì ông ấy vẫn còn một thứ để quan tâm.
+{angryA}Tất cả những gì ông còn lại ở thế giới này là tôi.  {sadA}Và nó cũng đi theo cả 2 hướng.  {disgustA}Vậy nên, ừ, ông ấy có thể tiếp tục đối xử với anh như vậy, nhưng đó là bởi vì ông ấy vẫn còn lại một thứ để quan tâm.
 10) LILLY
-{angryA}Nghe này. Bố tôi có thể thi thoảng là một thằng khốn, Tôi biết vậy.  {normalB}Nhưng ông ấy không phải kẻ xấu.  Ông ấy chỉ... {sadA}Ông ấy có nhiều nỗi đau.
+{angryA}Nghe này. Tính bố tôi đôi khi có thể hơi khó chịu chút, tôi thừa biết.  {normalB}Nhưng ông ấy không phải là người xấu.  Ông ấy chỉ là... {sadA}có quá nhiều nỗi đau thôi.
 11) LILLY
-{sadA}Ông ấy đã trải qua quá nhiều.  Và mất... {sadB}gần như tất cả.  {normalB}Và nó làm cho ông ấy cứng rắn, biết không?  {thinkingA}Ừ, ông ấy có thể càu nhàu và dễ ghét bỏ, nhưng đó là để bảo vệ ông ấy. Và tôi.
+{sadA}Ông ấy đã trải qua quá nhiều chuyện.  Và mất đi... {sadB}khá là nhiều thứ.  {normalB}Và nó khiến trái tim ông đông cứng lại, anh biết chứ?  {thinkingA}Ừ thì, ông ấy có hơi cục súc và đáng ghét chút, nhưng tất cả là chỉ để bảo vệ bản thân ông. Và cả tôi nữa.
 12) LILLY
-{angryA}Vậy đừng phán xét ông ấy.  Và đừng phán xét tôi vì gắn bó với ông ấy.  {sadA}Ông ấy là bố tôi, và tôi yêu ông ấy.
+{angryA}Vậy nên đừng phán xét ông ấy nữa.  Và cũng đừng phán xét cả tôi vì luôn cạnh bên ông.  {sadA}Ông ấy là bố tôi, và tôi yêu ông ấy.
 13) 
-[Give Half an Apple]
+[Đưa một nửa quả Táo]
 15) 
-[Give Piece of Jerky]
+[Đưa miếng Thịt Khô]
 16) 
-[Give Crackers and Cheese]
+[Đưa Bánh Quy và Phô Mai]
 17) 
-[Give Crackers and Cheese]
+[Đưa Bánh Quy và Phô Mai]
 56) 
-[Keep the last piece of food for yourself]
+[Giữ miếng cuối cùng cho bản thân]
 58) 
-[Save the last piece of food for someone else]
+[Giữ miếng cuối cùng cho người khác]
 60) 
-[Exit]
+[Thoát]
 14) LEE
-[pickup 2] Lấy quả táo đi, Lilly.
+[pickup 2] Cầm lấy quả táo này, Lilly.
 18) LEE
-[pickup 2] Này.
+[pickup 2] Đây.
 64) LEE
-[pickup 2] Này.
+[pickup 2] Đây.
 19) LILLY
 [pickup 2] Cảm ơn, Lee.
 20) LILLY
-[pickup 2] Tôi không muốn gì từ anh.
+[pickup 2] Tôi không muốn thứ gì từ anh cả.
 28) LILLY
-[pickup 2] Tôi không muốn gì từ anh.
+[pickup 2] Tôi không muốn thứ gì từ anh cả.
 21) LILLY
-[pickup 2] Tôi sẽ.
+[pickup 2] Tôi sẽ làm thế.
 22) LILLY
-[pickup 2] [a little agitated] Ừ.
+[pickup 2] [a little agitated] Được rồi.
 23) LEE
-[pickup 2]  Nhớ để ý nhé.
+[pickup 2]  Giữ to mắt cảnh giác.
 24) LEE
-[pickup 2] Cứ lấy đi. Cô cần ăn.
+[pickup 2] Cứ cầm đi. Cô cần phải ăn.
 25) LILLY
-[pickup 2] Điều này không thay đổi điều gì cả.
+[pickup 2] Làm thế sẽ không thay đổi điều gì đâu.
 26) LEE
-[pickup 2] [agitated at refusal] Ừ.
+[pickup 2] [agitated at refusal] Tốt thôi.
 27) LILLY
 [pickup 2] Cảm ơn.
 29) LEE
-[pickup 2] Lilly, tôi--
+[pickup 2] Lilly, Tôi--
 30) LILLY
-[pickup 2] [interrupting] Tôi thấy nó như thế nào rồi, Lee. Nói với anh sau, okay?
+[pickup 2] [interrupting] Tôi hiểu rồi, Lee. Để sau nói chuyện tiếp, được chứ?
 31) LILLY
-[pickup2][neutral]Không phải là một việc dễ, phải không?
+[pickup2][neutral]Không phải việc dễ chút nào, nhỉ?
 32) LEE
-[pickup2]Chưa hề nói nó vậy.
+[pickup2]Chưa từng nói là vậy.
 33) LEE
-[pickup2]Nó không quá khó.
+[pickup2]Cũng không quá khó.
 34) LILLY
-[pickup2]Tốt. Vậy anh có thể làm lại khi có ít đồ ăn hơn.
+[pickup2]Tốt. Vậy ngày mai anh có thể tiếp tục khi mà còn có ít đồ ăn hơn nữa.
 35) LEE
-[pickup2]Tôi không ghen tị anh.  Tôi không biết anh có đủ sức để làm chuyện này mỗi ngày không thôi.
+[pickup2]Không phải ganh đảo gì.  Nhưng tôi không hiểu cô lấy đâu ra sức để làm được việc này mỗi ngày đấy.
 36) LILLY
 [pickup2]Tôi không có lựa chọn.
 37) LILLY
-[pickup2][responding to silence, annoyed, flat] Gì cũng được.
+[pickup2][responding to silence, annoyed, flat] Sao cũng được.
 38) LEE
-[pickup2]Ta nên nói chuyện về việc cô và Kenny.
+[pickup2]Chúng ta nên nói về chuyện giữa cô và Kenny.
 39) LEE
-[pickup2]Cuộc cãi vã.  Nó đang ra khỏi tầm tay.  Cô biết đấy, mọi người để ý nó.
+[pickup2]Cuộc cãi vã ấy.  Nó đang đi quá xa rồi.  Cô biết mà, mọi người đều nhận thấy điều đó.
 40) LILLY
-[pickup2][annoyed]Nghe này, tôi làm cong MÔNG để chúng ta sắp đặt tốt tại đây và Kenny chỉ không trân trọng điều đó.
+[pickup2][annoyed]Nghe này, tôi đang làm việc cật lực để đảm bảo cho nơi trú ẩn này của chúng ta và Kenny thì lại không đánh giá cao về việc đó.
 41) LEE
-[pickup2]Nhưng không còn đồ ăn.  Cô biết điều đó tốt hơn bất kì ai.
+[pickup2]Nhưng làm gì có còn thức ăn.  Cô biết rõ hơn ai khác mà.
 42) LILLY
-[pickup3][As if there is no other choice - responding to "But there IS no food."]Vậy, chúng ta sẽ phải tìm thêm.
+[pickup3][As if there is no other choice - responding to "But there IS no food."]Thì, chúng ta sẽ cần phải đi tìm thêm.
 43) LILLY
-[pickup2][annoyed] Vậy còn chúng ta?
+[pickup2][annoyed] Giữa chúng tôi thì sao?
 44) 
-Ta nên nghĩ đến việc rời khỏi đây.
+Chúng ta nên nghĩ đến việc rời khỏi đây.
 45) 
-Hãy nói chuyện cô với Kenny.
+Hãy nói về chuyện giữa cô và Kenny.
 46) 
-Cứ lấy đi
+Cứ cầm đi
 47) 
-Ừ. Vậy đừng ăn.
+Được thôi. Thế đừng ăn.
 48) 
-Nói với
+Nói chuyện
 49) 
-Đưa đồ ăn cho
+Đưa thức ăn
 50) LEE
-[pickup3][casual. - "Your routine is working..."]Tạm thời.
+[pickup3][casual. - "Your routine is working..."]Lúc này thôi.
 51) LEE
-[pickup3][casual]Có lẽ ta nên nghĩ đến việc rời khỏi Nhà nghỉ.
+[pickup3][casual]Có lẽ chúng ta nên nghĩ đến việc rời khỏi nhà nghỉ này.
 52) 
-Tôi hết dồ ăn cho cô rồi.
+Tôi không còn thức ăn cho cô.
 53) 
-Muốn đồ ăn không? [Give Food]
+Muốn chút thức ăn không? [Đưa thức ăn]
 54) LEE
-[pickup3][to himself - depressed, having only 1 piece of food left]Một miếng đồ ăn nữa để cho đi, rồi nó sẽ hết trong ngày hôm nay.
+[pickup3][to himself - depressed, having only 1 piece of food left]Một miếng thức ăn nữa để chia, sau đó là hết phần cho hôm nay.
 55) LEE
-[pickup3][knowing there is only one more piece of food left]Hm.  Tôi có nên giữ cái này cho bản thân không?
+[pickup3][knowing there is only one more piece of food left]Hm.  Có lẽ mình nên giữ nó cho bản thân?
 57) LEE
-[pickup3][to himself - keeping the last bit of food for himself]Tôi cần phải sức khoẻ của tôi nữa.
+[pickup3][to himself - keeping the last bit of food for himself]Mình cũng cần duy trì sức lực nữa.
 59) LEE
-[pickup3][to himself - choosing to save the food for someone else]Không.  Một số người đã trải qua nhiều hơn tôi mà không có đồ ăn.  Họ là những người cần nó.
+[pickup3][to himself - choosing to save the food for someone else]Thôi.  Một vài người đã nhịn đói còn lâu hơn cả mình nữa.  Họ mới là người cần nó.
 61) LEE
-Sẽ quay lại trong chốc lát.
+Sẽ trở lại ngay.
 62) LEE
-[pickup3][to himself, bummed that he's out of food]Vậy, hết rồi đó.
+[pickup3][to himself, bummed that he's out of food]Chà, vậy là hết.
 63) LILLY
-Tất cả những gì ta cần là đồ ăn.
+TẤT CẢ chúng ta cần là thức ăn.
