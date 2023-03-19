@@ -1,24 +1,24 @@
 1) LEE
-[friendly, talking to Duck]{normalD}Chú có bỏ lỡ gì không?
+[friendly, talking to Duck]{normalD}Chú có bỏ lỡ chuyện gì không?
 2) DUCK
-Không, không hẳn.
+Không, không hẳn ạ.
 3) KATJAA
-[pickup1]Kids! [dont be rude!...and stop giggling over the word Doo-Dee!]
+[pickup1]Mấy đứa! [dont be rude!...and stop giggling over the word Doo-Dee!]
 4) CLEMENTINE
 [pickup1][giggles at the word "doo-dee"]
 6) DUCK
 [pickup1][giggles at the word "doo-dee"]
 5) CLEMENTINE
-[pickup1][whispered] Doo-dee!
+[pickup1][whispered] Phân ấy!
 7) DUCK
-[pickup1][confused]"Phân chuồng" là gì?
+[pickup1][confused]"phân chuồng" là gì?
 8) CLEMENTINE
-[pickup1][When duck says Lee smells funny, Clem remembers what Lee said at Hershel's Barn][proud that she learned a new word]...Như phân chuồng!
+[pickup1][When duck says Lee smells funny, Clem remembers what Lee said at Hershel's Barn][proud that she learned a new word]...Giống như phân chuồng!
 9) CLEMENTINE
-[pickup1][sad and embarased after being scolded about using swear words]Okay....
+[pickup1][sad and embarased after being scolded about using swear words]Vâng ạ....
 10) CLEMENTINE
-[pickup1][When duck says Lee smells funny, Clem remembers what Lee said at Hershel's Barn]Như... cứt, đúng không Lee?
+[pickup1][When duck says Lee smells funny, Clem remembers what Lee said at Hershel's Barn]Như là... cứt ấy, nhỉ chú Lee?
 11) LEE
-[pickup3][after Clem says something smells like "shit"] Này, không được dùng từ chửi thề, okay?
+[pickup3][after Clem says something smells like "shit"] Này, đừng dùng từ đó, được chứ?
 12) CLEMENTINE
-[pickup1][When duck says Lee smells funny, Clem remembers what Lee said at Hershel's Barn]...Như doo-dee!
+[pickup1][When duck says Lee smells funny, Clem remembers what Lee said at Hershel's Barn]...Giống mùi phân vậy!
