@@ -15,49 +15,49 @@ Lilly
 8) 
 Katjaa
 9) 
-Xác sống
+Xác Sống
 10) 
-Nhìn
+Nhìn Vào
 11) 
-Nói chuyện với
+Nói chuyện
 12) 
-Dùng
+Use
 13) 
 Lấy
 14) 
-Mở
+Mở Ra
 15) 
-Di chuyển tới
+Move To
 16) 
 Đẩy
 17) 
-Mở khoá
+Unlock
 18) 
-Tìm
+Tìm kiếm
 19) 
-Nhìn qua
+Nhìn Qua
 20) 
-Rời khỏi
+Thoát
 32) 
-Rời khỏi
+Thoát
 21) 
-Tìm hiểu
+Xem Xét
 22) 
-Di chuyển
+Di Chuyển
 23) 
 Giúp
 24) 
 Đánh
 25) 
-Nhặt lên
+Nhặt Lên
 26) 
-Kéo
+Lấy Ra
 27) 
 ...
 28) 
-Giẫm lên
+Dẫm
 29) 
-Còn tiếp...
+CÒN TIẾP...
 30) 
 Ben
 31) 
@@ -77,6 +77,6 @@ Jolene
 39) 
 Ăn
 40) 
-Nhìn dưới
+Nhìn Phía Dưới
 41) 
-Lùi
+Quay Lại
