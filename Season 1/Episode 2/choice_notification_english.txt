@@ -1,7 +1,7 @@
 1) 
 Mark sẽ nhớ điều đó.
 2) 
-Anh ấy để ý sự im lặng của bạn.
+Anh ta để ý sự im lặng của bạn.
 3) 
 Cô ấy để ý sự im lặng của bạn.
 4) 
@@ -9,59 +9,59 @@ Elegiste no ayudar.
 5) 
 Tomaste una decisión difícil y rescataste a David.
 6) 
-Bạn đã không thể thả David.
+Bạn đã không thể cứu David.
 72) 
-Bạn đã không thể thả David.
+Bạn đã không thể cứu David.
 7) 
 Kenny để ý sự trung thành của bạn.
 8) 
 Lilly để ý sự trung thành của bạn.
 9) 
-Kenny đã rất tức giận bởi sự im lặng của bạn.
+Kenny thất vọng bởi sự im lặng của bạn.
 10) 
-Bạn đã cố ở trung gian.
+Bạn đã cố đứng ở trung gian.
 11) 
 Katjaa không trân trọng điều đó.
 12) 
-Họ đều để ý bản cùng phe với Kenny.
+Họ đều để ý bạn cùng phe với Kenny.
 13) 
-Họ đều để ý bản cùng phe với Lilly.
+Họ đều để ý bạn cùng phe với Lilly.
 14) 
-Đưa đồ ăn cho Ben có thể chứng minh là một lựa chọn không tốt.
+Đưa đồ ăn cho Ben chứng minh là một lựa chọn không tốt.
 15) 
-Duck và gia định cậu ấy trân trọng điều đó.
+Duck và gia đình cậu nhóc cảm kích điều đó.
 16) 
-Bạn đã chọn cho Carley ăn.
+Bạn đã chọn đưa thức ăn cho Carley.
 17) 
-Bạn đã chọn chăm sóc Clementine.
+Bạn đã chọn chăm sóc cho Clementine.
 18) 
-Bạn đã chọn giữ đồ ăn cho bản thân.
+Bạn đã chọn giữ thức ăn cho mình.
 19) 
-Bạn đã đưa Doug một quả táo.
+Bạn đã chọn đưa cho Doug một quả táo.
 20) 
-Những người khác đã để ý bạn cho Kenny đồ ăn.
+Những người khác đã để ý tới việc bạn cho Kenny đồ ăn.
 21) 
-Bạn đã làm một lựa chọn khó khăn.
+Bạn đưa ra một sự lựa chọn khó nhằn.
 22) 
-Bạn đã chọn cho Lilly đồ ăn.
+Bạn đã chọn đưa thức ăn cho Lilly.
 23) 
-Lilly vẫn đang tức giận.
+Lilly vẫn còn đang nóng giận.
 24) 
-Bạn đã cho Mark ăn.
+Bạn đã cho Mark đồ ăn.
 25) 
 Dejaste que Danny le disparara a Jolene.
 26) 
 Bạn đã chọn bắn Jolene.
 27) 
-Danny đã để ý thứ bạn đã tìm thấy.
+Danny để ý thứ bạn tìm thấy.
 28) 
-Bạn đã tìm thấy thuốc nitro-glycerin.  Lilly chắc sẽ muốn chúng.
+Bạn tìm thấy thuốc nitro-glycerin.  Lilly có lẽ sẽ muốn chúng.
 29) 
-You voted against going to the dairy.
+Bạn đã bỏ phiếu không đến trang trại.
 30) 
 Cô ấy sẽ nhớ điều đó.
 31) 
-Bạn quyết định mọi người nên đi.
+Bạn quyết định rằng mọi người nên đi.
 32) 
 Còn lại ba miếng thức ăn.
 33) 
@@ -75,49 +75,49 @@ Mark đã để ý sự lo lắng của bạn.
 37) 
 Mark đã thấy được sự nghi ngờ của bạn.
 38) 
-He noticed your ambivalence.
+Anh ta để ý đến sự mâu thuẫn của bạn.
 39) 
-Anh ấy sẽ nhớ điều đó.
+Anh ta sẽ nhớ điều đó.
 40) 
-Bạn đã biết được họ có vài khẩu súng.
+Bạn biết được rằng họ có vài khẩu súng.
 41) 
 Andy trân trọng sự giúp đỡ của bạn.
 42) 
-Bạn đã phát hiện ra những người sống sót khác đã sống trên nông trại này.
+Bạn đã phát hiện ra những người sống sót khác đã từng ở lại nông trại này.
 43) 
 Kenny không thích điều đó.
 44) 
-Bạn đã cố ngăn cô ấy!
+Bạn đã cố ngăn con bé!
 45) 
-Bạn đã ngăn cô ấy ăn!
+Bạn đã ngăn con bé ăn!
 46) 
 Bạn đã ngăn Clementine ăn!
 47) 
-Bạn đã không thể Clem ăn!
+Bạn đã không thể ngăn Clem ăn!
 48) 
 Bạn đã để Larry ăn thịt người.
 49) 
 Brenda đã để ý sự im lặng của bạn.
 50) 
-You sided with Lilly.
+Bạn đã về phe Lilly.
 51) 
-Kenny sẽ nhớ sự trung thành của bạn.
+Kenny sẽ nhớ đến sự trung thành của bạn.
 52) 
-Clementine đã chứng kiến điều bạn đã làm.
+Clementine đã chứng kiến điều bạn làm.
 53) 
 Bạn đã chọn giết Andy.
 54) 
-Bạn đã tha mạng của Andy.
+Bạn đã tha mạng cho Andy.
 55) 
-Clementine sẽ nhớ rằng bạn đã tha mạng cho anh ấy.
+Clementine sẽ nhớ rằng bạn đã tha mạng cho hắn ta.
 56) 
-Bạn đã chọn dù gì lấy đồ ăn từ xe ô tô.
+Bạn đã chọn lấy đồ ăn từ chiếc xe.
 57) 
-Bạn và Clementine đã chọn không ăn cắp đồ ăn.
+Bạn và Clementine đã chọn không lấy đồ ăn.
 58) 
-Bạn đã cố cho Doug đồ ăn, nhưng anh ấy đã từ chối.
+Bạn đã thử cho Doug đồ ăn, nhưng cậu ta từ chối.
 59) 
-Bạn đã thả được David.
+Bạn đã cứu được David.
 60) 
 Bạn đã bảo Kenny rời đất liền là một lựa chọn tốt.
 61) 
@@ -135,80 +135,80 @@ Defendiste a Kenny.
 67) 
 Mark notó tus comentarios.
 68) 
-Bạn đã cho ý kiến của bạn về Kenny.
+Bạn đã đưa ra ý kiến của mình về Kenny.
 69) 
-Bạn chỉ có bốn đồ ăn cho mười người đói.
+Bạn chỉ có bốn mẩu đồ ăn cho mười người đang đói.
 70) 
-Kenny không nghĩ rằng bạn đã chăm sóc Duck trong tập trước.
+Kenny không nghĩ rằng bạn đã chăm sóc cho Duck trong tập trước.
 71) 
 ¡Danny le disparó a Jolene!
 73) 
 Andy sẽ nhớ điều đó.
 74) 
-Anh em St. John đã để ý sự im lặng của bạn.
+Anh em nhà John để ý sự im lặng của bạn.
 75) 
-Anh em St. John nghĩ rằng bạn quản lý nhóm này.
+Anh em nhà John nghĩ rằng bạn là người quản lý nhóm này.
 76) 
-Anh em St. John đã để ý điều đó.
+Anh em nhà John đã để ý điều đó.
 77) 
 Bạn đã trả lời thành thật.
 78) 
-Bạn đã để họ biết rằng bạn đã chuẩn bị để bảo về bản thân.
+Bạn cho họ biết rằng bạn đã chuẩn bị để bảo về bản thân.
 79) 
-Bạn tránh việc trả lời câu hỏi đó.
+Bạn lảng tránh trả lời câu hỏi.
 80) 
-Bạn đã chọn giúp Lilly cứu bố.
+Bạn đã chọn giúp Lilly cứu bố cô ấy.
 81) 
-Bạn đã chọn giúp Kenny ngăn chặn Larry khỏi bị biến.
+Bạn đã chọn giúp Kenny ngăn chặn Larry khỏi bị biến đổi.
 82) 
 Bạn đã chọn không bắn Jolene.
 83) 
-Danny đã để ý sự nghi ngờ của bạn.
+Danny để ý sự nghi ngờ của bạn.
 84) 
-Brenda đã nhìn qua sự nói dối của bạn.
+Brenda đã nhìn thấu sự nói dối của bạn.
 85) 
-Bạn đã đe doạ Brenda.
+Bạn đã đe dọa Brenda.
 86) 
-Bạn đã để Brenda thấy được sự cảnh giác của bạn.
+Bạn đã để Brenda thấy được sự cảnh giác của mình.
 87) 
-Brenda đã sợ bởi sự lặng im của bạn.
+Brenda bị dọa sợ bởi sự im lặng của bạn.
 88) 
 Bạn đã khiến Clementine cảm thấy an toàn.
 89) 
-Bạn đã chia sẻ hi vọng Clementine.
+Bạn đã chia sẻ hi vọng với Clementine.
 90) 
-Bạn đã không che sự thật khỏi Clementine.
+Bạn đã không che dấu sự thật khỏi Clementine.
 91) 
 Danny sẽ nhớ điều đó.
 92) 
 Bạn đã chọn thẳng thắn!
 93) 
-Brenda đã không thích việc bị phán xét.
+Brenda không thích việc bị phán xét.
 94) 
 Bạn đã chọn biện hộ cho họ.
 95) 
-Bạn đã chọn đe doạ họ!
+Bạn đã chọn đe dọa họ!
 96) 
-Bạn đã làm một cái cớ.
+Bạn đã làm ra một cái cớ.
 97) 
-Bạn đã thẳng thắn hỏi Andy.
+Bạn thẳng thắn hỏi Andy.
 98) 
-Bạn đã nói dỗi Andy.
+Bạn đã nói dối Andy.
 99) 
 Kenny đã che đậy cho bạn.
 100) 
-Kenny sẽ nhớ những lời nói của bạn.
+Kenny sẽ nhớ những lời của bạn.
 101) 
-Bạn đã khiến Clementine lấy chiếc áo hoodie.
+Bạn đã bắt Clementine lấy chiếc áo hoodie.
 102) 
-Bạn đã thuyết phục Clementine lấy chiếc áo hoodie một thời gian.
+Bạn đã thuyết phục Clementine giữ chiếc áo một thời gian.
 103) 
-Bạn đã thuyết phục Clementine rằng sẽ không sao lấy chiếc áo hoodie.
+Bạn đã thuyết phục Clementine sẽ không sao nếu lấy chiếc áo hoodie.
 104) 
 Bạn đã thẳng thắn với Clementine.
 105) 
-Bạn đã cho Clementine một câu trả lời trấn an .
+Bạn đã cho Clementine một câu trả lời trấn an.
 106) 
-Clementine đã để ý sự im lặng của bạn.
+Clementine để ý sự im lặng của bạn.
 107) 
-Bạn đã để lộ sự tội lỗi của mình tới Clementine.
+Bạn để lộ tội lỗi của mình với Clementine.
