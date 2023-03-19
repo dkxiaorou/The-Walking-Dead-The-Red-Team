@@ -1,103 +1,103 @@
 1) KENNY
-{sadA}Này, {normalB}Họ đã nói rằng Mark đã bị tấn công?
+{sadA}Này, {normalB}họ nói rằng Mark bị tấn công à?
 2) LEE
-{normalD}Đừng lo, anh ấy ổn thôi.
+{normalD}Đừng lo, anh ta ổn cả.
 3) KENNY
-{normalB}Anh ấy phải vậy. Chúng ta cần anh ấy.
+{normalB}Anh ta nên vậy. Chúng ta cần anh ta.
 4) LEE
-{angryA}Bọn cướp đã tần công chúng tôi.
+{angryA}Bọn cướp đã tấn công chúng tôi.
 5) KENNY
-{angryA}Chết tiệt. {thinkingA}Đã không nghĩ bọn nó sẽ tới tận đây.
+{angryA}Chết tiệt mà. {thinkingA}Không nghĩ là chúng sẽ theo tới tận đây.
 6) KENNY
-{normalA}Ít nhất anh ấy không bị cắn, tôi đoán vậy.
+{normalA}Ít nhất thì anh ta không bị cắn nhỉ.
 7) LEE
-{thinkingA}Tôi chưa thấy anh ấy từ lúc đó tới giờ haven't seen him since.
+{thinkingA}Tôi chưa thấy anh ta từ lúc đó.
 8) KENNY
-{normalA}Hmm, tôi có nên hỏi Kat {normalB}kiểm tra anh ấy khi cô ấy xong con bò không?
+{normalA}Hmm, tôi có nên bảo Kat {normalB}xem thử anh ta khi đã xong việc với con bò không?
 9) KENNY
-{normalB}Có thể, có thể không. Sau khi chúng ta có được đồ ăn của ta, ta có thể làm việc tốt hơn bảo vệ nó.
+{normalB}Có lẽ, có lẽ không. Một khi chúng ta có được thức ăn, chúng ta có thể bảo vệ nó tốt hơn.
 10) KENNY
-{thinkingA}Thay vì đợi quanh nhà nghỉ để ai đó tấn công hoặc ăn chúng ta.
+{thinkingA}Thay vì chỉ đợi loanh quanh ở nhà nghỉ cho ai đó đến tấn công hoặc xơi tái chúng ta.
 11) LEE
 {thinkingA}Nơi này không an toàn.
 12) LEE
-{happyA}Tôi rất vui vì anh đã quyết định đi với chúng tôi.
+{happyA}Tôi mừng vì anh đã quyết định đi cùng bọn tôi.
 13) KENNY
-{normalB}Ừ, thì, chúng ta cần đồ ăn mà.  {normalA}Giúp con bò này nên đáng.
+{normalB}Ừ, thì, ta cần thức ăn mà.  {normalA}Giúp cho con bò này thì nên xứng với việc đó.
 14) KENNY
-[worried] {angryA}Tôi đã để ý là không quá nhiều walker trên đường tới đây.
+[worried] {angryA}Tôi để ý thấy không nhiều xác sống lắm trên đường đến đây.
 15) LEE
-{normalD}Thế là tốt.
+{normalD}Ổn mà.
 16) KENNY
-{normalA}Có phải không? Tôi có một cảm giác xấu.
+{normalA}Phải không? Tôi có linh cảm xấu.
 17) KENNY
-{angryA}Dù nó đến từ bọn walker hay bọn cướp hay không, có một chuyện đéo hay sẽ xảy ra.
+{angryA}Cho dù đó là từ bọn xác sống hay những tên cướp, sẽ có một cơn bão xảy ra.
 18) LEE
-{normalC}Có chuyện gì sai về nó à?
+{normalC}Có vấn đề gì ư?
 19) KENNY
-{angryA}Nếu chúng ta không thấy họ, có nghĩa là có một đống đang chờ ở đâu đó...
+{angryA}Nếu chúng ta không nhìn thấy chúng, điều đó có nghĩa là có rất nhiều đang đợi ở đâu đó...
 20) KENNY
-...nếu không ai đó với nhiều hoả lực hơn ta sẽ giết chết họ.
+...hoặc ai đó có hỏa lực mạnh hơn chúng ta đã tiêu diệt chúng.
 21) KENNY
-{normalA}Dù gì , tôi vẫn có cảm giác xấu về một chuyện xấu đang chờ.
+{normalA}Dù là trường hợp nào, tôi có cảm giác không tốt rằng một trận bão lớn đang được ủ.
 22) LEE
-{normalD}Bọn walkers không làm tôi lo bằng bọn cướp.
+{normalD}Bọn xác sống không khiến tôi lo bằng đám cướp.
 23) KENNY
-{normalB}Đó là điều tôi đang nóiThat's what I'm sayin'.
+{normalB}Là ý tôi đang nói đấy.
 24) KENNY
-{fearA}Có gì đang tới, Lee. Nó có thể là một cuộc chiến.
+{fearA}Có gì đó đang đến, Lee à. Sẽ có một cuộc chiến.
 25) KENNY
-{sadA}Trên đường tới đây, tôi đã cảm thấy chóng mặt,On the way over here, I was gettin' dizzy, hands shakin', cold sweats. {normalA}Thought I was gonna pass out.
+{sadA}Trên đường tới đây, tôi đã bị chóng mặt, run tay, đổ mồ hôi hột. {normalA}Cứ tưởng sắp ngất đến nơi rồi.
 26) LEE
-{normalD}Họ có đồ ăn tại đây.
+{normalD}Họ có đồ ăn ở đây.
 27) KENNY
-{angryA}Tôi mong họ cho chúng ta ăn, Lee. Sớm thôi.
+{angryA}Tôi mong họ sẽ cho chúng ta ăn sớm, Lee.
 28) KENNY
-{thinkingA}Ừ, nhưng tôi không chỉ nói về một bữa ăn, anh biết không?
+{thinkingA}Ừ, nhưng tôi không chỉ nói đến một bữa ăn thôi, anh biết chứ?
 29) LEE
-{normalC}Anh thế nào rồi?
+{normalC}Anh sao rồi?
 75) 
-Anh thế nào rồi?
+Anh sao rồi?
 30) KENNY
-[quietly] {angryA}Nếu họ có nguồn thức ăn tại đâu, {normalA}chúng ta cần biết nó ở đâu và lấy như thế nào.
+[quietly] {angryA}Nếu họ có nguồn thức ăn đâu đó, {normalA}ta cần biết nó ở đâu và làm sao để lấy được.
 31) KENNY
-[quietly] {sadA}Phòng trường hợp chuyện gì xảy ra.
+[quietly] {sadA}Phòng khi có chuyện xảy ra.
 32) KENNY
-{normalB}Katjaa biết có chuyện gì, nói với cô ấy và cô ấy sẽ cho anh biết tôi đang nói về chuyện gì.
+{normalB}Katjaa biết đấy, nói chuyện với cổ đi và cổ sẽ cho anh xem nơi tôi đang nói đến.
 33) KENNY
-{angryA}Tìm hiểu trong phòng đó có gì.
+{angryA}Tìm ra thứ gì ở trong căn phòng đó.
 34) LEE
-[quietly] {thinkingA}Tôi vẫn không thích nó.
+[quietly] {thinkingA}Tôi vẫn không thích điều này.
 35) KENNY
-{sadA}Thôi nào, Lee, không phải mỗi chúng ta. Chúng ta cần nghĩ tới bọn trẻ.
+{sadA}Thôi nào, Lee, không phải chỉ mỗi chúng ta. Ta cần phải nghĩ đến bọn trẻ nữa.
 36) KENNY
-[quietly] {normalB}Anh không phải thích nó, chỉ cần làm nó thôi.
+[quietly] {normalB}Anh không cần phải thích nó, cứ làm thôi.
 37) LEE
-[quietly] {thinkingA}Anh đúng rồi.
+[quietly] {thinkingA}Anh nói đúng.
 38) LEE
-[quietly] {normalB}Chắc là không có gì đâu. {normalC}Bọn họ có thể giấu gì tại một cái nông trại?
+[quietly] {normalB}Chắc không có gì đâu. {normalC}Họ có thể giấu gì ở một trang trại sữa chứ?
 39) KENNY
-[quietly] {thinkingA}ĐỒ ĂN!
+[quietly] {thinkingA}Thức ăn!
 40) LEE
-[quietly] {angryA}Những người dân này cần sự riêng tư của họThese folks deserve their privacy.
+[quietly] {angryA}Những người này xứng đáng có sự riêng tư của mình.
 41) KENNY
-[quietly] {normalB}Chúng ta chỉ muốn nhìn thử thôi, Lee. Chúng ta không ăn cắp gì đâu.
+[quietly] {normalB}Chúng ta chỉ muốn nhìn thử, Lee. Không phải chúng ta sẽ ăn cắp gì cả.
 42) LEE
-[quietly] {angryA}Ta không thể khiến những người này bực mình, Kenny. Ta cần họ phải tin chúng ta.
+[quietly] {angryA}Chúng ta không thể chọc giận những người này, Kenny. Chúng ta cần họ tin mình.
 43) KENNY
-[quietly] {normalA}Nó đi hai hướng, Lee.
+[quietly] {normalA}Nó nên đến từ cả hai phía, Lee.
 44) LEE
-[quietly] {angryA}Anh muốn TÔI kiểm tra à?
+[quietly] {angryA}Anh muốn TÔI ngó thử xem á?
 45) KENNY
-[quietly] {normalB}Đúng rồi.
+[quietly] {normalB}Chính xác.
 46) LEE
 {normalA}Tạm biệt.
 47) KENNY
-{happyA}Này, Lee. {normalA}Chỗ đẹp, huh?
+{happyA}Này, Lee. {normalA}Một nơi ổn áp, nhỉ?
 48) KENNY
-{normalA}Thì, uh... như thế nào rồi?
+{normalA}Vậy, ờ... sao thế?
 49) KENNY
-[after being ignored]{sadA}Thì... chỉ cần cần thận thôi, tôi đoán vậy.
+[after being ignored]{sadA}Vậy... hãy cẩn thận đấy.
 50) LEE
 {normalA}Chào, Kenny.
 51) LEE
@@ -105,106 +105,106 @@ Anh thế nào rồi?
 86) LEE
 [greeting]{normalB}Chào...
 52) KENNY
-[noticing Lee's silence]{angryA}You sense it too, don't ya?   {fearA}Man, I've got a feeling something bad is on the horizon, Lee.
+[noticing Lee's silence]{angryA}Anh cũng thấy vậy mà, đúng không?   {fearA}Trời, tôi cảm giác có điều gì đó tồi tệ sắp xảy ra, Lee.
 53) KENNY
-[responding to Lee's silence; hushed][quietly]  {angryA}Well don't look at me!  {thinkingA}I'm no good at breaking and entering.  But somebody's gotta do it!
+[responding to Lee's silence; hushed][quietly]  {angryA}Ây đừng nhìn tôi!  {thinkingA}Tôi không giỏi việc đột nhập gì đâu.  Nhưng ai đó phải làm nó!
 54) KENNY
-{normalB}Sao rồi, Lee?
+{normalB}Sao thế, Lee?
 55) KENNY
-[looks at Danny] {normalB}Phiền nếu tôi nói chuyện với Lee trong một phút được không?
+[looks at Danny] {normalB}Có phiền không nếu tôi nói chuyện với Lee và phút?
 56) KENNY
-[looks at Danny] {normalB}Chờ tôi một giây...
+[looks at Danny] {normalB}Chờ tôi chút...
 57) DANNY
-{normalB}Yeah, cứ tiến hành đi.
+{normalB}Ừ, cứ việc đi.
 58) LEE
-[pickup2] Tôi đoán Lilly không quá vui về việc ở đây.
+[pickup2] Tôi đoán Lilly không quá hào hứng khi ở đây.
 59) KENNY
-[pickup2] Tôi có thể quan tâm cứt những gì Lilly muốn. Duck và Katjaa cần đồ ăn, và tôi không ngồi quanh Motor Inn đó và xem họ đói.
+[pickup2] Tôi có thể đưa ra hai điều tồi tệ về những gì Lily muốn. Duck và Katjaa cần thức ăn, và tôi sẽ không ngồi quanh nhà nghỉ đó và nhìn họ đói bụng đâu.
 60) LEE
-[pickup2] If everything works out, maybe he and Katjaa can have an easier life here.
+[pickup2] Nếu mọi chuyện ổn thỏa, có lẽ nó và Katjaa có thể có một cuộc sống dễ dàng hơn ở đây.
 61) KENNY
-[pickup2][bitter]Ừ, đúng rồi.
+[pickup2][bitter]Ừ, phải.
 62) LEE
-[pickup2] Đó là trong quá khứ rồi, Kenny. Có nhiều chuyện xảy ra vào lúc đó.
+[pickup2] Đó là quá khứ rồi, Kenny. Nhiều chuyện đã xảy ra kể từ đó.
 63) KENNY
-[pickup2] [bitter]Nó thật buồn cười, anh không có vẻ lo lắng về Duck khi Larry muốn ném anh ấy ra đường tại Macon.
+[pickup2] [bitter]Buồn cười nhể, anh có vẻ không lo lắng lắm về Duck khi Larry muốn ném thằng bé ra ngoài hồi ở Macon.
 64) KENNY
-[pickup2] [bitter] Nó thật buồn cười, anh không quá lo lắng về Duck khi ở nông trại của Hershel.
+[pickup2] [bitter] Buồn cười nhể, vì anh dường như không lo lắng lắm về Duck ở Trang trại của Hershel.
 65) KENNY
-[pickup2] I hope you're right. Duck and Clementine deserve a better life than starving to death at some crappy motel.
+[pickup2] Tôi mong là anh đúng. Duck và Clementine xứng đáng có một cuộc sống tốt hơn là chết đói ở một nhà nghỉ tồi tàn.
 66) LEE
-[pickup2] Tôi sẽ nhìn xung quanh.
+[pickup2] Tôi đi ngó xung quanh chút đây.
 67) KENNY
-[pickup2] Tôi sẽ ở đây nếu anh cần tôi. Cho tôi biết nếu anh tìm thấy thứ gì.
+[pickup2] Tôi sẽ ở đây nếu anh cần. Cho tôi biết nếu anh tìm thấy gì đó.
 68) KENNY
-[pickup2]Thì, nó không hề dễ. Duck nhìn không tốt lắm trên đường tới chỗ này.
+[pickup2]Thì, không dễ chút nào. Duck trông không ổn lắm trên đường tới đây.
 69) LEE
-[pickup2] Duck và Katjaa tới đây ổn không?
+[pickup2] Duck và Katjaa đến đây ổn chứ?
 70) LEE
 [pickup2]Kenny?
 71) LEE
-[pickup2] Tôi vẫn chưa thể bỏ cái khoá đó khỏi cửa.
+[pickup2] Tôi vẫn không thể mở cái khóa đó ra được.
 72) KENNY
-[pickup2][reminder] Hmmm.  You probably just need a screwdriver or something.
+[pickup2][reminder] Hmmm.  Có lẽ anh cần một cái tua vít hay thứ gì đó.
 73) 
-Lilly doesn't want to be here.
+Lilly không muốn ở đây.
 74) 
-Your family made it here okay?
+Gia đình anh trên đường tới đây ổn chứ?
 76) KENNY
-[pickup3][follows # 310481005]You're with me on this, right?
+[pickup3][follows # 310481005]Lần này anh ủng hộ tôi, phải chứ?
 77) LEE
-[pickup3][agreeing with Kenny that Lilly is wrong about the motor inn]Yeah, of course.  Lilly's judgement is clouded, but you've got a pretty clear head about these things.
+[pickup3][agreeing with Kenny that Lilly is wrong about the motor inn]Ừ, tất nhiên rồi.  Khả năng phán đoán của Lilly đã bị che mờ, nhưng anh thì lại có một cái đầu khá rõ ràng về việc này.
 78) LEE
-[pickup3][disagreeing with Kenny about the motor inn]Lilly's been doing a good job of keeping the group together.  You need to back off a bit.
+[pickup3][disagreeing with Kenny about the motor inn]Lilly đang làm rất tốt trong việc giữ cả nhóm đoàn kết.  Anh nên lùi lại chút đi.
 79) LEE
-[pickup3][not siding with anyone about the motor inn]You're not making me pick sides, Kenny.
+[pickup3][not siding with anyone about the motor inn]Đừng làm tôi phải chọn phe chứ, Kenny.
 80) KENNY
-[pickup3][disapointed in Lee for siding with Lilly] Whatever.
+[pickup3][disapointed in Lee for siding with Lilly] Sao cũng được.
 81) KENNY
-[pickup3][in ernest]Well... you better think about it, because that time is coming.
+[pickup3][in ernest]Vậy... anh tốt hơn nên nghĩ về nó đi, vì thời điểm đó sắp đến rồi đấy.
 82) 
-Yeah, of course.
+Ừ, tất nhiên rồi.
 83) 
-No. Lilly's been doing a good job.
+Không. Lilly đang làm rất tốt.
 84) 
-I'm not choosing sides.
+Tôi không chọn theo phe ai đâu.
 85) KENNY
-[pickup3][responding to Lee's silence and refusal to pick sides] Hmf.  Always the diplomat.
+[pickup3][responding to Lee's silence and refusal to pick sides] Hmf.  Luôn luôn là nhà ngoại giao.
 87) KENNY
-[pickup3] Hey Lee, found anything interesting?
+[pickup3] Này Lee, tìm thấy thứ gì thú vị chưa?
 88) KENNY
-[pickup3] Good to know. Keep your ears open for anything else that might help us.
+[pickup3] Tốt khi biết đấy. Giữ cho đôi tai của anh luôn mở cho bất cứ điều gì khác có thể giúp chúng ta.
 89) LEE
-[pickup3] I'm just trying to make sure this place is secure, in case we decide to make this a more long term solution.  Except for those people in the woods, it seems pretty safe.
+[pickup3] Tôi chỉ đang cố đảm bảo nơi này an toàn, trong trường hợp chúng ta quyết định biến đây thành một giải pháp lâu dài hơn. Trừ những người trong rừng ra, thì nó có vẻ khá an toàn.
 90) KENNY
-[pickup3] That's true.  Well, it's good to know what we're working with here.
+[pickup3] Đúng vậy. Chà, thật tốt khi biết chúng ta đang làm việc với những gì ở đây.
 91) KENNY
-[pickup3] Keep looking around and let me know if you find anything else.
+[pickup3] Tiếp tục ngó xung quanh xem và cho tôi biết nếu tìm thấy gì khác.
 92) LEE
-[pickup3] I was talking to Andy a bit earlier, it doesn't sound like they have too many guns around. They rely mostly on the fence to keep them safe.
+[pickup3] Tôi đã nói chuyện với Andy trước đó, có vẻ như họ không có quá nhiều súng xung quanh. Họ chủ yếu dựa vào hàng rào để giữ an toàn.
 93) LEE
-[pickup3] Well that's the problem, when there's no more gas, there's no more fence.
+[pickup3] vậy đó là vấn đề đấy, khi không còn xăng, thì sẽ không còn hàng rào nữa.
 94) KENNY
-[pickup3] Hey Lee, how's it going with the St. Johns?
+[pickup3] Này Lee, mọi chuyện với nhà Johns sao rồi?
 95) LEE
-[pickup3] Good. I was talking to Andy earlier and offered our group's assistance on the dairy.
+[pickup3] Ổn cả. Tôi đã nói chuyện với Andy trước đó và đã đề nghị giúp đỡ ở trang trại.
 96) KENNY
-[pickup3] Great. Sounds like they're starting to accept us.
+[pickup3] Tuyệt đấy. Nghe có vẻ họ đang bắt đầu chấp nhận chúng ta.
 97) LEE
-[pickup3] Definitely.
+[pickup3] Chắc chắn rồi.
 98) LEE
-[pickup3]I don't think they have much to protect them besides the fence so he seemed pretty appreciative.
+[pickup3]Tôi không nghĩ họ có nhiều thứ để bảo vệ mình ngoài hàng rào nên anh ta có vẻ khá cảm kích.
 99) KENNY
-[pickup3] Yeah, this place is sure a step up from that shithole motor inn.
+[pickup3] Phải, nơi đây đúng là một bước tiến lớn so với chỗ nhà nghỉ đó.
 100) LEE
-[pickup3] They seem like good people. If we play our cards right, I still think it could work out for us here.
+[pickup3] Họ có vẻ khá tốt. Nếu ta chơi đúng quân bài của mình, tôi nghĩ mọi chuyện sẽ có lợi cho chúng ta ở đây.
 101) KENNY
-[pickup3] Don't wait too long to help scope out that bandit camp. It'd be a good opportunity to find a bit more out about the St. John's and their relationship with those... bandits or whatever.
+[pickup3] Đừng chờ quá lâu để giúp tìm ra trại cướp đó. Đó sẽ là một cơ hội tốt để tìm hiểu thêm một chút về nhà John và mối quan hệ của họ với... bọn cướp hay thứ gì đó.
 102) LEE
-[pickup3] Right. I'll see what I can find out.
+[pickup3] Được. Tôi sẽ xem mình tìm được gì.
 103) LEE
-[pickup3] Good idea.
+[pickup3] Ý hay đấy.
 104) KENNY
-[pickup3] Don't wait too long to help scope out that bandit camp.  Sounds like they're pretty amped up about it. This might be a good way to earn their trust.
+[pickup3] Đừng chờ quá lâu để giúp tìm ra trại cướp đó. Có vẻ như họ khá phấn khích về nó. Đây có thể là một cách tốt để nhận được lòng tin của họ.
 105) KENNY
-[pickup3]So as long as you're on THIS side, things are all right.  Provided the fence holds out.
+[pickup3]Vậy, miễn là còn ở PHÍA BÊN NÀY, mọi thứ sẽ ổn.  Với điều kiện hàng rào giữ vững.
