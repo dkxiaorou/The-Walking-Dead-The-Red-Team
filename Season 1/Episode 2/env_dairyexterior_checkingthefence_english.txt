@@ -1,225 +1,225 @@
 1) LEE
-[context: let's go, you're going to be okay] Come on, man. We're clear.
+[context: let's go, you're going to be okay] Đi nào anh bạn. Ta ổn rồi.
 2) BANDIT
-[taunting] You lucky sons of bitches!  Go ahead and run! We ain't goin' nowhere!
+[taunting] Bọn khốn chúng mày may đấy!  Cứ chạy đi! Bọn tao sẽ không đi đâu cả!
 275) BANDIT
-[taunting] You lucky sons of bitches!  Go ahead and run! We ain't goin' nowhere!
+[taunting] Bọn khốn chúng mày may đấy!  Cứ chạy đi! Bọn tao sẽ không đi đâu cả!
 3) MARK
-Little help here, Lee?
+Cần chút sự giúp đỡ ở đây đấy, Lee?
 4) MARK
-C'mon, Lee, we don't have all day.
+Nhanh nào, Lee, chúng ta không có cả ngày đâu.
 5) MARK
-Damnit, Lee, I can't lift it myself.
+Đệt mẹ nó, Lee, tôi không tự mình nhấc nó được.
 6) BANDIT
-Hehe, I got you!
+Hehe, thấy rồi nhá!
 7) BANDIT
-There ya are!
+Mày đây rồi!
 10) BANDIT
-There ya are!
+Mày đây rồi!
 8) LEE
 [killed by arrow] Gahhhh!
 9) BANDIT
-I got you, you son of a bitch!
+Thấy mày rồi, thằng chó đẻ!
 11) BANDIT
-There you are, boy!
+Bọn mày đây rồi!
 12) BANDIT
-Don't think I can't see you!
+Đừng nghĩ là tao không thấy bây!
 13) BANDIT
-I'll fuck you sumbitches up!
+Tao sẽ xử đẹp bọn chó chúng mày!
 14) BANDIT
-I see ya!
+Thấy rồi nhá!
 15) MARK
-What do you think of this place, Lee?
+Anh thấy nơi này như nào, Lee?
 16) LEE
-It's a nice change from the motel.
+Đúng là sự thay đổi tốt so với nhà nghỉ.
 17) MARK
-You said it. Out here, it's almost like things used to be.
+Đúng là vậy. Ở đây, mọi thứ như trở lại giống lúc trước vậy.
 18) LEE
-I don't plan on staying.
+Tôi không định ở lại đâu.
 19) MARK
-I could see myself staying here for a long time.
+Tôi có thể nhìn thấy bản thân ở lại đây trong thời gian dài.
 129) MARK
-I could see myself staying here for a long time.
+Tôi có thể nhìn thấy bản thân ở lại đây trong thời gian dài.
 131) MARK
-I could see myself staying here for a long time.
+Tôi có thể nhìn thấy bản thân ở lại đây trong thời gian dài.
 20) LEE
-Still too early to tell.
+Vẫn còn quá sớm để nói.
 21) LEE
-Except for the zombies and bandits.
+Ngoại trừ đám xác sống và bọn cướp.
 22) LEE
-It'll never be like it used to be.
+Nó sẽ không bao giờ trở lại như trước kia.
 23) MARK
-Yeah, these guys have lost as much as any of us.
+Ừ, họ cũng đã mất mát nhiều như bất kỳ ai trong chúng ta.
 24) MARK
-The motel's not going to hold up much longer.
+Chỗ nhà nghỉ sẽ không trụ được lâu hơn nữa đâu.
 25) LEE
-You want to leave the motel?
+Anh muốn rời khỏi chỗ nhà nghỉ à?
 26) MARK
-These folks need us, Lee. We could work something out.
+Những người này cần ta, Lee. Chúng ta có thể làm được gì đó ổn thôi.
 27) LEE
-We haven't been invited to stay.
+Chúng ta vẫn chưa được mời ở lại.
 28) MARK
-[good-natured] Bastard.
+[good-natured] Mẹ nó.
 29) LEE
-We don't know these people.
+Chúng ta không biết những người này.
 30) LEE
-[teasing] Who says that worked out?
+[teasing] Ai nói nó sẽ ổn chứ?
 31) MARK
-You didn't know ME before you showed up at the base.
+Anh cũng đâu biết TÔI trước khi anh xuất hiện chỗ căn cứ.
 32) MARK
-Keep telling that to everybody trying to kill us. Maybe they'll go away.
+Cứ nói thế với những người cố giết chúng ta đi. Có thể chúng sẽ rời đi đấy.
 33) LEE
-It's safer back at the motel.
+Chỗ nhà nghỉ an toàn hơn.
 34) MARK
-With the fence working, this place is like a fortress.
+Cùng với cái hàng rào, thì nơi này như một pháo đài vậy.
 35) MARK
-Not many drivers these days, Lee.
+Ngày nay không còn nhiều tài xế nữa đâu, Lee.
 36) MARK
-We could scrounge up a year's worth of gas, easy.
+Chúng ta có thể tìm được đủ xăng để dùng trong cả năm dễ thôi.
 37) LEE
-The fence only lasts as long as the gas does.
+Hàng rào sẽ vẫn chạy miễn là xăng vẫn còn.
 38) MARK
-We've got enough people.
+Chúng ta có đủ người mà.
 39) LEE
-A fortress needs people to defend it.
+Một pháo đài cũng cần nhiều người bảo vệ nó.
 281) 
-A fortress needs people to defend it.
+Một pháo đài cũng cần nhiều người bảo vệ nó.
 40) MARK
-You're too paranoid, Lee.
+Anh đang tưởng tượng quá rồi, Lee.
 41) LEE
-Don't get too comfortable here.
+Đừng quá thoải mái ở đây.
 42) LEE
-What about 'em?
+Còn họ thì sao?
 43) LEE
-This place is going to fall apart, just like everywhere else.
+Nơi này rồi sẽ đổ vỡ như tất cả những nơi khác thôi.
 44) LEE
-These folks are just delaying the inevitable.
+Những người này chỉ đang trì hoãn điều không thể tránh khỏi.
 45) MARK
-Well, let's help 'em delay it a bit longer.
+Vậy, hãy giúp họ trì hoãn nó lâu hơn chút nữa.
 46) MARK
-Sheesh, Lee. You sound like Kenny.
+Trời ạ, Lee. Anh nghe như Kenny vậy.
 47) LEE
-We've got enough people to take this place by force, if we have to.
+Chúng ta có đủ người để chiếm lấy nơi này bằng vũ lực, nếu cần thiết.
 48) BANDIT
-Come on out!
+Ra đây nào!
 49) BANDIT
-It ain't right, we had a deal!
+Không vậy được, chúng ta đã có thỏa thuận!
 50) BANDIT
-You fucked with us, now we'll take what we want.
+Mày đã lừa bọn tao, giờ bọn tao sẽ lấy những gì bọn tao muốn.
 51) BANDIT
-Show Yourself!!
+Lộ mặt đi!!
 52) MARK
-This one must've knocked it over trying to get through.
+Tên này có vẻ đã làm chúng đổ xuống khi đang cố đi vào.
 53) MARK
-Andy said, when this fence is working, the walkers go up like a tree branch on a power line.
+Andy đã nói, khi hàng rào này hoạt động, những xác sống dần rụng đi như cành cây mắc vào đường dây điện.
 54) MARK
-He's tangled up in there pretty good. Come on, help me get this thing back in place so we can get Mr. Crispy off of there.
+Nó bị vướng vào đó khá chắc đấy. Nào, giúp tôi dựng nó về chỗ cũ để ta có thể đưa ngài cháy xém ra nào.
 55) MARK
 [exertion from lifting] Nggrrhh....
 56) LEE
-[panicked] What happened?!
+[panicked] Chuyện gì đã xảy ra?!
 288) 
-What happened?!
+Chuyện gì đã xảy ra?!
 57) MARK
-[pickup3][in pain] Some asshole shot me! God DAMN!
+[pickup3][in pain] Bọn khốn nào đó đã bắn tôi! Đệt con MẸ NÓ!
 58) LEE
-Can you walk?
+Anh đi được chứ?
 289) 
-Can you walk?
+Anh đi được chứ?
 59) MARK
-[pickup3][in pain] Yeah...  But I ain't moving while that maniac is out there!
+[pickup3][in pain] Ừ...  Nhưng tôi không di chuyển khi bọn điên đó còn ở ngoài đâu!
 60) LEE
-We gotta get out of here.
+Chúng ta phải ra khỏi đây.
 290) 
-We gotta get out of here.
+Chúng ta phải ra khỏi đây.
 61) MARK
-[pickup3][in pain] If we move, we're dead!
+[pickup3][in pain] Nếu di chuyển, thì ta sẽ chết đấy!
 62) LEE
-Let's get out of here!
+Ra khỏi đây thôi!
 63) MARK
-[in pain] Yeah, but  we can't just walk out into the open. We need cover!
+[in pain] Ừ, nhưng ta không thể cứ bước ra ngoài đó được. Ta cần lá chắn!
 336) MARK
-[in pain] Yeah, but  we can't just walk out into the open. We need cover!
+[in pain] Ừ, nhưng ta không thể cứ bước ra ngoài đó được. Ta cần lá chắn!
 64) LEE
-C'mon, if we can reach the gate, we get through this fence and back to the house.
+Đi nào, nếu ta có thể tới chỗ cổng, ta sẽ rời được khỏi đây và trở lại căn nhà.
 65) MARK
-[pickup3][in pain] Aghh!  Shit that hurts!
+[pickup3][in pain] Aghh!  Chết tiệt, đau thật!
 66) LEE
 [exertion from lifting] Nggghh...
 67) MARK
 [hit by arrow] Gaaaahhh!
 68) MARK
-[surprised, in pain] What the- ?
+[surprised, in pain] Cái g- ?
 69) BANDIT
-I told you what would happen, you son of a bitch!
+Tao đã cảnh cáo trước rồi, thằng chó chết!
 70) MARK
-[tense/under fire][in pain] JESUS!!! Who the fuck is that?!
+[tense/under fire][in pain] CHÚA ƠI!!! Bọn đéo nào thế?!
 71) LEE
-No fuel. Of course.
+Không có nhiên liệu. Đương nhiên rồi.
 72) MARK
-[pickup3][In pain] Lee! We've gotta do something!
+[pickup3][In pain] Lee! Ta cần phải làm gì đó!
 73) MARK
-[responding to Lee's silence]["It's almost like things used to be..."][Sad] ...Almost.
+[responding to Lee's silence]["It's almost like things used to be..."][Sad] ...Gần như là vậy.
 74) MARK
-[responding to Lee's silence]Well... better here than out with the... you know. [zombies]
+[responding to Lee's silence]Thì... trong đây tốt hơn là ở ngoài với... anh biết đấy. [zombies]
 75) MARK
-If those lights are out that means the fence is off, right?
+Nếu bóng đèn đó đã tắt có nghĩa là hàng rào đã tắt, phải không?
 76) LEE
-It'd better be.
+Nên thế.
 77) MARK
-There's one.
+Một con kìa.
 78) MARK
 Eeugh.
 79) LEE
-Come on, let's push it off.
+Được rồi, đẩy nó ra thôi.
 80) MARK
-I see it.
+Tôi thấy rồi.
 236) LEE
-[pickup2] I see it.
+[pickup2] Tôi thấy rồi.
 81) LEE
-There's another one.
+Một con nữa kìa.
 235) MARK
-[pickup2] There's another one.
+[pickup2] Một con nữa kìa.
 82) MARK
-Ya never do get used to the smell, do ya?
+Chẳng bao giờ quen với cái mùi đó được, nhỉ?
 359) MARK
-Ya never do get used to the smell, do ya?
+Chẳng bao giờ quen với cái mùi đó được, nhỉ?
 83) LEE
-[chuckles] Nope.
+[chuckles] Không.
 358) LEE
-[chuckles] Nope.
+[chuckles] Không.
 84) MARK
-[continuing/responding to silence]'Cause I find it to be a breath of fresh air.  Literally!
+[continuing/responding to silence]Vì tôi thấy nó có một luồng không khí trong lành.  Thật sự đấy!
 85) MARK
-So what do you think, Lee? Should we stick around here?
+Anh nghĩ sao, Lee? Chúng ta có nên ở lại đây không?
 86) MARK
-[awkwardly starting the conversation again] Sooo... what about the brothers?
+[awkwardly starting the conversation again] Vậy... còn anh em họ thì sao?
 87) MARK
 [responding to Lee's silence]...Oookay....
 88) LEE
-Thanks.
+Cảm ơn.
 255) LEE
-Thanks.
+Cảm ơn.
 89) MARK
-I dunno.  They seem decent enough. I just want you to know that I've got your back if anything goes down.
+Tôi không biết nữa.  Họ có vẻ khá ổn. Tôi chỉ muốn anh biết nếu có chuyện gì thì tôi cũng sẽ hỗ trợ anh ngay.
 90) MARK
-Come on, I think I see where they're getting in.
+Nhanh nào, tôi nghĩ tôi thấy chúng vào bằng đường nào rồi.
 91) MARK
-[context: no need to worry about it, it's dead] Lee, it's dead.
+[context: no need to worry about it, it's dead] Lee, nó chết rồi.
 92) MARK
-[sarcastic]If you're waiting for that guy to help, it ain't gonna happen. [now get over here and help me]Come on.
+[sarcastic]Nếu anh đang chờ tên đó giúp ta, thì nó sẽ không xảy ra đâu. [now get over here and help me]Nhanh nào.
 93) LEE
-Get down!
+Cúi xuống!
 135) MARK
-[Urgent/not shouted]Get down!
+[Urgent/not shouted]Cúi xuống!
 94) MARK
-Fuck!  Now what?!
+Đệt!  Giờ sao đây?!
 95) BANDIT
-Can't hide forever!
+Không trốn mãi được đâu!
 96) BANDIT
-You assholes deserve to die!
+Bọn chó chúng mày xứng đáng được chết!
 97) BANDIT
-I can do this ALL day!
+Tao có thể làm việc này CẢ ngày!
 98) MARK
 [as Lee is killed]LEE!!
 103) MARK
@@ -251,29 +251,29 @@ I can do this ALL day!
 105) LEE
 [killed by an arrow!] Gahh!
 106) BANDIT
-I gotcha now!
+Thấy chúng mày rồi!
 107) BANDIT
-Shit!
+Đệt!
 114) LEE
-Shit!!!
+Đệt!!!
 108) BANDIT
-You got lucky that time!
+Bọn mày may mắn lần này!
 109) BANDIT
-Damnit.
+Đệt mẹ.
 110) LEE
 [exerting force] Eeenngh...
 115) MARK
-[pickup3][in pain]You okay?
+[pickup3][in pain]Anh ổn chứ?
 116) LEE
-Yeah... barely.
+Ừ... gần như vậy.
 117) MARK
-Holy fuck!  What just happened?!
+Ôi đệt!  Chuyện gì vậy?!
 118) LEE
-The fences are on!
+Hàng rào được bật lên rồi!
 119) MARK
-Why the hell would he turn the fence on! He knows we're out here!
+Anh ta bật nó lên làm quái gì! Anh ta biết ta còn ở ngoài đây mà!
 120) MARK
-[pickup3][in pain]Come on, the gate's right there!
+[pickup3][in pain]Nhanh nào, cổng ở ngay đó!
 121) MARK
 [pained heavy breathing 3]
 122) MARK
@@ -285,438 +285,438 @@ Why the hell would he turn the fence on! He knows we're out here!
 125) MARK
 [Killed with an arrow 3]
 126) LEE
-[tense/under fire]Guess the St. John boys pissed somebody off.  Bandits probably.
+[tense/under fire]Chắc là anh em nhà St. John đã chọc giận ai đó.  Có lẽ là bọn cướp.
 127) MARK
-[nostalgic]It could be just like it used to be.
+[nostalgic]Nó có thể giống như lúc trước.
 128) MARK
-[nostalgic]It could be just like it used to be.
+[nostalgic]Nó có thể giống như lúc trước.
 130) MARK
-[nostalgic]It could be just like it used to be.
+[nostalgic]Nó có thể giống như lúc trước.
 132) MARK
-[Urgent/not shouted] Lee, hurry up!
+[Urgent/not shouted] Lee, nhanh lên!
 133) MARK
-[Urgent/not shouted]Get out of the open!
+[Urgent/not shouted]Ra khỏi đây!
 134) MARK
-[Urgent/not shouted]Lee, get back here!
+[Urgent/not shouted]Lee, quay lại đây!
 136) MARK
-[Urgent/not shouted]Quickly!  He'll see you!
+[Urgent/not shouted]Nhanh lên!  Hắn sẽ thấy anh đấy!
 137) LEE
-[pickup1][With mark behind the tractor after its stuck on a still living zombie]Shit.  Now what?
+[pickup1][With mark behind the tractor after its stuck on a still living zombie]Đệt. Giờ sao?
 141) MARK
-[pickup1] [friendly conversation with Lee while walking the fence line][mild outdoor projection]Hey, maybe we should try to get Larry out here, huh? Let him get some fresh air in those dusty lungs...
+[pickup1] [friendly conversation with Lee while walking the fence line][mild outdoor projection]Này, có lẽ chúng ta nên đưa Larry ra đây nhỉ? Để cho ông ta hít thở không khí trong lành trong cái lá phổi bụi bặm đó...
 142) MARK
-[pickup1] [friendly conversation with Lee while walking the fence line][mild outdoor projection][continued]... Maybe then he'll realize you're no danger to this group.
+[pickup1] [friendly conversation with Lee while walking the fence line][mild outdoor projection][continued]... Có lẽ đến lúc đó ông ta sẽ nhận ra anh không phải mối nguy cho nhóm.
 143) MARK
-[pickup1] [friendly conversation with Lee while walking the fence line][mild outdoor projection][cont.]... I think even Larry would have trouble being a "racist asshole" out here!
+[pickup1] [friendly conversation with Lee while walking the fence line][mild outdoor projection][cont.]... Tôi nghĩ kể cả Larry cũng sẽ gặp khó khăn trong việc làm một lão "phân biệt chủng tộc khốn nạn" ngoài này!
 144) MARK
-[pickup1] [friendly conversation with Lee while walking the fence line][mild outdoor projection][cont.]... Whatever his problem is with you, I bet he'd forget all about it!
+[pickup1] [friendly conversation with Lee while walking the fence line][mild outdoor projection][cont.]... Bất kể vấn đề của lão ta với anh là gì, tôi cá là lão sẽ quên tất cả về nó!
 145) LEE
-[pickup1][explaining why the tractor stopped] Shit. It's one of the dead we pushed down earlier. I'm gonna have to move it.
+[pickup1][explaining why the tractor stopped] Chết tiệt. Là tên xác sống lúc nãy chúng ta đẩy ra. Tôi sẽ phải di chuyển nó ra.
 146) MARK
-[pickup3][in pain][behind the tractor for cover when it stops moving]What happened?
+[pickup3][in pain][behind the tractor for cover when it stops moving]Sao vậy?
 147) MARK
-[pickup3][in pain][as the tractor stops again]Another one?  How many of those things did we push down?
+[pickup3][in pain][as the tractor stops again]Nữa hả?  Chúng ta đã đẩy ra bao nhiêu tên vậy?
 148) MARK
-[pickup1][looking at the dead zombie they just pushed off the fence]Who do you think he was?
+[pickup1][looking at the dead zombie they just pushed off the fence]Anh nghĩ đó là ai?
 149) LEE
-[pickup1][response to Mark asking who the zombie on the fence might have been] It doesn't matter.
+[pickup1][response to Mark asking who the zombie on the fence might have been] Không quan trọng nữa.
 150) LEE
-[pickup1][response to Mark asking who the zombie on the fence might have been]Maybe a farm hand.  I dunno.  I hope he wasn't like this long before the fence finished him off.
+[pickup1][response to Mark asking who the zombie on the fence might have been]Có lẽ là người giúp việc.  Không biết nữa. Tôi hy vọng anh ta không chịu đựng quá lâu trước khi bị hàng rào kết liễu.
 151) MARK
-[pickup1][agreeing that it's better to be dead than a zombie] Yeah.
+[pickup1][agreeing that it's better to be dead than a zombie] Ừ.
 152) MARK
-[pickup1][looking at the dead zombie they pushed off the fence] Poor guy.
+[pickup1][looking at the dead zombie they pushed off the fence] Gã tội nghiệp.
 153) LEE
-[pickup1][pressing Mark to keep moving along the fence] Come on, I'm sure there's still a few more.
+[pickup1][pressing Mark to keep moving along the fence] Đi nào, tôi chắc là vẫn còn nữa.
 154) 
-Tractor
+Máy Kéo
 155) 
-Chock
+Đòn Kê
 156) 
-Ignition
+Đánh Lửa
 157) 
 Gear Shift
 158) TEMP
-TRACTOR IS ROLLING
+MÁY KÉO ĐANG LĂN BÁNH
 160) TEMP
-tractor is rolling
+máy kéo đang lăn bánh
 172) TEMP
-tractor is rolling
+máy kéo đang lăn bánh
 159) TEMP
-tractor is done rolling
+máy kéo đã ngừng lăn bánh
 161) TEMP
-tractor is done rolling
+máy kéo đã ngừng lăn bánh
 162) TEMP
-Scene is finished
+Cảnh đã kết thúc
 163) TEMP
-removing chocks
+loại bỏ đòn kê
 362) TEMP
-removing chocks
+loại bỏ đòn kê
 164) TEMP
-trying to push tractor when it's not moveable
+cố đấy máy kéo khi nó không di chuyển được
 168) TEMP
-trying to push tractor when it's not moveable
+cố đấy máy kéo khi nó không di chuyển được
 165) TEMP
-trying to move tractor when it's not moveable
+cố đấy máy kéo khi nó không di chuyển được
 166) TEMP
-pushing tractor
+đẩy máy kéo
 167) TEMP
-moving zombie
+đưa xác sống ra
 169) TEMP
 struggle 1 finisher
 170) MARK
-[pickup1][matter of fact]Good idea.
+[pickup1][matter of fact]Ý hay đấy.
 171) LEE
-[pickup1][inspecting the knocked over fence post]I think we'd get better leverage from the other side.
+[pickup1][inspecting the knocked over fence post]Tôi nghĩ dựng lên từ bên kia sẽ tốt hơn.
 173) TEMP
 Zombie Torso chases you
 174) 
-Look At
+Nhìn Vào
 301) 
-Look At
+Nhìn Vào
 304) 
-Look At
+Nhìn Vào
 308) 
-Look At
+Nhìn Vào
 312) 
-Look At
+Nhìn Vào
 313) 
-Look At
+Nhìn Vào
 175) 
 Fencepost
 176) 
-Fix
+Sửa
 177) MARK
-[pickup2]Glad you decided to stick around here.
+[pickup2]Mừng là anh quyết định ở lại đây.
 178) LEE
-[pickup2] Let's hope it's a permanent thing.
+[pickup2] Hãy hy vọng là nó lâu dài.
 269) LEE
-[pickup2] Let's hope it's a permanent thing.
+[pickup2] Hãy hy vọng là nó lâu dài.
 179) MARK
-[pickup2] Glad we're on the same page about that.
+[pickup2] Mừng vì ta đồng ý kiến với nhau về điều đó.
 180) MARK
-[pickup2] I know you said this place wasn't right for us, but c'mon, LOOK at it!
+[pickup2] Tôi biết anh đã nói nơi này không phù hợp với ta, nhưng thôi nào, NHÌN nó xem!
 181) MARK
-[pickup2] I know you said we shouldn't trust strangers, but they seem all right. Besides, this place! I mean, C'MON!
+[pickup2] Tôi biết anh đã nói ta không nên tin người lạ, nhưng họ có vẻ ổn mà. Bên cạnh đó, nơi này! Ý tôi là, THÔI NÀO!
 182) MARK
-[pickup2]Listen, I know you think this place isn't safe for Clementine, but you're being a little overprotective.
+[pickup2]Nghe này, tôi biết anh nghĩ nơi này không an toàn với Clementine, nhưng anh đang có chút bảo vệ thái quá đấy
 183) LEE
-[pickup2]Why the hell did you have to tell him I thought he's a racist? As if tensions weren't high enough!
+[pickup2]Anh nói với lão ta là tôi nghĩ lão phân biệt chủng tộc làm quái gì? Trông tình hình chưa đủ căng thẳng à!
 184) LEE
-[pickup2]He wouldn't be such a pain in the ass if you weren't telling him we were talking behind his back all the time.
+[pickup2]Ông ta sẽ không phiền phức thế đâu nếu anh không kể với ông ta là ta đã nói xấu sau lưng ổng bây lâu.
 185) LEE
-[pickup2]What were you thinking, telling him what I said about him thinking I'm dangerous?
+[pickup2]Anh nghĩ gì mà lại kể với lão rằng tôi nói lão coi tôi như là mối nguy cho cả nhóm?
 186) MARK
-[pickup2]Sorry man! It just... popped out!
+[pickup2]Xin lỗi anh bạn! Chỉ là... nó cứ thể tuôn ra!
 187) MARK
-[pickup2]I'm sorry, all right?
+[pickup2]Tôi xin lỗi, được chứ?
 188) MARK
-[pickup2] I mean, you DID admit it right to his face...
+[pickup2] Ý tôi là, anh đã THỪA NHẬN thẳng mặt lão mà...
 189) 
-He's a piece of shit.
+Lão là tên chết tiệt.
 190) 
-We'll work it out somehow.
+Ta sẽ giải quyết được bằng cách nào đó thôi.
 193) LEE
-[pickup2] We'll work it out somehow.
+[pickup2] Ta sẽ giải quyết được bằng cách nào đó thôi.
 191) 
-I try to be civil at least.
+Tôi đã cố nói ít nhất có thể.
 194) LEE
-[pickup2] I try to be civil, at least.
+[pickup2] Mà, tôi cũng đã cố nói ít nhất có thể.
 192) LEE
-[pickup2] That guy's a piece of shit anyway.
+[pickup2] Lão dù gì cũng là tên chết tiệt thôi.
 195) MARK
-[pickup2]He's too busy being cranky to notice.
+[pickup2]Lão cũng quá bận cáu kỉnh để để ý.
 196) MARK
-[pickup2]Well, hopefully he'll calm down once he's out here.
+[pickup2]Vậy, mong là lão sẽ hạ hỏa khi đã đến đây.
 197) MARK
-[pickup2] Relax. You're not making things any better riling him up.
+[pickup2] Thư giãn đi. Anh không làm cho mọi thứ ổn hơn khi chọc giận lão đâu.
 198) MARK
-[pickup2] Well, maybe a good meal will chill him out a little.
+[pickup2] Có lẽ một bữa ăn ngon có thể giúp lão hạ hỏa một chút.
 199) MARK
-[pickup2]Christ, I can't stop thinking about dinner.
+[pickup2]Chúa ơi, tôi không thể ngừng nghĩ đến buổi tối được.
 200) 
-Focus on the task.
+Tập trung vào nhiệm vụ đi.
 201) 
-We'll go ask for more to eat after.
+Chúng ta sẽ xin thêm để ăn sau.
 202) 
-I'm hungry, too.
+Tôi cũng đói nữa.
 203) LEE
-[pickup2] If they've got as much food as they say, I think so.
+[pickup2] Nếu họ có nhiều thức ăn như đã nói, tôi nghĩ vậy.
 204) LEE
-[pickup2] Just try to focus on the task.
+[pickup2] Tập trung vào nhiệm vụ đi.
 205) MARK
-[pickup2] Do you think they're gonna be good for it? Dinner for a whole group of people?
+[pickup2] Anh có nghĩ họ hào phóng như vậy không? Bữa tối cho cả một nhóm người?
 206) LEE
-[pickup2] We'll go ask for more to eat after this is done.
+[pickup2] Chúng ta sẽ xin thêm để ăn sau khi đã xong.
 207) MARK
-[pickup2] All right, I can suck it up.
+[pickup2] Được rồi, tôi có thể nuốt trọn chúng luôn đấy.
 208) LEE
-{pickup2} I'm hungry too, Mark.
+{pickup2} Tôi cũng đói nữa, Mark.
 209) MARK
-[pickup2] They knew what they were doing, teasing us with food and then giving us chores!
+[pickup2] Họ biết mình đang làm gì, thả mồi cho ta bằng thức ăn và sau đó giao việc cho chúng ta!
 210) LEE
-[pickup2] Having a good meal will be worth it.
+[pickup2] Một bữa ăn ngon cũng đáng.
 211) MARK
-[pickup2] Let's just get this done. Maybe Brenda has some more bread in the house.
+[pickup2] Làm nhanh cho xong nào. Có lẽ Brenda vẫn còn thêm bánh mì ở trong nhà.
 212) MARK
-[pickup2] Once this fence is patched up, this place'll be a fortress! God, can you imagine not having to worry about the walkers anymore?
+[pickup2] Một khi chỗ hàng rào được vá xong, nơi này sẽ là một pháo đài! Trời, anh có tưởng tượng được việc không cần phải lo về đám xác sống nữa không?
 213) LEE
-[pickup2] We've got the people to defend it.
+[pickup2] Chúng ta có đủ người để bảo vệ nó.
 280) 
-We've got the people to defend it.
+Chúng ta có đủ người để bảo vệ nó.
 214) MARK
-[pickup2] Between us and the dairy guys? No problem!
+[pickup2] Giữa chúng ta và gã nông dân ấy à? Không vấn đề gì!
 215) LEE
-[pickup2] We still need to be careful. It's still dangerous as hell.
+[pickup2] Chúng ta vẫn cần phải cẩn thận. Nguy hiểm vẫn còn đang chực chờ đâu đó.
 216) MARK
-[pickup2] We just keep the kids away from it, nothing to worry about.
+[pickup2] Chúng ta chỉ cần giữ bọn nhỏ tránh xa thôi, không cần phải lo quá.
 217) MARK
-[pickup2] True, but it's also dangerous to the walkers.
+[pickup2] Phải nhưng nó cũng nguy hiểm không kém với bọn xác sống.
 218) LEE
-[pickup2] It's dangerous.
+[pickup2] Khá là nguy hiểm.
 283) 
-It's dangerous.
+Khá là nguy hiểm.
 219) MARK
-[pickup2] So, what's your take on the brothers? They seem to have this place tied down pretty well.
+[pickup2] Vậy anh thấy hai anh em nhà John thế nào? Họ dường như bảo vệ được nơi này khá chặt chẽ đấy.
 220) 
-What do you mean?
+Ý anh là sao?
 222) 
-They've been pretty generous.
+Họ đã khá là hào phóng.
 223) 
-They're delaying the inevitable.
+Họ đang trì hoãn điều không thể tránh khỏi.
 224) 
-We can take this place if we have to.
+Chúng ta có thể chiếm lấy nơi này nếu ta muốn.
 225) LEE
-[pickup2] What do you mean by that?
+[pickup2] Ý anh là sao?
 226) LEE
-[pickup2] They've been pretty generous so far.
+[pickup2] Tới giờ thì họ khá là hào phóng.
 227) MARK
-[pickup2] Yeah, definitely. I mean, I know we're not getting something for nothin', but still...
+[pickup2] Phải, tất nhiên rồi. Ý tôi là, Tôi biết chúng ta không nhận được gì cho không, nhưng vẫn...
 228) MARK
-[pickup2] Well, they seem decent enough. I just want you to know that I've got your back if anything goes down.
+[pickup2] Thì, họ có vẻ khá đàng hoàng. Tôi chỉ muốn anh biết rằng tôi sẽ hỗ trợ anh nếu có bất cứ điều gì xảy ra.
 229) MARK
-[pickup2] So... about that guy in the woods... Did we do the right thing? Just leaving him there?
+[pickup2] Vậy... về gã ở trong rừng... Chúng ta làm thế có đúng không? Chỉ để lại anh ta ở đó?
 230) LEE
-[pickup2][matter-of-fact] There was nothing we could do.
+[pickup2][matter-of-fact] Chúng ta không thể làm gì được.
 231) LEE
-[pickup2][matter-of-fact] We did all we could, Mark.
+[pickup2][matter-of-fact] Ta đã làm những gì có thể rồi, Mark.
 232) LEE
-[pickup2][unsure] I don't know.
+[pickup2][unsure] Tôi không biết.
 233) MARK
-[pickup2] It's just been getting to me.
+[pickup2] Nó vừa đến với tôi.
 234) LEE
-[tense/under fire]No idea!
+[tense/under fire]Không biết nữa!
 237) MARK
-[pickup2] But I...
+[pickup2] Nhưng tôi...
 238) MARK
 [pickup2][just shot though the neck] Uggkkkkk!
 239) LEE
-[pickup2][just saw Mark get shot through the neck] Oh, fuck!
+[pickup2][just saw Mark get shot through the neck] Ôi, đệt!
 240) LEE
-[pickup2][terrified] What the hell!?
+[pickup2][terrified] Cái quái gì!?
 241) MARK
-[pickup3][pickup2] We're gonna have to move it. That maniac isn't gonna stop!
+[pickup3][pickup2] Chúng ta phải di chuyển ngay. Bọn điên đó sẽ không dừng lại đâu!
 242) BANDIT
-[pickup2] Where's our food you assholes!?
+[pickup2] Đồ ăn của bọn tao đâu thằng chó đẻ!?
 243) BANDIT
-[pickup2] You didn't deliver the goods! Now we're gonna take what's owed!
+[pickup2] Mày đã không giao thức ăn đến! Giờ bọn tao sẽ lấy lại những gì thuộc về mình!
 244) BANDIT
-[pickup2] We had an agreement! Now you're fucked!
+[pickup2] Chúng ta đã thỏa thuận mà! Giờ thì mày toi rồi!
 245) MARK
-[pickup2] I can't wait until everyone's out here. Everyone besides Larry...
+[pickup2] Thật mong chờ đến khi mọi người đều đến đây. Tất cả mọi người trừ Larry...
 246) MARK
-[pickup2] Look, you said it.
+[pickup2] Nghe này, anh đã thừa nhận.
 247) MARK
-[pickup2] You even admitted it right to him.
+[pickup2] Anh thậm chí đã thừa nhận với lão rồi.
 248) MARK
-[pickup2]You admitted it to him anyway...
+[pickup2]Dù gì anh cũng đã thừa nhận với lão...
 249) LEE
-[pickup2] It's useless without gas. We might need food, but the St. Johns need gas too.
+[pickup2] Nó cũng vô dụng nếu không có xăng. Chúng ta có lẽ cần thức ăn, nhưng nhà Johns cũng cần xăng nữa.
 250) 
-It's useless without gas.
+Không có xăng cũng vô dụng.
 251) MARK
-[pickup2] I suppose...
+[pickup2] Tôi đoán là thế...
 252) MARK
-[pickup2] Not if we all work together. They're really taking care of this place.
+[pickup2] Không nếu tất cả làm việc cùng nhau. Họ đã thực sự chăm sóc tốt cho nơi này.
 253) MARK
-[pickup2][sad, context: You're probably right that this place will fall eventually]Maybe you're right.
+[pickup2][sad, context: You're probably right that this place will fall eventually]Có lẽ anh nói đúng.
 254) MARK
-And by the sounds of it, you're just counting the hours before it does.
+Và bằng âm thanh của nó, anh chỉ đang đếm ngược số giờ trước khi nó xảy ra.
 257) MARK
-And by the sounds of it, you're just counting the hours before it does.
+Và bằng âm thanh của nó, anh chỉ đang đếm ngược số giờ trước khi nó xảy ra.
 256) MARK
-[pickup2] It's encouraging to see how well they take care of this place.
+[pickup2] Thật đáng khích lệ khi thấy họ chăm sóc nơi này tốt như thế nào.
 258) MARK
-[pickup2] You said it. I'm really happy we took them up on their offer.
+[pickup2] Anh chon đúng đấy. Tôi rất vui khi chúng ta đã chấp nhận lời đề nghị của họ.
 259) MARK
-[pickup2] Out here, it's almost like things used to be.
+[pickup2] Ở đây, mọi thứ gần như đã giống như lúc trước.
 261) MARK
-[pickup2] Out here, it's almost like things used to be.
+[pickup2] Ở đây, mọi thứ gần như đã giống như lúc trước.
 270) MARK
-[pickup2] Out here, it's almost like things used to be.
+[pickup2] Ở đây, mọi thứ gần như đã giống như lúc trước.
 260) MARK
-[pickup2] See? I knew you'd change your mind eventually!
+[pickup2] Thấy chưa? Tôi biết rồi anh cũng sẽ đổi ý thôi mà!
 262) LEE
-[pickup2] I'm not so sure. We don't know anything about this place.
+[pickup2] Tôi không chắc nữa. Chúng ta không biết gì về nơi này cả.
 265) LEE
-[pickup2] I'm not so sure. We don't know anything about this place.
+[pickup2] Tôi không chắc nữa. Chúng ta không biết gì về nơi này cả.
 263) MARK
-[pickup2] Oh, come on. You seemed really into the idea back there!
+[pickup2] Ôi, thôi nào. Anh trông có vẻ khá vừa lòng lúc đó mà!
 264) LEE
-[pickup2] I've been thinking it over, that's all.
+[pickup2] Tôi chỉ là đã suy nghĩ lại về nó rồi.
 266) MARK
-[pickup2] I know you're not sold, but I think this place is perfect!
+[pickup2] Tôi biết anh không vừa lòng, nhưng tôi nghĩ nơi này hoàn hảo!
 267) MARK
-[pickup2] God, can you imagine it? There's more than enough room for us all!
+[pickup2] Chúa ơi, tưởng tượng được không? Có thừa phòng cho tất cả chúng ta đấy!
 268) MARK
-[pickup2] Oh yeah? Changing your tune I see! You didn't seem so gung-ho before!
+[pickup2] Ồ vậy à? Đổi ý nhanh thật nhỉ! Trước đó anh có vẻ không hứng thú lắm!
 271) MARK
-You're crazy. Everyone else is so excited!
+Anh điên rồi. Những người khác rất phấn khích!
 272) MARK
-[pickup2] Woulda been nice to get some of those rations. I get hungry too, ya know.
+[pickup2] Sẽ thật tuyệt nếu lúc đó nhận được chút đồ ăn. Tôi cũng đói bụng, anh biết mà.
 273) MARK
-[pickup2] Thanks for the rations earlier. It's not easy eating in front of the kids, but it's all that's keeping me on my feet right now.
+[pickup2] Cảm ơn vì chỗ đồ ăn lúc trước. Không dễ gì ăn được trước mặt bọn trẻ, nhưng nó cũng giữ được cho tôi đứng vững tới giờ.
 276) LEE
-[pickup2b][underfire frm the bandits, lee figures out what to do next]I just gotta get to that gate!
+[pickup2b][underfire frm the bandits, lee figures out what to do next]Mình chỉ cần phải đến chỗ cánh cổng!
 277) LEE
-{pickup2b}[talking to himself]Maybe I can get this thing moving... use it for cover.
+{pickup2b}[talking to himself]Có lẽ mình có thể khiến thứ này di chuyển... dùng nó làm lá chắn.
 278) LEE
-[pickup2b][to himself as the tractor stops against another zombie]Shit.  How many of these things did we knock down?
+[pickup2b][to himself as the tractor stops against another zombie]Đệt.  Chúng ta đã dọn được bao nhiêu trong số đó rồi?
 279) LEE
-[pickup2b][having reached the safety of the gate, Lee looks back toward Mark's dead body.]Sorry, Mark.  [then, to himself, getting angry] What the fuck is going on around here?!
+[pickup2b][having reached the safety of the gate, Lee looks back toward Mark's dead body.]Xin lỗi, Mark.  [then, to himself, getting angry] Chuyện đéo gì xảy ra ở đây vậy chứ?!
 282) 
-We still need to be careful.
+Chúng ta vẫn cần phải cẩn thận.
 284) 
-It doesnt matter.
+Nó không quan trọng.
 285) 
-Maybe a farm hand.
+Có lẽ là một người phụ việc trong trang trại.
 286) LEE
-[pickup2][looking at a dead zombie on the fence]At least it's not one of us.
+[pickup2][looking at a dead zombie on the fence]Ít nhất đó không phải là một trong chúng ta.
 287) 
-At least it's not one of us.
+Ít nhất đó không phải là một trong chúng ta.
 291) BANDIT2
-[pickup2] What about our arrangement?!
+[pickup2] Thỏa thuận của chúng ta thì sao?!
 292) BANDIT3
-[calling out orders to other bandits]I see 'em!
+[calling out orders to other bandits]Tao thấy chúng rồi!
 293) BANDIT2
-[calling out orders to other bandits]Over there!
+[calling out orders to other bandits]Ở đằng kia!
 294) BANDIT3
-Did you really think you could fuck with us?
+Mày nghĩ mày có thể trêu đùa bọn tao được à?
 295) BANDIT2
-[calling out orders to other bandits]Behind the tractor!
+[calling out orders to other bandits]Phía sau cái máy kéo!
 296) BANDIT3
-Give us the food!
+Đưa đồ ăn cho bọn tao!
 297) BANDIT2
-You assholes!
+Thằng khốn nạn!
 298) BANDIT3
-I already got one of ya!
+Tao đã bắn trúng một tên rồi!
 299) BANDIT2
-[calling out orders to other bandits]Get closer!
+[calling out orders to other bandits]Đến gần hơn đi!
 300) BANDIT3
-[calling out orders to other bandits]Try to lure 'em into the open.
+[calling out orders to other bandits]Cố lùa chúng ra.
 302) 
-Push
+Đẩy
 310) 
-Push
+Đẩy
 303) LEE
-[pickup3][casual - Noticing that the dead zombie is pinned to thefencepost] Looks like he's stuck.
+[pickup3][casual - Noticing that the dead zombie is pinned to thefencepost] Có vẻ như nó bị kẹt rồi.
 305) 
-Pull
+Lấy Ra
 306) LEE
-[pickup3][to himself as he pulls an arrow out of the dead zombie]Disgusting.
+[pickup3][to himself as he pulls an arrow out of the dead zombie]Kinh tởm.
 307) LEE
-[pickup3][looking at a dead zombie pinned to the fencpost with an arrow]Maybe the St. John boys were using this guy for target practice?
+[pickup3][looking at a dead zombie pinned to the fencpost with an arrow]Có lẽ anh em nhà St. John đã sử dụng gã này để thực hành bắn mục tiêu?
 309) LEE
-[pickup3][looking at the dead zombie on the fence post]We'll have to get this guy off the post before we fix it.
+[pickup3][looking at the dead zombie on the fence post]Chúng ta sẽ cần đưa gã này xuống trước khi sửa hàng rào.
 311) 
-Chop
+Chặt
 314) 
-Chop
+Chặt
 315) LEE
-[pickup3][casual - looking at dead zombie]Man, the fence burnt right into its hands.  I think they fused together.
+[pickup3][casual - looking at dead zombie]Trời ạ, hàng rào cháy ngay trong tay nó. Tôi nghĩ rằng chúng dính nhau luôn rồi.
 316) LEE
-[pickup3][casual - looking at dead zombie]Man, the fence burnt right into its hands.  I think they fused together.
+[pickup3][casual - looking at dead zombie]Trời ạ, hàng rào cháy ngay trong tay nó. Tôi nghĩ rằng chúng dính nhau luôn rồi.
 317) 
 Usar.
 318) LEE
-[pickup3][looking at a dead zombie pinned to the fencpost with an arrow]I don't know what got him first, the arrow or the fence.  Either way, I hope he was already dead.
+[pickup3][looking at a dead zombie pinned to the fencpost with an arrow]Không biết thứ gì đã xử anh ta trước, mũi tên hay hàng rào. Dù là cái nào thì, tôi hy vọng anh ta đã chết.
 319) LEE
-[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]Who the fuck are you?!
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]Các người là bọn quái nào?!
 320) LEE
-[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]Stop shooting at us!
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]Ngừng bắn chúng tôi đi!
 321) LEE
-[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]We're not your enemy?!
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]Bọn tôi không phải kẻ thù?!
 322) LEE
-[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]We're NOT the St. Johns!!
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]Bọn tôi không phải nhà St. Johns!!
 323) LEE
-[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]STOP SHOOTING!!
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]ĐỪNG BẮN NỮA!!
 324) LEE
-[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]We don't know you!!
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]Bọn tôi không biết các người!!
 325) LEE
-[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]We don't mean you any harm, God dammit!!
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]Chúng tôi không có ý gây hại cho các người, đệt mẹ nó!!
 326) LEE
-[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]Let's talk this out!!
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]Hãy nói chuyện đã!!
 327) LEE
-[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]Show yourselves!
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]Lộ mặt đi!
 328) LEE
-[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]Get out here and face me like a man!
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]Hãy bước ra và đối mặt với tôi như người đàn ông!
 329) LEE
-[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]Leave us the fuck alone!!
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]Để con mẹ nó cho bọn tôi yên!!
 330) 
-Light
+Đèn
 331) 
-Arrow
+Mũi Tên
 332) 
-Hand
+Tay
 333) 
 Libra
 334) LEE
-[pickup3][shouting!  Seeing the gate of the fence as a way to get free from the people shooting at them!] Get to the gate!!
+[pickup3][shouting!  Seeing the gate of the fence as a way to get free from the people shooting at them!] Tới chỗ cái cổng!!
 335) LEE
-[pickup3][slightly out of breath and under fire]With the fence on, that gate is our only way out!
+[pickup3][slightly out of breath and under fire]Hàng rào đã bật rồi thì cái cổng đó là lối thoát duy nhất của ta!
 337) 
 Pegarle con hacha
 338) LEE
-[pickup3][to himself, but under fire!] Shit, something's still blocking it!
+[pickup3][to himself, but under fire!] Đệt, còn gì đó đang chắn nó lại!
 339) 
-Plow Lever
+Tay Gạt
 340) 
-Yell At
+La Lớn Đến
 341) 
-Bandits
+Bọn Cướp
 342) LEE
-[pickup3][inspecting the plow while under fire!]The blades are stuck in the dirt!
+[pickup3][inspecting the plow while under fire!]Cái lưỡi dao đang bị kẹt trong đất!
 343) MARK
-[pickup3][in pain]{lee attacked by suprise zombie]<<id:310509724>>Holy crap!  Lee!
+[pickup3][in pain]{lee attacked by suprise zombie]<<id:310509724>>Ôi đệt!  Lee!
 344) MARK
-[pickup3][follows: 310509695]With that fence on, we can't get back to the other side!
+[pickup3][follows: 310509695]Với hàng rào đang bật, ta không thể quay lại phía bên kia!
 345) MARK
-[pickup3b]So how's the place looking?   Is it safe enough for us to stay... if we can?
+[pickup3b]Vậy nơi này thế nào?   Có đủ an toàn cho chúng ta ở không... nếu có thể?
 346) LEE
-[pickup3b]Yeah, it's pretty amazing what they've done with this dairy.  But let's see what it takes to secure this fence before drawing any conclusions.
+[pickup3b]Ừ, khá là tuyệt vời với những gì họ đã làm với trang trại. Nhưng trước hết hãy thử xem qua chỗ hàng rào này trước khi đưa ra bất kỳ kết luận nào.
 347) LEE
-[pickup3b]Well, we don't want to seem over anxious.  Showing them we can handle this fence is gonna go a long way.
+[pickup3b]Chà, chúng ta đâu muốn tỏ ra quá lo lắng. Cho họ thấy chúng ta có thể xử lý hàng rào này sẽ lâu đấy.
 348) MARK
-[pickup3b]Do you think we're doing enough to get the St. John's to like us?
+[pickup3b]Anh nghĩ chúng ta đã làm đủ để khiến cho nhà St. John thích chúng ta chưa?
 349) BANDIT
-They're on the move!
+Chúng đang di chuyển!
 350) BANDIT3
-Go!  Go!
+Đi!  Nhanh!
 351) BANDIT
-They're getting away!
+Bọn chúng đang trốn thoát!
 352) BANDIT3
-They're behind the tractor!
+Chúng đang ở sau máy kéo!
 353) BANDIT
-Where do you think you're going!?
+Bọn mày nghĩ mình đang đi đâu vậy!?
 354) BANDIT3
-Don't let em get away!
+Đừng để chúng thoát!
 355) BANDIT
-They're trying to move the tractor!
+Chúng đang cố di chuyển máy kéo!
 356) BANDIT3
-Go!  Get out in front of 'em!
+Đi đi!  Đến trước mặt chúng!
 357) 
-Kick
+Đá
 360) MARK
-Who the fuck is that?!
+Bọn quái nào vậy?!
 361) MARK
-JESUS!!
+CHÚA ƠI!!
