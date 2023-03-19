@@ -1,146 +1,146 @@
 1) CLEMENTINE
-{sadA}Cháu đã có nó một vài ngày trước.
+{sadA}Cháu vẫn còn nó vài ngày trước.
 2) LEE
-{normalC}Cháu đã mất khi nào vậy?
+{normalC}Cháu mất nó khi nào?
 3) LEE
-{normalD}Cháu có thực sự mất nó khônt?
+{normalD}Cháu có thật sự cần nó không?
 4) CLEMENTINE
-{sadA}Không. Không hề từ lúc ở cửa hàng thuốc.
+{sadA}Không ạ. Kể từ khi rời hiệu thuốc thì nó đã hỏng rồi.
 5) LEE
-{thinkingA}Thứ đó không hoạt động nữa, đúng không?
+{thinkingA}Thứ đó không còn hoạt động nữa nhỉ?
 6) LEE
-{sadA}Xin lỗi, hon, chú không có thời gian.
+{sadA}Xin lỗi cháu, chú không có thời gian.
 7) CLEMENTINE
-[annoyed] {angryA}Lee!
+[annoyed] {angryA}Chú Lee!
 8) CLEMENTINE
-[annoyed] {angryA}Lee!
+[annoyed] {angryA}Chú Lee!
 9) CLEMENTINE
-{sadC}Nhưng nó giúp cháu cảm thấy tốt hơn.
+{sadC}Nhưng nó khiến cháu cảm thấy tốt hơn.
 10) LEE
-[sad, but sympathetic] {sadA}Nhìn này, Clementine...
+[sad, but sympathetic] {sadA}Nghe này, Clementine...
 11) CLEMENTINE
-{angryA}Cháu không ngốc, Lee. {sadB}Cháu biết nó như giả vờ.
+{angryA}Cháu không ngốc, chú Lee. {sadB}Cháu biết chỉ là giả vờ thôi.
 12) CLEMENTINE
-{sadA}Cháu rất đói, Lee.
+{sadA}Cháu đói lắm rồi, chú Lee.
 13) LEE
-{normalD}Cháu như thế nào rồi, Clementine?
+{normalD}Cháu sao rồi, Clementine?
 14) LEE
-{sadB}Okay.  Cháu chăm sóc tốt nó nhé.
+{sadB}Được rồi.  Vậy cháu cứ giữ gìn nó cho tốt đi.
 15) CLEMENTINE
-{sadA}Cháu sẽ làm.
+{sadA}I will.
 16) LEE
-[pickup2][sean edit] Chú biết.
+[pickup2][sean edit] Chú biết chú đã nói thế.
 17) CLEMENTINE
-[pickup2][sean edit] Nhưng tới lúc đó... [trails off]
+[pickup2][sean edit] Và cho đến khi đó... [trails off]
 18) CLEMENTINE
-[pickup2][sean edit] Chú nói họ sẽ tìm ra chúng ta.
+[pickup2][sean edit] Chú đã nói rằng họ sẽ tìm chúng ta.
 19) CLEMENTINE
-[pickup2][sean edit] Nhưng chúng ta có thể tìm HỌ.
+[pickup2][sean edit] Nhưng chúng ta có thể thử tìm BỌN HỌ.
 20) CLEMENTINE
-[pickup2][sean edit] Chú nói rằng chú không nghĩ họ sẽ tìm ra chúng ta.
+[pickup2][sean edit] Chú đã nói rằng chú không nghĩ họ có thể tìm thấy chúng ta.
 21) LEE
-[pickup2][sean edit] Thì, ờ, nhưng đó là bởi vì...
+[pickup2][sean edit] Thì, đúng vậy, nhưng đó là bởi vì...
 22) 
-[Give Half an Apple]
+[Đưa một nửa quả táo]
 23) 
-[Give Piece of Jerky]
+[Đưa miếng Thịt Khô]
 24) 
-[Give Crackers and Cheese]
+[Đưa Bánh Quy và Phô Mai]
 25) 
-[Give Crackers and Cheese]
+[Đưa Bánh Quy và Phô Mai]
 63) 
-[Keep the last piece of food for yourself]
+[Giữ miếng ăn cuối cùng cho bản thân]
 65) 
-[Save the last piece of food for someone else]
+[Giữ miếng ăn cuối cùng cho một người khác]
 69) 
-[Exit]
+[Thoát]
 26) LEE
-[pickup 2] Này Clem, cháu cần gì để ăn nè.
+[pickup 2] Đây Clem, cháu cần thứ gì đó để ăn đấy.
 72) LEE
-[pickup 2] Này Clem, cháu cần gì để ăn nè.
+[pickup 2] Đây Clem, cháu cần thứ gì đó để ăn đấy.
 27) LEE
-[smiling at Clementine's joke] Cháu sẽ để ý.
+[smiling at Clementine's joke] Chú sẽ ghi nhớ điều đó.
 28) CLEMENTINE
-[pickup 2] Okay. [joking] Một sundae sẽ tốt hơn lần sau. [laughs to herself]
+[pickup 2] Vâng ạ. [joking] Lần sau một ly kem sẽ tốt hơn đấy ạ. [laughs to herself]
 29) LEE
 [pickup 2] Chú hết đồ ăn rồi, Clementine. Chú xin lỗi.
 30) CLEMENTINE
-[pickup 2] [sighs] [hates to admit it]Cháu đang rất đói...
+[pickup 2] [sighs] [hates to admit it]Cháu đói lắm rồi...
 31) LEE
-[pickup 2] Cháu thế nào rồi, Clementine? Mọi chuyện ổn không?
+[pickup 2] Cháu sao rồi, Clementine? Mọi thứ ổn chứ?
 32) CLEMENTINE
-[pickup 2] ...Có ạ. Người đàn ông đằng kia có ổn không ạ?
+[pickup 2] ...Vâng. Người đàn ông đó sẽ ổn chứ ạ?
 33) LEE
-[pickup 2] [not sure himself] Chú nghĩ anh ấy sẽ ổn.
+[pickup 2] [not sure himself] Chú nghĩ chú ấy sẽ ổn thôi.
 34) LEE
-[pickup 2] Chú không rõ nữa.
+[pickup 2] Chú không chắc.
 55) 
-Chú không rõ nữa.
+Chú cũng không chắc nữa.
 35) LEE
-[pickup 2] Nó nhìn không tốt lắm, Clementine. Nó nhìn không tốt lắm.
+[pickup 2] Trông không ổn lắm, Clementine à. Không ổn lắm.
 36) CLEMENTINE
-[pickup 2] [reserved, unsure about a prognosis] Oh, thế là tốt.
+[pickup 2] [reserved, unsure about a prognosis] Ồ, vậy thì tốt ạ.
 37) CLEMENTINE
-[pickup 2] [a little sad] Cháu mong anh ấy sẽ ổn. [be okay]
+[pickup 2] [a little sad] Cháu mong chú ấy sẽ ổn. [be okay]
 38) CLEMENTINE
-[pickup 2] [crestfallen] Oh. Okay.
+[pickup 2] [crestfallen] Ồ. Vâng ạ.
 39) LEE
-[pickup 2] Cháu có ổn ở đây không?
+[pickup 2] Cháu sẽ ổn ở đây chứ?
 40) CLEMENTINE
-[pickup 2] Uh-huh, Cháu sẽ ổn.
+[pickup 2] Uh-huh, cháu sẽ ổn thôi ạ.
 41) CLEMENTINE
-[pickup2]Cảm ơn vì đồ ăn, Lee.
+[pickup2]Cảm ơn chú lần nữa vì đồ ăn, chú Lee.
 42) CLEMENTINE
-[pickup2]Cháu rất đói, Lee. Cháu mong sẽ sớm được ăn.
+[pickup2]Cháu đói quá, chú Lee. Cháu mong mình sẽ sớm được ăn.
 43) CLEMENTINE
-[pickup2] Cháu thích táo. Cảm ơn chú. Còn nữa không ạ?
+[pickup2] Cháu thích táo lắm. Cảm ơn chú. Còn nữa không ạ?
 44) LEE
-[pickup2] Không. Đó là cái cuối cùng rồi.
+[pickup2] Không. Đó là quả cuối rồi.
 45) CLEMENTINE
-[pickup2][feels guilty] Oh...um...
+[pickup2][feels guilty] Ồ...um...
 46) LEE
-[pickup2] [sincere, talking to clementine] Tận hưởng đi. Cháu đáng mà.
+[pickup2] [sincere, talking to clementine] Cứ tận hưởng nó đi. Cháu xứng đáng mà.
 47) LEE
-[pickup2][feeling guilty] Yeah...
+[pickup2][feeling guilty] Ừ...
 70) LEE
-[pickup2][feeling guilty] Yeah...
+[pickup2][feeling guilty] Ừ...
 48) CLEMENTINE
-[pickup2] Oh. Không sao đâu. Cháu cá chắc rằng người khác cần nó.
+[pickup2] Ồ. Ổn mà chú. Cháu đoán là những người khác cần nó.
 49) 
-Cháu còn cái bộ đàm đó khônt?
+Cháu vẫn còn giữ chiếc bộ đàm à?
 50) LEE
-[pickup2][to clementine] Không đâu, hon.
+[pickup2][to clementine] Không sao cả.
 51) CLEMENTINE
-[pickup2] Yeah. Nếu không sao. Cháu, um, cháu cần nó.
+[pickup2] Vâng ạ. Nếu được. Cháu, um, cháu cần nó.
 52) LEE
-[pickup2] Nhớ giữ nó nhé cháu?
+[pickup2] Vậy cháu vẫn định giữ nó vậy thôi hả?
 53) 
-Cháu có ổn không?
+Cháu ổn chứ?
 54) 
-Anh ấy sẽ ổn thôi.
+Chú ấy sẽ ổn thôi.
 56) 
-Nhìn nó tệ lắm.
+Trông không ổn lắm.
 57) 
-Nói với
+Nói chuyện
 58) 
-Đưa đồ ăn cho
+Đưa đồ ăn
 59) 
-Chú hết đồ ăn hôm nay rồi...
+Chú hết thức ăn cho hôm nay rồi...
 60) 
-Muốn đồ ăn không? [Give Food]
+Muốn chút thức ăn không? [Đưa thức ăn]
 61) LEE
-[pickup3][to himself - depressed, having only 1 piece of food left]Một miếng đồ ăn nữa để cho đi, rồi nó sẽ hết trong ngày hôm nay.
+[pickup3][to himself - depressed, having only 1 piece of food left]Một miếng thức ăn nữa để chia, sau đó là hết phần cho hôm nay.
 62) LEE
-[pickup3][knowing there is only one more piece of food left]Hm.  Tôi có nên giữ cái này cho bản thân không?
+[pickup3][knowing there is only one more piece of food left]Hm.  Có lẽ mình nên giữ nó cho bản thân?
 64) LEE
-[pickup3][to himself - keeping the last bit of food for himself]Tôi cần phải sức khoẻ của tôi nữa.
+[pickup3][to himself - keeping the last bit of food for himself]Mình cũng cần duy trì sức lực nữa.
 66) LEE
-[pickup3][to himself - choosing to save the food for someone else]Không.  Một số người đã trải qua nhiều hơn tôi mà không có đồ ăn.  Họ là những người cần nó.
+[pickup3][to himself - choosing to save the food for someone else]Thôi.  Một vài người đã nhịn đói còn lâu hơn cả mình nữa.  Họ mới là người cần nó.
 67) CLEMENTINE
-[pickup3]Nếu chú có thêm đồ ăn, Duck cũng rất đói.
+[pickup3]Nếu chú có thêm đồ ăn, Duck cũng rất đói ạ.
 68) DUCK
-{thinkingA}Đúng rồi.  Khi nào chúng ta có thêm đồ ăn vậy?
+{thinkingA}Phải.  Khi nào chúng ta có thêm đồ ăn vậy ạ?
 71) LEE
-Chú sẽ quay lại ngay.
+Chú sẽ trở lại ngay thôi.
 73) LEE
-Sẽ quay lại trong chốc lát.
+Sẽ trở lại ngay.
