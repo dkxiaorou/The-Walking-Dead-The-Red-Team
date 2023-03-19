@@ -1,350 +1,350 @@
 1) DANNY
-[hushed]{ThinkingA}You see anybody?
+[hushed]{ThinkingA}Có thấy ai không?
 2) LEE
-[hushed]{body-B}{ThinkingA}Looks empty.
+[hushed]{body-B}{ThinkingA}Có vẻ không có ai.
 3) DANNY
-[hushed]{body-A}{NormalC}Okay, {ThinkingA}let's take a look around then.
+[hushed]{body-A}{NormalC}Được rồi, {ThinkingA}vậy tìm xung quanh xem.
 4) LEE
-[hushed]{body-B}{ThinkingA}Can't tell.
+[hushed]{body-B}{ThinkingA}Không rõ nữa.
 5) DANNY
-[hushed]{body-A}{ThinkingA}I'm gonna check the tent first.
+[hushed]{body-A}{ThinkingA}Tôi sẽ kiểm tra căn lều trước.
 6) DANNY
-[hushed]{body-A}{ThinkingA}I got the tent.
+[hushed]{body-A}{ThinkingA}Để tôi căn lều.
 7) LEE
-[hushed]{body-B}{AngryA}Stay on your guard.
+[hushed]{body-B}{AngryA}Hãy giữ cảnh giác.
 8) 
-Stay on your guard.
+Hãy giữ cảnh giác.
 9) 
-Can't tell.
+Không rõ nữa.
 10) 
-Looks empty.
+Có vẻ không có ai.
 11) DANNY
-{ThinkingA}Anything worth taking?
+{ThinkingA}Có thứ gì đáng lấy không?
 12) LEE
-{body-B}{ThinkingA}They're all from Save-Lots.
+{body-B}{ThinkingA}Chúng đều là từ Save-Lots cả.
 13) DANNY
-{body-A}{HappyA}Heh, I'll pass.
+{body-A}{HappyA}Hê, bỏ qua vậy.
 14) LEE
-{body-B}{ThinkingB}This is too much stuff for just one person.
+{body-B}{ThinkingB}Thế này quá nhiều đồ chỉ cho một người.
 15) LEE
-{body-B}{ThinkingA}We don't know whose camp this is. {SadA}Might not be bandits.
+{body-B}{ThinkingA}Chúng ta không biết đây là lều của ai. {SadA}Có thể không phải của bọn cướp.
 16) DANNY
-{NormalB}The first few days, {NormalC}they told folks to gather to the Save-Lots by the interstate.
+{NormalB}Vài ngày đầu tiên, {NormalC}chúng có bảo nhau đến lấy đồ tại Save-Lots cạnh đường cao tốc.
 17) 
-Not unless you need empty cans.
+Không trừ khi anh muốn mấy cái lon rỗng.
 18) 
-This is too much for one person.
+Thế này quá nhiều đồ chỉ cho một người.
 19) 
-We don't know whose camp this is.
+Chúng ta không biết đây là lều của ai.
 20) DANNY
-{body-A}{ThinkingA}What'd you find?
+{body-A}{ThinkingA}Anh tìm thấy gì?
 148) DANNY
-{body-A}{ThinkingA}What'd you find?
+{body-A}{ThinkingA}Anh tìm thấy gì?
 21) LEE
-{AngryA}Battery's dead, though.
+{AngryA}Nhưng mà hết pin rồi.
 153) LEE
-{AngryA}Battery's dead, though.
+{AngryA}Nhưng mà hết pin rồi.
 22) LEE
-{body-B}{ThinkingA}A video camera.
+{body-B}{ThinkingA}Một máy quay video.
 149) LEE
-{body-B}{ThinkingA}A video camera.
+{body-B}{ThinkingA}Một máy quay video.
 23) LEE
-{body-B}{NormalC}This camp's way too small for {ThinkingA}all the bandits we've seen.
+{body-B}{NormalC}Trại này là quá nhỏ cho{ThinkingA}bọn cướp mà bọn tôi đã thấy.
 78) LEE
-{body-B}{NormalC}This camp's way too small for {ThinkingA}all the bandits we've seen.
+{body-B}{NormalC}Trại này là quá nhỏ cho {ThinkingA}bọn cướp mà bọn tôi đã thấy.
 24) DANNY
-{body-A}{NormalB}Maybe they're just scouts or something.
+{body-A}{NormalB}Có thể chúng đang đi do thám hay gì đó.
 79) DANNY
-{body-A}{NormalB}Maybe they're just scouts or something.
+{body-A}{NormalB}Có thể chúng đang đi do thám hay gì đó.
 25) LEE
-{body-B}{FearA}Let's get out of here.
+{body-B}{FearA}Ra khỏi đây thôi.
 26) DANNY
-{body-A}{SurprisedA}Yeah, that {ThinkingA}gunshot's gonna bring some walkers.
+{body-A}{SurprisedA}Ừ, tiếng {ThinkingA}súng vừa rồi sẽ sớm mang đám xác sống đến.
 27) LEE
-{body-B}{ThinkingB}Do you know any of these bandits?
+{body-B}{ThinkingB}Anh có biết ai trong đám cướp không?
 28) DANNY
-{body-A}{ThinkingA}Maybe. {NormalB}I've never seen 'em.
+{body-A}{ThinkingA}Có thể. {NormalB}Tôi cũng chưa thấy chúng bao giờ.
 29) DANNY
-{NormalC}They're probably neighbors, though, {ThinkingA}now that you mention it.
+{NormalC}Mà nghĩ lại, cũng có thể là hàng xóm, {ThinkingA}khi giờ anh đề cập đến.
 30) LEE
-{body-B}{NormalC}Tent looks pretty new.
+{body-B}{NormalC}Cái lều trông khá mới.
 31) LEE
-{ThinkingA}Anybody inside?
+{ThinkingA}Có ai ở trong không?
 32) DANNY
-{body-A}{NormalB}Two sleeping bags. {ThinkingA}One of 'em's kid-sized.
+{body-A}{NormalB}Hai cái túi ngủ. {ThinkingA}Có một cái cỡ của trẻ con.
 33) LEE
-[quietly] {body-B}{SurpriseB}...the hell?
+[quietly] {body-B}{SurpriseB}...cái quái?
 34) JOLENE
-{AngryD}Jesus never came back for us.
+{AngryD}Chúa chưa từng trở lại với bọn tao.
 35) JOLENE
-Don't need to go lookin' for death. {HappyD}It's already found us.
+Không cần phải tìm đến cái chết. {HappyD}Tự nó đã tìm thấy ta rồi.
 36) JOLENE
-{CrazyE}He took her, he got her. {CrazyB}Left the rest of us behind.
+{CrazyE}Hắn lấy đi nó, cướp lấy nó. {CrazyB}Để lại tất cả bọn tao phía sau.
 37) JOLENE
-{body-A}{CrazyD}Y'all wave them guns like you're lookin' to die.
+{body-A}{CrazyD}Bọn bây đều vẫy súng của chúng cứ như đang tìm đến cái chết.
 38) JOLENE
-{CrazyC}Some of us already are!
+{CrazyC}Vài người trong bọn tao đã là chúng rồi!
 39) JOLENE
-{FearB}Just waitin' to get turned into monsters.
+{FearB}Chỉ đợi để biến thành những con quái vật.
 40) DANNY
-[pickup3][excited] {body-A}{AngryB}God dammit.
+[pickup3][excited] {body-A}{AngryB}Mẹ kiếp.
 41) DANNY
-{ThinkingB}What the hell'd you do that for?
+{ThinkingB}Anh làm thế làm quái gì?
 42) DANNY
-{body-A}{SurprisedA}Shit!
+{body-A}{SurprisedA}Đệt!
 43) LEE
-{body-B}{SurpriseB}She was about to shoot us both!
+{body-B}{SurpriseB}Ả chuẩn bị bắn cả hai chúng ta!
 44) DANNY
-{body-A}{AngryA}You could've just taken her down. {ThinkingA}You didn't have to kill her.
+{body-A}{AngryA}Anh đáng lẽ chỉ cần khiến ả gục xuống. {ThinkingA}Đâu nhất thiết phải giết ả.
 45) LEE
-{body-B}{AngryB}Justice. {ThinkingA}They've killed too many people.
+{body-B}{AngryB}Vì công lý. {ThinkingA}Chúng đã giết quá nhiều người.
 46) DANNY
-{body-A}{SurprisedA}Jeez. {HappyA}Whatever, Tex.
+{body-A}{SurprisedA}Trời. {HappyA}Thôi sao cũng được.
 47) LEE
-{body-B}{AngryC}You heard her. {SurpriseB}She was too far gone.
+{body-B}{AngryC}Anh nghe rồi đấy. {SurpriseB}Ả đi quá xa rồi.
 48) DANNY
-{body-A}{AngryA}She was a fuckin' freakshow, {SurprisedA}but you didn't have to kill her.
+{body-A}{AngryA}Ả đúng là quái dị thật, {SurprisedA}nhưng anh đâu cần phải giết ả.
 49) DANNY
-[hushed]{body-A}{ThinkingA}Watch my back, Lee.  {NormalC}I'm gonna check out the tent.
+[hushed]{body-A}{ThinkingA}Bọc lót cho tôi, Lee.  {NormalC}Tôi sẽ kiểm tra thử cái lều.
 50) JOLENE
-{body-A}{CrazyB}I ain't going back. {AngryA}You tell 'em {CrazyD}Jolene ain't goin' back!
+{body-A}{CrazyB}Tao sẽ không quay lại đâu. {AngryA}Mày đi nói với bọn chúng {CrazyD}Jolene sẽ không quay lại!
 51) DANNY
-{body-A}{FearC}Shit!
+{body-A}{FearC}Đệt!
 52) JOLENE
-{body-Crossbow}{CrazyA}PUT YOUR GUNS DOWN!
+{body-Crossbow}{CrazyA}HẠ SÚNG XUỐNG!
 53) DANNY
-{body-A}{SadB}I mean, I know she was crazy {SurprisedA}but... damn!
+{body-A}{SadB}Ý tôi là, tôi biết ả điên {SurprisedA}nhưng... chà!
 54) DANNY
-[responding to lee's silence]{body-A}{ThinkingB}...I'll take that as a "No."
+[responding to lee's silence]{body-A}{ThinkingB}...tôi sẽ coi nó là "Không" vậy.
 55) LEE
 [heavy sigh while looking at the dead body]
 56) DANNY
-[hushed]{NormalC}I know it's around here.  {ThinkingB}It's gotta be close.
+[hushed]{NormalC}Tôi biết nó ở đâu đó quanh đây.  {ThinkingB}Hẳn là ở gần thôi.
 57) LEE
-[hushed]{body-B}{ThinkingA}Not yet.
+[hushed]{body-B}{ThinkingA}Vẫn chưa.
 58) DANNY
-[hushed]{body-A}{ThinkingA}See anything?
+[hushed]{body-A}{ThinkingA}Có thấy gì chưa?
 59) LEE
-[Excited at his discovery, but still cautious][hushed]{SurpriseA}Here!
+[Excited at his discovery, but still cautious][hushed]{SurpriseA}Ở đây!
 60) DANNY
-[hushed]{SurprisedA}Oh shit!  {HappyA}You found it?!
+[hushed]{SurprisedA}Ôi đệt!  {HappyA}Anh tìm ra rồi à?!
 61) DANNY
-{body-A}{HappyA}What's in the boxes?
+{body-A}{HappyA}Có gì trong mấy cái hộp đó?
 62) DANNY
-[subtly relieved] {SurprisedA}Oh. good.
+[subtly relieved] {SurprisedA}Ồ. Tốt.
 151) DANNY
-[subtly relieved] {SurprisedA}Oh. good.
+[subtly relieved] {SurprisedA}Ồ. Tốt.
 63) DANNY
-[a little nervous]{DisgustA}Lemme see that.
+[a little nervous]{DisgustA}Để tôi xem thử.
 150) DANNY
-[a little nervous]{DisgustA}Lemme see that.
+[a little nervous]{DisgustA}Để tôi xem thử.
 64) DANNY
-{NormalC}What else they got over here? {ThinkingA}Let's see if we can find anything useful and then get a move on.
+{NormalC}Chúng còn gì khác ở đây nữa? {ThinkingA}Hãy xem chúng ta có thể tìm thấy gì hữu dụng không và tiếp tục thôi.
 152) DANNY
-{NormalC}What else they got over here? {ThinkingA}Let's see if we can find anything useful and then get a move on.
+{NormalC}Chúng còn gì khác ở đây nữa? {ThinkingA}Hãy xem chúng ta có thể tìm thấy gì hữu dụng không và tiếp tục thôi.
 65) LEE
-{body-B}{DisgustA}Yuk.  {FearA}I don't need that.
+{body-B}{DisgustA}Yuk.  {FearA}Mình không cần thứ đó.
 66) JOLENE
-{body-A}{CrazyC}Don't you fucking move!
+{body-A}{CrazyC}Đừng có mà di cmn chuyển!
 67) DANNY
-{body-A}{NormalB}Clear.
+{body-A}{NormalB}Không có ai.
 68) LEE
-{body-B}{ThinkingB}That's what I was thinking.
+{body-B}{ThinkingB}Cũng là điều mà tôi đang nghĩ.
 69) DANNY
-Take a look around anyway.  {ThinkingB}There's probably some shit around here {AngryA}they stole from us.
+Dù sao cũng tìm xung quanh thử xem.  {ThinkingB}Có thể có thứ gì đó ở đây {AngryA}mà chúng đã trộm từ bọn tôi.
 70) DANNY
-{ThinkingA}This camp's too small.  {NormalC}It can't be their main base.
+{ThinkingA}Trại này quá nhỏ.  {NormalC}Không thể là nơi trú ẩn chính của chúng được.
 71) 
-Save Lots Box
+Hộp Save Lots
 72) 
-Dairy Box
+Hộp Trang Trại Sữa
 73) 
-Look At
+Nhìn Vào
 74) 
-Shoot
+Bắn
 75) 
-Camera
+Máy Quay
 76) 
-Sleeping Bag
+Túi Ngủ
 175) 
-Sleeping Bag
+Túi Ngủ
 77) 
-Tent
+Lều
 80) LEE
-[pickup1][casual/to himself][looking at empty bottles on table]{body-B}{SadA}Empty. {ThinkingA}But it looks like someone's been eating out of these recently.
+[pickup1][casual/to himself][looking at empty bottles on table]{body-B}{SadA}Trống rỗng. {ThinkingA}Nhưng trông có vẻ như nó mới được ăn gần đây thôi.
 81) DANNY
-[pickup1][suspicious, but trying to be casual]{body-A}{NormalB}What is? [What's weird?]
+[pickup1][suspicious, but trying to be casual]{body-A}{NormalB}Gì? [What's weird?]
 82) LEE
-[pickup1][casual/to himself][looking at empty soup cans]{body-B}{ThinkingA}Weird.
+[pickup1][casual/to himself][looking at empty soup cans]{body-B}{ThinkingA}Kỳ lạ.
 83) LEE
-[pickup1][casual/to Danny][looking at empty cans]{ThinkingB}I think someone's saving these empty kid's soup cans.
+[pickup1][casual/to Danny][looking at empty cans]{ThinkingB}Tôi nghĩ có ai đó đang trữ đống súp đóng hộp này.
 84) LEE
-[pickup1][casual/to himself][looking at stuff]{body-B}{NormalB}Just water.
+[pickup1][casual/to himself][looking at stuff]{body-B}{NormalB}Chỉ có nước thôi.
 85) LEE
-[pickup1][sad/to himself][looking at a kids doll with blood on it][sighs heavily]{body-F}{SadB}Aw, man.
+[pickup1][sad/to himself][looking at a kids doll with blood on it][sighs heavily]{body-F}{SadB}Aw, trời.
 86) LEE
-[pickup1][alt - "Anything useful?"]Not unless you need a bunch of empty cans.
+[pickup1][alt - "Anything useful?"]Không trừ khi anh cần một đống lon rỗng.
 87) 
-Bottles
+Chai Nhựa
 88) 
-Gas Can
+Bình Đựng Xăng
 89) 
-Kettle
+Nồi Đun
 90) 
-Shopping Cart
+Xe Đẩy Mua Sắm
 91) 
-Trash
+Rác
 92) 
-Bloody Bunny
+Thỏ Bông Dính Máu
 93) 
 Photo
 94) 
 Nitroglycerine
 95) LEE
-[pickup2][disappointed, to himself] Nothing but fumes. Shit.
+[pickup2][disappointed, to himself] Chẳng gì khác ngoài khói. Mẹ kiếp.
 96) LEE
-[pickup2][curious] Boxes from the dairy here.
+[pickup2][curious] Có hộp từ trang trại ở đây này.
 97) DANNY
-[pickup2][nervous] Prob'ly the food we've been given' em. Fuckers crossed the line.
+[pickup2][nervous] Có lẽ là chỗ thức ăn mà bọn tôi đưa chúng. Lũ khốn này vượt quá ranh giới rồi.
 98) DANNY
-[pickup2][sad] {body-A}{SadA}I'm real sorry 'bout your friend. {ThinkingA}Never should-a happened like this...
+[pickup2][sad] {body-A}{SadA}Tôi thật sự xin lỗi về bạn anh. {ThinkingA}Mọi chuyện lẽ ra không nên như này...
 99) LEE
-[pickup2] {body-B}{SadA}Yeah, thanks.
+[pickup2] {body-B}{SadA}Ừ, cảm ơn.
 100) DANNY
-[pickup2][sad] {body-A}{SadA}I'm sorry 'bout your friend.
+[pickup2][sad] {body-A}{SadA}Tôi xin lỗi về bạn anh.
 101) LEE
-[pickup2] {body-B}{ThinkingA}Don't worry about it.
+[pickup2] {body-B}{ThinkingA}Đừng lo về chuyện đó.
 102) DANNY
-[pickup2] {ThinkingA}Mama will fix him up good as new.
+[pickup2] {ThinkingA}Mẹ tôi sẽ chữa cho anh ta như mới thôi.
 103) LEE
-[pickup2] {HappyA}Thanks.
+[pickup2] {HappyA}Cảm ơn.
 104) LEE
-[pickup2][suspicious] {body-B}{NormalB}Hmm. Looks like they were moving a lot of stuff.
+[pickup2][suspicious] {body-B}{NormalB}Hmm. Có vẻ như chúng đã di dời nhiều thứ.
 105) LEE
-[pickup2][curious] {body-B}{ThinkingA}Looks like they expected to be here a while.
+[pickup2][curious] {body-B}{ThinkingA}Có lẽ như chúng đã ở đây được một thời gian.
 106) LEE
-[pickup2][curious] {body-F}{FearA}Jesus... There's {SadB}a kid mixed up in this?
+[pickup2][curious] {body-F}{FearA}Chúa ơi... Có {SadB}trẻ con ở đây nữa ư?
 107) DANNY
-[pickup2][overhearing] {body-A}{HappyA}WAS, more like.
+[pickup2][overhearing] {body-A}{HappyA}ĐÃ TỪNG, thì đúng hơn.
 108) DANNY
-[pickup2] [slightly confused] It must be. They don't share their neighborhood.
+[pickup2] [slightly confused] Có lẽ vậy. Chúng không hay chia sẻ cho hàng xóm mình.
 109) DANNY
-[pickup2] Trust me, these selfish bastards don't stop takin'. Prob'ly just to remind us that it's theirs.
+[pickup2] Tin tôi đi, bọn khốn ích kỷ này không ngừng cướp đi. Có lẽ chỉ để nhắc cho chúng tôi rằng nó là của chúng.
 110) DANNY
 [pickup2] [dimissivel and smarmy] {Body-A}{DisgustA}Pussy.
 111) LEE
-[pickup2]  {body-B}{AngryB}She said she wasn't with the guys who killed Mark.   {AngryC}Why'd you call her a liar?
+[pickup2]  {body-B}{AngryB}Cô ta nói cô ta không ở cùng bọn đã giết Mark.   {AngryC}Sao anh lại bảo cô ta đang nói dối?
 112) DANNY
 [pickup2] {body-A}{AngryA}Because they're all in it together!  {AngryB}There's THEM... {ThinkingB}and there's US.  {DisgustA}Ain't no fucking Switzerland.
 113) LEE
-[pickup2]  {body-B}{AngryB}You straight up murdered that woman!
+[pickup2]  {body-B}{AngryB}Anh đã thẳng tay giết người phụ nữ đó!
 114) DANNY
-[pickup3]  [excited]{body-A}{AngryA}She had a crossbow pointed at my forehead!
+[pickup3]  [excited]{body-A}{AngryA}Cô ta đang cầm một cây nỏ chĩa vào trán tôi!
 115) LEE
-[pickup2] {Body-B}{AngryC}What did she mean about Clementine?  {ThinkingB}Why did she say "Tell him, boy!"
+[pickup2] {Body-B}{AngryC}Ý cô ta là sao về Clementine?  {ThinkingB}Sao cô ta lại nói "kể cho hắn đi, cậu nhóc!"
 116) DANNY
-[pickup2] [mocking Lee's line] {Body-A}{HappyA}Well, you're welcome... I guess.
+[pickup2] [mocking Lee's line] {Body-A}{HappyA}Thì, không có gì... chắc vậy.
 117) LEE
-[pickup2]{Body-B}{DisgustA}Well.  Thanks, {DisgustB}I guess.
+[pickup2]{Body-B}{DisgustA}Thì.  Cảm ơn, {DisgustB}chắc vậy.
 118) LEE
-[pickup2]{Body-B}{ThinkingB}She said she brought you meat.
+[pickup2]{Body-B}{ThinkingB}Cô ta bảo là đã mang thịt đến cho anh.
 119) DANNY
-[pickup2] {Body-A}{NormalC}She did?
+[pickup2] {Body-A}{NormalC}Ả nói thế à?
 120) LEE
-[pickup2] Yeah, {AngryB}and you got pissed.
+[pickup2] Phải, {AngryB}và rồi anh nổi nóng.
 121) DANNY
-[pickup2] {ThinkingA}Oh.
+[pickup2] {ThinkingA}Ồ.
 122) LEE
-[pickup2] Why?
+[pickup2] Tại sao?
 123) DANNY
-[pickup2] {DisgustA}We do our own hunting.
+[pickup2] {DisgustA}Chúng tôi tự mình đi săn.
 124) DANNY
-[pickup2][flat]{HappyB}Once they see this ... {AngryB}they'll get the message.
+[pickup2][flat]{HappyB}Một khi chúng thấy điều này ... {AngryB}thì chúng sẽ nhận được thông điệp.
 125) LEE
-[pickup2] {Body-B}{SadA}So that's it?  {ThinkingB}We going back?
+[pickup2] {Body-B}{SadA}Vậy thế thôi ư?  {ThinkingB}Ta quay lại hả?
 126) DANNY
-[pickup2]{Body-A}{AngryA}If they ain't here, I don't know where they are.  {ThinkingA}And it ain't a good idea to go tromping through the woods looking for them.  {HappyA}So, yeah, we head back.
+[pickup2]{Body-A}{AngryA}Nếu chúng không ở đây, tôi không biết chúng ở đâu nữa.  {ThinkingA}Và cũng không phải là ý hay nếu đi sâu vào rừng chỉ để tìm chúng.  {HappyA}Nên, ừ, ta quay trở lại thôi.
 127) DANNY
-[pickup2] [flat]{NormalC}C'mon.
+[pickup2] [flat]{NormalC}Đi nào.
 128) 
-She said she brought you meat?
+Cô ta bảo là đã mang thịt đến cho anh?
 129) 
-I was going to shoot her myself.
+Tôi đang định tự mình bắn ả.
 130) DANNY
-[pickup3][Follows-310399178 - "I was five seconds away from shooting her myself."]{Body-A}{HappyB}Well, maybe you shoulda!
+[pickup3][Follows-310399178 - "I was five seconds away from shooting her myself."]{Body-A}{HappyB}Thì, có lẽ anh nên làm vậy!
 131) LEE
-[pickup2] {Body-B}{SurpriseA}I was five seconds away from shooting her myself.
+[pickup2] {Body-B}{SurpriseA}Tôi chỉ tầm năm giây nữa là đã bắn cô ta.
 132) 
-Justice.
+Vì công lý.
 133) 
 ¡Estuvo a punto de disparar!
 134) LEE
-[pickup2] {Body-B}{AngryB}You heard her:  {surpriseA}"I need my crossbow to kill you fuckers"?!
+[pickup2] {Body-B}{AngryB}Anh nghe ả rồi đấy:  {surpriseA}"Tao cần chiếc nỏ của mình để giết bọn bây"?!
 135) DANNY
-[pickup2] [settle down, Beavis] {Body-A}{SurprisedA}All right, all right...
+[pickup2] [settle down, Beavis] {Body-A}{SurprisedA}Được rồi, được rồi...
 136) 
-She had Clementine's hat!
+Ả ta có chiếc mũ của Clementine!
 137) LEE
-[pickup2]{AngryA}I just couldn't take a chance on that happening again.
+[pickup2]{AngryA}Tôi chỉ không thể để cơ hội cho điều đó xảy ra một lần nữa.
 138) LEE
-[pickup2]{Body-B}{AngryB}She stole Clementine's hat.  {ThinkingB}Somehow, she got past us.   {FearA}Crazy fucking woman must have been... {FearB}inches away from that child.
+[pickup2]{Body-B}{AngryB}Ả ta đã lấy chiếc mũ của Clementine.  {ThinkingB}Bằng cách nào đó, ả đã qua mặt bọn tôi.   {FearA}Ả đàn bà điên rồ đó hẳn... {FearB}cách con bé chỉ vài inch.
 139) DANNY
-[pickup2][shrugs]{Body-A}{HappyB}I ain't crying about it.
+[pickup2][shrugs]{Body-A}{HappyB}Tôi sẽ không khóc về điều đó.
 140) LEE
-[pickup2]{ThinkingA}...That sound cold to you?
+[pickup2]{ThinkingA}...ừ nghe ổn với anh đấy?
 141) 
-She was too far gone.
+Ả đã đi quá xa.
 142) 
-Lawn Chair
+Ghế Gấp
 143) DANNY
-[pickup2] {Body-A}{DisgustA}I don't have no idea.
+[pickup2] {Body-A}{DisgustA}Tôi chịu.
 144) DANNY
 [pickup2] [inconclusive] {HappyB}Mmm...
 145) LEE
-[pickup2] [warning] {AngryD}You touch one hair on her head...
+[pickup2] [warning] {AngryD}Anh mà động vào một sợi tóc trên đầu cô ta...
 146) DANNY
-[pickup2]We had a deal with them...
+[pickup2]Bọn tôi đã có một thỏa thuận với chúng...
 147) 
-Thanks, I guess.
+Cảm ơn, chắc vậy.
 154) LEE
-[to himself; quiet but somewhat urgent]{Body-B}{ThinkingA}Nothing. [Inside these boxes]
+[to himself; quiet but somewhat urgent]{Body-B}{ThinkingA}Trống rỗng. [Inside these boxes]
 155) LEE
-[to himself; quiet but somewhat urgent]{Body-B}{AngryA}Empty.
+[to himself; quiet but somewhat urgent]{Body-B}{AngryA}Trống rỗng.
 156) DANNY
-[pickup3][snooping] {ThinkingA}Or still here.
+[pickup3][snooping] {ThinkingA}Hoặc vẫn còn ở đây.
 157) LEE
-[pickup3][snooping]{ThinkingA}There's smoke from a fire.  {ThinkingB}Someone was here recently.
+[pickup3][snooping]{ThinkingA}Có khói từ đống lửa.  {ThinkingB}Ai đó đã ở đây không lâu.
 158) DANNY
-[pickup3][admiring]{Body-A}{ThinkingA}It's a clean shot though... {HappyA}right through the forehead.  {HappyB}That's good shootin' right there.  {SadA}Still, what a waste.
+[pickup3][admiring]{Body-A}{ThinkingA}Mà đó cũng là một phát bắn gọn... {HappyA}xuyên qua ngay giữa trán.  {HappyB}Một phát bắn tốt đấy.  {SadA}Nhưng, vẫn phí phạm thật.
 159) DANNY
-[pickup3]{Body-A}{HappyA}I see you handle that gun I lent ya pretty well.  {ThinkingA}You a hunter?
+[pickup3]{Body-A}{HappyA}Tôi thấy có vẻ như anh dùng khẩu súng mà tôi đưa khá là thành thạo đấy.  {ThinkingA}Anh là thợ săn à?
 160) LEE
-[pickup3]{Body-B}{ThinkingA}No, but Lilly keeps us all on a regular training schedule.
+[pickup3]{Body-B}{ThinkingA}Không, nhưng Lilly luôn giữ cho chúng tôi luyện tập thường xuyên.
 161) DANNY
-[pickup3]{Body-A}{ThinkingA}Lilly, right.  You did say she was running things for ya.  {HappyA}Sounds like you picked a good leader.
+[pickup3]{Body-A}{ThinkingA}Lilly, nói đúng.  Anh đã nói cô ấy giữ cho mọi thứ vận hành.  {HappyA}Có vẻ như các anh đã chọn một người lãnh đạo tốt.
 162) LEE
-[pickup3][caught lying]{Body-B}{ThinkingB}Yeah, {SurpriseA}but, uh, she's {ThinkingA}got the combat training.
+[pickup3][caught lying]{Body-B}{ThinkingB}Phải, {SurpriseA}nhưng, ờ, cô ấy {ThinkingA}cũng có huấn luyện chiến đấu.
 164) LEE
-[pickup3][caught lying]{Body-B}{ThinkingB}Yeah, {SurpriseA}but, uh, she's {ThinkingA}got the combat training.
+[pickup3][caught lying]{Body-B}{ThinkingB}Phải, {SurpriseA}nhưng, ờ, cô ấy {ThinkingA}cũng có huấn luyện chiến đấu.
 163) DANNY
-[pickup3]{Body-A}{ThinkingA}Lilly?  {ThinkingB}I thought you were running things back there?
+[pickup3]{Body-A}{ThinkingA}Lilly?  {ThinkingB}Tôi tưởng anh là người quản lý mọi chuyện ở đó?
 165) DANNY
-[pickup3]{Body-A}{ThinkingA}Lilly?  I thought you said..{ThinkingB}uh... Kenny ...was running things back there?
+[pickup3]{Body-A}{ThinkingA}Lilly?  Tôi tưởng anh nói..{ThinkingB}ờ... Kenny ...quản lý mọi chuyện ở đó?
 166) DANNY
-[pickup3]{Body-A}{ThinkingA}Lilly, huh?  {HappyA}Sounds like SHE'S running this "democracy" of yours.
+[pickup3]{Body-A}{ThinkingA}Lilly, hở?  {HappyA}Nghe có vẻ như cô ấy là người điều hành nền "dân chủ" đó của các anh.
 167) JOLENE
-[pickup3][Follows  310534159 &310534164]It's the living you gotta be afraid of... the people I used to call friends... The people who took... [Starts to break up]
+[pickup3][Follows  310534159 &310534164]Giờ là cuộc sống mà mọi người phải luôn lo sợ... những người mà ta từng gọi là bạn... Những người đã lấy đi... [Starts to break up]
 168) JOLENE
-[pickup3]Don't worry, little girl.  Bandits got their eye on that dairy.  As long as they keep getting food from them, you'll be safe.  I promise.
+[pickup3]Đừng lo, cô bé nhỏ.  Bọn cướp đang để ý đến nông trại đó.  Miễn là chúng còn lấy đồ ăn từ đó, cháu sẽ ổn thôi.  Ta hứa.
 169) JOLENE
-[pickup3][alt]Don't worry, little girl.  Them people got their eye on that dairy.  As long as they keep getting food from them, you'll be safe.  I promise.
+[pickup3][alt]Đừng lo, cô bé nhỏ.  Bọn cướp đang để ý đến nông trại đó.  Miễn là chúng còn lấy đồ ăn từ đó, cháu sẽ ổn thôi.  Ta hứa.
 170) 
-Box
+Hộp
 171) 
-Crate
+Thùng
 172) JOLENE
-[pickup3] [addressing Danny, and a little wild laughter]{body-Crossbow}{CrazyB}Go on, tell him, boy!  {CrazyD}Tell him what you got in mind for --[Gets shot]
+[pickup3] [addressing Danny, and a little wild laughter]{body-Crossbow}{CrazyB}Nhanh nào, kể cho hắn đi, cậu nhóc!  {CrazyD}Nói với hắn mày đang nghĩ g --[Gets shot]
 173) 
-She was about to shoot!
+Cô ta đã chuẩn bị bắn!
 174) 
-You murdered that woman!
+Anh đã giết người phụ nữ đó!
