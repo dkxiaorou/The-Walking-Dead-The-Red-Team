@@ -1,86 +1,86 @@
 1) 
-[Give Half an Apple]
+[Đưa một nửa quả Táo]
 2) 
-[Give Piece of Jerky]
+[Đưa miếng Thịt Khô]
 3) 
-[Give Crackers and Cheese]
+[Đưa Bánh Quy và Phô Mai]
 4) 
-[Give Crackers and Cheese]
+[Đưa Bánh Quy và Phô Mai]
 31) 
-[Keep the last piece of food for yourself]
+[Giữ miếng cuối cùng cho bản thân]
 33) 
-[Save the last piece of food for someone else]
+[Giữ miếng cuối cùng cho một người khác]
 41) 
-[Exit]
+[Thoát]
 5) LEE
-[pickup 2] Này, Duck, một ít đò ăn như thế nào?
+[pickup 2] Này, Duck, muốn chút thức ăn chứ?
 43) LEE
-[pickup 2] Này, Duck, một ít đò ăn như thế nào?
+[pickup 2] Này, Duck, muốn chút thức ăn chứ?
 6) DUCK
-[pickup 2] Oh, hay quá! Đây là bơ lạc à?
+[pickup 2] Ồ, có ạ! Chú có bơ đậu phộng không?
 7) DUCK
-[pickup 2] Yeah! Ôi, trời, cháu đói quá!
+[pickup 2] Vâng ạ! Ôi trời cháu đói lắm rồi!
 8) LEE
-[pickup 2] Xin lỗi Duck, chú sẽ cho cháu đồ ăn, nhưng chú hết mất rồi.
+[pickup 2] Chú xin lỗi Duck, chú định đưa cháu gì đó để ăn, nhưng chú hết mất rồi.
 9) DUCK
-[pickup 2] Gì cơ? Nhưng mà bụng cháu đang sôi lên...
+[pickup 2] Gì cơ? Nhưng dạ dày cháu đang gắt gỏng lắm rồi...
 10) LEE
-[pickup 2] Hẹn sau nhé, Duck.
+[pickup 2] Gặp cháu sau nhé, Duck.
 11) DUCK
-[pickup 2] Bye bye, Lee.
+[pickup 2] Tạm biệt, chú Lee.
 12) LEE
-[pickup2]Cháu như thế nào rồi, Duck?
+[pickup2]Cháu sao rồi, Duck?
 13) CLEMENTINE
-[to ben; quizzing him about her drawing] {normalC}Đoán thử đây là cái gì đây?
+[to ben; quizzing him about her drawing] {normalC}Đoán xem đây là gì?
 14) BEN
-[still a little out of sorts; guessing what clems picture is of]{sadA} Anh không biết... một con chó?
+[still a little out of sorts; guessing what clems picture is of]{sadA} Anh không biết... một con chó hả?
 15) DUCK
-{happyA}Okay.  Cháu và Clementine đang tô màu.
+{happyA}Ổn ạ.  Cháu và Clementine đang tô màu.
 16) CLEMENTINE
-{happyB}Sai rồi.
+{happyB}Không phải.
 17) DUCK
-{happyB}Oh, tớ biết!  Nó là một con dê, phải không?
+{happyB}Ồ, Tớ biết!  Là một con dê, phải không?
 18) DUCK
-[pickup2]Đó là vì tớ biết Mẹ có thể cứu nó.
+[pickup2]Đó là vì cháu biết mẹ có thể chữa cho chú ấy.
 19) LEE
-[pickup2][talking to Duck]Cháu đã rất dũng cảm khi chúng ta mang những người đó vào đây.
+[pickup2][talking to Duck]Cháu khá là dũng cảm khi chúng ta mang những người đó tới đây đấy.
 20) KENNY
-[pickup2]Đây, Duck.[disapointed that Lee gave Kenny food and not duck] Anh bị làm sao vậy, Lee? [as in "you have no idea what you're doing, do you?"]
+[pickup2]Của con đây, Duck.[disapointed that Lee gave Kenny food and not duck] Có chuyện gì với chú vậy, chú Lee? [as in "you have no idea what you're doing, do you?"]
 21) CLEMENTINE
 [pickup2] [fed up sigh] Không!
 22) LEE
 [pickup2] Cháu nghĩ sao, Duck?
 23) DUCK
-[pickup2][ashamed, answering a question] Không... Có lẽ không...
+[pickup2][ashamed, answering a question] Không... Có lẽ là không...
 24) 
-Mọi người đang như thế nào rồi?
+Cháu sao rồi?
 25) 
-Cháu là một đứa trẻ dũng cảm.
+Cháu là một đứa nhóc khá dũng cảm đấy.
 26) 
-Nói với
+Nói chuyện
 27) 
-Đưa đồ ăn cho
+Đưa thức ăn
 28) LEE
 [pickup 2] [giving some junk food]{normalC}Đây.
 29) LEE
-[pickup3][to himself - depressed, having only 1 piece of food left]Một miếng đồ ăn nữa để cho đi, rồi nó sẽ hết trong ngày hôm nay.
+[pickup3][to himself - depressed, having only 1 piece of food left]Một miếng thức ăn nữa để chia, sau đó là hết phần cho hôm nay.
 30) LEE
-[pickup3][knowing there is only one more piece of food left]Hm.  Tôi có nên giữ cái này cho bản thân không?
+[pickup3][knowing there is only one more piece of food left]Hm.  Có lẽ mình nên giữ nó cho bản thân?
 32) LEE
-[pickup3][to himself - keeping the last bit of food for himself]Tôi cần phải sức khoẻ của tôi nữa.
+[pickup3][to himself - keeping the last bit of food for himself]Mình cũng cần duy trì sức lực nữa.
 34) LEE
-[pickup3][to himself - choosing to save the food for someone else]Không.  Một số người đã trải qua nhiều hơn tôi mà không có đồ ăn.  Họ là những người cần nó.
+[pickup3][to himself - choosing to save the food for someone else]Thôi.  Một vài người đã nhịn đói còn lâu hơn cả mình nữa.  Họ mới là người cần nó.
 35) 
-Xin lỗi Duck, chú hết đồ ăn mất rồi.
+Xin lỗi Duck, chú hết thức ăn rồi.
 36) 
-Muốn đồ ăn khônt? [Give Food]
+Muốn chút thức ăn không? [Đưa thức ăn]
 37) BEN
-[pickup3]Có vẻ như anh làm cu cậu đó vui vẻ thật...
+[pickup3]Có vẻ anh đã khiến cho gã đó rất vui...
 38) BEN
-[pickup3]...But, cháu không nghĩ cái cô trên chiếc RV quá vui vẻ.
+[pickup3]...Nhưng, Tôi không nghĩ người phụ nữ trên chiếc RV lại phản ứng như vậy.
 39) LEE
-[pickup3]Có lẽ cô ấy muốn tôi cho bố cô ấy đồ ăn.  Nhưng đó là tuỳ tôi.  Cô ấy cho tôi trách nhiệm.
+[pickup3]Tôi nghĩ là cô ta muốn tôi cho bố cổ ăn.  Nhưng nó tùy thuộc vào tôi.  Cô ta đã để tôi chịu trách nhiệm.
 40) LEE
-[pickup3]Ừ, và tôi đã cho Larry đồ ăn rồi, đó chắc cũng làm cho Lilly vui.
+[pickup3]Ừ và tôi cũng đã cho Larry đồ ăn, nên nó có thể sẽ khiến Lilly vui.
 42) LEE
 Xin lỗi.
