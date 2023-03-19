@@ -1,112 +1,112 @@
 1) 
-[Give Half an Apple]
+[Đưa một nửa quả Táo]
 4) 
-[Give Piece of Jerky]
+[Đưa miếng Thịt Khô]
 5) 
-[Give Crackers and Cheese]
+[Đưa Bánh Quy và Phô Mai]
 6) 
-[Give Crackers and Cheese]
+[Đưa Bánh Quy và Phô Mai]
 36) 
-[Keep the last piece of food for yourself]
+[Giữ miếng cuối cùng cho bản thân]
 38) 
-[Save the last piece of food for someone else]
+[Giữ miếng cuối cùng cho người khác]
 54) 
-[Exit]
+[Thoát]
 2) LEE
 [pickup 2] {thinkingA}Táo không, Doug?
 3) DOUG
-[pickup 2] {happyB}Chắc chắn rồi! {thinkingA}Tôi chưa bao giờ ăn hoa quả...{happyA}giờ đây có lẽ là thứ tốt nhất trên thế giới. {normalA}Cảm ơn, Lee.
+[pickup 2] {happyB}Chắc chắn rồi! {thinkingA}Tôi không thường ăn hoa quả...{happyA}nhưng giờ đây nó có lẽ là thứ tốt nhất trên thế giới. {normalA}Cảm ơn, Lee.
 7) LEE
 [pickup 2] {thinkingA}Không nghĩ tôi khiến anh hứng thú với chút đồ ăn à?
 56) LEE
 [pickup 2] {thinkingA}Không nghĩ tôi khiến anh hứng thú với chút đồ ăn à?
 8) LEE
-[pickup 2] {sadA}Xin lỗi tôi đã hết đồ ăn trước khi cho anh một chút.
+[pickup 2] {sadA}Xin lỗi tôi đã hết đồ ăn trước khi có thể cho cậu một chút..
 9) DOUG
-[pickup 2] {normalB}Không sao, Lee. Anh không cần LÚC NÀO cũng phải cứu tôi.
+[pickup 2] {normalB}Ổn mà, Lee. Anh không cần phải cứu tôi MỌI LÚC đâu.
 10) LEE
-[pickup 2] {thinkingA}Nghĩ Katjaa có thể cứu gã ấy không?
+[pickup 2] {thinkingA}Nghĩ Katjaa có thể cứu gã đó không?
 24) 
-Nghĩ Katjaa có thể cứu gã ấy không?
+Nghĩ Katjaa có thể cứu gã đó không?
 11) DOUG
-[pickup 2] {sadA}Có lẽ. {normalC}Ý tôi là, tôi biết về máy tính, không có nghĩa tôi có thể sử được máy tính toán.
+[pickup 2] {sadA}Có thể. {normalC}Ý tôi là, tôi biết về máy tính, nhưng không có nghĩa tôi có thể sửa chiếc máy tính bỏ túi.
 12) DOUG
-[pickup 2] {thinkingA}Thì, ừ... {happyA}Ý hay đó.
+[pickup 2] {thinkingA}Thì, phải... {happyA}hợp lý đấy.
 13) LEE
-[pickup 2] {happyA}nhưng có lẽ anh CÓ THỂ sửa một cái máy tính toán.
+[pickup 2] {happyA}Nhưng anh cũng CÓ THỂ sửa cái máy tính bỏ túi mà.
 14) DOUG
 [pickup 2] {normalC}Anh cũng vậy, Lee.
 15) LEE
-[pickup 2] {normalA}Nhẹ nhàng thôi, Doug.
+[pickup 2] {normalA}Đừng cố quá đấy, Doug.
 16) DOUG
-[pickup2]{normalC}Tôi đã làm ra một chút "hệ thống cảnh báo" ở ngoài.
+[pickup2]{normalC}Tôi đang làm một "hệ thống báo động" nhỏ cho bên ngoài.
 17) LEE
-[pickup2]{happyA}{thinkingA}Anh đang làm gì vậy, Doug?
+[pickup2]{happyA}{thinkingA}Cậu đang làm gì thế, Doug?
 18) DOUG
-[pickup2]{happyA}Không, nó rất nhiều dây, nối với {happyB}vài cái chuông {happyA}đặt nó khôn ngoan sẽ cho ta biết khi nào bọn walker tới, tới từ đâu, {happyB}và tới bao lâu chúng tới.
+[pickup2]{happyA}Không, là RẤT NHIỀU dây, nối với {happyB}vài chiếc chuông {happyA}được bố trí một cách chiến lược để cho chúng ta biết khi nào có xác sống đến, từ phía nào, {happyB}và mất bao lâu để chúng đến đây.
 19) LEE
-[pickup2][responding to "I worked up a little "warning system" for outside."]{thinkingB}Nó chỉ lầ một ít dây và một ít chuông.
+[pickup2][responding to "I worked up a little "warning system" for outside."]{thinkingB}Chỉ là vài đoạn dây dọ và chiếc chuông cũ thôi mà.
 20) LEE
-[pickup2]{happyA}{happyA}Tuyệt.
+[pickup2]{happyA}{happyA}Được đấy.
 21) 
-Anh đang làm gì vậy?
+Cậu đang làm gì?
 22) DOUG
-[pickup2] {sadA}...Tôi nợ anh nhiều hơn một nửa một ngày bữa ăn lot more than a half a day's rations.
+[pickup2] {sadA}...Tôi nợ anh nhiều hơn khẩu phần ăn của nửa ngày.
 23) DOUG
-[pickup 2] [sacrificing food to pay Lee back fro saving him] {normalC}Thực ra, {sadA}tại sao anh không giữ phần của tôi hôm nay...
+[pickup 2] [sacrificing food to pay Lee back fro saving him] {normalC}Thật ra thì, {sadA}sao anh không giữ phần ăn hôm nay của tôi đi...
 25) 
-Nói với
+Nói chuyện
 26) 
-Đừa đồ ăn cho
+Đưa thức ăn
 27) DOUG
-[pickup3][Thanking Lee for saving him 3 months ago] Tôi biết anh đã không có ý thức chọn để cứu tôi, nhưng...
+[pickup3][Thanking Lee for saving him 3 months ago] Tôi biết anh không hẳn có ý cứu tôi, nhưng...
 28) DOUG
-[pickup3][Thanking Lee for saving him 3 months ago] Tôi vẫn mong tôi không phải là người anh nghĩ anh cần sự trợ giúp, nhưng...
+[pickup3][Thanking Lee for saving him 3 months ago] Tôi vẫn ước rằng tôi không phải người mà anh nghĩ là cần giúp đỡ, nhưng...
 29) 
-Tôi hết đồ ăn rồi.
+Tôi hết thức ăn rồi.
 30) 
-Muốn đồ ăn không? [Give Food]
+Muốn chút thức ăn không? [Đưa thức ăn]
 31) LEE
 [flat]{normalD}Này, Doug.
 32) LEE
 [flat]{normalD}Này, Doug.
 33) DOUG
-[pickup3][standing up absentmindedly and hitting his head] Oof!  Ahh..ssss...[As in Family guy Knee gag, then with a bit of wincing] Sao vậy, Lee?
+[pickup3][standing up absentmindedly and hitting his head] Oof!  Ahh..ssss...[As in Family guy Knee gag, then with a bit of wincing] Sao thế, Lee?
 34) LEE
-[pickup3][knowing there is only one more piece of food left]Hm.  Tôi có nên giữ cái này cho bản thân không?
+[pickup3][knowing there is only one more piece of food left]Hm.  Có lẽ mình nên giữ nó cho bản thân?
 35) LEE
-[pickup3][to himself - depressed, having only 1 piece of food left]Một miếng đồ ăn nữa để cho đi, rồi nó sẽ hết trong ngày hôm nay.
+[pickup3][to himself - depressed, having only 1 piece of food left]Một miếng thức ăn nữa để chia, sau đó là hết phần cho hôm nay.
 37) LEE
-[pickup3][to himself - keeping the last bit of food for himself]Tôi cần phải sức khoẻ của tôi nữa.
+[pickup3][to himself - keeping the last bit of food for himself]Mình cũng cần duy trì sức lực nữa.
 39) LEE
-[pickup3][to himself - choosing to save the food for someone else]Không.  Một số người đã trải qua nhiều hơn tôi mà không có đồ ăn.  Họ là những người cần nó.
+[pickup3][to himself - choosing to save the food for someone else]Thôi.  Một vài người đã nhịn đói còn lâu hơn cả mình nữa.  Họ mới là người cần nó.
 40) LEE
-[pickup3][talking to doug about his alarm]Vậy chúng ta sẽ biết chúng ở đâu và bao lâu chúng ta có. Thông mình.
+[pickup3][talking to doug about his alarm]Vậy là ta sẽ biết được chúng đang ở đâu và ta còn bao lâu. Thông minh đấy.
 41) DOUG
-[pickup3][talking  about his alarm]Tôi đã đặt bẫy ở bốn địa điểm, và mỗi cái sẽ kích hoạt một trong bốn chiếc chuông này. Nên-
+[pickup3][talking  about his alarm]Tôi đã thiết lập ba đường dây tại bốn địa điểm và mỗi cái sẽ kích hoạt một trong bốn chiếc chuông. Nên-
 42) LEE
-[pickup3][talking to doug about his alarm]Nó hoạt động như thế nào?
+[pickup3][talking to doug about his alarm]Nó hoạt động như nào?
 43) LEE
 [pickup3][talking about Dougs alarm]Nó có hoạt động không?
 44) DOUG
 [pickup3][talking about Dougs alarm]Nó nên vậy.  Chúng ta sẽ phải chờ và xem.
 45) DOUG
-[pickup3][talking about Dougs alarm]Tôi biết nó nhìn không nhiều, nhưng những cái chuông sẽ rung khu bọn walkers tới gần.
+[pickup3][talking about Dougs alarm]Tôi biết là trông không nhiều, nhưng những cái chuông sẽ rung lên khi bọn xác sống tới gần..
 46) LARRY
-[pickup3]Này, nếu Dough-Trai không muốn đồ ăn của nó, đưa nó hướng này.
+[pickup3]Này, nếu nhóc Dough không muốn phần ăn của mình, thì đưa ta đây.
 47) LEE
-[pickup3]Nó không hoạt động như vậy.  Tôi sẽ quyết định ai có được đồ ăn.
+[pickup3]Nó không hoạt động như vậy.  Tôi sẽ quyết định ai có đồ ăn.
 51) LEE
-[pickup3]Nó không hoạt động như vậy.  Tôi sẽ quyết định ai có được đồ ăn.
+[pickup3]Nó không hoạt động như vậy.  Tôi sẽ quyết định ai có đồ ăn.
 48) LARRY
-[pickup3]Thì, quyết định thông minh đi.  Mày không muốn làm tao bực mình đâu, được chưa?
+[pickup3]Vậy, chọn cho khôn ngoan vào.  Cậu không muốn làm ta điên lên đâu nhỉ?
 49) MARK
-[pickup3]Này, nếu Doug không lấy đồ ăn, Tôi sẽ lấy nó.
+[pickup3]Này, nếu Doug không muốn đồ ăn, thì tôi sẽ lấy nó.
 50) MARK
-[pickup3][appologetic]Đúng rồi, tôi xin lỗi. Cơn đói đang đến với tôi. Tôi sẽ để anh làm việc của anh.
+[pickup3][appologetic]Phải rồi, tôi xin lỗi. The hunger is just getting to me. Tôi sẽ để anh làm việc của mình.
 52) DOUG
-[pickup3][Thanking Lee for saving him 3 months ago]Tôi biết anh muốn cứu tôi VÀ Carley... Nhưng, thì...
+[pickup3][Thanking Lee for saving him 3 months ago]Tôi biết anh muốn cứu tôi VÀ CẢ Carley... Nhưng, chà...
 53) DOUG
-[pickup3][Thanking Lee for saving him 3 months ago] Tôi biết tôi nói rằng nó không quan trọng tại sao anh cứu tôi và không phải Carley, nhưng...
+[pickup3][Thanking Lee for saving him 3 months ago] Tôi biết mình đã nói không quan trọng lí do vì sao anh lại cứu tôi thay vì Carley, nhưng...
 55) LEE
 Xin lỗi.
