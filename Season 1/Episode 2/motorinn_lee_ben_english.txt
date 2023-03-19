@@ -1,124 +1,124 @@
 1) LEE
-[Pickup 2] {thinkingA}Nếu trại của anh bị tấn công000, có lẽ có nghĩa là cậu không được ăn một thời gian rồi .
+[Pickup 2] {thinkingA}Nếu trại của các cậu đã bị cướp, có lẽ nghĩa là cậu đã không ăn một thời gian rồi.
 2) BEN
-[pickup 2]{sadA}Tôi RẤT LÀ đói. {happyA}Cảm ơn.
+[pickup 2]{sadA}Tôi ĐÚNG LÀ đang rất đói. {happyA}Cảm ơn.
 3) 
-[Give Half an Apple]
+[Đưa một nửa quả Táo]
 4) 
-[Give Piece of Jerky]
+[Đưa miếng Thịt Khô]
 5) 
-[Give Crackers and Cheese]
+[Đưa Bánh Quy và Phô Mai]
 6) 
-[Give Crackers and Cheese]
+[Đưa Bánh Quy và Phô Mai]
 40) 
-[Keep the last piece of food for yourself]
+[Giữ miếng cuối cùng cho bản thân]
 41) 
-[Save the last piece of food for someone else]
+[Giữ miếng cuối cùng cho người khác]
 59) 
-[Exit]
+[Thoát]
 7) LEE
-[pickup 2] {happyA} Này, Ben. Sau những gì cậu trải qua, có vẻ như câu sẽ có thể dùng một cái pick-me-up.
+[pickup 2] {happyA} Đây, Ben. Sau những gì cậu đã trải qua, có lẽ cậu cần nó đấy.
 8) BEN
-[pickup 2] [surprised by generosity] {surprisedA}Thật à?   {thinkingA}Tôi biết sốt đồ ăn, nó rất là...tôi rất cảm kích nó.
+[pickup 2] [surprised by generosity] {surprisedA}Thật ư?   {thinkingA}Tôi biết là thức ăn đang khan hiếm, điều này thật sự...Tôi rất cảm kích.
 9) LEE
-[pickup 2] {sadA}Này, Ben, tôi mong cậu hiểu tại sao tôi đã không cho cậu chút đồ ăn.
+[pickup 2] {sadA}Này, Ben, tôi mong là cậu hiểu tại sao tôi không cho cậu thức ăn.
 10) BEN
-[pickup 2] {sadA}Tôi mới, tôi hiểu mà. Ổn mà, Lee, thật sự.
+[pickup 2] {sadA}Tôi là người mới, tôi hiểu. Ổn mà Lee, thật sự đấy.
 11) LEE
-[pickup2]{SadA}Cậu thế nào rồi, rồi?
+[pickup2]{SadA}Sao rồi, nhóc?
 12) BEN
-[pickup2]{sadA}Uh, thì, tôi, uh... {fearA}Tôi đang tự hỏi nếu tôi đã có thể làm gì đó để giúp, anh biết không? {thinkingA}Kiểu như là...{sadA}Tôi không biết nữa. BẤT KÌ THỨ GÌ.
+[pickup2]{sadA}Uh, thì, tôi, ờm... {fearA}Tôi cứ tự hỏi liệu lúc đó tôi đã có thể làm gì để giúp, anh biết đấy? {thinkingA}Như là...{sadA}Tôi không biết nữa. BẤT CỨ GÌ.
 13) LEE
-[pickup 2] {sadA}Tôi chắc đó là tất cả những gì cậu có thể làm.
+[pickup 2] {sadA}Tôi chắc là cậu đã làm những gì có thể rồi.
 14) BEN
-[pickup 2]  {sadB}Yeah, chắc vậy.
+[pickup 2]  {sadB}Ừ, Chắc vậy.
 15) LEE
-[pickup 2] {sadA}Tôi không biết, nữa.
+[pickup 2] {sadA}Tôi cũng không biết nữa.
 29) 
-Tôi không biết, nữa.
+Tôi cũng không biết nữa.
 16) BEN
-[pickup 2] {sadC}Nó đang giết tôi.
+[pickup 2] {sadC}Nó đang đày đọa tôi.
 17) BEN
-[pickup 2] {fearA}Lần sau. {sadA}Yeah.
+[pickup 2] {fearA}Lần sau ư. {sadA}Ừ.
 18) LEE
-[pickup 2] {sadA}Cậu sẽ phải chuẩn bị lần sau.
+[pickup 2] {sadA}Nhóc sẽ sẵn sàng cho lần sau thôi.
 30) 
-Cậu sẽ phải chuẩn bị lần sau.
+Nhóc sẽ sẵn sàng cho lần sau thôi.
 19) BEN
-[pickup 2] {sadC}Tôi ước tôi có thể dừng nghĩ về nó.
+[pickup 2] {sadC}Tôi ước rằng mình có thể ngừng nghĩ về nó.
 20) LEE
-[pickup 2] {sadA}Thoải mái, chúng ta sẽ khiến cho bạn cậu trở về bình thường nhanh thôi.
+[pickup 2] {sadA}Thư giãn đi, chúng tôi sẽ giúp bạn cậu trở lại bình thường sớm thôi.
 21) BEN
-[pickup 2] {fearB}Tôi chắc mong vậy.
+[pickup 2] {fearB}Tôi cũng mong vậy.
 22) BEN
 [pickup2][sounding pretty fragile]{sadA}Tôi là Ben. Ben Paul.
 23) LEE
-[pickup2]{thinkingA}Vậy, mấy cậu là ai?  Nhóm của tôi sẽ biết đó.
+[pickup2]{thinkingA}Vậy, mấy người các cậu là ai?  Nhóm của bọn tôi sẽ muốn biết đấy.
 24) 
 Vậy, cậu là ai?
 25) BEN
-[pickup2]{thinkingA}Người đàn ông anh vừa cứu là Thầy. Parker, đạo diễn nhóm nhạc của trường tôi at my school.
+[pickup2]{thinkingA}Người mà anh đã cứu là thầy Parker, trưởng ban âm nhạc của trường tôi.
 26) BEN
-[pickup2][sounding pretty fragile]Bọn tôi đều từ Stone Mountain để chơi khi... khi mọi việc đều xảy ra.
+[pickup2][sounding pretty fragile]Tất cả chúng tôi đều đến từ Stone Mountain để tham dự vòng loại trực tiếp khi... khi mọi chuyện xảy ra.
 27) BEN
-[pickup2]Tên người đàn ông trên xe tải là Travis.  Anh ấy đã chơi cho nhóm nhạc trường với tôi. Mr. Parker đã từng là người chỉ đạo ban nhạc nhưng - Trời, tôi không thể tin được đã bỏ rơi thầy ấy.
+[pickup2]Người ở chỗ chiếc xe tải là Travis.  Cậu ấy cùng chơi trong ban nhạc của trường với tôi. Thầy Parker là trưởng ban nhưng - Chúa ơi, tôi không tin được là ta đã bỏ thầy ấy lại.
 28) 
-Cậu đã làm tất cả cậu có thể.
+Cậu đã làm những gì có thể rồi.
 31) 
-Câu như thế nào rồi?
+Cậu sao rồi?
 32) 
-Nói với
+Nói chuyện
 33) 
-Đưa đồ ăn cho
+Đưa thức ăn
 34) LEE
-Muốn gì để ăn không?
+Muốn thứ gì đó để ăn không?
 62) LEE
-Muốn gì để ăn không?
+Muốn thứ gì đó để ăn không?
 35) 
 Tôi hết thức ăn rồi.
 36) 
-Muốn chút đồ ăn không? [Give Food]
+Muốn chút thức ăn không? [Đưa thức ăn]
 37) LEE
-[pickup3][to himself - depressed, having givin out 2 piecesof food and running out quickly!]{sadA}Thì, hết một cái nữa.  Chín người đói và còn hai miếng thức ăn nữa.
+[pickup3][to himself - depressed, having givin out 2 piecesof food and running out quickly!]{sadA}Vậy, một miếng nữa ra đi.  Chín người đang đói nhưng chỉ còn lại hai miếng thức ăn.
 38) LEE
-[pickup3][to himself - depressed, having only 1 piece of food left]Một miếng đồ ăn nữa để cho đi, rồi nó sẽ hết trong ngày hôm nay.
+[pickup3][to himself - depressed, having only 1 piece of food left]Một miếng thức ăn nữa để chia, sau đó là hết phần cho hôm nay.
 39) LEE
-[pickup3][knowing there is only one more piece of food left]Hm.  Tôi có nên giữ cái này cho bản thân không?
+[pickup3][knowing there is only one more piece of food left]Hm.  Có lẽ mình nên giữ nó cho bản thân?
 42) LEE
-[pickup3][to himself - keeping the last bit of food for himself]Tôi cần phải sức khoẻ của tôi nữa.
+[pickup3][to himself - keeping the last bit of food for himself]Mình cũng cần duy trì sức lực nữa.
 43) LEE
-[pickup3][to himself - choosing to save the food for someone else]Không.  Một số người đã trải qua nhiều hơn tôi mà không có đồ ăn.  Họ là những người cần nó.
+[pickup3][to himself - choosing to save the food for someone else]Thôi.  Một vài người đã nhịn đói còn lâu hơn cả mình nữa.  Họ mới là người cần nó.
 44) BEN
-[pickup3][worried]Này, bạn tôi có qua khỏi không?
+[pickup3][worried]Này, bạn tôi có thể vượt qua được chứ?
 45) LEE
-[pickup3]Tôi không biết,  nhưng Katjaa sẽ làm tốt nhất có thể, tôi hứa.
+[pickup3]Tôi không biết nữa,  nhưng Katjaa sẽ làm hết sức có thể, tôi hứa.
 46) BEN
-[pickup3]Tôi không thể tin được anh đã chặt chân của anh ấy!
+[pickup3]Tôi vẫn chưa thể tin được là anh lại chặt chân của thầy ấy!
 47) LEE
-[pickup3]Nó không còn cách nào khác.
+[pickup3]Không còn cách nào khác cả.
 48) BEN
-[pickup3][Sad] Tôi không thể tin nổi đã bỏ rơi thầy Parker tại đó...
+[pickup3][Sad] Tôi không tin được chúng ta lại bỏ lại thầ Parker ở đó...
 49) LEE
-[pickup3]Tôi đã cố. Tôi thực sự đã cố. Tôi chỉ... chúng ta đã hết thời gian.  Không còn gì bọn tôi có thể làm.
+[pickup3]Tôi đã cố rồi. Thực sự đã cố. Tôi chỉ là... chúng ta đã hết thời gian.  Không còn gì mà ta có thể làm.
 50) CARLEY
-[pickup3][seeing Lee give precious food to the new guy]Anh đang làm gì vậy Lee?  Thức ăn đó nên cho BỌN TÔI trước.
+[pickup3][seeing Lee give precious food to the new guy]Anh đang làm gì vậy Lee?  Chỗ thức ăn nên chia cho CHÚNG TÔI trước chứ.
 51) LEE
-[pickup3]Chỉ vì chúng ta không biết cậy ấy không có nghĩa anh ấy không đói.
+[pickup3]Chỉ bởi vì ta không biết cậu ta không có nghĩ là cậu ta không đói.
 56) LEE
-[pickup3]Chỉ vì chúng ta không biết cậy ấy không có nghĩa anh ấy không đói.
+[pickup3]Chỉ bởi vì ta không biết cậu ta không có nghĩ là cậu ta không đói.
 52) CARLEY
-[pickup3]Thì, nó là một thứ tốt Kenny không thấy điều đó.  Anh ấy có lẽ sẽ không thấu hiểu.
+[pickup3]Chà, may là Kenny không thấy điều đó đấy.  Anh ta có lẽ sẽ không hiểu cho đâu.
 53) BEN
-[pickup3]Tôi xin lỗi.  Tôi đã không có ý gây rắc rối.
+[pickup3]Tôi xin lỗi.  Tôi không cố ý gây rắc rối.
 57) BEN
-[pickup3]Tôi xin lỗi.  Tôi đã không có ý gây rắc rối.
+[pickup3]Tôi xin lỗi.  Tôi không cố ý gây rắc rối.
 54) LEE
-[pickup3]Cậu ổn mà , nhóc.  Tận hưởng nó đi.
+[pickup3]Cậu ổn cả, nhóc.  Thưởng thức nó đi.
 58) LEE
-[pickup3]Cậu ổn mà , nhóc.  Tận hưởng nó đi.
+[pickup3]Cậu ổn cả, nhóc.  Thưởng thức nó đi.
 55) KENNY
-[pickup3][waliking over and scolding Lee for giving the limited amount of food to the new stranger (Keeping the conversatin between Lee & Kenny)]{angryb}Anh bị điên à?  Bọn tôi cần thức ăn đó!  Cho bọn trẻ chúng ta!
+[pickup3][waliking over and scolding Lee for giving the limited amount of food to the new stranger (Keeping the conversatin between Lee & Kenny)]{angryb}Anh mất trí rồi à?  Ta cần chỗ thức ăn đó cho CHÚNG TA!  Cho mấy đứa nhỏ!
 60) LEE
-Quay lại trong một lát.
+Sẽ trở lại ngay.
 61) LEE
 Xin lỗi.
