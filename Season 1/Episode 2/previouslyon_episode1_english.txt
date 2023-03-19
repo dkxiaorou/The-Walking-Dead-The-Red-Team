@@ -3,25 +3,25 @@
 31) CARLEY
 {thinkingA}Tôi biết anh là ai.
 2) KENNY
-Okay, Carley, cô sẽ cùng ca với Doug nếu anh ấy cần nó.
+Được rồi, Carley, cô sẽ xoay ca với Doug khi cậu ta cần.
 3) CARLEY
 {NormalA}Và tôi là Carley.
 4) DOUG
-{NormalA}Là Doug, {HappyA} anh làm được mà.
+{NormalA}Là Doug, {HappyA} rõ rồi.
 5) KENNY
-{THinkingA}Và anh, anh để ý cửa trước. {NormalB}Anh là người gác.
+{THinkingA}Và cậu, cậu để mắt đến cái cửa trước đó. {NormalB}Cậu sẽ là người trông chừng của chúng ta.
 6) CLEMENTINE
-{sadA} {body-handsopen}Yeah.{sadC} Cháu muốn bố mẹ cháu về nhà bây giờ.
+{sadA} {body-handsopen}Vâng ạ.{sadC} Cháu muốn bố mẹ mình về bây giờ.
 7) LEE
-{sadA} {body-c2}Cháu đã ở một mình hết à?
+{sadA} {body-c2}Cháu đã một mình vượt qua chuyện này ư?
 8) LARRY
-[hushed, angry] Địt con mẹ, một trong số chúng bị cắn!
+[hushed, angry] Mẹ kiếp, một trong số chúng đã bị cắn!
 9) CARLEY
-{NormalC}Anh làm được mà sếp.
+{NormalC}Đã rõ thưa sếp.
 10) LARRY
-{AngryC}Và tao không quan tâm {DisgustA}chuyện gì xảy ra với mày. {AngryC} Nhưng nếu chuyện gì xảy ra với con gái tao hoặc đứa nhỏ kia đi cùng anh,{DisgustA} heh, tôi sẽ để ý.
+{AngryC}Và ta đéo quan tâm chuyện gì đã {DisgustA}xảy ra với cậu. {AngryC} Nhưng nếu có chuyện gì xảy ra với con gái ta hoặc với đứa nhỏ mà cậu mang theo,{DisgustA} thì coi chừng đấy.
 11) DOUG
-{FearD}Trời... [a friend has just been eaten]
+{FearD}Thánh thần ơi... [a friend has just been eaten]
 12) CARLEY
 [pickup1] [Lots of screaming, being eaten alive - please try to show the actress the animation, it's very specific - sk55_action_carleyKilled.chore].
 33) CARLEY
@@ -31,36 +31,36 @@ Okay, Carley, cô sẽ cùng ca với Doug nếu anh ấy cần nó.
 17) CLEMENTINE
 {FearD}AHHHHHHH! [Zombies have grabbed a friend.]
 14) CARLEY
-{FearB}Ôi trời ơi... [A friend is being eaten]
+{FearB}Ôi chúa ơi... [A friend is being eaten]
 15) DOUG
 [Lots of screaming, being eaten alive]
 16) DOUG
-{FearD}Ah, không!! BỎ CHÚNG KHỎI TÔI!
+{FearD}Ah, không!! KÉO NÓ KHỎI NGƯỜI TÔI!
 18) DOUG
 {FearD}AHHHHHH!
 19) LEE
-[pickup1][argument] Có thể là anh ấy hoặc con trai anh. Tôi nói là anh ấy.
+[pickup1][argument] Sẽ là lão ta hoặc con trai anh. Tôi chọn lão.
 20) KENNY
-[pickup1] [argument]Đúng con mẹ nó rồi; bỏ khỏi ANH ẤY với những THỨ ĐÓ.
+[pickup1] [argument]Chính cmn xác; đá đít LÃO ra cùng với những THỨ đó.
 21) LEE
-[pickup1] [argument] Chúng ta lý lẽ với anh ta.
+[pickup1] [argument] Chúng ta thuyết phục ông ấy.
 22) KENNY
-[pickup1] [argument] Với cái đuôi của một cái rìu, có thể! Không ai đe doạ con tôi.
+[pickup1] [argument] Máu của mày phải dính lên lưỡi rìu để không kẻ nào dám đe dọa con trai tao được nữa
 23) KENNY
-[pickup1] [seething]Đó cũng là cái tôi đang nghĩ.
+[pickup1] [seething]Giống như tôi đang nghĩ.
 24) LEE
-[pickup1] Ta đánh anh ấy.
+[pickup1] Ta đá đít hắn.
 25) KENNY
-[pickup1][argument] Có hoặc không có anh, Tôi bảo về con tôi bằng cả MẠNG SỐNG của tôi.
+[pickup1][argument] Dù có anh hay không, tôi sẽ bảo vệ con mình bằng cả TÍNH MẠNG.
 26) LEE
-{surpriseC}{body-sitcuffed}Để ý kìa!
+{surpriseC}{body-sitcuffed}Coi chừng!
 27) COP
-Oh, tôi có một cái khác hay cho anh này.
+Ồ, tôi có vụ khác hay hơn cho cậu.
 28) LEE
-{fearD}{body-sitcuffed}Chết tiệt!
+{fearD}{body-sitcuffed}Ôi đệt!
 29) LEE
-{surpriseC}{body-sitcuffed}Trên đường!
+{surpriseC}{body-sitcuffed}Ở trên đường!
 30) LEE
-{fearD}{body-sitcuffed}Lái mẹ đi!
+{fearD}{body-sitcuffed}Lái cmn xe đi!
 32) LEE
-Lần trước trên The Walking Dead...
+Trước Đó Trong The Walking Dead...
