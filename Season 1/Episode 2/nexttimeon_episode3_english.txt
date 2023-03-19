@@ -1,102 +1,102 @@
 1) KENNY
-[pickup3]Macon hết rồi anh bạn. Không còn gì xót lại.
+[pickup3]Macon XONG rồi anh bạn. Chẳng còn lại gì.
 2) KENNY
-[pickup3]Chúng ta phải ra khỏi mẹ đây.
+[pickup3]Chúng ta cần phắn nhanh khỏi đây thôi.
 3) KENNY
-[pickup3]Lee, tôi cần anh đỡ tôi lần này.
+[pickup3]Lee, tôi cần anh hỗ trợ cho tôi lần này.
 4) KENNY
-[pickup3] {angryA} Chỗ này HẾT RỒI. Đến lúc đi thôi.
+[pickup3] {angryA} Nơi này XONG rồi. Đến lúc rời đi thôi.
 5) KENNY
-[pickup3][cranky] {disgustA} Vứt đi. Làm như anh nghe {angryB} một lời đéo gì tôi nói...
+[pickup3][cranky] {disgustA} Bỏ đi. Làm như anh sẽ nghe {angryB}lời tôi nói vậy...
 6) LILLY
-[pickup3] {angryC} Đây là tất cả những gì anh có à?
+[pickup3] {angryC} Có mỗi chừng này thôi á?
 7) KENNY
-[pickup3] {angryB} Tôi NÓI anh rồi, thị trấn này bị khai thác hết rồi!
+[pickup3] {angryB} Tôi ĐÃ NÓI thị trấn này bị quét sạch rồi!
 8) KENNY
-[pickup3]Anh có cách nào để chúng ta có thể vượt qua được việc này không!?
+[pickup3]Cô biết bọn tôi phải trải qua những gì để lấy được chỗ đó không!?
 9) KENNY
-[pickup3]Duck đang hỏi chuyện tối qua qua xảy ra ở trên nông trại.
+[pickup3]Duck đã hỏi về chuyện nông trại tối qua.
 10) KENNY
-[pickup3]Không có nhiều thứ qua được cu ấy, nhưng nó bắt đầu dồn lên rồi.
+[pickup3]Không hỏi quá nhiều, nhưng cũng bắt đầu tăng lên rồi.
 11) KENNY
-[pickup3]Tôi cần ra ngoài bờ biến. Đưa chúng tránh khỏi tất cả
+[pickup3]Tôi cần phải đến bờ biển. Đưa bọn họ ra khỏi
 12) LILLY
-[pickup3][angry] Sao mấy người có thể ngồi yên được vậy! Chúng ta đã để họ LẤY nó! Đó là tất cả những gì chúng ta còn! Mấy người để họ có được tất cả!
+[pickup3][angry] Sao các người có thể chỉ ngồi yên đó vậy! Chúng ta đã để cho chúng LẤY ĐI nó! Đó là những gì chúng ta còn lại! Các người đã để chúng lấy đi mọi thứ!
 13) LILLY
-[pickup3][furious] Anh bị vấn đề đéo gì vậy!
+[pickup3][furious] Các người bị đéo gì vậy!
 14) DOUG
-[pickup3]Lilly, dừng lại!
+[pickup3]Lilly, dừng lại đi!
 15) LILLY
-[pickup3][furious] Bọn mày bị cái đéo gì rồi!?
+[pickup3][furious] Các người bị cái đéo gì vậy!?
 16) BEN
-[pickup3]Cô bị điên rồi!
+[pickup3]Cô điên rồi!
 17) CARLEY
-[pickup3]Dừng lại đi!
+[pickup3]Thôi đi!
 18) KENNY
-[pickup3]Lilly đang không được tốt lắm, huh.
+[pickup3]Lilly cũng không ổn lắm, hở.
 46) KENNY
-[pickup3]Lilly đang không được tốt lắm, huh.
+[pickup3]Lilly cũng không ổn lắm, hở.
 19) LEE
-[pickup3]Anh đã giết bố cô ấy.
+[pickup3]Anh đã giết bố cô ấy đấy.
 20) KENNY
-[pickup3][grumpy] Tôi đã làm thứ mà tôi cần, và anh biết điều đó.
+[pickup3][grumpy] Tôi đã làm điều mình cần làm, và anh cũng biết điều đó.
 21) LEE
-[pickup3]Thì, ta đã giết bố cô ấy.
+[pickup3]Thì, ta đã giết bố cô ấy mà.
 22) KENNY
-[pickup3][lead in: "well, we killed her dad." sort of coming to terms with those words by repeating them. yep. we did do THAT.] Ta đã giết bố cô ấy.
+[pickup3][lead in: "well, we killed her dad." sort of coming to terms with those words by repeating them. yep. we did do THAT.] Ta đúng là đã giết bố cô ta.
 23) KENNY
-[pickup3]Có thể những người ngoài kia xử lý chuyện tối hơn.
+[pickup3]Có lẽ những người ở ngoài kia xử lý mọi chuyện ổn hơn.
 24) KENNY
-[pickup3]Ít nhất tốt hơn chúng ta.
+[pickup3]Ổn hơn chúng ta, ít nhất là vậy.
 25) KENNY
-[pickup3]Cũng có thể là bọn dân đã tính toán được hết việc này.
+[pickup3]Có thể là những người đã xử lý xong hết việc này.
 26) LEE
-[pickup3]Tỉnh con mẹ đi. Chuyện này kết thúc rồi.
+[pickup3]Tỉnh con mẹ nó dậy đi anh bạn. Chuyện này kết thúc rồi.
 27) KENNY
-[pickup3]Đừng bảo TÔI phải tỉnh. Tôi có một gia đình THỰC SỰ phải bảo bộ. Chứ không phải sự xấu hổ của anh.
+[pickup3]Đừng bảo TÔI phải tỉnh dậy. Tôi còn có một gia đình THẬT SỰ để bảo vệ. Chứ không phải chỉ là sự đáng xấu hổ mà anh đang cố che dấu.
 28) CLEMENTINE
-[pickup3]Đang xảy ra chuyện gì vậy?
+[pickup3]Chuyện gì xảy ra vậy ạ?
 29) LEE
-[pickup3]Không có gì, mọi việc đều ổn.
+[pickup3]Không có gì đâu, tất cả đều ổn cả.
 30) CLEMENTINE
-[pickup3]Không nó không hề.
+[pickup3]Không phải.
 31) KENNY
-[pickup3]Con bé của anh vẫn bực mình việc anh đồng ý lấy đồ từ cái toa xe ga à?
+[pickup3]Con bé vẫn bực mình với anh vì đã đồng ý lấy những thứ đó từ chiếc xe đó à?
 32) KENNY
-[pickup3]Con bé của anh vẫn bực tôi lấy đồ từ chiếc xe đó tuần trước à?
+[pickup3]Con bé vẫn bực mình với tôi vì đã lấy đồ từ chiếc xe đó tuần trước à?
 33) CLEMENTINE
-[pickup3]Mọi người có giận khi họ sợ không?
+[pickup3]Mọi người có nổi giận khi họ lo sợ không ạ?
 51) CLEMENTINE
-[pickup3]Mọi người có giận khi họ sợ không?
+[pickup3]Mọi người có nổi giận khi họ lo sợ không ạ?
 34) LEE
-[pickup3]Thi thoảng. Yeah, họ có.
+[pickup3]Đôi khi. Ừ, họ có.
 49) LEE
-[pickup3]Thi thoảng. Yeah, họ có.
+[pickup3]Đôi khi. Ừ, họ có.
 35) CLEMENTINE
-[pickup3]Mẹ và bố cháu đã một lần có cuộc cãi vã và mẹ cháu nói rằng là vì họ đã sợ...
+[pickup3]Mẹ và bố cháu đã từng cãi nhau một lần và mẹ cháu đã nói rằng đó là vì họ lo sợ...
 50) CLEMENTINE
-[pickup3]Mẹ và bố cháu đã một lần có cuộc cãi vã và mẹ cháu nói rằng là vì họ đã sợ...
+[pickup3]Mẹ và bố cháu đã từng cãi nhau một lần và mẹ cháu đã nói rằng đó là vì họ lo sợ...
 36) KENNY
-[pickup3][angry] Anh toàn mồm điêu!
+[pickup3][angry] Cô đúng là tâm thần mẹ rồi!
 37) DOUG
-[pickup3]Chúng ta có thể giải quyết hết chuyện này, được chưa? Chúng ta có thể giải quyết nó.
+[pickup3]Chúng ta có thể giải quyết cả chuyện này, được chứ? Ta có thể giải quyết nó.
 43) KENNY
-[pickup3]Chúng ta có thể giải quyết hết chuyện này, được chưa? Chúng ta có thể giải quyết nó.
+[pickup3]Chúng ta có thể giải quyết cả chuyện này, được chứ? Ta có thể giải quyết nó.
 38) LILLY
-[pickup3]Tôi sẽ nói với anh điều chúng ta phải làm rõ!
+[pickup3]Tôi sẽ nói với anh điều mà ta cần làm rõ!
 44) LILLY
-[pickup3]Tôi sẽ nói với anh điều chúng ta phải làm rõ!
+[pickup3]Tôi sẽ nói với anh điều mà ta cần làm rõ!
 39) LILLY
-[pickup3][hysterical] Chúng ta không thể để một người làm hỏng cho tất cả mọi người!!
+[pickup3][hysterical] Ta không thể để một người làm hỏng chuyện liên lụy tới những người còn lại!!
 45) LILLY
-[pickup3][hysterical] Chúng ta không thể để một người làm hỏng cho tất cả mọi người!!
+[pickup3][hysterical] Ta không thể để một người làm hỏng chuyện liên lụy tới những người còn lại!!
 40) CARLEY
-[pickup3]Thật là điên rồ!
+[pickup3]Chuyện này thật điên rồ!
 41) LILLY
-[pickup3]Tôi là người giúp cái nhóm này vận hành!
+[pickup3]Tôi là người giữ cho cái nhóm này vận hành!
 42) LILLY
-[pickup3]Tôi là người giúp cái nhóm này vận hành!
+[pickup3]Tôi là người giữ cho cái nhóm này vận hành!
 47) KENNY
-Chúng ta PHẢI rời khỏi!
+Ta PHẢI rời đi!
 48) KENNY
-mớ hỗn lộn này.
+mớ hỗn độn này.
