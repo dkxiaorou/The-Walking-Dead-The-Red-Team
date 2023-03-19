@@ -597,62 +597,661 @@ Towel
 289) KATJAA
 [pickup3][PANIC -reacting to brothers getting their guns]Kenny, no!!
 290) LEE
-[pickup3][to himself - looking at objects while snooping around the house]High school diploma.
+1) LEE
+{NormalD}Thuốc nitroglycerin?
+2) MARK
+[weakly] Lee...
+3) LARRY
+{ThinkingA}Làm thế nào {HappyB}mà mọi người {HappyC}có thịt nướng thế?
+4) DUCK
+[excited] {HappyB}Đồ nướng! Quào...
+5) ANDY
+{HappyA}Xin lỗi vì đống lộn xộn. {DisgustA}Bọn tôi phải {ThinkingA}chặn cửa sau lại sau khi {AngryA}một con xác sống lên được tầng trên.
+6) ANDY
+{HappyB}Đừng lo, {NormalB}việc đó cũng lâu rồi và {ThinkingA}và chúng cũng không trở lại nữa kể từ đó.
+7) LEE
+[to himself]{ThinkingA}Có vẻ chưa được sử dụng.  {ThinkingB}Có lẽ là giường cho khách.
+8) LEE
+[to himself]{NormalC}Khá muộn rồi.  {HappyB}Mà, cũng không có dấu hiệu bọn cướp.
+9) LEE
+[to himself]{ThinkingB}Đoán là ai đó cần{SadA}sơ cứu khá thường xuyên.
+10) LEE
+[to himself: Seeing bloody tools and bandages in a trash can]{DisgustA}Kinh thật.  {DisgustB}Thứ gì đây?
+11) LEE
+[to himself]{FearA}Đó là máu ư?
+12) LEE
+[to himself: this blood is fresh.] {DisgustB}Vẫn còn mới.
+13) LEE
+[to himself; following a blood trail]{ThinkingA}...vết máu dừng ở đây.
+14) LEE
+[to himself: Observing a the extensioncord in the hallway ]{ThinkingB}Hmmm.
+15) ANDY
+[ambient conversation]Anh kiếm sống bằng nghề gì, Ken?
+16) KENNY
+[ambient conversation]Tôi.. ờ... Tôi là một ngư dân ở Fort Lauderdale.
+17) DANNY
+[ambient conversation]Nếu muốn thì chúng tôi có thể mang về một hai con Cá Tầm, nhưng mà... Chưa bao giờ ra biển sâu cả.
+18) DANNY
+[ambient conversation]Chà, nghe tuyệt thật! Bố cũng thường đưa chúng tôi đi câu cá vược miệng lớn khi chúng tôi còn nhỏ.
+19) KENNY
+[ambient conversation]Về mặt thương mại, chủ yếu là Cá Hồng và Cá Ngừ Vây Vàng. Nhưng vào mùa hè, tôi thường đưa khách du lịch ra ngoài để câu cá cờ!
+20) KENNY
+[ambient conversation]Nói anh biết, chẳng có gì tuyệt bằng cá ngừ tươi lấy thẳng từ biến - tiến đến lò nướng - rồi đưa lên dĩa!!  Đặc biệt là cách mà Kat nấu nó nữa!
+21) KATJAA
+[ambient conversation]Tôi đã gặp Ken sau khi mở phòng khám thú y của mình và anh ấy đến đó với một con bạch tuột bị ốm!
+22) KENNY
+[ambient conversation]Sao?  Tôi còn mang nó đi đâu được?
+23) DANNY
+[ambient conversation]Cô từ đâu tới vậy Katjaa?  Giọng đó hẳn là không từ Georgia rồi!
+24) KATJAA
+[ambient conversation][friendly]Không, tất nhiên không rồi!  Gia đình tôi đến từ Bỉ, nhưng chúng tôi đã chuyển đến Florida khi tôi còn niên thiếu.
+25) KENNY
+[ambient conversation]Dan, anh luôn làm việc ở trang trại này à?
+26) DANNY
+[ambient conversation]Tôi á?  Không, đó là việc của bố tôi.  Tôi điều hành một công ty bảo hiểm ở Decatur.
+27) KENNY
+[ambient conversation]Tôi nghe rồi.
+28) DANNY
+[ambient conversation]Ừ, dù sao, cũng là công việc tốt.  Nhưng khi tất cả chuyện khốn khiếp này xảy ra, tôi phải quay về nhà.  Gia đình quan trọng hơn, anh biết mà?
+29) ANDY
+[ambient conversation]Phải, dù vậy Dan cảm thấy tốt nhất là rời khỏi Macon một thời gian. Gặp phải vài... vấn đề.
+30) LILLY
+[ambient conversation]Decatur à?
+31) ANDY
+[ambient conversation]Thì, cuối cùng tôi cũng đảm nhận vị trí giám đốc kinh doanh. Đưa tấm bằng đại học đó đi làm.
+32) KATJAA
+[ambient conversation]Vậy anh làm gì trước đó?
+33) ANDY
+[ambient conversation]Tôi từng có một doanh nghiệp bất động sản, nhưng, cô biết đấy... nền kinh tế này...
+34) DANNY
+[ambient conversation]Ừ, dù sao bố cũng muốn anh tiếp quản mà.
+35) ANDY
+[ambient conversation]Just worked out that way, Dan.
+36) LARRY
+[ambient conversation]Các anh đã có nông trại này được bao lâu rồi?
+37) ANDY
+[ambient conversation]Theo tôi nhớ cũng khá lâu rồi.  Chúng tôi lớn lên ở đây.  Dan và tôi giúp đỡ những gì có thể, nhưng thực sự đây là công việc của mẹ và bố.
+38) LILLY
+[ambient conversation]Vậy hai anh không làm ở đây?
+39) ANDY
+[ambient conversation]Vậy cô làm thú y được bao lâu rồi?
+40) DANNY
+[ambient conversation]Có làm việc với động vật trang trại không?
+41) KATJAA
+[ambient conversation][trying to think back] À... thì... cũng được một thời gian dài.
+42) KATJAA
+[ambient conversation]Buối đầu lúc tập luyện thì có, nhưng phần lớn là thú nuôi trong nhà thôi.
+43) KATJAA
+[ambient conversation]Tôi bắt đầu làm việc trong phòng khám thú y ở độ tuổi đôi mươi, rồi có bằng vài năm sau đó.
+44) KATJAA
+[ambient conversation]Ồ đúng rồi. Trung tâm Giải cứu Động vật hoang dã luôn mang những con cá sấu bị thương tới tôi để chữa lành trước khi thả chúng.
+45) DUCK
+[ambient conversation]Và cá sấu nữa!
+46) CLEMENTINE
+[ambient conversation]Nu uh!
+47) LILLY
+[ambient conversation]Vậy cái hàng rào làm tốt trong việc giữ bọn xác sống ở ngoài, nhỉ?
+48) DUCK
+[ambient conversation]Có một lần, bố cháu đã đập vào đầu một con bằng chiếc TV!
+49) DUCK
+[ambient conversation]Xin lỗi ạ.
+50) ANDY
+[ambient conversation]Ừ. Tiếc là bọn tôi đã mất phần lớn nguồn thức ăn trước khi có thể khiến cho thứ đó hoạt động.
+51) KATJAA
+[ambient conversation]Kenny Jr!  Đó không phải chuyện để nói ở bàn ăn tối đâu.
+52) DANNY
+[ambient conversation][mumbled]Bọn xác sống chết tiệt.
+53) KENNY
+[ambient conversation]Mấy cuộc săn bắt của chúng tôi cũng chẳng được ổn lắm. Bọn chúng ăn sống bất cứ thứ gì mà chúng có thể nhét răng vào.
+54) DANNY
+[ambient conversation]Thì, mọi người chỉ cần biết phải săn thứ gì thôi.  Ngoài đó có đủ thịt để khiến cho mọi người sống sót nếu biết thứ gì để bắt.
+55) KATJAA
+[ambient conversation]Cảm ơn lần nữa vì bữa ăn.  Các anh không biết đã bao lâu rồi đâu!
+56) KENNY
+[ambient conversation]Làm sao mà mọi người tìm được thức ăn vậy?
+57) ANDY
+[ambient conversation]Còn cô thì làm nghề gì, Cô Lilly?
+58) LARRY
+[ambient conversation]Lilly là một nữ quân nhân.  Nối nghiệp cha già của nó.
+59) DANNY
+[ambient conversation]Vậy ư?  Đã từng thấy chiến trường chưa?
+60) LILLY
+[ambient conversation][blunt, emotionless]Tôi có rồi.
+61) LARRY
+[ambient conversation]Nhóc à, đừng bao giờ hỏi câu đó với một người lính, hiểu chứ?
+62) LARRY
+[ambient conversation]Những gì cậu cần biết là cậu sẽ không muốn đùa với nó đâu. Chấm hết.
+63) LILLY
+[ambient conversation]Bố...
+64) DANNY
+[ambient conversation]Ừ, tôi xin lỗi.
+65) ANDY
+[ambient conversation]Đừng để ý đến em tôi.  Tôi thề là nó luôn có sở thích thích ngậm ngùi lời nói của mình.
+66) ANDY
+[ambient conversation]Vậy mọi người biết nhau từ trước à?
+67) LILLY
+[ambient conversation]Không. Chúng tôi chỉ là vô tình gặp được nhau.
+68) LILLY
+[ambient conversation]Nhưng giờ bọn tôi phải dính với nhau nếu muốn sống sót.
+69) ANDY
+[ambient conversation]Tôi hiểu rồi.  Ai cũng cần biết khi nào cần phải hy sinh một thứ để có một thứ khác tốt hơn, biết chứ.
+70) KENNY
+[ambient conversation]Mà cũng không đúng.  Bọn nhóc không nên chứng kiến những điều này.
+71) KATJAA
+[ambient conversation]Bọn trẻ rất kiên cường, anh biết mà?  Tôi ghét khi thấy bọn trẻ phải lớn lên như thế này, nhưng dưới tình hình hiện tại, tôi nghĩ bọn nó đang làm rất tốt.
+72) DANNY
+[ambient conversation]Bọn trẻ đã đối mặt như nào với ...mọi thứ?
+73) DANNY
+[ambient conversation]Có lẽ tôi nên đến kiểm tra anh ta?
+74) KATJAA
+[ambient conversation]Cứ để anh ấy rửa ráy sạch sẽ. Vài phút nữa sẽ xong thôi.
+75) DUCK
+[ambient conversation]Chúng ta sẽ sớm được ăn chứ, mẹ?
+76) LARRY
+[ambient conversation]Cần bao lâu để hắn ta rửa xong cái tay vậy?
+77) KATJAA
+[ambient conversation]Ngay khi chú Lee quay lại.
+78) ANDY
+[ambient conversation]Phải, Maybelle là con duy nhất bọn tôi còn.
+79) DANNY
+[ambient conversation][cont.] Nó cung cấp sữa đấy.
+80) CLEMENTINE
+[ambient conversation]Cháu thích bò của chú.  Nó rất xinh.
+81) DANNY
+[ambient conversation]Đó là lý do chúng tôi cần Katjaa giúp.
+82) DANNY
+[ambient conversation]Bọn tôi cũng muốn có thêm một con bê khỏe mạnh, nhưng phần lớn, bọn tôi muốn maybelle ổn hơn.
+83) LEE
+[pickup1][to himself looking at a St. John family portrait]{ThinkingB}Đây hẳn là Terry.
+84) LEE
+[pickup1][to himself - Look at]{HappyA}Mình có thể cần cạo râu... [but not right now]
+85) LEE
+[pickup1][to himself - Look at]Trông khá cũ kỹ. Nhãn bị tróc rồi.
+86) LEE
+[pickup1][to himself - Look at]Chẳng biết đó là gì.
+87) LEE
+[pickup1][to himself - Look at]Một vài loại kem dưỡng da.
+88) LEE
+[pickup1][to himself - Look at]Băng gạc.
+89) LEE
+[pickup1][to himself - Look at]Trống rỗng.
+90) DANNY
+[pickup1][casual but creepy as Lee snoops through the medicine cabinet]{NormalB}Anh đang tìm gì vậy?
+91) LEE
+[pickup1] [after caught looking through the medicine cabinet] {FearA}Không gì cả.  {AngryA}Tôi có thể có chút riêng tư không?
+92) BRENDA
+[pickup1][calling out to danny from off screen]Danny, con đâu rồi?  Mẹ cần giúp một tay.
+93) DANNY
+[pickup1][calling into the next room] {ThinkingA}Đến đây, thưa mẹ.
+94) LEE
+[pickup1][hushed but shocked!] {FearC}Mark?!  {FearB}Chuyện quái gì đã xảy ra?!!
+95) MARK
+[pickup1][weakly..drugged, trying to tell Lee what happened] {SadA}... anh em...
+96) DANNY
+[Pickup1]Có lẽ tôi nên kiểm tra anh ta xem?
+97) ANDY
+[pickup1][annoyed - offscreen]Cần bao lâu để anh ta rửa được cái tay vậy?
+98) LEE
+[pickup1][calling back - having found the bathroom]{AngryA}Rồi. Khó mà không thấy được.
+99) DANNY
+[pickup1][calling out from offscreen]Cậu tìm thấy nhà tắm chưa, Lee?
+100) LEE
+[pickup1][looking with minimal interest at portraits of the Brothers] {thinkingB}Hm.
+101) LEE
+[pickup1][to himself, looking at a large cabinet blocking the hallway]{ThinkingB}Xác sống sẽ không vượt qua được thứ đó.
+102) 
+Chân Dung Của Brenda
+103) 
+Nitroglycerine
+104) 
+Chai
+105) 
+Hộp
+106) 
+Vết cào
+107) 
+Bồn Rửa
+108) 
+Tủ Thuốc
+109) 
+Kem Cạo Râu
+110) 
+Nhìn Vào
+273) 
+Nhìn Vào
+111) 
+Đẩy
+112) 
+Giường
+113) 
+Cửa Tủ Quần Áo
+114) 
+Cửa Phòng Ngủ
+115) 
+Dấu Vết
+116) 
+Tủ Sách
+117) 
+Cửa
+118) 
+Tủ Đầu Giường
+119) 
+Cửa Sổ
+120) BRENDA
+[pickup1]Cứ cho cậu ta thêm phút nữa.
+121) MARK
+[pickup1][process - Super muffled, Upstairs locked in another room][Drugged out, but calling out as best as he can] Cứu tôi!
+122) MARK
+[pickup1][process - Super muffled, Upstairs locked in another room][Drugged out, but calling out as best as he can]Ai đó...
+123) KATJAA
+[pickup1][ambient pleading with Brenda] Làm ơn...
+124) KATJAA
+[pickup1][ambient pleading with Brenda] Hãy thả tôi ra...
+125) KATJAA
+[pickup1][ambient pleading with Brenda] Đừng làm thế...
+126) KATJAA
+[pickup1][ambient pleading with Brenda] Brenda, làm ơn...
+127) BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Stop![Brenda:][pickup1][ambient  - with Katjaa as a hostage on the stairs] Tôi nói thật đấy!
+128) BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Lùi lại!
+129) BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Tôi giết ả đấy, Lee!
+130) BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Chỉ cần dừng lại!
+131) BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Tôi sẽ làm vậy đấy!
+132) LEE
+[pickup1][quiet, searching the house, having heard a noise?  -3- ] Xin chào?
+316) LEE
+[pickup1][quiet, searching the house, having heard a noise?  -3- ] Xin chào?
+133) LEE
+[pickup1][quiet- to himself, searching the house, having heard a noise?  ] Cái quái gì?
+315) LEE
+[pickup1][quiet- to himself, searching the house, having heard a noise?  ] Cái quái gì?
+134) MARK
+[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Giúp tôi với...
+313) MARK
+[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Giúp tôi với...
+135) MARK
+[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Làm ơn....
+314) MARK
+[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Làm ơn....
+136) MARK
+[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Unnggh...
+312) MARK
+[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Unnggh...
+137) MARK
+[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Ôi Chúa tôi...
+327) MARK
+[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Ôi Chúa tôi...
+138) MARK
+[pickup2] {SadB}Đừng... ăn.... tối...
+145) DAVID
+[pickup2] Đừng... ăn.... tối...
+139) BRENDA
+[pickup2] Lee, cậu ngã trong đó rồi hả?! Bữa tối đang ở trên bàn và mọi người đang ăn rồi này!
+140) LEE
+[pickup2] [to himself, hushed, super urgent] Clementine!
+141) LEE
+[pickup2][hushed, super urgent, wtf] {SadA}Chuyện gì {SadB}xảy ra với chân anh vậy, anh bạn?!
+142) DAVID
+[pickup2][weakly, drugged, out of it] Ai...ai đó...lùi lại... đừng lấy thêm từ tôi nữa...
+143) DAVID
+[pickup2][out of it, drugged]...là cái bẫy....
+144) LEE
+[pickup2][hushed, super panicked]Làm sao mà anh lại mất cả hai chân mình?
+146) LEE
+[pickup2][hushed but totally in shock]{FearC}Ôi đệt! {SadA}Chuyện gì đã xảy ra với anh? {FearA}Chúng tôi đã để anh với...
+147) 
+ĐỪNG ĂN NÓ!
+150) LEE
+[pickup2] {FearC}Đừng ăn nó!
+148) 
+LÀ NGƯỜI ĐẤY!
+157) 
+Là người đấy!
+149) 
+CLEMENTINE, KHÔNG!
+158) 
+Clementine, KHÔNG!
+151) BRENDA
+[pickup2] {HappyB}Ngồi xuống đi, {FearA}món súp của cậu đang nguội rồi.
+152) LEE
+[pickup2] {FearB}Là... {FearC}là người!
+153) BRENDA
+[pickup2] {NormalB}Phải, Lee {HappyE}ở đây toàn là người mà.
+154) LEE
+[pickup2] {FearB}Clementine, {FearC}KHÔNG!
+155) BRENDA
+[pickup2] {SadB}Lee, chuyện gì vậy? {FearB}Cậu trông nhợt nhạt thật.
+156) 
+Nhổ nó ra!
+159) LEE
+[pickup2][horrified, urgent] {FearC}Nhổ nó ra!
+160) 
+Mọi người đang ăn THỊT NGƯỜI.
+161) 
+Ả già này bị ĐIÊN rồi!
+162) LARRY
+[pickup2] {HappyB}Đặt cái đít xuống, Lee. {AngryB}Người[with revelry for her] phụ nữ này đã nấu cho cậu một bữa ăn đấy.
+163) DANNY
+[pickup2] {NormalC}Đáng lẽ không cần phải như thế này.
+164) LARRY
+[pickup2] {AngryB}Hắn có thể dùng {AngryC}chút phép xử sự đấy.
+165) BRENDA
+[pickup2] {HappyC}Cậu ta chỉ cần luyện thôi.
+166) LILLY
+[pickup2] {NormalB}Đúng đấy, Lee, {HappyC}anh làm sao vậy?
+167) LILLY
+[pickup2] {AngryA}Điều đó thật {HappyD}điên rồ!
+168) BRENDA
+[pickup2] [trying to settle folks down]{NormalB}Nào, nào...
+169) LEE
+[pickup2] {AngryC}Mark đang ở trên lầu với đôi chân bị cắt cụt! {AngryD}Mọi người đang ĂN ANH TA.
+170) KENNY
+[pickup2] {AngryA}Anh đang làm bọn trẻ sợ đấy, Lee.
+171) LEE
+[pickup2] [panicked]{FearA}Cái người ở trong rừng, {SadB}Kenny, anh còn nhớ anh ta mà. {FearB}Người mà ta đã để lại chỗ cái bẫy! {AngryB}Anh ta đang ở trên lầu {AngryC}cùng với đôi chân bị cắt cụt! {AngryD}Mọi người đang ĂN ANH TA.
+172) LEE
+[pickup2] {FearA}Mọi người {FearB}đang ăn {FearC}THỊT NGƯỜI {FearD}!
+173) LARRY
+[pickup2] {AngryB}Người phụ nữ này đã nấu cho cậu một bữa ăn đấy, {AngryD}tên vô ơn! {AngryC}Kính trọng người ta chút đi!
+174) BRENDA
+[pickup2] {AngryB}Cảm ơn, Larry.
+175) DUCK
+[picku2] Mẹ, con đang ăn mà!
+176) KATJAA
+[pickup2] [grave]{FearB}Yên lặng đi, con yêu.
+177) LILLY
+[pickup2] {AngryC}Chuyện gì đang xảy ra?!
+178) LARRY
+[pickup2] {HappyA}Cứ kệ hắn đi, Lilly. {AngryA}Luôn luôn có chuyện gì đó {AngryB}với tên này.
+179) DANNY
+[pickup2] {DisgustA}Mọi chuyện đáng lẽ ra đã ổn với các người rồi.
+180) 
+Chúng định bắt chúng ta để lấy thịt mà trao đổi.
+181) 
+Lên tầng trên và nhìn thử đi!
+182) 
+Chúng ta cần đưa bọn nhỏ ra khỏi đây!
+183) LARRY
+[pickup2] {HappyC}Cậu {AngryA}mất trí rồi!
+184) LEE
+[pickup2][huge] {AngryC}MARK đang ở TẦNG TRÊN ngay bây giờ với {AngryD}ĐÔI CHÂN BỊ CỤT.
+185) LEE
+[pickup2] {AngryB}Chúng định bắt chúng ta để {AngryC}lấy thịt mà trao đổi.
+186) BRENDA
+[pickup2] {AngryB}Là sự thật.
+187) LEE
+[pickup2][super angry] {AngryC}Người phụ nữ này {AngryD}bị ĐIÊN rồi.
+188) 
+Người phụ nữ đó đang điều hành một lò mổ người.
+189) 
+Người phụ nữ đó vừa cho mọi người ăn chân của một người!
+190) 
+Đéo cản ông, Larry. Cứ ăn đi.
+191) LARRY
+[pickup2] {AngryB}Ta sẽ làm thế, {HappyB}và cũng sẽ tận hưởng {DisgustA}từng miếng cuối cùng!
+192) LEE
+[pickup2] {DisgustA}Biết gì không? {AngryC}Đéo ai cản ông, Larry. Cứ ăn đi.
+193) LEE
+[pickup2] {AngryB}Ả đang điều hành {AngryC}một lò mổ người. {ThinkingB}Chúng giết người {AngryB}và lấy thịt để đổi xăng {AngryC}để giữ cho nơi này hoạt động.
+194) LARRY
+[pickup2] {AngryB}Mày thậm chí không có {AngryD}CƠ HỘI {AngryC}động tay vào dĩa ăn nữa đâu.
+195) LARRY
+[pickup2] {AngryB}Nó khiến ta phát mệt, {AngryA}thật sự đấy. [his perception of lee's disrespect]
+196) LARRY
+[pickup2] {DisgustA}Mày có thể cứ{AngryB}chê bai về bữa ăn MIỄN PHÍ mà họ đã nấu cho {AngryC}loại người như mày.
+197) BRENDA
+[pickup2] [appreciates him standing up for her, but tries to calmly cool him down]{HappyC}Đủ rồi, Larry.
+198) LEE
+[pickup2] {AngryB}Người phụ nữ đó {AngryC}vừa cho mọi người ăn chân của một người!
+199) LARRY
+[pickup2] {HappyA}Vậy mà {HappyC}BÀ ẤY mới là người điên á? {AngryB}Ha!
+200) LEE
+[pickup2] [big and angry]{AngryA}BRENDA, {AngryC}nói với tôi là hắn {DisgustA}SẼ KHÔNG được ăn đi.
+201) LEE
+[pickup2][big] {AngryC}Người mà Kenny tìm thấy trong rừng đang ở trên lầu, ngay lúc này, {AngryD}với ĐÔI CHÂN CỤT.
+202) LEE
+[pickup2] {DisgustB}Cái bẫy gấu {DisgustA}bọn tôi tìm thấy trong rừng? {AngryB}Thì, hoàn toàn khớp với cái ở chuồng. {AngryA}Và bọn họ dùng nó để bẫy {AngryC}CON NGƯỜI.
+203) LEE
+[pickup2] {AngryB}Đây là một trang trại sữa, {SadA}không phải trang trại gia súc. {AngryD}Nghĩ thử đi.
+204) LEE
+[pickup2] {AngryB}Lên tầng trên và nhìn đi! {AngryC}Mọi người sẽ tìm thấy một người với {AngryD}cả hai chân đều bị chặt đứt!
+205) LARRY
+[pickup2] {AngryB}Lee, ngồi xuống và {AngryA}ăn bữa tối của mình đi.
+206) LEE
+[pickup2] {AngryB}Chúng ta cần đưa bọn nhỏ đi, {FearA}mọi người, {AngryC}ra khỏi đây. {AngryB}Ta cần rời đi. {AngryC}NGAY.
+207) ANDY
+[pickup2] {SadA}Đằng nào thì hắn chẳng chết! {NormalB}Chúng ta phải nghĩ về chuyện {AngryA}SỐNG SÓT chứ!
+208) BRENDA
+[pickup2] {FearB}Hạ giọng xuống, con yêu.
+209) BRENDA
+[pickup2] {NormalB}Cú sốc trên khuôn mặt cậu, Lee,{DisgustB} trông như là {AngryC}cậu đã lên lầu rồi.
+210) BRENDA
+[pickup2] {AngryA}Andy nói đúng; {FearA}chúng tôi chỉ nhắm đến những người mà đằng nào cũng chết, {DisgustA}bằng cách này hay cách khác.
+211) DANNY
+[pickup2] [the big ultra creepy punctuation of the scene. previous "these were people who were gonna die ANYWAY]{NormalA}Giống như các người vậy.
+212) LILLY
+[pickup2] {SadB}Uh... tôi sẽ nôn mất.
+213) BRENDA
+[pickup2] {AngryC}Bây giờ, {AngryB}mọi người có quái vật lang thang khắc nơi {AngryD}không làm gì khác ngoài việc ăn con người. {DisgustB}Và để làm gì? {AngryB}Để lại tiếp tục như thế {AngryD}đến khi ăn được thêm.
+214) BRENDA
+[pickup2] {ThinkingA}Chúng tôi nghĩ rằng mình có thể tận dụng {DisgustB}chỗ thịt đó.
+215) BRENDA
+[pickup2] {AngryC}Đó là cách mà tôi được dạy dỗ {AngryB}và cũng là cách mà tôi đã dạy cho những đứa con mình.
+216) BRENDA
+[pickup2] {NormalC}Lớn lên ở vùng nông thôn Georgia, {AngryB}tất cả đều được dạy rằng không nên lãng phí.
+217) 
+Các người đều thật bệnh hoạn.
+218) 
+Hãy để bọn tôi đi.
+222) LEE
+[pickup2] {FearA}Hãy để bọn tôi đi.
+219) 
+Chúng tôi đông hơn các người.
+223) LEE
+[pickup2] {AngryB}Chúng tôi đông hơn các người.
+220) LEE
+[pickup2] {AngryB}Các người đều thật bệnh hoạn...{SadA}bệnh từ trong gốc rễ ra.
+221) BRENDA
+[pickup2] {AngryB}Lee, {FearA}đó không phải là một điều tốt để ngụ ý đâu.
+224) 
+Kenny, lấy súng!
+227) LEE
+[pickup2] {FearB}Kenny, lấy súng!
+225) 
+Clementine, chạy đi!
+226) 
+Lilly, lấy một con dao!
+229) LEE
+[pickup2] {FearB}Lilly, lấy một con dao!
+228) LEE
+[pickup2] {FearA}Clementine, {FearB}chạy đi!
+230) ANDY
+[pickup2]{angryD}Không ai đi đâu cả!
+320) ANDY
+[pickup2]{angryD}Không ai đi đâu cả!
+322) ANDY
+[pickup2]{angryD}Không ai đi đâu cả!
+231) DANNY
+[pickup2] {HappyB}Bọn tôi có rất nhiều đạn để dùng cho các người {AngryB}ngay đây.
+321) DANNY
+[pickup2] {HappyB}Bọn tôi có rất nhiều đạn để dùng cho các người {AngryB}ngay đây.
+323) DANNY
+[pickup2] {HappyB}Bọn tôi có rất nhiều đạn để dùng cho các người {AngryB}ngay đây.
+232) KENNY
+[pickup2] {AngryC}Mày không được {AngryD}lại cmn gần tới gia đình của tao!
+233) CLEMENTINE
+[pickup2][yelp of pain]
+234) LILLY
+[pickup2] {AngryD}Bỏ hết súng của các người xuống! Chúng tôi sẽ rời khỏi nơi này!
+235) DUCK
+[pickup2] [crying] Con không muốn chết...mẹ ơi con đã ăn gì thế...
+236) DANNY
+[pickup2] I GOT PLANS FOR THIS ONE!
+237) LARRY
+[pickup2] {SurprisedA}Cái..đe..{ThinkingA}sao...{AngryB}cái đéo...{FearA}cái...{AngryD}đệt mẹ!
+238) 
+TAO SẼ GIẾT MÀY!!!
+239) 
+THẢ CON BÉ RA!!!
+240) 
+THẰNG KHỐN!!!
+241) LEE
+[pickup2] {AngryD}[rage growl of uncontrolled anger, villain grabs clementine by the hair]
+242) LEE
+[pickup2][uncontrolled anger, villain grabs clementine by the hair] {AngryD}Tao sẽ giết mày!!!
+243) LEE
+[pickup2][uncontrolled anger, villain grabs clementine by the hair] {AnAngryThar con bé ra, thằng chó khốn nạn!!!
+244) LEE
+[pickup2][uncontrolled anger, villain grabs clementine by the hair] {AngryD}Thằng chó đẻ!!! Tao sẽ xé xác mày ra!
+245) 
+Mọi thứ sẽ ổn thôi!
+246) 
+Ai đó làm gì đi!
+247) 
+Chúng ta tiêu rồi!
+259) LEE
+[pickup2] {AngryA}Chúng ta tiêu rồi!
+248) CLEMENTINE
+[pickup2] [in a horrific argument scene]{FearB}Chú Lee! {CryingB}Chú Lee...![half crying half in shock]
+249) LEE
+[pickup2] [trying to calm the group]{NormalC}Mọi người! {SadA}Mọi thứ sẽ ổn thôi!
+250) LEE
+[pickup2][panicked, in an argument] {FearC}Ai đó làm gì đi!
+251) ANDY
+[pickup2][hyper aggressive snarl, about to deal with a guy] Đệt con mẹ...
+252) KATJAA
+[pickup2] [horrified gasp]
+253) LILLY
+[pickup2] [horrified gasp]
+255) LARRY
+[pickup2] [horrified gasp]
+256) KENNY
+[pickup2] [horrified gasp]
+257) DUCK
+[pickup2] [horrified gasp]
+254) MARK
+[pickup2] LÀM ƠN...AI ĐÓ...!
+258) DAVID
+[pickup2] LÀÀMM ƠN...AI ĐÓ...giúp v...!
+260) BRENDA
+[pickup2] {HappyD}Mọi người ngồi xuống đi {HappyA}Và tôi sẽ đi lấy thức ăn ra ngay! {HappyB}Ôi trời, thật là đông vui mà!
+261) DUCK
+[pickup2] Ôi chà!
+262) KENNY
+[pickup2] {HappyB}Tôi có thể ăn cả một con ngựa luôn quá.
+263) LARRY
+[pickup2] {HappyC}Brenda, cô đúng là một thiên thần mà.
+264) LILLY
+[pickup2][ambient-mumbleld. confused (not shocked) When Lee shouts about eating people]Hở?
+265) LARRY
+[pickup2][ambient-mumbleld. confused (not shocked) When Lee shouts about eating people]Hupf![whatever!]
+266) KENNY
+[pickup2][ambient-mumbleld. confused (not shocked) When Lee shouts about eating people]..ehh??
+267) KATJAA
+[pickup2][ambient-mumbleld. confused (not shocked) When Lee shouts about eating people]Ugh?
+268) DANNY
+[pickup2][ambient-mumbleld grunt When Lee shouts about eating people]Hrmm.
+269) ANDY
+[pickup2][ambient-mumbleld grunt  When Lee shouts about eating people]Pfft.
+270) DUCK
+[pickup2] Bánh quy kìa, quào!
+271) 
+Cúp Bóng Chày
+272) LEE
+[pickup 2b] [discovering an odd room] [to himself] {DisgustB}Cái quái gì?
+274) LEE
+[pickup2b] [curious, confused] {ThinkingB}Sợi dây đó dẫn đi đâu vậy?
+275) 
+Dùng
+276) LEE
+[pickup 2b] {DisgustA}Trời, {DisgustB}toàn là thứ gì không.
+277) LEE
+[pickup 2b] {DisgustA}Mốc kinh.
+278) LEE
+[pickup 2b] {NormalD}Đó là {HappyB}một đống băng vệ sinh.
+279) LEE
+[pickup 2b] {AngryA}Rất nhiều nến. Thông minh đấy.
+280) LEE
+[pickup 2b] [seeing hemorrhoid cream] [to himself]{DisgustA}Kem bôi trĩ.
+281) LEE
+[pickup 2b][alt] Nhiều băng gạc thật.
+282) 
+Hộp Đựng Nến
+283) 
+Dây Điện
+284) 
+Khăn
+285) LILLY
+[pickup3][reacting to lee freaking out at dinner]Lee? [As in "come on, you're not serious"]
+286) KENNY
+[pickup3][reacting to lee  freaking out at dinner]Cái quái gì?
+287) KATJAA
+[pickup3][reacting to lee  freaking out at dinner]Thật lố bịch!
+288) KATJAA
+[pickup3][reacting to lee  freaking out at dinner]Chuyện gì vậy?
+289) KATJAA
+[pickup3][PANIC -reacting to brothers getting their guns]Kenny, không!!
+290) LEE
+[pickup3][to himself - looking at objects while snooping around the house]Bằng tốt nghiệp trung học.
 291) LEE
-[pickup3][to himself - looking at objects while snooping around the house]Andy's college degree.  These boys aren't stupid.
+[pickup3][to himself - looking at objects while snooping around the house]Bằng đại học của Andy. Những gã này ngốc chút nào.
 292) LEE
-[pickup3][to himself - looking at objects (Dairly Blue Ribbon) while snooping around the house]This dairy must've meant a lot to em, before the walkers destroyed everything.
+[pickup3][to himself - looking at objects (Dairly Blue Ribbon) while snooping around the house]Trang trại này hẳn có ý nghĩa rất lớn đối với họ, trước khi lũ xác sống phá hủy mọi thứ.
 293) LEE
-[pickup3][to himself - looking at objects (sports trophy) while snooping around the house]Hmf. Seems like it's been years since kids were playing sports for fun...
+[pickup3][to himself - looking at objects (sports trophy) while snooping around the house]Hừm. Có vẻ như đã lâu rồi kể từ khi bọn trẻ chơi thể thao chỉ để cho vui...
 294) LEE
-[pickup3][Lee, VERY SUSPICIOUS of the family, excuses himself so he can get a moment to snoop around.]Mind if I wash my hands first?
+[pickup3][Lee, VERY SUSPICIOUS of the family, excuses himself so he can get a moment to snoop around.]Có phiền không nếu tôi đi rửa tay trước?
 295) LEE
-[dupliacte of line 310415796]{DisgustA}Where's Mark?
+[dupliacte of line 310415796]{DisgustA}Mark đâu rồi?
 296) BRENDA
-[dupliacte of line 310415797]{HappyB}Now don't you {HappyA}worry about him.  {HappyC}I've already brought some food up. {AngryA}You just let him rest.
+[dupliacte of line 310415797]{HappyB}Đừng lo về {HappyA}cậu ấy.  {HappyC}Tôi đã mang chút thức ăn cho cậu ấy rồi. {AngryA}Hãy để cậu ấy nghỉ ngơi.
 297) LEE
-[pickup3][to himself while snooping around the house][alt]Where does this go?
+[pickup3][to himself while snooping around the house][alt]Thứ này dẫn đi đâu?
 298) LEE
-[pickup3][to himself while snooping around the house.  Looking at the window]Feels like there's a storm coming.
+[pickup3][to himself while snooping around the house.  Looking at the window]Cảm giác như một cơn bão đang tới.
 299) LEE
-[pickup3][to himself while snooping around the house]Where the hell is Mark?  I thought Brenda said he was up here resting?
+[pickup3][to himself while snooping around the house]Mark đâu rồi?  Mình tưởng Brenda đã nói anh ấy đang nghỉ ngơi trên này?
 300) LEE
-[pickup3][to himself while snooping around the house]Farm books. Cookbooks. Nothing out of the ordinary here.
+[pickup3][to himself while snooping around the house]Sách làm nông. Sách nấu ăn. Không có gì khác thường ở đây.
 301) LEE
-[pickup3][to himself while snooping around the house]What do they need so much morphine for?
+[pickup3][to himself while snooping around the house]Họ cần nhiều thốc morphine vậy để làm gì?
 302) LEE
-[pickup2]  [to himself]Looks like a bunch of medical waste in here. IV tubes, saline...
+[pickup2]  [to himself]Có vẻ như là một đống rác từ đồ y tế. Ống dẫn IV, nước muối...
 303) LEE
-[pickup2] [to himself]What would dairy farmers need with this kind of stuff?
+[pickup2] [to himself]Sao nông dân trang trại lại cần những thứ này?
 304) KENNY
-[pickup3][springing into action at the dinner tabe when everyone else fails to react]All right, screw this!  We're getting the hell outta here!
+[pickup3][springing into action at the dinner tabe when everyone else fails to react]Được rồi, bỏ đi!  Chúng ta sẽ phắn nhanh khỏi đây!
 305) BRENDA
-[pickup3][allowing Lee to excuse himself to wash up before dinner]Bathroom's right outside in the hall.  And be sure to get under your nails, you've been muckin' around in the dirt all day.
+[pickup3][allowing Lee to excuse himself to wash up before dinner]Nhà tắm ở ngay bên ngoài hành lang.  Và hãy chắc rằng rửa kỹ cả móng tay mình nhé, cậu đã ở trong bụi bẩn cả ngày mà.
 306) LILLY
-[pickup3][responding to Lee freaking out and claiming everyone is eating people] Lee, what the hell is wrong with you?!
+[pickup3][responding to Lee freaking out and claiming everyone is eating people] Lee, anh bị cái quái gì vậy?!
 307) KENNY
-[pickup3][Reacting to Lee screaming at Clementine to spit out her food]Lee, Jesus, man! Did you find something?
+[pickup3][Reacting to Lee screaming at Clementine to spit out her food]Lee, trời ạ, anh bạn! Anh tìm thấy gì à?
 308) ANDY
-[pickup3]][Reacting to Lee screaming at Clementine to spit out her food]Hey, why don't you settle down,man.
+[pickup3]][Reacting to Lee screaming at Clementine to spit out her food]Này, sao không bình tĩnh lại đi, anh bạn
 309) KENNY
-[pickup3][Quiet but firm- trying to keep Kat & Duck from panicinking while Lee shouts about eating people]Hang on Kat.  just keep Duck close.
+[pickup3][Quiet but firm- trying to keep Kat & Duck from panicinking while Lee shouts about eating people]Từ từ Kat.  Hãy giữ Duck sát bên.
 310) KATJAA
-[pickup3][at the dinner table whit Lee trying to warn people]...Ken, maybe we should-
+[pickup3][at the dinner table whit Lee trying to warn people]...Ken, có lẽ chúng ta nên-
 311) LEE
-[pickup3][to himself - looking at objects (sports trophy) while snooping around the house]Danny's baseball trophy...
+[pickup3][to himself - looking at objects (sports trophy) while snooping around the house]Cúp bóng chày của Danny...
 317) 
-College Diploma
+Bằng Đại Học
 318) 
-High School Diploma
+Bằng Trung Học
 319) 
-Mark is upstairs, LEGLESS!
+Mark đang ở trên tầng, CỤT CHÂN!
 324) 
-Morphine
+Thuốc Morphine
 325) 
-Medical Supplies
+Đồ Sơ Cứu
 326) 
-Trashcan
+Thùng Rác
 328) LEE
 Clementi--
 329) 
-Blue Ribbon
+Giải Thưởng Blue Ribbon
