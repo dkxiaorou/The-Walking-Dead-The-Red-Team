@@ -1,78 +1,78 @@
 1) 
-[Give Half an Apple]
+[Đưa một nửa quả Táo]
 2) 
-[Give Piece of Jerky]
+[Đưa miếng Thịt Khô]
 3) 
-[Give Crackers and Cheese]
+[Đưa Bánh Quy và Phô Mai]
 4) 
-[Give Crackers and Cheese]
+[Đưa Bánh Quy và Phô Mai]
 44) 
-[Exit]
+[Thoát]
 5) LEE
-[pickup 2]  Này, ăn gì đi.
+[pickup 2]  Đây. Ăn chút gì đó đi.
 46) LEE
-[pickup 2]  Này, ăn gì đi.
+[pickup 2]  Đây. Ăn chút gì đó đi.
 6) MARK
 [pickup 2]  Cảm ơn, Lee.
 7) MARK
-[pickup 2] [a little surprised at Lee's generosity] Wow. Cảm ơn nhiều, nó thật tuyệt vời.
+[pickup 2] [a little surprised at Lee's generosity] Wow. Cảm ơn nhiều, tuyệt thật đấy.
 8) LEE
-[pickup 2]  Tôi cho một quả táo này.
+[pickup 2]  Tôi có một quả táo cho anh này.
 9) LEE
-[pickup 2] Xin lỗi không có nhiều thức ăn lắm.
+[pickup 2] Xin lỗi, không có đủ đồ ăn để chia cho mọi người.
 10) MARK
-[pickup 2]  Tôi hiểu. Phải làm những lựa chọn khó khăn. Chỉ, cho tôi lần sau.
+[pickup 2]  Tôi hiểu mà. Hẳn là khó khăn lắm khi phải đưa ra sự lựa chọn đó. Chỉ là, lần sau hãy để phần cho tôi.
 11) LEE
-[pickup 2]Lilly có vẻ bực chúng ta.
+[pickup 2]Lilly khá là nổi nóng với chúng ta.
 26) 
-Lilly có vẻ bực chúng ta.
+Lilly khá là nổi nóng với chúng ta đấy.
 12) MARK
-[pickup 2] Thì...cô ấy đã làm gì với chúng ta, chỉ bỏ rơi mấy đứa thanh thiếu niên cho bọn walkers?
+[pickup 2] Thì...cô ta muốn ta làm gì đây, bỏ lại những thanh thiếu niên đó ở lại với bọn xác sống ư?
 13) MARK
-[pickup 2] We'll get it.
+[pickup 2] Bọn tôi sẽ xong ngay thôi.
 14) LEE
-[pickup 2]Vậy, chúc may mắn với cái tường nhé.
+[pickup 2]Vậy, chúc may mắn với bức tường đó.
 15) MARK
-[pickup 2] Nghe này, tôi biết ý định của cô ấy tốt, nhưng-
+[pickup 2] Nghe này, Tôi biết ý định của cô ấy là tốt, nhưng-
 16) LARRY
-[pickup2][defending his daughter] [Leaving those teeneages to the walker is-]Đó là điều chính xác anh cần làm.
+[pickup2][defending his daughter] [Leaving those teeneages to the walker is-]Đó chính xác là điều mà đáng lẽ cậu nên làm.
 17) LEE
-[pickup2]Cần giúp với cái tường không?
+[pickup2]Cần giúp gì với bức tường không?
 18) LARRY
 [pickup2][flat] Không.
 19) LEE
-[pickup2][casual. Talking to Mark at Motel]Anh có bao giờ nhớ căn cứ không quân không?  Ý tôi là cái tường không hẳn là tiêu chuẩn quân đội.
+[pickup2][casual. Talking to Mark at Motel]Anh có bao giờ nhớ chỗ căn cứ Không Quân không?  Ý tôi là bức tường này hẳn là chưa đạt tiêu chuẩn quân sự đâu nhỉ.
 20) MARK
-[pickup2]Không thể nào tôi quay lại chỗ đó. Anh thấy được chính xác chuyện gì đã xảy ra khi mọi người nhặt tôi. {sadA} Hoàn toàn bị chè đẹp.
+[pickup2]Không đời nào tôi trở lại đó đâu. Anh đã thấy nó như thế nào khi các anh đến đón tôi mà. {sadA} Hoàn toàn tràn ngập luôn.
 21) LARRY
-[pickup2][looking for his food for the day from Lee]Này, của tao đâu?
+[pickup2][looking for his food for the day from Lee]Này, của ta đâu?
 22) LEE
-[pickup2] Xin lỗi Larry, tôi hết rồi.  Đó là tất cả hết rồi.
+[pickup2] Xin lỗi Larry, không còn nữa.  Đó là tất cả rồi.
 23) LARRY
-[pickup2][after not being given food because Lee is "All Out"]Ôi thật à?  Well, thật tiện lợi.
+[pickup2][after not being given food because Lee is "All Out"]Ồ thật vậy à?  Chà, tiện thật nhỉ.
 24) LARRY
-[pickup2][defending Lilly]Nhưng không có gì!  Cô ấy đang làm một lựa chọn thông minh.  Lũ ký sinh chúng mày mang về phải ra đi!
+[pickup2][defending Lilly]Nhưng không gì cả!  Con bé đang đưa ra sự lựa chọn thông minh.  Bọn ký sinh mà các người đem về cần phải rời đi!
 25) 
-Anh có bao giờ nhớ căn cứ không quân không?
+Có bao giờ nhớ chỗ căn cứ Không Quân không?
 27) 
-Nói với
+Nói chuyện
 28) 
-Đưa đồ ăn cho
+Đưa thức ăn
 29) MARK
-Thật ra, chúng tôi cần dùng rìu của anh.  Anh có phiền nếu bọn tôi dùng nó không?
+Thật ra thì, bọn tôi sẽ cần tới cây rìu của anh đấy.  Có phiền không nếu chúng tôi dùng nó?
 30) 
 Xin lỗi, tôi hết đồ ăn rồi.
 31) 
-Muốn đồ ăn không? [Give Food]
+Muốn chút thức ăn không? [Đưa thức ăn]
 38) LEE
-[pickup3][casual/tired]Yeah.  Tôi chỉ mong Katjaa có thể cứu anh ấy.
+[pickup3][casual/tired]Ừ.  Tôi chỉ mong rằng Katjaa có thể cứu anh ta.
 39) MARK
-[pickup3][greeting Lee]Này.  Anh thế nào rồi Lee?  Nó thực sự rất tệ đằng kia.  Phải chặt chân của ông kia ra.
+[pickup3][greeting Lee]Này.  Anh vẫn ổn chứ Lee?  Lúc nãy khá là căng thẳng đấy.  Phải cắt cả chân của anh ta đi.
 40) MARK
-[pickup3]Này, anh biết đấy là tai nạn mà.  Tôi không có ý bắn anh ta.
+[pickup3]Này, anh biết đó chỉ là tai nạn thôi đúng chứ.  Tôi không cố ý bắn cậu ta.
 41) LEE
-[pickup3] Tôi biết.  Nó thực sự rất tệ đằng kia.  Thằng cu đấy hành động ngu ngốc.
+[pickup3] Tôi biết.  Lúc đó điên thật.  Tên nhóc cư xử thật ngu ngốc.
 42) MARK
-[pickup3][Gretting Lee, whorried about the shot kid]Này, liệu thằng cu đấy có ổn không?
+[pickup3][Gretting Lee, whorried about the shot kid]Này, cậu nhóc sẽ qua khỏi chứ?
 43) LEE
-[pickup3]Tôi không biết. [If travis will make it]
+[pickup3]Tôi không biết nữa. [If travis will make it]
