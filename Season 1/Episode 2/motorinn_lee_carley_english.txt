@@ -1,104 +1,104 @@
 1) 
-[Give Half an Apple]
+[Đưa một nửa quả Táo]
 4) 
-[Give Piece of Jerky]
+[Đưa miếng Thịt Khô]
 5) 
-[Give Crackers and Cheese]
+[Đưa Bánh Quy và Phô Mai]
 6) 
-[Give Crackers and Cheese]
+[Đưa Bánh Quy và Phô Mai]
 33) 
-[Keep the last piece of food for yourself]
+[Giữ miếng cuối cùng cho bản thân]
 35) 
-[Save the last piece of food for someone else]
+[Giữ miếng cuối cùng cho người khác]
 47) 
-[Exit]
+[Thoát]
 2) LEE
-[pickup 3] {happyA}Lấy một quả tao này, Carley.
+[pickup 3] {happyA}Cầm lấy một quả táo này, Carley.
 3) CARLEY
-[pickup 2] {happyA}Trời, tôi đã từng ăn một quả táo mỗi sáng với yến mạch và sáu quả hạch, và {thinkingA}lúc đó không đủ. {happyA}Nhưng anh biết không? Có.
+[pickup 2] {happyA}Chúa ơi, tôi thường ăn một quả táo mỗi sáng với một ít granola và sáu quả hạnh nhân, và {thinkingA}lúc đó thì cũng không đủ. {happyA}Nhưng giờ anh biết sao không? Cảm ơn.
 7) LEE
 [pickup 2] [giving some junk food]{normalC}Đây.
 8) LEE
-[pickup 2] {fearA}Chúng ta nên làm gì với thằng nhóc?
+[pickup 2] {fearA}Chúng ta nên làm gì với bọn nhỏ đây?
 40) 
-Chúng ta nên làm gì với thằng nhóc?
+Chúng ta nên làm gì với bọn nhỏ đây?
 9) LEE
-[pickup 2] {sadA}Xin lỗi tôi đã hết đồ ăn trước khi có thể cho cô một chút.
+[pickup 2] {sadA}Xin lỗi đã hết mất thức ăn trước khi tôi có thể cho cô một chút.
 10) CARLEY
-[pickup 2]{normalB}Này, đừng cảm thấy tồi vậy. {disgustA}Tôi thà đói chết hơn là ăn những thứ đó. Ngoài ra, {happyA}anh đã làm cho tôi nhiều rồi.
+[pickup 2]{normalB}Này, đừng cảm thấy tệ gì cả. {disgustA}Tôi thà chết đói hơn là ăn hầu hết những thứ đó. Ngoài ra, {happyA}anh đã làm cho tôi nhiều rồi.
 11) LEE
-[pickup2][sean edit] {thinkingA}Có ngủ tốt hơn không?
+[pickup2][sean edit] {thinkingA}Có ngủ ngon hơn chút nào không?
 12) LEE
-[pickup2] [sean edit] {fearA}Cửa hàng thuốc? [as in "still? you still having nightmares about what happened at the drugstore?]
+[pickup2] [sean edit] {fearA}Về chuyện ở tiệm thuốc à? [as in "still? you still having nightmares about what happened at the drugstore?]
 13) CARLEY
-[pickup2][sean edit] {sadA}Không. Tôi biết ta nên biết ơn hơn khi có giường, nhưng, không. {sadB}Tôi không.
+[pickup2][sean edit] {sadA}Không. Tôi biết chúng ta nên biết ơn vì có giường để ngủ, nhưng, không. {sadB}Không ổn hơn.
 14) CARLEY
 [pickup2][sean edit] {sadB}Ừ.
 15) CARLEY
-[pickup2]{thinkingA}Nếu nó phụ thuộc vào tôi, tôi sẽ để cho thằng nhóc ở lại một thời gian, để xem nó có chứng tỏ có lợi.  {angryA}Nhưng đó lại phụ thuộc vào Lilly.  {thinkingA}Và qua việc cô ấy quản lý đồ ăn, tôi không muốn cô ấy rơi vào mặt xấu.
+[pickup2]{thinkingA}Nếu là tôi, tôi sẽ để cậu ta ở lại một thời gian, xem thử cậu ta có ích không.  {angryA}Nhưng nó tùy vào Lilly.  {thinkingA}Và với việc cô ấy đang quản phần ăn, tôi không muốn ở phía đối đầu với cô ấy đâu.
 16) 
-Có ngủ tốt hơn không?
+Có ngủ ngon hơn chút nào không?
 17) CARLEY
-{disgustA}Tôi muốn anh có được cái này, được không? Phòng trường hợp anh hoặc Clementine cảm thấy yếu.
+{disgustA}Tôi muốn anh giữ nó, được chứ? Phòng trường hợp anh hay Clementine bắt đầu cảm thấy yếu hơn.
 18) CARLEY
-{thinkingA}Anh nhìn như cứt vậy, Lee. Lần cuối anh ăn là lúc nào vậy?
+{thinkingA}Anh trông khá tệ đấy, Lee. Lần cuối anh ăn là khi nào vậy?
 19) LEE
-[Don't worry about me]{sadA}Tôi không sao.
+[Don't worry about me]{sadA}Tôi ổn.
 20) LEE
-{sadA}Cô không nợ tôi gì, Carley.
+{sadA}Cô không nợ tôi gì cả, Carley.
 21) 
-Nói với
+Nói chuyện
 22) 
-Đưa đồ ăn cho
+Đưa thức ăn
 23) CARLEY
-[pickup3][Thanking Lee for saving him 3 months ago]Tôi biết mọi chuyện đã xảy ra rất nhanh khi ở hiệu thuốc... Và cứu tôi có lẽ là một phản ứng hơn là một lựa chọn, nhưng...
+[pickup3][Thanking Lee for saving him 3 months ago]Tôi biết chuyện đã xảy ra quá nhanh chỗ tiệm thuốc... Và có lẽ việc cứu tôi là một phản ứng hơn là sự lựa chọn, nhưng...
 24) CARLEY
-[pickup3][Thanking Lee for saving him 3 months ago]Nghe này, anh nói rằng anh cứu tôi bởi vì tôi cần sự trợ giúp.  Thì, đây là tôi nghĩ rằng anh và Clementine có thể cũng cần sự giúp đỡ của ôi.
+[pickup3][Thanking Lee for saving him 3 months ago]Nghe này, anh đã nói anh cứu tôi vì nghĩ rằng tôi cần giúp đỡ.  Vậy đây, lần này thì tôi nghĩ rằng anh và Clementine cũng cần sự giúp đỡ.
 25) CARLEY
-[pickup3][Thanking Lee for saving him 3 months ago]Tôi biết rằng anh đã nói anh muốn cứu cả tôi và Doug... nhưng anh đã chọn tôi trước.  Và tôi - tôi chỉ...
+[pickup3][Thanking Lee for saving him 3 months ago]Tôi biết anh nói muốn cứu cả tôi và Doug... nhưng anh đã chọn tôi trước.  Và tôi - tôi chỉ...
 26) CARLEY
-[pickup3][Thanking Lee for saving him 3 months ago]Tôi biết tôi nói rằng nó không quan trọng tại sao anh lại cứu tôi thay vì Doug, nhưng...
+[pickup3][Thanking Lee for saving him 3 months ago]Tôi biết mình đã nói không quan trọng tại sao anh lại cứu tôi thay vì Doug, nhưng...
 27) CARLEY
-[pickup3][sean edit] Tôi ư? Vậy còn anh?
+[pickup3][sean edit] Tôi Ư? Còn anh thì sao?
 28) LEE
-Muốn gì ăn không?
+Muốn gì đó để ăn không?
 52) LEE
-Muốn gì ăn không?
+Muốn gì đó để ăn không?
 29) 
-Tôi hết đồ ăn rồi
+Tôi hết thức ăn rồi
 30) 
-Muốn đồ ăn không? [Give Food]
+Muốn chút đồ ăn không? [Đưa Thức Ăn]
 31) LEE
-[pickup3][knowing there is only one more piece of food left]Hm.  Tôi có nên giữ cái này cho bản thân không?
+[pickup3][knowing there is only one more piece of food left]Hm.  Có lẽ mình nên giữ nó cho bản thân?
 32) LEE
-[pickup3][to himself - depressed, having only 1 piece of food left]Một miếng đồ ăn nữa để cho đi, rồi nó sẽ hết trong ngày hôm nay.
+[pickup3][to himself - depressed, having only 1 piece of food left]Một miếng thức ăn nữa để chia, sau đó là hết phần cho hôm nay.
 34) LEE
-[pickup3][to himself - keeping the last bit of food for himself]Tôi cần phải sức khoẻ của tôi nữa.
+[pickup3][to himself - keeping the last bit of food for himself]Mình cũng cần duy trì sức lực nữa.
 36) LEE
-[pickup3][to himself - choosing to save the food for someone else]Không.  Một số người đã trải qua nhiều hơn tôi mà không có đồ ăn.  Họ là những người cần nó.
+[pickup3][to himself - choosing to save the food for someone else]Thôi.  Một vài người đã nhịn đói còn lâu hơn cả mình nữa.  Họ mới là người cần nó.
 37) LEE
-[pickup3]Lilly muốn tôi giao đồ ăn.
+[pickup3]Lilly bảo tôi đi chia thức ăn.
 38) CARLEY
-[pickup3]Ugh.  Đó không phải là một việc dễ.
+[pickup3]Ugh.  Việc đó thì không dễ đâu.
 39) LEE
-[pickup3] Nó không.  Tôi sẽ không thể cho tất cả mọi người đồ ăn.  Tôi nên làm gì?
+[pickup3] Không dễ chút nào.  Tôi sẽ không thể chia đủ cho mọi người được.  Tôi nên làm gì đây?
 41) 
-Tôi đang cho đồ ăn, tôi nên làm gì?
+Lilly bảo tôi đi chia thức ăn, tôi nên làm gì đây?
 42) LEE
 [pickup3]Cảm ơn Carley.
 43) LEE
-[pickup3]Vậy còn cô?  Cô cũng cần đồ ăn mà.
+[pickup3]Còn cô thì sao?  Cô cũng cần thức ăn mà.
 44) CARLEY
-[pickup3]TẤT CẢ chúng ta cần đồ ăn.  Tôi không thể bảo anh phải làm theo. Nhưng bất cứ điều gì xảy ra, Tôi biết rằng anh sẽ cố làm một điều đúng đắn.
+[pickup3]TẤT CẢ chúng ta đều cần thức ăn.  Tôi không thể bảo anh làm gì được. Nhưng dù có gì xảy ra đi nữa, tôi biết anh sẽ luôn cố làm điều đúng đắn nhất.
 45) CARLEY
-[pickup3]Thì, nếu anh muốn tốt với Lilly, tôi sẽ chắc chắc rằng Larry sẽ có một chút đồ ăn, kể cả ông ấy thi thoảng là một thằng khốn thực sự.
+[pickup3]Thì, nếu anh hòa thuận với Lilly, tôi đảm bảo Larry sẽ kiếm được chút thức ăn thôi, mặc dù đôi khi gã đó đúng là một tên khốn thật sự.
 46) CARLEY
-[pickup3]Mặt khác, đưa đồ ăn cho Kenny và gia đình anh ấy có thể khiến nhớ tới anh nếu anh ấy quyết định rời đi trên chiếc RV một ngày nào đó.
+[pickup3]Về mặt khác thì, đưa số thức ăn đó cho gia đình Kenny có thể sẽ khiến cho anh ta nhớ đến anh nếu anh ta có quyết định rời đi với chiếc RV một ngày nào đó.
 48) LEE
-Sẽ quay lại trong chốc lát.
+Tôi sẽ trở lại sau.
 49) 
 Ya regreso.
 50) LEE
-Tôi sẽ quay lại trong chốc lát.
+Tôi sẽ trở lại sau.
 51) LEE
-Tôi sẽ quay lại trong chốc lát.
+Tôi sẽ trở lại sau.
