@@ -43,13 +43,13 @@ Nếu anh cần nói chuyện...
 312647761) KENNY
 {sadA}Okay.
 312647739) KENNY
-{sadA}I'm sure [hard swallow, you haven't said your dead wife's name much] {sadC}Kat would be uh... {sadA}okay with you. So, forget it.
+{sadA}Tôi chắc rằng [hard swallow, you haven't said your dead wife's name much] {sadC}Kat sẽ uh... {sadA}ổn với anh. Nên, quên đi.
 312647740) KENNY
-[di] {sadB}It doesn't matter a lick to me. Fuck. Just gotta move forward.
+[di] {sadB}Nó không quan trọng một chút nào đối với tôi. Địt. Chỉ cần tiến lên phía trước.
 312647741) LEE
-{sadB}I'll talk to you later, Kenny. [kat/duck dead]
+{sadB}Tôi sẽ nói chuyện với anh sau, Kenny. [kat/duck dead]
 312647742) LEE
-{thinkingA}Let me know if we're getting close or you see anything.
+{thinkingA}Để tôi biết nếu chúng ta tới gần hoặc anh sẽ không thấy gì me know if we're getting close or you see anything.
 312647743) LEE
 {sadB}Ken--
 312647744) LEE
