@@ -1,263 +1,263 @@
 1) LILLY
-[pickup2] Lee, oh my god, I'm so sorry about Mark. Are you okay?
+[pickup2] Lee, ôi trời, tôi rất tiếc về Mark. Anh ổn chứ?
 2) LEE
-[pickup2]As good as I can be, I guess.
+[pickup2]Ổn nhất có thể, tôi đoán vậy.
 3) LILLY
-[pickup2]{sadA}Lee, oh my god, I'm so glad you two didn't get killed out there. Do you think Mark will be okay?
+[pickup2]{sadA}Lee, ôi trời, thật mừng khi hai anh không bị giết ở ngoài đó. Anh nghĩ Mark sẽ ổn chứ?
 4) LEE
-[pickup2]{sadA}Wish I knew. {normalA}But I think he's in good hands now.
+[pickup2]{sadA}Ước gì tôi biết được. {normalA}Nhưng giờ tôi nghĩ anh ấy đang được chăm sóc tốt.
 5) LILLY
-[pickup2] [sighs, frustrated]{thinkingA}How {angryA}could you all bring us to this place?
+[pickup2] [sighs, frustrated]{thinkingA}Sao {angryA}các anh lại mang bọn tôi đến đây chứ?
 6) LEE
-[pickup2]{thinkingA}I take it you and Kenny didn't exactly make up on the way here.
+[pickup2]{thinkingA}Tôi thấy là cô và Kenny đã không làm lành với nhau trên đường tới đây.
 7) LILLY
-[pickup2]It's just... this really sucks, you know?
+[pickup2]Chỉ là... chuyện này thật tệ, anh biết chứ?
 8) LEE
-[pickup2]We're just going to have to do our best.
+[pickup2]Chúng ta sẽ phải làm hết sức thôi.
 9) LEE
-[pickup2] Are YOU okay, Lilly?
+[pickup2] Còn CÔ có ổn không, Lilly?
 10) LILLY
-[pickup2] It's just hard to see anyone from our group not make it. I keep hoping we're going to all come out of this thing alive.
+[pickup2] Thật khó để thấy bất cứ ai trong nhóm chúng ta không vượt qua được. Tôi cứ hy vọng tất cả chúng ta sẽ sống sót thoát ra khỏi chuyện này.
 11) LILLY
-[pickup2] I really do appreciate you asking. It's just...
+[pickup2] Tôi rất cảm kích vì anh đã hỏi. Chỉ là...
 12) LEE
-[pickup2]It seemed like you and Mark were getting pretty close, huh?
+[pickup2]Có vẻ như anh và Mark đã khá thân thiết, nhỉ?
 13) LEE
-[pickup2] I know. And maybe we will.
+[pickup2] Tôi biết. Và có lẽ chúng ta có thể.
 14) LILLY
-[pickup2] Mark is... or was... a decent guy. It's just hard losing anybody in the group, you know? Like I keep hoping we're all going to somehow come out of this together.
+[pickup2] Mark là... hoặc từng là... một anh chàng tốt. Thật khó chịu khi để mất bất kỳ ai trong nhóm, anh biết chứ? Giống như tôi luôn hy vọng tất cả chúng ta bằng cách nào đó sẽ cùng nhau thoát ra khỏi chuyện này.
 15) LARRY
-[pickup2]{normalA}He'll be fine. {happyA}I've seen guys go through worse.
+[pickup2]{normalA}Cậu ta sẽ ổn thôi. {happyA}Bố đã thấy những người còn tệ hơn nữa cơ.
 16) LILLY
-[pickup2]{normalA}Yeah? It's not too bad?
+[pickup2]{normalA}Vậy à? Không quá tệ ư?
 17) LILLY
-[pickup2] [emotional]Oh God... poor Mark.
+[pickup2] [emotional]Ôi Chúa ơi... tội nghiệp Mark.
 18) LEE
-[pickup2][sad]Mark getting shot like he did... that was pretty fucked up.
+[pickup2][sad]Mark bị bắn như anh ấy đã làm... điều đó thật tồi tệ.
 19) LILLY
-[pickup2]{thinkingA}I tried seeing things from his point of view, having a wife and kid and everything. {angryA} But gambling with your family's life is pretty stupid, if you ask me.
+[pickup2]{thinkingA}Tôi đã thử nhìn nhận mọi chuyện qua góc nhìn của anh ta, có một người vợ, đứa con và mọi thứ. {angryA} Nhưng mạo hiểm mạng sống của gia đình mình thì khá là ngu ngốc, nếu anh hỏi tôi.
 20) LEE
-[pickup2] {normalA}How do you feel about leaving the motor inn?
+[pickup2] {normalA}Cô cảm thấy thế nào khi rời khỏi chỗ nhà trọ?
 126) 
-How do you feel about leaving the motor inn?
+Cảm thấy thế nào khi rời khỏi chỗ nhà trọ?
 21) LILLY
-[pickup2][cold] If we hadn't, Mark would be alive.
+[pickup2][cold] Nếu chúng ta không đi, thì Mark vẫn sẽ còn sống.
 22) LILLY
-[pickup2] [stern]{angrya}Ugh, If we'd just stayed where we were,{thinkingA}then Mark wouldn't have ended up with an arrow in his shoulder.
+[pickup2] [stern]{angrya}Tôi không biết nữa, nếu chúng ta chịu ở lại chỗ cũ,{thinkingA}thì Mark đã không bị một mũi tên găm vào vai.
 23) LEE
-[pickup2]{normalA}Think our little arrangement with them was a good idea?
+[pickup2]{normalA}Cô có nghĩ rằng thỏa thuận nhỏ của chúng ta với họ là ý hay không?
 24) LARRY
-[pickup2]{angryA}A little late to be asking that question now, don't ya think?
+[pickup2]{angryA}Hơi muộn để hỏi câu đó rồi đấy, cậu không nghĩ thế à?
 25) LILLY
-[pickup2]Let's just wait for dinner, load up as much food as they're willing to give, and hit the road.
+[pickup2]Hãy đợi đến bữa tối, mang theo bấy nhiêu thức ăn mà họ sẵn sàng cho, và lên đường thôi.
 26) LILLY
-[pickup2]{thinkingA}Let's just wait for dinner, and then if Mark is feeling up to it, we leave. I don't want to push our luck here.
+[pickup2]{thinkingA}Hãy cứ đợi đến bữa tối đã, và nếu Mark cảm thấy ổn, thì chúng ta rời đi. Tôi không muốn thử may mắn của ta ở đây.
 27) LEE
-[pickup2] {thinkingA} I'm going to go check things out.
+[pickup2] {thinkingA} Tôi đi kiểm tra xem mọi chuyện như nào đây.
 28) LILLY
-[pickup2] Lee! What happened at the camp? Did you find any more of those guys that killed Mark?!
+[pickup2] Lee! Chuyện chỗ trại sao rồi? Anh có tìm ra thêm những tên đã giết Mark không?!
 29) LILLY
-[pickup2] {normalA} Lee! {sadA}What happened at the camp? Did you find any more of those guys that hurt Mark?
+[pickup2] {normalA} Lee! {sadA}Chuyện chỗ trại sao rồi? Anh có tìm ra thêm những tên đã làm Mark bị thương không?
 30) LEE
-[pickup2] {thinkingA} Nothing happened.
+[pickup2] {thinkingA} Không có gì xảy ra cả.
 131) 
-Nothing happened.
+Không có gì xảy ra cả.
 31) LILLY
-[pickup2]{thinkingA}Really? nothing at all?
+[pickup2]{thinkingA}Thật ư? Không một thứ gì ư?
 32) LEE
-[pickup2] {normalA}We found a tent and some boxes. {sadA}Nothing really that useful.
+[pickup2] {normalA}Bọn tôi có tìm thấy chiếc lều và vài chiếc hộp. {sadA}Cũng không có gì hữu dụng.
 33) LILLY
-[pickup2] [sighs] {fearA}Seriously? {angryA}No food?
+[pickup2] [sighs] {fearA}Thật đấy à? {angryA}Không có thức ăn luôn?
 34) LEE
-[pickup2] {sadA}We found a woman in the woods. {normalA}She was talking all crazy with a crossbow pointed right at my head... {sadB}so I had to kill her.
+[pickup2] {sadA}Bọn tôi tìm thấy một người phụ nữ trong rừng. {normalA}Cô ta nói những lời khùng điên cùng với một cây nỏ chĩa vào đầu tôi... {sadB}vậy nên tôi phải giết cô ta.
 .
 35) LEE
-[pickup2] {normalA}That's what I said.
+[pickup2] {normalA}Đó là điều tôi đã nói.
 36) LARRY
-[pickup2] {surprisedA}Jesus Christ. {angryA}Did you at least find some goddamn food?
+[pickup2] {surprisedA}Ôi Chúa ơi. {angryA}Ít nhất anh có tìm thấy chút thức ăn nào không?
 37) LILLY
-[pickup2] {sadA}I don't like this, Lee.{angryA} I still say we should go back to the Motor Inn where we at least know what to expect.
+[pickup2] {sadA}Tôi không thích chuyện này, Lee.{angryA} Tôi vẫn nghĩ chúng ta nên quay lại chỗ nhà nghỉ, nơi mà ít nhất chúng ta biết được những gì sẽ xảy ra.
 38) LILLY
-[pickup2] {fearB}Holy shit. {sadA}Was she one of those bandits?
+[pickup2] {fearB}Ôi đệt. {sadA}Cô ta có phải một tên thuộc bọn cướp không?
 39) LEE
-[pickup2] {thinkingA}I don't know. {normalA}I think she was trying to tell me something, {sadA}but then he just went off.
+[pickup2] {thinkingA}Tôi không biết nữa. {normalA}Tôi nghĩ cô ta đã cố nói với tôi gì đó, {sadA}nhưng rồi anh ta lại nổ súng.
 40) LEE
-[pickup2] {sadA}We found a woman in the woods.{normalA} She was talking all crazy and had a crossbow... {sadb}so Danny killed her.
+[pickup2] {sadA}Bọn tôi tìm thấy một người phụ nữ trong rừng.{normalA} Cô ta nói những lời khùng điên và trên tay thì cầm một cây nỏ... {sadb}nên Danny đã giết cô ta.
 41) LILLY
-[pickup2] [frustrated]{angryB}God dammit, Lee, stop trying to keep us out of the loop. {angryA}Coming here was a mistake, I know that. {angryb}But keeping things to yourself isn't exactly going to help the situation.
+[pickup2] [frustrated]{angryB}Đệt mẹ nó, Lee, ngừng giữ chúng ta trong vòng lặp đi. {angryA}Tới đây là một sai lầm, tôi biết. {angryb}Nhưng giữ kín mọi thứ sẽ không giúp ích gì cho tình hình cả.
 42) LEE
-[pickup2]{THinkingA}Do you get the feeling something's going on here?
+[pickup2]{THinkingA}Cô có cảm thấy có chuyện gì đó đang diễn ra ở đây không?
 128) 
-Do you get the feeling something's going on here?
+Cô có cảm thấy có chuyện gì đó đang diễn ra ở đây không?
 43) LILLY
-[pickup2] {angryA}What's going on, Lee?{sadA} Did something happen?
+[pickup2] {angryA}Sao thế, Lee?{sadA} Chuyện gì đã xảy ra à?
 44) 
-There's something odd with the barn.
+Có gì đó kỳ lạ với cái chuồng.
 45) 
-Kenny thinks they're hiding something.
+Kenny nghĩ rằng họ đang che dấu gì đó.
 46) 
-Everything is fine.
+Mọi chuyện ổn cả.
 47) LEE
-[pickup2] {thinkingA}There may be something going on with that barn.
+[pickup2] {thinkingA}Có lẽ có gì đó ở chỗ cái chuồng.
 48) LILLY
-[pickup2]{angryA}If you want to go in there and start rooting through other people's shit, then get to it. {normalA}But if it's up to me, we should just take our food and go.
+[pickup2]{angryA}Nếu anh muốn vào đó và bắt đầu đào bới đồ của người ta, thì cứ việc. {normalA}Nhưng nếu hỏi tôi, thì tôi nghĩ ta nên lấy thức ăn của mình và đi thôi.
 49) LEE
-[pickup2] {angryA}And what exactly do think I'm supposed to do about it?
+[pickup2] {angryA}Và chính xác thì cô nghĩ tôi nên làm gì với nó?
 50) LEE
-[pickup2] {thinkingA}Kenny thinks they're hiding something.{normalA} I'm not sure what exactly, but we're starting to get a feeling about this place.
+[pickup2] {thinkingA}Kenny nghĩ rằng họ đang che dấu gì đó.{normalA} Tôi không chắc là gì, nhưng bọn tôi đang bắt đầu có linh cảm xấu về nơi này.
 51) LILLY
-[pickup2] {angryA}Look, after what happened to Mark and finding that crazy woman at the campsite, I think it's obvious that we need to get the hell out of here. {fearA}And soon.
+[pickup2] {angryA}Nghe này, sau chuyện đã xảy ra với Mark và việc tìm thấy người phụ nữ điên ở trại, tôi nghĩ rõ ràng là chúng ta cần phải biến khỏi đây rồi. {fearA}Càng sớm càng tốt.
 52) LILLY
-[pickup2] {angrya}Look, after what happened to Mark and that crazy woman at the campsite trying to tell you something, I think it's obvious that we need to get the hell out of here. {fearA}And soon.
+[pickup2] {angrya}Nghe này, sau chuyện đã xảy ra với Mark và việc người phụ nữ điên ở trại cố nói với anh điều gì đó, tôi nghĩ rõ ràng là chúng ta cần phải biến khỏi đây rồi. {fearA}Càng sớm càng tốt.
 53) LEE
-[pickup2] {normalA}It's nothing. Everything is fine.
+[pickup2] {normalA}Không có gì cả. Mọi chuyện đều ổn.
 54) LARRY
-[pickup2] {disgustA} Bullshit.
+[pickup2] {disgustA} Nhảm nhí.
 55) LILLY
-[pickup2] {angryA}You're keeping something to yourself, Lee. And by the time you come clean, it's gonna be too late. We need to start thinking about getting the hell out of here.
+[pickup2] {angryA}Anh đang dấu điều gì đó, Lee. Và khi anh có thể nói sạch ra thì đã quá muộn. Chúng ta cần phải bắt đầu suy nghĩ về việc biến khỏi đây.
 56) LEE
-[pickup2] {thinkingA}After what Kenny told me, I'm starting to think they may be hiding something.
+[pickup2] {thinkingA}Sau những gì Kenny nói với tôi, tôi đang bắt đầu nghĩ rằng họ đang che dấu điều gì đó.
 57) LEE
-[pickup2]{normalA} Hey.
+[pickup2]{normalA} Này.
 58) LILLY
-[pickup2] {thinkingA} These backwoods people always give me the creeps.
+[pickup2] {thinkingA} Những người sống trong rừng này luông mang đến cảm giác rùng rợn cho tôi.
 59) LILLY
-[pickup2] {normalA}I'm telling you, Lee. The longer we stay here, {angryA}the more trouble we're getting ourselves into.
+[pickup2] {normalA}Tôi nói anh này, Lee. Chúng ta càng ở đây lâu, {angryA}thì sẽ có càng nhiều rắc rối vướng vào chúng ta.
 60) LARRY
-[pickup2] {happya}It's a welcome change of scenery.
+[pickup2] {happya}Là một sự thay đổi cảnh quan khá tốt.
 61) LILLY
-[pickup2]{angryA}Dad's right.
+[pickup2]{angryA}Bố nói đúng.
 62) LILLY
-[pickup2]{angryA}You two are just asking for trouble. {thinkingA}But if you insist on wandering around, {sadA}I'd be careful, Lee.
+[pickup2]{angryA}Hai người chỉ đang kiếm rắc rối thôi. {thinkingA}Nhưng nếu anh khăng khăng muốn tìm hiểu xung quanh, {sadA}thì nên cẩn thận đấy, Lee.
 63) LARRY
-[pickup2]{angryA}Yeah, and we don't need you pokin' your nose where it don't belong and getting us thrown out on our asses.
+[pickup2]{angryA}Phải, và chúng ta cũng không cần cậu chỏ mũi mình vào chuyện không cần thiết và khiến tất cả bị ném ra ngoài trong lọ tro cốt đâu.
 64) LILLY
-[pickup2]{normalA}Just don't get too nosy. These kinds of people are usually pretty protective of their privacy.
+[pickup2]{normalA}Đừng quá tọc mạch đấy. Những người như này thường khá là bảo vệ riêng tư của họ.
 65) LILLY
-[pickup2] {sadA} Watch yourself, Lee.
+[pickup2] {sadA} Cẩn thận đấy, Lee.
 66) LILLY
-[pickup2] Whatever you do, just be careful.
+[pickup2] Dù anh có làm gì, hãy cẩn thận.
 67) LILLY
-[pickup2] {angrya} I knew it. It was a mistake coming here.
+[pickup2] {angrya} Tôi biết mà. Đúng là sai lầm khi tới đây.
 68) LARRY
-[pickup2] {angrya}Jesus.
+[pickup2] {angrya}Chúa ơi.
 69) LEE
-[pickup2]{sadA}It's... nothing. {normalD}Don't worry about it. {thinkingA}Paranoia's just gettin' to me a little bit.
+[pickup2]{sadA}Ờmm... không có gì đâu. {normalD}Đừng lo về nó. {thinkingA}Chắc tôi đang nghĩ quá nhiều thôi.
 70) LILLY
-[pickup2]{thinkingA} What makes you say that? {angrya}What exactly happened at the camp?
+[pickup2]{thinkingA} Điều gì khiến anh nói thế? {angrya}Chính xác thì chuyện gì đã xảy ra ở trại vậy?
 71) LEE
-[pickup2]I mean, it really seemed like that woman was about to tell me something about this place before Danny shot her.
+[pickup2]Ý tôi là, có vẻ như người phụ nữ đó sắp nói với tôi điều gì đó về nơi này trước khi Danny bắn cô ta.
 72) LILLY
-[pickup2] {sadA} I know what you mean.
+[pickup2] {sadA} Tôi biết ý anh là gì.
 73) LILLY
-[pickup2] No, I'm with Lee on this. There's something not right about this place.
+[pickup2] Không, con đồng ý với Lee về việc này. Có gì đó không đúng về nơi này.
 74) LEE
-[pickup2] {sadA}No. Nothing
+[pickup2] {sadA}Không. Không gì cả.
 75) LARRY
-[pickup2]You just told us you killed a woman, for Christ's sake. Yeah, I'd definitely say there's a lot going on.
+[pickup2]Cậu vừa nói với bọn ta rằng đã giết một phụ nữ, Chúa ơi. Phải, ta chắc chắn sẽ nói rằng có rất nhiều thứ đang xảy ra.
 76) LEE
-[pickup2] So Larry, it looks like you're getting along with Brenda pretty well.
+[pickup2] Vậy Larry, có vẻ như ông đang khá thân với Brenda nhỉ.
 77) LARRY
-[pickup2] You know, for a nice change of pace, how about you try minding your own fucking business?
+[pickup2] Cậu biết không, để thay đổi nhịp độ thì, sao cậu không thử để quan tâm đến việc của mình ấy.
 78) LEE
-[pickup2] {thinkingA}What were you and Kenny arguing about when I came back from the camp?
+[pickup2] {thinkingA}Cô và Kenny đã cãi nhau về chuyện gì lúc tôi trở lại từ chỗ trại vậy?
 79) LILLY
-[pickup2]{angryA}He's losing it, Lee. {thinkingA}He comes over and starts talking about searching the barn and that these people are hiding something--
+[pickup2]{angryA}Anh ta mất đi kiên nhẫn rồi, Lee. {thinkingA}Anh ta đã đến và bắt đầu nói về chuyện lục soát chuồng gia súc và còn bảo rằng những người này đang dấu diếm gì đó--
 80) LARRY
-[pickup2]{angrya}But you told him to mind his own goddamn business, right? We are guests here, and we don't need to be overstaying our welcome more than we already are.
+[pickup2]{angrya}Nhưng rồi con bảo hắn ta đi mà lo cmn chuyện của mình đi, đúng chứ? Chúng ta là khách ở đây, và chúng ta không cần phải vượt quá xa sự hiếu khách của họ lên hơn với mức mà ta đang nhận được nữa.
 81) LILLY
-[pickup2]{thinkingA}The way I see it, we need to just skip the dinner and get our food to go. {angryA} But I'm starting to think your {angryb}friend {angryA}over there has another agenda.
+[pickup2]{thinkingA}Theo như tôi thấy, chúng ta chỉ cần bỏ qua bữa tối và nhận lấy thức ăn của ta xong rời đi thôi. {angryA} Nhưng tôi đang bắt đầu nghĩ người {angryb}bạn {angryA}đó của anh đang có ý định khác.
 82) LEE
-[pickup2]I don't know, maybe we SHOULD go have a look in that barn.
+[pickup2]Tôi không biết nữa, có lẽ ta NÊN ngó qua thử cái chuồng đó.
 83) LARRY
-[pickup2] Yeah, we don't wanna fuck this whole thing up.
+[pickup2] Phải, chúng ta đâu muốn làm hỏng toàn bộ chuyện này chứ.
 84) LARRY
-[pickup2] Come on now, we don't wanna be rude.
+[pickup2] Thôi nào, chúng ta đâu muốn thô lỗ chứ.
 85) LILLY
-[pickup2]{angrya}If you ask me, we should just get our dinner and leave.
+[pickup2]{angrya}Nếu anh hỏi tôi, thì tôi nghĩ ta nên ăn bữa tối và rời đi thôi.
 86) LARRY
-[pickup2]{sadA}Now, now, let's not be hasty.
+[pickup2]{sadA}Nào, nào, chớ có vội vàng quá.
 87) 
-I take it you and Kenny haven't made up.
+Tôi thấy cô và Kenny đã không làm lành với nhau.
 88) 
-What were you and Kenny arguing over?
+Cô và Kenny đã cãi nhau về chuyện gì?
 89) 
-I shot a woman.
+Tôi đã bắn một người phụ nữ.
 90) 
-Danny shot someone.
+Danny đã bắn một người.
 91) 
-About your dad...
+về bố cô...
 92) LILLY
-[pickup3][casual - responsind to Lee asking to talk in private] {normalA}Okay.
+[pickup3][casual - responsind to Lee asking to talk in private] {normalA}Được thôi.
 123) 
-[pickup3][casual - responsind to Lee asking to talk in private] Okay.
+[pickup3][casual - responsind to Lee asking to talk in private] Được thôi.
 125) 
-[pickup3][casual - responsind to Lee asking to talk in private] Okay.
+[pickup3][casual - responsind to Lee asking to talk in private] Được thôi.
 93) LEE
-[pickup3][wanting to talk to lilly privately about Larry, but he's nearby] {thinkingA}Hey, ah, {normalA}can I talk to you in private for a second?
+[pickup3][wanting to talk to lilly privately about Larry, but he's nearby] {thinkingA}Này, à, {normalA}tôi có thể nói chuyện riêng với cô một chút chứ?
 94) LILLY
-[pickup2]Yeah, well, don't expect that to change.  That's just how he is.
+[pickup2]Ừ, chà, đừng mong rằng điều đó sẽ thay đổi.  Ông ấy là như thế đấy.
 120) LILLY
-[pickup2]Yeah, well, don't expect that to change.  That's just how he is.
+[pickup2]Ừ, chà, đừng mong rằng điều đó sẽ thay đổi.  Ông ấy là như thế đấy.
 95) LEE
-[pickup2]It's been three months, your dad still treats me like I'm some kind of asshole.
+[pickup2]Đã ba tháng rồi, bố cô vẫn cứ cư xử với tôi cứ như tôi là tên khốn nào đó vậy.
 121) LEE
-[pickup2]It's been three months, your dad still treats me like I'm some kind of asshole.
+[pickup2]Đã ba tháng rồi, bố cô vẫn cứ cư xử với tôi cứ như tôi là tên khốn nào đó vậy.
 96) 
-So he's the asshole.
+Vậy ra ông ta là tên khốn.
 97) LEE
-[pickup2]So HE'S the asshole.
+[pickup2]Vậy ra ÔNG TA là tên khốn.
 98) 
-Does he treat you like that too?
+Ông ta cũng đối xử với cô như vậy à?
 99) LEE
-[pickup2]Does he treat you like that too?
+[pickup2]Ông ta cũng đối xử với cô như vậy à?
 100) 
-How do you put up with him?
+Sao cô có thể chịu đựng được ông ta vậy?
 101) LEE
-[pickup2]How do you put up with him?
+[pickup2]Sao cô có thể chịu đựng được ông ta vậy?
 102) LILLY
-{angryA}All he's got left in the world is me.  {sadA}And that goes both ways.  {disgustA}So, yeah, he's probably gonna keep treating you like crap, but that's just because he still has one thing left to care about.
+{angryA}Tất cả những gì ông còn lại ở thế giới này là tôi.  {sadA}Và nó cũng đi theo cả 2 hướng.  {disgustA}Vậy nên, ừ, ông ấy có thể tiếp tục đối xử với anh như vậy, nhưng đó là bởi vì ông ấy vẫn còn lại một thứ để quan tâm.
 103) LILLY
-{angryA}Look. My dad can be an ass sometimes, I know that.  {normalB}But he's not a bad guy.  He just... {sadA}He's got a lot of pain.
+{angryA}Nghe này. Tính bố tôi đôi khi có thể hơi khó chịu chút, tôi thừa biết.  {normalB}Nhưng ông ấy không phải là người xấu.  Ông ấy chỉ là... {sadA}có quá nhiều nỗi đau thôi.
 104) LILLY
-{sadA}He's been through so much.  And lost... {sadB}pretty much everything.  {normalB}And it's hardened him, ya know?  {thinkingA}Yeah, he's bitter and hateful, but that's all just to protect himself. And me.
+{sadA}Ông ấy đã trải qua quá nhiều chuyện.  Và mất đi... {sadB}khá là nhiều thứ.  {normalB}Và nó khiến trái tim ông đông cứng lại, anh biết chứ?  {thinkingA}Ừ thì, ông ấy có hơi cục súc và đáng ghét chút, nhưng tất cả là chỉ để bảo vệ bản thân ông. Và cả tôi nữa.
 105) LILLY
-{angryA}So don't judge him.  And don't judge me for sticking by him.  {sadA}He's my dad, and I love him.
+{angryA}Vậy nên đừng phán xét ông ấy nữa.  Và cũng đừng phán xét cả tôi vì luôn cạnh bên ông.  {sadA}Ông ấy là bố tôi, và tôi yêu ông ấy.
 106) LILLY
-[pickup3][follows:310583317 ]{angryA}Lee, I know you Kenny are friends, {normalA}but you recognize that he's not the right person to lead this group, {sadA}don't you?
+[pickup3][follows:310583317 ]{angryA}Lee, tôi biết anh và Kenny là bạn, {normalA}nhưng anh nhận ra rằng anh ta không phải người thích hợp lãnh đạo nhóm này, {sadA}đúng chứ?
 107) LILLY
-[pickup3]{happyA}Hey, thanks for backing me up this morning at the motel.  {thinkingA}I know I came down on you guys pretty hard, {normalA}but you do agree with the way I'm running things, right?
+[pickup3]{happyA}Này, cảm ơn đã nói đỡ cho tôi lúc sáng ở nhà nghỉ.  {thinkingA}Tôi biết mình đã nói lời khó khăn với các anh, {normalA}nhưng anh đồng ý với cách mà tôi điều hành mọi thứ, phải chứ?
 108) 
-You're a good leader.
+Cô là một người lãnh đạo tốt.
 109) 
-Kenny believes there is still hope.
+Kenny tin rằng vẫn còn hy vọng.
 110) 
-I don't know.
+Tôi không biết.
 111) LEE
-[pickup3]{happyA}You're a good leader, Lilly. {sadA}Kenny's too emotional, {normalA}but his intentions in the right place.  {thinkingA}Still, it'd be best for all of us if you two could try to work together once in a while.
+[pickup3]{happyA}Cô là một lãnh đạo tốt, Lilly. {sadA}Kenny quá đa cảm, {normalA}nhưng ý định của anh ta thì đúng đắn.  {thinkingA}Tuy vậy, sẽ tốt nhất cho tất cả chúng ta nếu cả hai có thể cố gắng hợp tác với nhau.
 112) LEE
-[pickup3]{normalA}Kenny believes there is still hope.  {sadA}Maybe that's what we need right now.
+[pickup3]{normalA}Kenny tin rằng vẫn còn hy vọng.  {sadA}Có lẽ đó là điều mà anh ấy cần ngay lúc này.
 113) LILLY
-[pickup3]Well, hope doesn't do any good if we're all dead.  I'm focused on keeping us alive.
+[pickup3]Hy vọng chẳng đem lại gì tốt cả nếu ta đều đã chết.  Tôi tập trung vào việc giữ cho chúng ta còn sống.
 114) LEE
-[pickup3]{sadA}I don't know, Lilly.  {normalA}Both you and Kenny have been very important to keeping the group together.
+[pickup3]{sadA}Tôi không biết nữa, Lilly.  {normalA}Cả cô và Kenny đều rất quan trọng trong việc giữ cho cả nhóm đoàn kết.
 115) LILLY
-[pickup3]{thinkingA}Yeah, well, if I don't keep us alive, {angryA}there won't BE a group to keep together.
+[pickup3]{thinkingA}Ừ, thì, nếu tôi không giữ cho ta sống sót, {angryA}thì sẽ không có một NHÓM để đoàn kết đâu.
 116) LILLY
-[pickup3][responding to lees silence - pleased]{normalA}You don't have to say anything.  {happya}You gave yourself away when you backed me up in front of Kenny, so thanks.
+[pickup3][responding to lees silence - pleased]{normalA}Anh không phải nói gì cả.  {happya}Đã rõ ràng rồi từ khi anh ủng hộ tôi trước mặt Kenny, vậy nên cảm ơn anh.
 117) LILLY
-[pickup3][responding to lees silence - disapointed]{sadA}You don't have to say anything. {angryA}Your actions at the motel pretty much say it all.
+[pickup3][responding to lees silence - disapointed]{sadA}Anh không phải nói gì cả. {angryA}Hành động của anh ở chỗ nhà nghỉ đã nói lên hết rồi.
 118) LILLY
-[pickup3]{angryA}And not giving my dad food... That was cold.
+[pickup3]{angryA}Và không cho bố tôi chút đồ ăn nào... Lạnh lùng thật đấy.
 119) LILLY
-[pickup3]{angryA}And not giving my dad food... That was cold.
+[pickup3]{angryA}Và không cho bố tôi chút đồ ăn nào... Lạnh lùng thật đấy.
 122) 
 [pickup3][wanting to talk to lilly privately about Larry, but he's nearby] Oye, ¿puedo hablar contigo en privado un segundo?
 124) 
 [pickup3][wanting to talk to lilly privately about Larry, but he's nearby] Oye, ¿puedo hablar contigo en privado un segundo?
 127) 
-Do you think this was a good idea?
+Cô có nghĩ đây là ý hay không?
 129) 
-I'm starting to think they may be hiding something.
+Tôi bắt đầu nghĩ rằng họ đang che dấu gì đó.
 130) 
-We found a tent.
+Bọn tôi tìm thấy một cái lều.
