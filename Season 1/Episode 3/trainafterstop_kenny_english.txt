@@ -53,34 +53,34 @@ Nếu anh cần nói chuyện...
 312647743) LEE
 {sadB}Ken--
 312647744) LEE
-{thinkingB}You still want to get a boat?
+{thinkingB}Anh vẫn muốn một con thuyền à?
 312647747) 
-You still want to get a boat?
+Anh vẫn muốn một con thuyền à?
 312647745) KENNY
-[di] {angryA}It's still the best plan.
+[di] {angryA}Nó vẫn là kế hoạch tốt nhất.
 312647746) KENNY
-[di] [firm] {angryB}It's the best plan.
+[di] [firm] {angryB}Nó là kế hoạch tốt nhất the best plan.
 312647748) 
-Chuck wanted to know if you needed a drink.
+Chuck muốn biết nếu anh cần đồ uống.
 312647751) LEE
-{sadA}Chuck wanted to know if you needed a drink.
+{sadA}Chuck muốn biết nếu anh cần đồ uống.
 312647749) 
-Have another with Chuck?
+Muốn tiếp với Chuck không?
 312647757) LEE
-{thinkingA}Have another with Chuck?
+{thinkingA}Muốn tiếp với Chuck không?
 312647750) 
-Why don't you head outside again.
+Sao anh không ra ngoài lần nữa.
 312647752) KENNY
-{thinkingA}He's got some?
+{thinkingA}Anh ấy có chút không?
 312647754) KENNY
-{sadC}Yeah, that'd help.
+{sadC}Yeah, nó sẽ giúp.
 312647755) LEE
 {sadA}Sure.
 312647756) KENNY
-{thinkingA}You'll keep an eye out up here?
+{thinkingA}Anh sẽ để ý trên đấy chứ?
 312647758) KENNY
-{sadC}Okay, then.
+{sadC}Okay, vậy.
 312647759) LEE
-{thinkingB}Why don't you head outside again. Clear your head.
+{thinkingB}Anh ra ngoài lần nữa đi. Khiến tâm trí anh thảnh thơi.
 312647762) KENNY
-[flat] Thanks.
+[flat] Cảm ơn.
