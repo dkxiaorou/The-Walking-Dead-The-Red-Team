@@ -1,8 +1,8 @@
 1) DANNY
-{normalC}Có vẻ như mọi người có thể dùng nó.
+{normalC}Có vẻ như mọi người cần dùng nó.
 2) ANDY
-{normalC}Chúng tôi có đồ ăn để chia sẻ.
+{normalC}Chúng tôi có chút đồ ăn mà ta có thể trao đổi.
 3) ANDY
-{happyB}Bọn tôi từ nông trại St. John.
+{happyB}Chúng tôi đến từ trang trại sữa nhà John.
 4) LEE
-{thinkingB}Mọi người đến từ đâu?
+{thinkingB}Các anh tới từ đâu?
