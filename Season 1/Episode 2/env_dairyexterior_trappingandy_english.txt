@@ -19,37 +19,37 @@
 3) LEE
 [Calling out, firm] {AngryC} Andy!
 4) ANDY
-[furious] {AngryB}Who the fuck do you people think you are? {AngryC}Look what you've done!
+[furious] {AngryB}Bọn đéo chúng bây nghĩ mình là ai chứ? {AngryC}Nhìn xem bọn bây đã làm gì!
 5) LEE
-{NormalC} Calm down.
+{NormalC} Bình tĩnh đi.
 6) LEE
-{NormalC}You brought this on yourself.
+{NormalC}Là tự anh chuốc lấy.
 7) LEE
-{AngryA} Shut the fuck up!
+{AngryA} Câm mẹ mồm vào!
 8) ANDY
-{AngryC} Calm down? What for, huh? {DisgustA}All we wanted was some goddamn gasoline!
+{AngryC} Bình tĩnh á? Để làm gì, hở? {DisgustA}Tất cả những gì bọn tao muốn chỉ là chút xăng!
 9) ANDY
-{AngryA} No!  Uh uh!  {AngryC} YOU did this!  {DisgustA} All we wanted was a little gas to keep ourselves safe.
+{AngryA} Không!  Uh uh!  {AngryC} Là MÀY mới đúng!  {DisgustA} Những gì bọn tao muốn chỉ là một chút xăng để giữ cho bản thân an toàn.
 10) ANDY
-{AngryB}You think I'm playin' here, boy?!  All we wanted was gas. {DisgustA} We came to you peacefully!
+{AngryB}Mày nghĩ tao đang đùa giỡn à?!  Những gì bọn tao muốn là xăng. {DisgustA} Bọn tao đã hòa bình đến với chúng mày!
 11) CLEMENTINE
-They're getting in!
+Chúng đang tràn vào!
 12) LILLY
-[Urgent]Come on, honey, we gotta go.
+[Urgent]Nào, cháu yêu, đi thôi.
 13) LEE
-[urgent]Let's go, let's go...
+[urgent]Đi thôi, đi thôi...
 14) CLEMENTINE
-Wait!  What about Maybelle?
+Chờ đã!  Còn Maybelle thì sao?
 15) LEE
-[confused]Who?
+[confused]Ai cơ?
 16) CLEMENTINE
-The cow!
+Con bò!
 17) LILLY
-[Urgent but compasionate]Come on, honey, we gotta move...
+[Urgent but compasionate]Nào, cháu yêu, ta phải đi thôi...
 18) 
 リー！
 19) ANDY
-{AngryB} I don't want to hurt him, but I swear I will! {DisgustA} Is that what you want?
+{AngryB} Tao không muốn làm hại hắn nhưng tao thề là sẽ làm! {DisgustA} Đó là điều mày muốn à?
 21) ANDY
 [fight:attack exertion4]Errff!!
 22) ANDY
@@ -65,55 +65,55 @@ The cow!
 26) ANDY
 [being electrocuted! - More Electricy] Aaaarrrrrggghhhhhh!!!!
 27) LEE
-[tired] Thanks...
+[tired] Cảm ơn...
 28) LILLY
-[to herself]That was for Dad.
+[to herself]Đó là vì bố.
 30) DOUG
-{FearB}Lee, is that you?  {ThinkingA}What the hell happened to you guys?
+{FearB}Lee, là anh à?  {ThinkingA}Chuyện gì đã xảy ra với các anh?
 31) CARLEY
 {FearA} Lee?
 32) BEN
-[quiet]{AngryA}I knew it! [to Doug/Carley]{FearA}I told you we couldn't trust them.
+[quiet]{AngryA}Tôi biết mà! [to Doug/Carley]{FearA}Đã nói là ta không thể tin họ mà.
 149) BEN
-[quiet]{AngryA}I knew it! [to Doug/Carley]{FearA}I told you we couldn't trust them.
+[quiet]{AngryA}Tôi biết mà! [to Doug/Carley]{FearA}Đã nói là ta không thể tin họ mà.
 33) LEE
-[quiet]{NormalC}Do you have a weapon?
+[quiet]{NormalC}Cô có vũ khí không?
 163) LEE
-[quiet]{NormalC}Do you have a weapon?
+[quiet]{NormalC}Cô có vũ khí không?
 34) LEE
 [pickup3][fight: out of breath1]
 39) ANDY
-[pickup1][taunting lee, beat to shit, barely able to stand]  [Spits out blood] Is that all ya got, Lee? ...You ain't shit!
+[pickup1][taunting lee, beat to shit, barely able to stand]  [Spits out blood] Mày chỉ có thế thôi à, Lee? ...Mày chẳng là cái đéo gì cả!
 40) LEE
 [pickup1][getting his face shoved into an Electric fence] Aahhhhhhhh!!!!!
 41) ANDY
 [pickup1][satisfied shove as he pushes Lee's face into the barbed wire!]
 42) KATJAA
-[pickup1][process, far in the distance, inside the house - but clearly audible][building to a panicked yell as Andy leaves the house with Duck]No, please God, NO!
+[pickup1][process, far in the distance, inside the house - but clearly audible][building to a panicked yell as Andy leaves the house with Duck]Không, làm ơn Chúa ơi, KHÔNG!
 43) BRENDA
-[pickup1][process, far in the distance, inside the house - but clearly audible][stern, trying to get Katjaa to calmdown]Just shut up and he'll be fine!
+[pickup1][process, far in the distance, inside the house - but clearly audible][stern, trying to get Katjaa to calmdown]Câm mồm đi và nó sẽ ổn thôi!
 44) DUCK
-[screams as his dad gets shot!]{FearC}DAAAD!!!
+[screams as his dad gets shot!]{FearC}BỐỐỐ!!!
 45) KENNY
-[pickup1][shouting to Andy to let duck go!]{AngryC} Let him go, God dammit!!
+[pickup1][shouting to Andy to let duck go!]{AngryC} Thả nó ra, đệt con mẹ!!
 46) KATJAA
 [pickup1][gasps in horror seeing her kid held at gunpoint!]{FearC}
 47) ANDY
-[pickup1][Shouted!  Delivered quickly!] {AngryB} That ain't gonna happen!
+[pickup1][Shouted!  Delivered quickly!] {AngryB} Chuyện đó sẽ không xảy ra đâu!
 48) KATJAA
 [pickup1][screams as Kenny gets shot!]
 49) ANDY
-[Pickup1][shouted] {AngryC}SHUT UP!
+[Pickup1][shouted] {AngryC}CÂM MỒM!
 50) LEE
-[pickup1][stern w/ projection - almost threatening] {AngryC} Andy, don't!
+[pickup1][stern w/ projection - almost threatening] {AngryC} Andy, đừng!
 51) ANDY
-[pickup1][winded and tired after fighting Lee tumbing down the hill, Andy is ready to finish Lee off] Get up.   Get the fuck up!
+[pickup1][winded and tired after fighting Lee tumbing down the hill, Andy is ready to finish Lee off] Ngồi dậy.   Ngồi con mẹ nó dậy!
 52) LEE
 [pickup1][weary and breathless from the fight, Lee gets pulled to his feet by Andy]Enngh...
 53) LEE
 [pickup1][seeing Lilly aiming the gun, trying to help Lee while Andy is trying to push his face into the electric fence!]Lilly!
 54) LEE
-[pickup1][seeing Lilly holding Danny's rifle, but not sure whether to help Lee or not]Lilly! Help!
+[pickup1][seeing Lilly holding Danny's rifle, but not sure whether to help Lee or not]Lilly! Giúp với!
 55) LEE
 [pickup1][punching Andy in the face 1a]
 63) LEE
@@ -179,49 +179,49 @@ The cow!
 118) LEE
 [pickup1][heavy breathing after having beat the shit out of Andy]
 86) LEE
-[pickup1][stern, tired having just beat the shit out of Andy, but Andy wont quit] It's over!
+[pickup1][stern, tired having just beat the shit out of Andy, but Andy wont quit] Kết thúc rồi!
 87) ANDY
-[pickup1] [taunting lee, beat to shit, barely able to stand] Fuck you.  As soon as Dan and Mama get out here you're all fucked!!
+[pickup1] [taunting lee, beat to shit, barely able to stand] Đệt mẹ mày.  Ngay khi Dan và mẹ tao ra ngoài này bọn mày sẽ chết chắc!!
 88) LEE
-[pickup1][ tired having just beat the shit out of Andy.][responding to: When Dan & Momma get here youre fucked!]They're both dead.
+[pickup1][ tired having just beat the shit out of Andy.][responding to: When Dan & Momma get here youre fucked!]Họ đều chết rồi.
 89) LEE
-[pickup1][ tired having just beat the shit out of Andy.][responding to: When Dan & Momma get here youre fucked!]Your mother's dead.
+[pickup1][ tired having just beat the shit out of Andy.][responding to: When Dan & Momma get here youre fucked!]Mẹ mày đã chết rồi.
 90) LEE
-[pickup1][ tired having just beat the shit out of Andy.][responding to: When Dan & Momma get here youre fucked!]They're not coming.
+[pickup1][ tired having just beat the shit out of Andy.][responding to: When Dan & Momma get here youre fucked!]Họ sẽ không tới đâu.
 91) ANDY
-[pickup1][beat to hell, shocked to hear his mother is dead] What?
+[pickup1][beat to hell, shocked to hear his mother is dead] Gì cơ?
 92) LEE
-[pickup1][ tired having just beat the shit out of Andy.]And your brother soon will be.
+[pickup1][ tired having just beat the shit out of Andy.]Và em trai mày cũng sẽ sớm đoàn tụ.
 93) ANDY
-[pickup1][beat to hell, wondering what Lee did to his family] What do you mean?
+[pickup1][beat to hell, wondering what Lee did to his family] Ý mày là sao?
 94) ANDY
-[pickup1][beat to hell, wondering what Lee did to his family - More insistant when Lee says nothing] Lee, what the fuck do you mean?
+[pickup1][beat to hell, wondering what Lee did to his family - More insistant when Lee says nothing] Lee, ý mày là đéo gì?
 95) ANDY
-[pickup1][beat to hell but furious and heartbroken after learning the Lee killed his family]... What did you do?   WHAT THE FUCK DID YOU DO?!
+[pickup1][beat to hell but furious and heartbroken after learning the Lee killed his family]... Mày đã làm gì?   MÀY ĐÃ LÀM CÁI ĐÉO GÌ?!
 96) LEE
-[pickup1][exhausted, after having beat up andy - stern]I said it's over!  Just walk away!
+[pickup1][exhausted, after having beat up andy - stern]Tôi nó là kết thúc rồi!  Hãy đi đi!
 97) DOUG
-[pickup1][after watching Lee beat the crap out of Andy]He's not worth it.
+[pickup1][after watching Lee beat the crap out of Andy]Hắn không đáng.
 98) DOUG
-[pickup1][after watching Lee beat the crap out of Andy]Come on, man... Let's get the hell outta here.
+[pickup1][after watching Lee beat the crap out of Andy]Thôi nào, anh bạn... Phắn khỏi đây nhanh thôi.
 99) ANDY
-[pickup1][beat to hell, but refusing to give up as Lee tries to walk away]Don't you DARE walk away from me, Lee!!
+[pickup1][beat to hell, but refusing to give up as Lee tries to walk away]Đừng CÓ mà bước đi khỏi đây, Lee!!
 100) ANDY
-[pickup1][beat to hell, but refusing to give up as Lee tries to walk away]Get back here and finish this!
+[pickup1][beat to hell, but refusing to give up as Lee tries to walk away]Quay lại đây và kết thúc chuyện này đi, Lee!
 101) CARLEY
-[pickup1][after watching Lee beat the crap out of Andy, but Andy wont give up, she ugres Lee to let it go]Lee, let it go. Think about who you want to be...
+[pickup1][after watching Lee beat the crap out of Andy, but Andy wont give up, she ugres Lee to let it go]Lee, vậy đủ rồi. Hãy nghĩ về người anh muốn trở thành...
 102) KENNY
-[pickup1][urging Lee to not fight Andy and just leave]Let's go, Lee
+[pickup1][urging Lee to not fight Andy and just leave]Vậy đủ rồi, Lee
 103) KENNY
-[pickup1][urging Lee to not fight Andy and just leave]Don't do it.
+[pickup1][urging Lee to not fight Andy and just leave]Đừng làm thế.
 104) ANDY
-[pickup1][beat to hell, waiting for Lee to fight him again]Fuckin' coward.
+[pickup1][beat to hell, waiting for Lee to fight him again]Thằng chó hèn nhát.
 105) ANDY
-[pickup1][beat to hell, waiting for Lee to fight him again]Come on!
+[pickup1][beat to hell, waiting for Lee to fight him again]Thôi nào!
 106) KENNY
-[pickup1][urging Lee to not fight Andy and just leave]Lee, come on.
+[pickup1][urging Lee to not fight Andy and just leave]Lee, thôi nào.
 107) ANDY
-[pickup1][beat to hell, waiting for Lee to fight him again]Do it!
+[pickup1][beat to hell, waiting for Lee to fight him again]Làm đi!
 108) ANDY
 [pickup1][beat to hell, waiting for Lee to fight him again][heavy breathing 2]
 109) ANDY
@@ -233,169 +233,169 @@ The cow!
 112) ANDY
 [pickup1][broken and hopless and Lee walks away][Continuing to call out, finally breaking down into tears]Leee!
 113) ANDY
-[pickup1][beat all to hell, watching Lee walk away] Get back here and fight me like a man, Lee!
+[pickup1][beat all to hell, watching Lee walk away] Quay lại và đánh với tao như người đàn ông đi, Lee!
 114) DOUG
-[pickup1][tries to pull Lee away after watching im beat the crap outta Andy]Jesus, Lee!!
+[pickup1][tries to pull Lee away after watching im beat the crap outta Andy]Chúa ơi, Lee!!
 115) DOUG
-[pickup1][tries to pull Lee away after watching im beat the crap outta Andy - quietly]Come on... let's go.
+[pickup1][tries to pull Lee away after watching im beat the crap outta Andy - quietly]Thôi nào... đi thôi.
 116) CARLEY
-[pickup1][after watching Lee beat the crap outta Andy - Sternly trying to stop him]Lee, that's enough!
+[pickup1][after watching Lee beat the crap outta Andy - Sternly trying to stop him]Lee, thế là đủ rồi!
 117) CARLEY
-[pickup1][after watching Lee beat the crap outta Andy - quiet understanding]He's had enough.
+[pickup1][after watching Lee beat the crap outta Andy - quiet understanding]Hắn ta đã nhận đủ rồi.
 119) ANDY
 [pickup1][electrocuted for a brief moment, then falls to the ground.]
 120) LEE
 [pickup1][beat up, seeing Andy poi9nt a gun at him] No, Andy wait!
 121) LEE
-[pickup1][tired, but bad ass/ almost to himself] I said it's over.
+[pickup1][tired, but bad ass/ almost to himself] Tôi nói là kết thúc rồi.
 122) LILLY
-[pickup1][flat. without emotion, stating why she didnt try to save Lee]You could have saved Dad.
+[pickup1][flat. without emotion, stating why she didnt try to save Lee]Còn anh lẽ đã có thể cứu bố tôi.
 123) LEE
-[pickup1][exhausted from fighting, looking at Lilly who never tried to help]...You could have saved me.
+[pickup1][exhausted from fighting, looking at Lilly who never tried to help]...Cô lẽ ra đã có thể cứu tôi.
 124) 
-Punch
+Đấm
 170) 
-Punch
+Đấm
 220) 
-Punch
+Đấm
 227) 
-Punch
+Đấm
 228) 
-Punch
+Đấm
 125) 
-Block
+Đỡ
 219) 
-Block
+Đỡ
 126) 
-Shoot
+Bắn
 127) LEE
-[pickup2][quiet]{NormalC}These people are fucking crazy!
+[pickup2][quiet]{NormalC}Bọn người này điên rồi!
 128) BEN
-[pickup2][quiet]{AngryA}I knew it! [to Doug/Carley]{FearA}I told you we couldn't trust them!
+[pickup2][quiet]{AngryA}Tôi biết mà! [to Doug/Carley]{FearA}Đã nói là ta không thể tin họ mà!
 129) DOUG
-[pickup2][quiet]{ThinkingA} Where is everybody?  What can we do to help?
+[pickup2][quiet]{ThinkingA} Mọi người đâu rồi?  Bọn tôi có thể làm gì để giúp?
 130) DOUG
-[pickup2][quiet]Holy Shit!  Is everyone okay? What can we do?
+[pickup2][quiet]Ôi đệt!  Mọi người ổn chứ? Bọn tôi có thể làm gì?
 131) LEE
-[pickup2][quiet]{SurpriseA}Get out of here!
+[pickup2][quiet]{SurpriseA}Ra khỏi đây đi!
 155) LEE
-[pickup2][quiet]{SurpriseA}Get out of here!
+[pickup2][quiet]{SurpriseA}Ra khỏi đây đi!
 132) BEN
-[pickup2][quiet]{ThinkingA}Why?  What's going on?
+[pickup2][quiet]{ThinkingA}Tại sao?  Có chuyện gì vậy?
 156) BEN
-[pickup2][quiet]{ThinkingA}Why?  What's going on?
+[pickup2][quiet]{ThinkingA}Tại sao?  Có chuyện gì vậy?
 133) DOUG
-[pickup2][quiet]Oh, God.  What happened?
+[pickup2][quiet]Ôi, Chúa ơi.  Chuyện gì đã xảy ra?
 134) LEE
-[pickup2][quiet]{FearA}We need your help!
+[pickup2][quiet]{FearA}Chúng tôi cần cậu giúp!
 135) DOUG
-[pickup2][quiet]{FearA}Lee?  You okay?
+[pickup2][quiet]{FearA}Lee?  Anh ổn chứ?
 136) LEE
-[pickup2][quiet] They've still got Duck and Katjaa in the house and I don't know where the fuck Kenny is!
+[pickup2][quiet] Chúng vẫn còn giữ Duck và Katjaa ở trong nhà và tôi méo biết Kenny đang ở đâu cả!
 167) LEE
-[pickup2][quiet] They've still got Duck and Katjaa in the house and I don't know where the fuck Kenny is!
+[pickup2][quiet] Chúng vẫn còn giữ Duck và Katjaa ở trong nhà và tôi méo biết Kenny đang ở đâu cả!
 137) DOUG
-[pickup2][quiet]{NormalB}Yeah, {SadA} It's Carley's, but... [trails off]
+[pickup2][quiet]{NormalB}Có, {SadA} nó là của Carley, nhưng... [trails off]
 138) LEE
-[pickup2][quiet]{NormalC}Do you have a weapon?
+[pickup2][quiet]{NormalC}Cậu có vũ khí không?
 139) LEE
-[pickup2][quiet]{NormalB}That's fine.  Ben, stay with Doug.
+[pickup2][quiet]{NormalB}Vậy được.  Ben, bám sát Doug.
 140) DOUG
-[pickup2][quiet]{HappyA}You got it.
+[pickup2][quiet]{HappyA}Đã rõ.
 141) LEE
-[pickup2][quiet]These people are fucking cannibals!
+[pickup2][quiet]Chúng là bọn ăn thịt người khốn nạn!
 142) 
-These people are fucking crazy!
+Bọn người này điên rồi!
 143) 
-Get out of here!
+Ra khỏi đây đi!
 144) 
-We need your help!
+Chúng tôi cần cậu giúp!
 159) LEE
-[quiet]{FearA}We need your help!
+[quiet]{FearA}Chúng tôi cần cậu giúp!
 145) LEE
-[pickup2] [quiet]Larry's dead.  Mark is too. They were planning on killing and eating us all!
+[pickup2] [quiet]Larry chết rồi.  Mark cũng vậy. Chúng đã định giết hết và ăn thịt tất cả chúng ta!
 164) LEE
-[pickup2] [quiet]Larry's dead.  Mark is too. They were planning on killing and eating us all!
+[pickup2] [quiet]Larry chết rồi.  Mark cũng vậy. Chúng đã định giết hết và ăn thịt tất cả chúng ta!
 146) LEE
-[pickup2] [quiet]Larry's dead.  They chopped off Mark's legs and tried to feed them to us!
+[pickup2] [quiet]Larry chết rồi.  Chúng đã chặt chân Mark và cố cho chúng tôi ăn!
 165) LEE
-[pickup2] [quiet]Larry's dead.  They chopped off Mark's legs and tried to feed them to us!
+[pickup2] [quiet]Larry chết rồi.  Chúng đã chặt chân Mark và cố cho chúng tôi ăn!
 147) DOUG
-[pickup2][quiet - taking action]All right, we're coming in to help.
+[pickup2][quiet - taking action]Được rồi, chúng tôi sẽ vào để giúp.
 148) LEE
-[pickup2]The main gate is too dangerous, go around the fence and see if there's a back way in. I'll keep looking for Kenny.
+[pickup2]Cổng chính quá nguy hiểm, thử tìm quanh hàng rào xem có lối vào khác không. Tôi sẽ tiếp tục đi tìm Kenny.
 166) LEE
-[pickup2]The main gate is too dangerous, go around the fence and see if there's a back way in. I'll keep looking for Kenny.
+[pickup2]Cổng chính quá nguy hiểm, thử tìm quanh hàng rào xem có lối vào khác không. Tôi sẽ tiếp tục đi tìm Kenny.
 150) LEE
-[pickup2][quiet]{NormalB}Two left
+[pickup2][quiet]{NormalB}Còn lại hai
 151) LEE
-[quiet]{NormalC}They attacked us.
+[quiet]{NormalC}Chúng đã tấn công bọn tôi.
 152) CARLEY
-[pickup2][quiet]{ThinkingA}Where?
+[pickup2][quiet]{ThinkingA}Ở đâu?
 153) CARLEY
-[pickup2][quiet]{AngryB}Shit.  How many of them are there?
+[pickup2][quiet]{AngryB}Đệt.  Bọn chúng có bao nhiêu người?
 154) CARLEY
-[pickup2][quiet]{AngryA}Ben, quiet.  [to Lee]{ThinkingA} Tell me what's going on Lee. I can help.
+[pickup2][quiet]{AngryA}Ben, im lặng.  [to Lee]{ThinkingA} Nói tôi biết chuyện gì đang xảy ra Lee. Tôi có thể giúp.
 157) CARLEY
-[pickup2][quiet]{FearA}Yeah, when you guys didn't come back I figured {ThinkingA}something was up.
+[pickup2][quiet]{FearA}Ừ, khi các anh không quay lại tôi nghĩ là {ThinkingA}đã có chuyện rồi.
 158) CARLEY
-[pickup2][quiet]{AngryA}What can we do?
+[pickup2][quiet]{AngryA}Bọn tôi có thể làm gì?
 160) CARLEY
-[quiet]{FearA}Lee, are you all right?
+[quiet]{FearA}Lee, anh ổn chứ?
 161) CARLEY
-[pickup2][quiet]{AngryA}Ben, stick close.[To lee] {ThinkingA}And Lee, be careful.
+[pickup2][quiet]{AngryA}Ben, theo sát tôi.[To lee] {ThinkingA}Và Lee, hãy cẩn thận.
 162) CARLEY
-[pickup2][quiet]{HappyC} I don't leave home without it.
+[pickup2][quiet]{HappyC} Tôi không rời nhà mà không cầm theo nó.
 168) DOUG
-[pickup2[quiet]Lee, is that you?   We heard screams as we were coming up to the house!
+[pickup2[quiet]Lee, là anh à?   Chúng tôi nghe thấy tiếng la hét khi đang trên đường đến căn nhà!
 169) CARLEY
-[pickup2][quiet]Lee, is that you?
+[pickup2][quiet]Lee, là anh à?
 171) BRENDA
-[Pickup 3] [calling out into the dark storm - Nevrous]Andy?  Danny, is that you? What's going on out there?
+[Pickup 3] [calling out into the dark storm - Nevrous]Andy?  Danny, là con à? Có chuyện gì ngoài đó thế?
 172) LEE
-[pickup 3][pretending to be Andy, calling out to his mom in the house] Yeah, it's me!
+[pickup 3][pretending to be Andy, calling out to his mom in the house] Ừ, là tôi!
 173) LEE
-[pickup3][calkling out to brenda as he approaches the house - threatening]I left Danny in the barn... He got what he deserved!
+[pickup3][calkling out to brenda as he approaches the house - threatening]Tôi để lại Danny ở chỗ chuồng rồi... Hắn đã nhận lấy những gì mình xứng đáng!
 174) BRENDA
-[pickup3] [threatening through the screen door] Get back, don't come in here!
+[pickup3] [threatening through the screen door] Lùi lại, đừng vào trong đây!
 175) 
-Yeah, it's me!
+Ừ, là tôi!
 176) 
-I left Danny in the barn...
+Tôi để lại Danny ở chỗ chuồng rồi...
 177) LEE
-[pickup3][calling out to brenda in theo house - threatening]Where are Katjaa and the kid?!
+[pickup3][calling out to brenda in theo house - threatening]Katjaa và bọn nhóc đâu?!
 178) 
-Where are Katjaa and the kid?!
+Katjaa và bọn nhóc đâu?!
 179) BRENDA
-[pickup3][panicking, to herself as she realizes trouble is approaching!] Oh God...
+[pickup3][panicking, to herself as she realizes trouble is approaching!] Ôi trời...
 181) LEE
-[pickup3][to himself - seeing a small red dot from a laser pointer moving along the hay pile]What the hell?  Where's that coming from?
+[pickup3][to himself - seeing a small red dot from a laser pointer moving along the hay pile]Cái quái gì?  Nó từ đâu vậy?
 182) LEE
-[pickup3][quietly - meeting at the fence outside the house]You almost blinded me!
+[pickup3][quietly - meeting at the fence outside the house]Cậu xém nữa khiến tôi mù rồi!
 183) DOUG
-[pickup3][quiet]Oh, sorry about that.  But I DID get your attention!
+[pickup3][quiet]Ồ, xin lỗi về nó.  Nhưng tôi cũng ĐÃ gây chú ý cho anh!
 184) DOUG
-[pickup3][quietly - Proud that he got Lee's attention][keep energy levels at this range: 310506031]Morse code!
+[pickup3][quietly - Proud that he got Lee's attention][keep energy levels at this range: 310506031]Là mã Morse!
 185) LEE
 [pickup3][hushed calling out into the dark][keep energy levels at this range: 310506031] Doug!
 186) LEE
-[pickup3][quietly - meeting at the fence outside the house]Doug?! What the hell was that?!
+[pickup3][quietly - meeting at the fence outside the house]Doug?! Vừa rồi là gì thế?!
 187) LEE
 [pickup3][to himself - peering into the dark he sees doug] Doug?
 188) LEE
 [pickup3][laser pointer hitting his eye] Ah!
 189) BEN
-[pickup3][quiet, at the fence outside the house][keep energy levels at this range: 310506031]We heard screams from the barn!  What's going on?
+[pickup3][quiet, at the fence outside the house][keep energy levels at this range: 310506031]Bọn tôi nghe thấy tiếng la hét từ cái chuồng!  Có chuyện gì vậy?
 190) LEE
 [pickup3][quietly calling out to Carley!] Carley!
 191) DOUG
-[pickup3][hushed as Doug and Lee try to find their way to the back] Yes!  No.  ...Yes.
+[pickup3][hushed as Doug and Lee try to find their way to the back] Có!  Không.  ...có.
 192) DOUG
-[pickup3][hushed as Doug and Ben try to find their way to the back] Come on, this way...
+[pickup3][hushed as Doug and Ben try to find their way to the back] Nhanh nào, lối này...
 193) BEN
-[pickup3][hushed as Doug and Ben try to find their way to the back] Wait, are you sure?
+[pickup3][hushed as Doug and Ben try to find their way to the back] Khoan đã, anh chắc chứ?
 194) LEE
-[pickup3][quiet - Match 310506033]No, if we storm the house we'll cause a panic.  You two try to find a way around to the back.  I'll head to the front.
+[pickup3][quiet - Match 310506033]Không, nếu chúng ta xông vào nhà, ta sẽ gây hỗn loạn mất. Hai người cố gắng tìm đường vòng ra phía sau. Tôi sẽ vào từ phía trước.
 196) BEN
 [pickup3][trying to quietly make his way through the corn field]Ow.
 201) BEN
@@ -405,52 +405,52 @@ Where are Katjaa and the kid?!
 200) CARLEY
 [pickup3][shushes Ben] Shhh!
 198) CARLEY
-[line was split]Is everyone okay?  {ThinkingA}You guys have been gone WAY too long!
+[line was split]Mọi người ổn chứ?  {ThinkingA}Các anh đã rời đi QUÁ lâu rồi!
 199) CARLEY
-We heard screams as we were coming up to the house!
+Chúng tôi nghe thấy tiếng la hét khi đang trên đường đến căn nhà!
 202) CARLEY
-[pickup3][projected whisper- taking action]All right, we're coming in to help.
+[pickup3][projected whisper- taking action]Được rồi, bọn tôi sẽ đến giúp.
 203) LEE
 [pickup3][breathing - not so worked up2]
 204) ANDY
 [pickup3][laser fropm laser pointer hits him in the eye] Ahh!
 205) 
-No
+Không
 206) 
-Beam
+Chùm tia
 207) 
-Screen Door
+Cửa Lưới
 208) DOUG
-[pickup3] [quiet][learning that larry is dead and they tried to eat you!]Jesus!  That is sick!
+[pickup3] [quiet][learning that larry is dead and they tried to eat you!]Chúa ơi!  Kinh khủng thật!
 209) CARLEY
-[pickup3][quiet, learning that Larry is dead and they tried to eat you!]Shit!  Is everyone else okay?
+[pickup3][quiet, learning that Larry is dead and they tried to eat you!]Ôi đệt!  Những người còn lại ổn không?
 210) BRENDA
-[pickup3][ambient]Settle down.  I don't wanna hurt ya'll.
+[pickup3][ambient]Yên lặng đi.  Tôi không muốn làm đau mấy người đâu.
 211) BRENDA
-[pickup3][ambient][grabbing Katjaa for protection] Come here...
+[pickup3][ambient][grabbing Katjaa for protection] Lại đây...
 212) KATJAA
-[pickup3][ambient]Let me go!
+[pickup3][ambient]Thả tôi ra!
 213) BRENDA
-[pickup3][Seeing Lee]Get back! Don't come in here!
+[pickup3][Seeing Lee]Lùi lại! Không được vào đây!
 214) KATJAA
 [pickup3][seeing Lee!]LEE!
 215) ANDY
-[pickup3][ambient]Something's up. I'm gonna take the boy and check around back.
+[pickup3][ambient]Có chuyện gì rồi. Con sẽ mang theo thằng bé và kiểm tra phía sau.
 216) KATJAA
-[pickup3][ambient]No, please, don't take my boy!!
+[pickup3][ambient]Không, làm ơn, đừng đem con tôi đi!!
 217) ANDY
-[pickup3][ambient]Let go, woman!
+[pickup3][ambient]Bỏ ra, con đàn bà này!
 218) 
-Kick
+Đá
 221) 
-Your mother's dead.
+Mẹ mày đã chết rồi.
 222) 
-They're both dead.
+Họ đều chết rồi.
 223) 
-They're not coming.
+Họ sẽ không tới đâu.
 224) 
-I said it's over!
+Tôi nói là đã kết thúc rồi!
 225) CARLEY
-Is everyone okay?
+Mọi người ổn chứ?
 226) 
-Walk away
+Rời đi
