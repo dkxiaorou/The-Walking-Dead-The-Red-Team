@@ -1,138 +1,138 @@
 1) DANNY
-Lee, don't piss her off.
+Lee, đừng khiến ả điên lên.
 2) JOLENE
-{FearB}Killin' everywhere. {CrazyD}Take all the dead folks you want, we'll make more!
+{FearB}Giết chóc ở khắp nơi. {CrazyD}Lấy tất cả bọn người chết bây muốn đi, bọn tao sẽ tạo thêm!
 3) JOLENE
-{body-Crossbow}{CrazyA}Like you could kill me. {CrazyB}They couldn't kill me. {CrazyD}They tried.
+{body-Crossbow}{CrazyA}Cứ như bây có thể giết tao vậy. {CrazyB}Chúng không thể giết tao. {CrazyD}Chúng đã thử.
 4) LEE
-{body-B}{AngryB}Screw this.
+{body-B}{AngryB}Đệt mẹ nó.
 5) LEE
-{body-B}{AngryB}Put down the crossbow.
+{body-B}{AngryB}Đặt chiếc nỏ xuống.
 6) JOLENE
-{body-Crossbow}{AngryC}No, sir, I need it.
+{body-Crossbow}{AngryC}Không, thưa ngài, tôi cần nó.
 7) LEE
-[angrily] {body-B}{AngryD}Enough!
+[angrily] {body-B}{AngryD}Đủ rồi!
 8) DANNY
-[fed up]{body-A}{AngryB}Okay, fuck this shit!
+[fed up]{body-A}{AngryB}Được rồi, đệt mẹ chuyện này!
 9) JOLENE
 [pickup2] {body-Crossbow}{AngryD}You're a couple of god-damn... {CrazyB}THIEVES!
 10) JOLENE
-[pickup2] {CrazyD}Steal my shit.  {AngryD}Steal everything from me!
+[pickup2] {CrazyD}Cướp đồ của tao.  {AngryD}Cướp đi mọi thứ từ tao!
 11) JOLENE
-[pickup2] {body-Crossbow}{CrazyD}I'm gonna take this here crossbow, and put a nice sharp arrow, {CrazyA}right through your eyeball.  {CrazyB}And into your goddamn brain.
+[pickup2] {body-Crossbow}{CrazyD}Tao sẽ dùng cái nỏ trên tay đây, và sẽ cho một mũi tên sắc nhọn, {CrazyA}cắm xuyên qua nhãn cầu của bọn mày.  {CrazyB}Và đâm sâu cmn vào não chúng mày.
 12) JOLENE
-[pickup2] {body-Crossbow}{CrazyA}Then I'm a head down to that farm, {CrazyB}and shoot every goddamn person I see.
+[pickup2] {body-Crossbow}{CrazyA}Rồi tao sẽ đến chỗ trang trại đó, {CrazyB}và bắn từng người mà tao nhìn thấy.
 13) JOLENE
-[pickup3] {body-Crossbow}{CrazyC}You know what? {CrazyD} I changed my mind... I'm putting this arrow right through your BALLS.  {HappyD}Yeah!  Right through.  {CrazyD}String 'em up on that tree.
+[pickup3] {body-Crossbow}{CrazyC}Mày biết gì không? {CrazyD} Tao đổi ý rồi... Tao sẽ bắn mũi tên này ngay vào HAI HÒN BI của bọn bây.  {HappyD}Đúng thế!  Xuyên thẳng qua.  {CrazyD}Xong treo nó lên cái cây đằng kia.
 14) JOLENE
-[pickup2] {CrazyA}You're not men... {CrazyB}you're monsters.  {AngryB}All men are monsters.  {FearB}Take what they want, then destroy it all.  {SadB}Take a can of beans, {ThinkingA}take a little girl... {CrazyB}it's all the fucking same to you!
+[pickup2] {CrazyA}Bọn mày không phải đàn ông... {CrazyB}bọn mày là quái vật.  {AngryB}Tất cả đàn ông đều là quái vật.  {FearB}Lấy đi những gì chúng muốn, và rồi hủy hoại tất cả.  {SadB}Lấy đi một lon đậu, {ThinkingA}lấy đi một cô bé nhỏ... {CrazyB}tất cả đều như nhau cả!
 15) JOLENE
-[pickup2] {body-Crossbow}{CrazyC}Or through your leg.  {HappyD}And leave you for the walkers.  {CrazyD}Yeah, that'd be just what you deserve.  The both of you!
+[pickup2] {body-Crossbow}{CrazyC}Hoặc xuyên qua chân bây.  {HappyD}Và để lại bây cho bọn xác sống.  {CrazyD}Phải, đó là những gì bây xứng đáng.  Cả hai bọn bây!
 16) JOLENE
-[pickup2] {DisgustB}I know you.  {CrazyA}I know what you are, {CrazyB}I know what you do.
+[pickup2] {DisgustB}Ồ tao biết mày.  {CrazyA}Tao biết mày là ai, {CrazyB}và tao biết mày đã làm gì.
 17) JOLENE
-[pickup2] {AngryD}Ain't you taken enough from me?  {CrazyB}Ain't you taken enough, god dammit?
+[pickup2] {AngryD}Chưa lấy đủ từ tao à?  {CrazyB}Lấy chưa có đủ hả, đệt mẹ?
 18) DANNY
-[pickup2] {ThinkingB}You don't know me!
+[pickup2] {ThinkingB}Cô không biết tôi!
 19) DANNY
-[pickup2] {body-A}{AngryB}YOU'RE the thief, {DisgustA}bitch!
+[pickup2] {body-A}{AngryB}Cô MỚI LÀ trộm ấy, {DisgustA}con điếm!
 20) JOLENE
-[pickup2] {AngryD}No sir, I need it.  {CrazyB}I need it to kill you fuckers.{CrazyD}
+[pickup2] {AngryD}Không thưa ngài, tôi cần nó.  {CrazyB}Cần nó để giết bọn khốn chúng bây.{CrazyD}
 21) LEE
-[pickup2] {body-B}{SurpriseB}Who the fuck are you?
+[pickup2] {body-B}{SurpriseB}Cô là tên đéo nào?
 22) JOLENE
 [pickup2] [laughs hysterically]
 23) DANNY
-[pickup2]{body-A}{ThinkingA}Forget it, Lee.  {AngryA}She's bat shit loco.
+[pickup2]{body-A}{ThinkingA}Quên đi, Lee.  {AngryA}Ả tâm thần mẹ rồi.
 24) DANNY
-[pickup2] {body-A}{SurprisedA}Lee... {ThinkingB}she's getting pissed...
+[pickup2] {body-A}{SurprisedA}Lee... {ThinkingB}ả đang điên lên đấy...
 25) LEE
-[pickup2]{body-B}{AngryB}You shot Mark, {AngryC}you psycho bitch!
+[pickup2]{body-B}{AngryB}Mày đã bắn Mark, {AngryC}con khốn thần kinh!
 26) 
-Screw This!  [SHOOT HER]
+Con mẹ nó!  [BẮN Ả]
 27) JOLENE
-[pickup2][as if it were so obvious]{body-Crossbow}{ThinkingA}The little girl.
+[pickup2][as if it were so obvious]{body-Crossbow}{ThinkingA}Từ cô bé nhỏ đó.
 28) LEE
-[pickup2] [angry] {body-B}{AngryC}Where did you get this hat?
+[pickup2] [angry] {body-B}{AngryC}Cô lấy chiếc mũ này từ đâu?
 29) LEE
-[pickup2][firm, trying to establish the facts] {AngryD}You STOLE it from her.
+[pickup2][firm, trying to establish the facts] {AngryD}Cô đã CƯỚP nó từ con bé.
 30) JOLENE
-[pickup2]{CrazyC}So what if I did?  {AngryB}You stole her from {AngryC}ME!!!
+[pickup2]{CrazyC}Tao làm thế thì sao?  {AngryB}Mày đã cướp đi con bé từ {AngryC}TAO!!!
 31) LEE
-[pickup2]{ThinkingA}Look.  {SadB}It's not safe up here in the woods.  {SurpriseA}You gotta come back to the dairy.
+[pickup2]{ThinkingA}Nghe này.  {SadB}Không an toàn ở đây trong rừng.  {SurpriseA}Cô cần phải trở về trang trại.
 32) JOLENE
-[pickup2]{body-Crossbow}{CrazyD}Ha ha!  Oh... It's a hell of a lot safer up here {CrazyB}than down THERE, {CrazyA}you best believe.
+[pickup2]{body-Crossbow}{CrazyD}Ha ha!  Ồ... Trên đây an toàn hơn nhiều {CrazyB}so với DƯỚI ĐÓ, {CrazyA}bọn bây nên tin đi.
 33) 
-That's Enough! [SHOOT HER]
+Đủ rồi! [BẮN Ả]
 34) JOLENE
-[pickup2]{CrazyD}They told me I'd be safe with them...  {CrazyB}Men who lived here.
+[pickup2]{CrazyD}Họ nói tao sẽ được an toàn cùng họ...  {CrazyB}Những tên đàn ông sống ở đây.
 35) JOLENE
-[pickup2]{body-Crossbow}{CrazyA}That's a hell of a question, mister.
+[pickup2]{body-Crossbow}{CrazyA}Chà đó là một câu hỏi hay đấy, thưa ngài.
 36) JOLENE
-[pickup2]{SadB}They didn't treat her nice.  Not at all.  {FearB}They took her away, into the woods.  {CrazyC}Wouldn't tell me where.
+[pickup2]{SadB}Chúng không đối xử tốt với con bé.  Một chút cũng không.  {FearB}Chúng đem con bé đi, vào sâu trong rừng.  {CrazyC}Không nói với tao là ở đâu.
 37) LEE
-[pickup2] {body-B}{FearC}Why are you alone up here?  {ThinkingB}What happened to you?
+[pickup2] {body-B}{FearC}Sao cô lại có một mình ở đây?  {ThinkingB}Chuyện gì đã xảy ra với cô?
 38) JOLENE
-[pickup2]{CrazyB}And I'm staying here 'til she comes back to me.
+[pickup2]{CrazyB}Và tao sẽ ở lại đây cho tới khi con bé trở lại với tao.
 39) JOLENE
-[pickup2]But it weren't safe.  {AngryD}Not for me, {CrazyE}and not for my girl.
+[pickup2]Nhưng nó lại không an toàn chút nào.  {AngryD}Không với tao, {CrazyE}và không đối với con gái tao.
 40) JOLENE
-[pickup2]{SadB}And I begged 'em.  Every way I could think.   {CrazyA}They just laughed...  {CrazyD}So I killed 'em.
+[pickup2]{SadB}Và tao đã cầu xin chúng.  Bằng mọi cách mà tao có thể nghĩ tới.   {CrazyA}Chúng chỉ cười...  {CrazyD}Nên tao đã giết chúng.
 41) 
-Who are you?
+Cô là ai?
 42) 
-You shot Mark!
+Cô đã bắn Mark!
 43) 
-Where did you get Clementine's hat?!
+Cô lấy mũ của Clementine từ đâu?!
 44) JOLENE
-[pickup2]  {CrazyD}I killed two men already.
+[pickup2]  {CrazyD}Tao đã giết hai thằng rồi.
 45) JOLENE
-[pickup2]  And I don't intend to stop there...
+[pickup2]  Và tao không có ý định dừng lại ở đó đâu...
 46) JOLENE
-[pickup2][sadly]One way or another... {CrazyE}she'll come back.
+[pickup2][sadly]Bằng cách này hay cách khác... {CrazyE}con bé sẽ trở về.
 47) LEE
-[pickup2] {body-B}{ThinkingB}Look, there's two of us, and one of you.  {AngryB}No matter what happens, {AngryC}one of us is gonna kill you.
+[pickup2] {body-B}{ThinkingB}Nghe này, bọn tôi có hai người, còn cô chỉ mỗi một mình.  {AngryB}Dù có gì xảy ra, {AngryC}một trong bọn tôi sẽ giết cô.
 48) DANNY
-[pickup2]  {AngryB}We had a deal!  {ThinkingB}You people broke it first!
+[pickup2]  {AngryB}Chúng ta đã có một thỏa thuận!  {ThinkingB}Là các người phá vỡ nó trước!
 49) DANNY
-[pickup2]  {body-A}{FearC}Hey!  We had a deal!  {AngryA}No shooting as long as we gave you food!
+[pickup2]  {body-A}{FearC}Này!  Chúng ta đã thỏa thuận rồi!  {AngryA}Không được bắn miễn là chúng tôi cho các người thức ăn!
 50) DANNY
-[pickup2] {AngryB}What the fuck happened?
+[pickup2] {AngryB}Chuyện quái gì đã xảy ra?
 51) JOLENE
-[pickup2] {body-Crossbow}{AngryB}You had a deal with {AngryD}THEM.  I ain't THEM.
+[pickup2] {body-Crossbow}{AngryB}Mày đã thỏa thuận với {AngryD}CHÚNG.  Tao không phải là BỌN CHÚNG.
 52) JOLENE
-[pickup2] {CrazyA}You think I won't kill you?
+[pickup2] {CrazyA}Mày nghĩ tao sẽ không giết mày ư?
 53) JOLENE
-[pickup2] {body-Crossbow}{AngryB}Who the fuck is Mark?  {AngryD}I don't know any Mark.
+[pickup2] {body-Crossbow}{AngryB}Mark là tên đéo nào?  {AngryD}Tao không biết ai tên Mark cả.
 54) LEE
-[pickup2] {AngryC}You shot him at the dairy.
+[pickup2] {AngryC}Cô đã bắn anh ta ở trang trại.
 55) JOLENE
-[pickup2] {CrazyA}Fuck I did.  {CrazyB}That's them OTHER people-- {CrazyC}they're good buddies with your boyfriend here.
+[pickup2] {CrazyA}Có đéo mà tao làm ấy.  {CrazyB}Đó là bọn người KHÁC-- {CrazyC}chúng cũng khá thân với bạn trai của mày đằng kia.
 56) JOLENE
-[pickup3][follows 310403320] [hisses sarcastically] {CrazyD}I guess you met 'em.  Ain't they nice?
+[pickup3][follows 310403320] [hisses sarcastically] {CrazyD}Tao đoán mày đã gặp chúng rồi.  Chúng tốt thật nhỉ?
 57) JOLENE
-[pickup2] {body-Crossbow}{FearB}I don't know where they are.  {AngryC}But they ain't here.
+[pickup2] {body-Crossbow}{FearB}Tao không biết chúng đang ở đâu.  {AngryC}Nhưng chúng không có ở đây.
 58) JOLENE
-[pickup2] {CrazyB}So get the fuck outta my camp!
+[pickup2] {CrazyB}Nên phắn ngay khỏi trại của tao!
 59) LEE
-[pickup2] {body-B}{AngryB}We're looking for the people who attacked the dairy, {AngryC}and shot my friend.
+[pickup2] {body-B}{AngryB}Bọn tôi đang tìm những người đã tấn công trang trại, {AngryC}và bắn bạn tôi.
 60) DANNY
-[pickup2] [weirdly calm and smarmy.] {body-A}{HappyC}She's lyin', Lee.
+[pickup2] [weirdly calm and smarmy.] {body-A}{HappyC}Ả đang nói dối, Lee.
 61) 
-What happened here?
+Chuyện gì đã xảy ra?
 62) 
-Who attacked the dairy?!
+Ai đã tấn công trang trại?!
 63) 
-Put down the crossbow
+Đặt chiếc nỏ xuống
 64) 
-Don't be stupid
+Đừng làm chuyện ngu ngốc
 65) JOLENE
-[pickup2] {body-Crossbow}{CrazyD}The crazy lady in the woods {CrazyA}brings fresh {CrazyB}meat to the farm!
+[pickup2] {body-Crossbow}{CrazyD}Ả đàn bà điên khùng ở trong rừng {CrazyA}đã mang {CrazyB}chỗ thịt tươi sống đến trang trại!
 66) DANNY
-[pickup2]  {AngryB}YOU SHUT IT! NOW!
+[pickup2]  {AngryB}CÂM MỒM VÀO! NGAY!
 67) JOLENE
-[pickup2] {body-Crossbow}{HappyD}Now maybe you didn't hear me last time... {CrazyD}when I asked you sweet... {AngryD}put your damn guns down.
+[pickup2] {body-Crossbow}{HappyD}Giờ có thể bọn mày đã không nghe rõ tao nói lúc nãy... {CrazyD}khi tao vẫn còn lịch sự hỏi... {AngryD}bỏ con mẹ nó súng xuống.
 68) LEE
-[pickup2][trying to make sense of this crazy talk]{ThinkingB}What the hell are you talking about?
+[pickup2][trying to make sense of this crazy talk]{ThinkingB}Cô đang nói cái quái gì thế?
 69) JOLENE
-[pickup3] [addressing Danny, and a little wild laughter]{body-Crossbow}{CrazyB}Go on, tell him, boy!  {CrazyD}Tell him what you got in mind for --[Gets shot]
+[pickup3] [addressing Danny, and a little wild laughter]{body-Crossbow}{CrazyB}Nhanh nào, nói cho hắn đi, cậu nhóc!  {CrazyD}Nói cho hắn mày đang nghĩ g --[Gets shot]
