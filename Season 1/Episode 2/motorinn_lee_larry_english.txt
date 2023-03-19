@@ -1,80 +1,80 @@
 1) LARRY
-[pickup 2] Đi tè vào cột cờ đi, Lee.
+[pickup 2] Thôi biến mẹ đi, Lee.
 2) LEE
-[pickup 2] [rubbing it in a little that you didn't give him food] Tôi xin lỗi Larry.  Hết đồ ăn rồi.
+[pickup 2] [rubbing it in a little that you didn't give him food] Tôi xin lỗi Larry.  Không còn gì cả.
 3) LEE
-[pickup2]Ông nên nói chuyện với Lilly về việc hoà hợp với Kenny.
+[pickup2]Ông nên nói với Lilly về việc hòa thuận với Kenny.
 4) LARRY
 [pickup2]Lilly có thể tự kết bạn của mình.
 5) LEE
-[pickup2]Nó không phải về việc kết bạn với nhau.  Chúng ta cùng ở trong hoàn cảnh với nhau, chúng ta cần phải cư xử như vậy với nó.
+[pickup2]Không phải là chuyện kết bạn.  Tất cả chúng ta đều ở đây cùng nhau, chúng ta phải bắt đầu cư xử đúng như vậy chứ.
 6) LARRY
-[pickup2]Eh, stuff all that. Bọn tao sống tốt mà không có mày.
+[pickup2]Eh, dăm ba chuyện đấy. Bọn ta vẫn sẽ ổn cả nếu không có cậu.
 7) LARRY
-[pickup 2]Đúng rồi. Có nhiều người quá nên mới vậy.
+[pickup 2]Đúng quá còn gì. Nơi này có quá nhiều người lảng vảng xung quanh rồi.
 8) LEE
-[pickup 2] Lilly nghĩ chúng ta nên bỏ những người mới ra.
+[pickup 2] Lilly nghĩ chúng ta nên ném những người mới này đi.
 9) LEE
-[pickup 2] Đặt nó ở cái hàng rào.
+[pickup 2] Cứ tiếp tục với cái hàng rào đi.
 10) LARRY
-[pickup 2] Đừng bảo tao phải làm gì, Lee.
+[pickup 2] Đừng có bảo ta phải làm gì, Lee.
 11) 
-[Give Half an Apple]
+[Đưa một nửa quả Táo]
 15) 
-[Give Piece of Jerky]
+[Đưa miếng Thịt Khô]
 16) 
-[Give Crackers and Cheese]
+[Đưa Bánh Quy và Phô Mai]
 17) 
-[Give Crackers and Cheese]
+[Đưa Bánh Quy và Phô Mai]
 29) 
-[Keep the last piece of food for yourself]
+[Giữ miếng cuối cùng cho bản thân]
 31) 
-[Save the last piece of food for someone else]
+[Giữ miếng cuối cùng cho người khác]
 36) 
-[Exit]
+[Thoát]
 37) LARRY
 [grunts]
 40) LARRY
 [grunts]
 12) LARRY
-[pickup 2] [sarcastically] Tôi mong điều này không có nghĩa chúng ta có thểa là bạn bè.
+[pickup 2] [sarcastically] Ta mong cậu không nghĩ rằng việc này sẽ biến chúng ta thành bạn.
 13) LEE
-[pickup 2] Tôi đã có thể không cho ông đồ ăn.
+[pickup 2] Tôi đã có thể không đưa ông gì cả.
 14) LEE
-[pickup 2] [a little begrudging at giving Larry food] Này, Larry.
+[pickup 2] [a little begrudging at giving Larry food] Đây, Larry.
 39) LEE
-[pickup 2] [a little begrudging at giving Larry food] Này, Larry.
+[pickup 2] [a little begrudging at giving Larry food] Đây, Larry.
 18) LEE
-[pickup 2]  Lilly muốn ông giữ sức.
+[pickup 2]  Lilly muốn ông duy trì sức khỏe của mình.
 19) LARRY
-[pickup 2] Con đấy cần phải dừng suy nghĩ về ta nhiều vậy.
+[pickup 2] Con bé nên ngừng việc lo cho ta nhiều như thế.
 20) LARRY
-[pickup 2] Tôi nên nhét cái này vào đít anh, nhưng tôi quá đói.
+[pickup 2] Ta nên nhét cái này vào đít cậu thì hơn, nhưng ta đói quá rồi.
 21) 
-Lilly và Kenny cần với hoà hợp.
+Lilly và Kenny nên hòa thuận với nhau.
 22) 
-Lilly muốn bỏ rơi nhưng điều cũ.
+Lilly muốn bỏ rơi những người mới.
 23) 
-Nói với
+Nói chuyện
 24) 
-Đưa đồ ăn cho
+Đưa thức ăn
 25) 
-Xin lỗi, hết đồ ăn mất rồi.
+Xin lỗi, không còn thức ăn nữa.
 26) 
-Muốn đồ ăn không? [Give Food]
+Muốn chút thức ăn không? [Đưa thức ăn]
 27) LEE
-[pickup3][knowing there is only one more piece of food left]Hm.  Tôi có nên giữ cái này cho bản thân không?
+[pickup3][knowing there is only one more piece of food left]Hm.  Có lẽ mình nên giữ nó cho bản thân?
 28) LEE
-[pickup3][to himself - depressed, having only 1 piece of food left]Một miếng đồ ăn nữa để cho đi, rồi nó sẽ hết trong ngày hôm nay.
+[pickup3][to himself - depressed, having only 1 piece of food left]Một miếng thức ăn nữa để chia, sau đó là hết phần cho hôm nay.
 30) LEE
-[pickup3][to himself - keeping the last bit of food for himself]Tôi cần phải sức khoẻ của tôi nữa.
+[pickup3][to himself - keeping the last bit of food for himself]Mình cũng cần duy trì sức lực nữa.
 32) LEE
-[pickup3][to himself - choosing to save the food for someone else]Không.  Một số người đã trải qua nhiều hơn tôi mà không có đồ ăn.  Họ là những người cần nó.
+[pickup3][to himself - choosing to save the food for someone else]Thôi.  Một vài người đã nhịn đói còn lâu hơn cả mình nữa.  Họ mới là người cần nó.
 33) MARK
-[pickup3]Oh man.  Chỉ nhìn đồ ăn đã khiến tôi thèm.
+[pickup3]Ôi trời.  Chỉ nhìn thấy đồ ăn thôi mà đã khiến tôi sắp khùng rồi.
 34) LARRY
-[pickup3]Oh, tôi nè!
+[pickup3]Ồ, ta có chứ!
 35) DOUG
-[pickup3]Oh wow.  Tôi có thể ngửi thấy đồ ăn từ phìa này!  Tôi mong anh đang tận hưởng nó.
+[pickup3]Ôi chà.  Tôi có thể ngửi thấy mùi đồ ăn từ đây!  Tôi hy vọng ông thưởng thức nó Larry.
 38) LEE
-Sẽ về trong lát.
+Sẽ trở lại ngay.
