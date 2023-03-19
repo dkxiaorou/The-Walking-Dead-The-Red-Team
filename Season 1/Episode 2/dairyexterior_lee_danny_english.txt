@@ -1,79 +1,78 @@
 1) DANNY
-{normalC}Nhớ rằng: chúng ta chỉ đang do thám thôi. Không có tác dụng khiến bản thân bị giết.
+{normalC}Hãy nhớ: chúng ta chỉ thám thính tình hình lúc này thôi. Không có ích gì khi liều chết cả.
 2) DANNY
 {normalC}Anh nghĩ sao về nơi này?
 3) LEE
-{normalA}Nó đẹp.
+{normalA}Nó rất đẹp.
 4) LEE
-{normalC}Như thế nào?
+{normalC}Làm cách nào?
 5) DANNY
-{normalC}Không sao hết.  {normalB}Anh không cần phải lựa chọn ngay.  {normalA}Nhưng đừng đợi quá lâu, hoặc anh có thể sẽ không có một lựa chọn đâuBut don't wait too long, or you may not have a choice.
+{normalC}Ổn mà.  {normalB}Anh không cần phải quyết định bây giờ.  {normalA}Nhưng đừng quá lâu, không thì sẽ không còn sự lựa chọn đâu.
 6) DANNY
-[pickup2] {normalA}Chào này, Trigger.
+[pickup2] {normalA}Chào nhé, cò súng.
 7) DANNY
-[pickup2] {normalA}Rất vui tôi có thể dùng được cô ấy hôm này I got to use her today.
+[pickup2] {normalA}Mừng là tôi được sử dụng cô ấy hôm nay.
 8) DANNY
-[pickup2] {normalA}Cô gái tôi, đây này.
+[pickup2] {normalA}Cô gái của tôi ấy, ngay đây này.
 9) DANNY
 [pickup2] {normalA}Xin chào.
 10) 
-Anh thực sự thích khẩu súng đó.
+Anh thực sự thích khẩu súng đó nhỉ.
 14) LEE
-{normalA}[pickup2] Anh thực sự thích khẩu súng đó.
+{normalA}[pickup2] Anh thực sự thích khẩu súng đó nhỉ.
 11) 
-Có gì với cái thùng xe vậy?
+Có chuyện gì với xe cút kít thế?
 12) 
-Chỗ này nó tách biệt.
+Nơi này cách biệt và bị cô lập.
 13) 
-Anh vận hành nơi này chỉ vởi một con bò
-?
+Anh duy trì nơi này chỉ với một con bò ư?
 15) DANNY
-[pickup2] {normalA}Không có gì để thích chứt to like?
+[pickup2] {normalA}Có gì không thể thích được chứ?
 16) 
-Không nhiều, tôi đoán vậy.
+Không gì nhiều, chắc vậy.
 20) LEE
-[pickup2] {normalA}Không nhiều, tôi đoán vậy.
+[pickup2] {normalA}Không gì nhiều, chắc vậy.
 17) 
-Nó chỉ là một khẩu súng.
+Chỉ là một khẩu súng.
 22) LEE
-[pickup2] {normalA}Nó chỉ là một khẩu súng.
+[pickup2] {normalA}Chỉ là một khẩu súng thôi mà.
 18) 
-Chỉ là chút kinh dị, vậy thôi.
+Chỉ là hơi rùng rợn chút.
 23) LEE
-[pickup2] {normalA}Chỉ là chút kinh dị, vậy thôi.
+[pickup2] {normalA}Chỉ là hơi rùng rợn chút.
 19) DANNY
 [pickup2] {normalA}Chính xác.
 21) DANNY
-[pickup2] {normalA}Đó là chỗ anh sai. Đây là Charlotte. Cô ấy trung thành như một con chó săn chết đói khi bạn có một cục xương trong túi.
+[pickup2] {normalA}Đó là nơi anh đã sai đấy. Đây là Charlotte. Cô ấy trung thành như một con chó săn đang đói khi anh có một khúc xương trong túi.
 24) DANNY
-[pickup2] {normalA}Thời điểm như hiện giờ, một khẩu .243 sẽ giữ anh ấm trong đêm hơn bất kì người phụ nữ nào tôi từng biết.
+[pickup2] {normalA}Những lúc như này, một khẩu .243 sẽ giúp anh ấm giữ ấm vào ban đêm hơn bất kỳ quý cô nào tôi từng biết.
 25) DANNY
-[pickup2] Những chuyện xảy ra ở một cái nông trại on a dairy. Cắt bản thân mình chết tiệt chỉ ngày khác. Máu mọi nơi.
+[pickup2] Chuyện đó xảy ra ở trang trại. Ngày trước tôi đã tự cắt trúng mình khá là tệ. Máu ở khắp nơi.
 26) DANNY
-[pickup2] Tôi cứng rắn mà.
+[pickup2] Tôi mạnh mẽ mà.
 27) LEE
-[pickup2] Tôi đã thấy một cái thùng xe đằng kia, đầy rác. Vài cái quần áo dính máu.
+[pickup2] Tôi thấy một chiếc xe cút kít đằng kia, đầy rác. Với vài chiếc quần áo đẫm máu.
 28) LEE
-[pickup2] Anh rông có vẻ ổn.
+[pickup2] Anh trông ổn mà.
 29) LEE
-[pickup2] Mấy người có vẻ đẹp ra trong gậy, ở đây.
+[pickup2] Các anh đang ở nơi cách biệt và cô lập, nơi này ấy.
 30) LEE
-[pickup2] Anh có được nhiều người thăm không?
+[pickup2] Các anh có nhiều khách ghé thăm chứ?
 31) DANNY
-[pickup2] Không còn nữa. Bọn ăn cướp, tất nhiên. Từng có vài đứa nhóc trường trong một tua to get these school kids on tours back before the dead time.
+[pickup2] Không còn nữa. Vì bọn cướp, tất nhiên. Trước đó nơi này cũng thường đón những đứa học sinh tới tham quan.
 32) DANNY
-[pickup2] [creepy] [we are] Khó tìm thấy.
+[pickup2] [creepy] [we are] Nhưng khó để tìm ra.
 33) LEE
-[pickup2] [a little on edge]Phải không?
+[pickup2] [a little on edge]Vậy à?
 34) DANNY
-{normala}{body-a}[pickup2] Từng có nhiều hơn. Họ cũng trở nên đói. Hoặc ốm. Có bạn bác sĩ của anh tại đây rồi .
+{normala}{body-a}[pickup2] Đã từng có nhiều hơn cơ. Chúng cũng đói bụng nữa. Hoặc là bị bệnh. Nhưng cũng có người bạn bác sĩ của anh ở đây rồi.
 35) LEE
-{normala}{body-a}[pickup2] Sao anh vận hành được chỗ này với một con bò vậy?
+{normala}{body-a}[pickup2] Làm sao anh có thể duy trì nơi này chỉ với một con bò?
 36) LEE
-[pickup2] Mấy anh cần phải trao đổi rất NHIỀU xăng để khiếp cho mấy cái máy phát điện chạy, phải không?
+[pickup2] Các anh hẳn đã đổi lấy rất NHIỀU nhiên liệu để giữ cho máy phát điện hoạt động, đúng chứ?
 37) DANNY
-[pickup2] Mọi người trở nên đói và một vài miếng bánh mì lấy được giá đắt. Mọi người thật may mắn khi mấy người ở bên này của cuộc trao đổi.
+[pickup2] Mọi người trở nên đói bụng và một vài ổ bánh mì có thể có giá lắm đấy chứ. Các anh may mắn vì đang ở phía bên này của thỏa thuận đấy.
 38) DANNY
-{normala}{body-a}[pickup2] Nó sẽ là một cái tốt.
+{normala}{body-a}[pickup2] Sẽ là một bữa ngon tuyệt đấy.
 39) LEE
-{normala}{body-a}[pickup2] Tôi sẽ đi chờ món súp, vậy.
+{normala}{body-a}[pickup2] Tôi sẽ tiếp tục chờ bữa tối đây.
