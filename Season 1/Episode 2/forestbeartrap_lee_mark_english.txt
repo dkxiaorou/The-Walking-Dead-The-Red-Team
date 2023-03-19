@@ -1,16 +1,16 @@
 1) MARK
-{normalA} Tôi nghĩ rằng ta sẽ ổn nếu thoát khỏi bọn Walkers. {disgustA} Never expected that they'd starve us out.
+{normalA} Tôi cứ nghĩ ta sẽ ổn nếu tránh xa khỏi bọn xác sống. {disgustA} Ai ngờ được chúng lại khiến ta chết đói chứ.
 2) LEE
-{normalD} Ông ấy nghĩ tôi là mối nguy tới nhóm.
+{normalD} Lão ta nghĩ tôi là mối nguy cho nhóm.
 3) MARK
-{sadA} Vô lý. Anh đã cứu mạng của ấy -- đéo, tất cả mạng của chúng ta -- {thinkingA} hàng khối lần trong vài tháng vừa qua
+{sadA} Thật vớ vẩn. Anh đã cứu mạng lão -- không, tất cả chúng ta -- {thinkingA} rất nhiều lần trong những tháng vừa rồi.
 4) MARK
-{normalB} Ý tôi là -- khi anh tìm thấy Clementine, tại sao anh lại thấy tránh nhiệm đó?
+{normalB} Ý tôi là -- khi anh tìm thấy Clementine, tại sao anh lại nhận lấy trách nhiệm đó?
 5) MARK
-{sadA} Vậy tại sao anh lại làm vậy, Lee?
+{sadA} Vậy sao anh lại làm vậy, Lee?
 6) LEE
-{sadA} Cô ấy đã chết nếu không có tôi.
+{sadA} Con bé có lẽ sẽ chết nếu không có tôi.
 7) MARK
-{normalB} Mọi thứ có thể, uh, {thinkingB} căng thẳng tại trại. Lily và Kenny chắc chắn có cách xử lý khác nhau. {disgustA} Nó sẽ không như vậy khi ở Robins.
+{normalB} Mọi chuyện đang, ờ, {thinkingB} khá căng thẳng chỗ trại. Lily và Kenny rõ có những cách làm việc khác nhau. {disgustA} Đáng lẽ đã không như vậy khi ở Robins.
 8) MARK
-{thinkingA} Và Larry không giúp được gì. {disgustA} Ông ấy có vấn đề gì vậy?
+{thinkingA} Và Larry cũng chẳng giúp gì cả. {disgustA} Ông ta bị sao thế không biết?
