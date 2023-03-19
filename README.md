@@ -11,7 +11,7 @@
 
 [Season 1](https://github.com/Netxv/The-Walking-Dead-The-Red-Team/tree/main/Season%201):
 - Episode 1: ✔️
-- Episode 2: Translating (60% Completed)
+- Episode 2: Translating (90% Completed)
 - Episode 3: ❌
 - Episode 4: ❌
 - Episode 5: ❌
