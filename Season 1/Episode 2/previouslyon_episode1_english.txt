@@ -3,13 +3,15 @@
 31) CARLEY
 {thinkingA}Tôi biết anh là ai.
 2) KENNY
-Được rồi, Carley, cô sẽ xoay ca với Doug khi cậu ta cần.
+Được rồi, Carley, cô xoay ca với Doug khi cậu ta cần.
 3) CARLEY
 {NormalA}Và tôi là Carley.
 4) DOUG
 {NormalA}Là Doug, {HappyA} rõ rồi.
 5) KENNY
-{THinkingA}Và cậu, cậu để mắt đến cái cửa trước đó. {NormalB}Cậu sẽ là người trông chừng của chúng ta.
+{THinkingA}Và cậu, cậu để mắt đến cái cửa trước đó. 
+
+{NormalB}Cậu sẽ là người trông chừng của chúng ta.
 6) CLEMENTINE
 {sadA} {body-handsopen}Vâng ạ.{sadC} Cháu muốn bố mẹ mình về bây giờ.
 7) LEE
@@ -19,7 +21,9 @@
 9) CARLEY
 {NormalC}Đã rõ thưa sếp.
 10) LARRY
-{AngryC}Và ta đéo quan tâm chuyện gì đã {DisgustA}xảy ra với cậu. {AngryC} Nhưng nếu có chuyện gì xảy ra với con gái ta hoặc với đứa nhỏ mà cậu mang theo,{DisgustA} thì coi chừng đấy.
+{AngryC}Và ta đéo quan tâm chuyện gì đã {DisgustA}xảy ra với cậu. {AngryC} Nhưng nếu có chuyện gì xảy ra 
+
+với con gái ta hoặc với đứa nhỏ mà cậu mang theo,{DisgustA} thì coi chừng đấy.
 11) DOUG
 {FearD}Thánh thần ơi... [a friend has just been eaten]
 12) CARLEY
@@ -41,11 +45,13 @@
 19) LEE
 [pickup1][argument] Sẽ là lão ta hoặc con trai anh. Tôi chọn lão.
 20) KENNY
-[pickup1] [argument]Chính cmn xác; đá đít LÃO ra cùng với những THỨ đó.
+[pickup1] [argument]Chính cmn xác, đá đít LÃO ra cùng với những THỨ đó.
 21) LEE
 [pickup1] [argument] Chúng ta thuyết phục ông ấy.
 22) KENNY
-[pickup1] [argument] Máu của mày phải dính lên lưỡi rìu để không kẻ nào dám đe dọa con trai tao được nữa
+[pickup1] [argument] Máu của mày phải dính lên lưỡi rìu để không kẻ nào dám đe dọa 
+
+con trai tao được nữa
 23) KENNY
 [pickup1] [seething]Giống như tôi đang nghĩ.
 24) LEE
