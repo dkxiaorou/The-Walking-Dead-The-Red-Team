@@ -1,13 +1,19 @@
 1) LILLY
 {normalB}Nếu cuộc đi săn ở gần không ra gì, ta đành phải đi xa hơn.
 2) LILLY
-{angryB}Nhưng đây là một địa điểm tốt.  {normalB}Chúng ta được bảo vệ, vị trí gần với tiệm thuốc, {thinkingA}ta cũng đã hình thành một thông lệ và nó cũng hoạt động khá tốt.
+{angryB}Nhưng đây là một địa điểm tốt.  {normalB}Chúng ta được bảo vệ, vị trí gần với tiệm thuốc, 
+
+{thinkingA}ta cũng đã hình thành một thông lệ và nó cũng hoạt động khá tốt.
 3) LILLY
-{angryA}Trời ạ, cả anh nữa ư?  Tôi biết rằng Kenny muốn rời đi.  Tôi nghĩ đó là lý do tại sao anh ta lại muốn khiến cho chiếc RV hoạt động như vậy.
+{angryA}Trời ạ, cả anh nữa ư?  Tôi biết rằng Kenny muốn rời đi.  Tôi nghĩ đó là lý do 
+
+tại sao anh ta lại muốn khiến cho chiếc RV hoạt động như vậy.
 4) LILLY
 [pickup2]Ừ, chà, đừng mong rằng điều đó sẽ thay đổi.  Ông ấy là như thế đấy.
 5) LEE
-[pickup2]Đã ba tháng rồi, bố cô vẫn cứ cư xử với tôi cứ như tôi là tên khốn nào đó vậy.
+[pickup2]Đã ba tháng rồi, bố cô vẫn cứ cư xử với tôi cứ như tôi là tên khốn 
+
+nào đó vậy.
 6) LEE
 [pickup2]Vậy ra ÔNG TA là tên khốn.
 7) LEE
@@ -15,13 +21,29 @@
 8) LEE
 [pickup2]Sao cô có thể chịu đựng được ông ta vậy?
 9) LILLY
-{angryA}Tất cả những gì ông còn lại ở thế giới này là tôi.  {sadA}Và nó cũng đi theo cả 2 hướng.  {disgustA}Vậy nên, ừ, ông ấy có thể tiếp tục đối xử với anh như vậy, nhưng đó là bởi vì ông ấy vẫn còn lại một thứ để quan tâm.
+{angryA}Tất cả những gì ông còn lại ở thế giới này là tôi.  {sadA}Và nó cũng đi theo cả 2 hướng.  
+
+{disgustA}Vậy nên, ừ, ông ấy có thể tiếp tục đối xử với anh như vậy, nhưng đó 
+
+là bởi vì ông ấy vẫn còn lại một thứ để quan tâm.
 10) LILLY
-{angryA}Nghe này. Tính bố tôi đôi khi có thể hơi khó chịu chút, tôi thừa biết.  {normalB}Nhưng ông ấy không phải là người xấu.  Ông ấy chỉ là... {sadA}có quá nhiều nỗi đau thôi.
+{angryA}Nghe này. Tính bố tôi đôi khi có thể hơi khó chịu chút, tôi thừa biết.  
+
+{normalB}Nhưng ông ấy không phải là người xấu.  
+
+Ông ấy chỉ là... {sadA}có quá nhiều nỗi đau thôi.
 11) LILLY
-{sadA}Ông ấy đã trải qua quá nhiều chuyện.  Và mất đi... {sadB}khá là nhiều thứ.  {normalB}Và nó khiến trái tim ông đông cứng lại, anh biết chứ?  {thinkingA}Ừ thì, ông ấy có hơi cục súc và đáng ghét chút, nhưng tất cả là chỉ để bảo vệ bản thân ông. Và cả tôi nữa.
+{sadA}Ông ấy đã trải qua quá nhiều chuyện.  Và mất đi... {sadB}khá là nhiều thứ.  
+
+{normalB}Và nó khiến trái tim ông đông cứng lại, anh biết chứ?  
+
+{thinkingA}Ừ thì, ông ấy có hơi cục súc và đáng ghét chút, 
+
+nhưng tất cả là chỉ để bảo vệ bản thân ông. Và cả tôi nữa.
 12) LILLY
-{angryA}Vậy nên đừng phán xét ông ấy nữa.  Và cũng đừng phán xét cả tôi vì luôn cạnh bên ông.  {sadA}Ông ấy là bố tôi, và tôi yêu ông ấy.
+{angryA}Vậy nên đừng phán xét ông ấy nữa.  Và cũng đừng phán xét cả tôi vì luôn 
+
+cạnh bên ông.  {sadA}Ông ấy là bố tôi, và tôi yêu ông ấy.
 13) 
 [Đưa một nửa quả Táo]
 15) 
@@ -75,7 +97,9 @@
 34) LILLY
 [pickup2]Tốt. Vậy ngày mai anh có thể tiếp tục khi mà còn có ít đồ ăn hơn nữa.
 35) LEE
-[pickup2]Không phải ganh đảo gì.  Nhưng tôi không hiểu cô lấy đâu ra sức để làm được việc này mỗi ngày đấy.
+[pickup2]Không phải ganh đảo gì.  Nhưng tôi không hiểu cô lấy đâu ra sức để làm được việc 
+
+này mỗi ngày đấy.
 36) LILLY
 [pickup2]Tôi không có lựa chọn.
 37) LILLY
@@ -83,9 +107,13 @@
 38) LEE
 [pickup2]Chúng ta nên nói về chuyện giữa cô và Kenny.
 39) LEE
-[pickup2]Cuộc cãi vã ấy.  Nó đang đi quá xa rồi.  Cô biết mà, mọi người đều nhận thấy điều đó.
+[pickup2]Cuộc cãi vã ấy.  Nó đang đi quá xa rồi.  Cô biết mà, mọi người đều nhận thấy 
+
+điều đó.
 40) LILLY
-[pickup2][annoyed]Nghe này, tôi đang làm việc cật lực để đảm bảo cho nơi trú ẩn này của chúng ta và Kenny thì lại không đánh giá cao về việc đó.
+[pickup2][annoyed]Nghe này, tôi đang làm việc cật lực để đảm bảo cho nơi trú ẩn này của chúng ta 
+
+và Kenny thì lại không đánh giá cao về việc đó.
 41) LEE
 [pickup2]Nhưng làm gì có còn thức ăn.  Cô biết rõ hơn ai khác mà.
 42) LILLY
@@ -119,7 +147,9 @@ Muốn chút thức ăn không? [Đưa thức ăn]
 57) LEE
 [pickup3][to himself - keeping the last bit of food for himself]Mình cũng cần duy trì sức lực nữa.
 59) LEE
-[pickup3][to himself - choosing to save the food for someone else]Thôi.  Một vài người đã nhịn đói còn lâu hơn cả mình nữa.  Họ mới là người cần nó.
+[pickup3][to himself - choosing to save the food for someone else]Thôi.  Một vài người đã nhịn đói còn lâu hơn cả mình nữa.  
+
+Họ mới là người cần nó.
 61) LEE
 Sẽ trở lại ngay.
 62) LEE
