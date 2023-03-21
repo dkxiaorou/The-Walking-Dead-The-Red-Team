@@ -36,17 +36,21 @@
 [pickup2][process: outside the house][threating Kenny, yelling]Tao bảo đừng có cử động, thằng chó!
 19) LEE
 [pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadA}Nghĩ về chồng của bà đi, Brenda!  {AngryB}Ông ấy có muốn {SadB}trang trại của mình biến thành một...
+
 {FearA}một nhà mổ xác không??!
 25) LEE
 [pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadA}Nghĩ về chồng của bà đi, Brenda!  {AngryB}Ông ấy có muốn {SadB}trang trại của mình biến thành một...
+
 {FearA}một nhà mổ xác không??!
 48) LEE
 [pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadA}Nghĩ về chồng của bà đi, Brenda!  {AngryB}Ông ấy có muốn {SadB}trang trại của mình biến thành một...
+
 {FearA}một nhà mổ xác không??!
 20) LEE
 [pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadA}Danny bị {AngryB}tâm thần rồi, Brenda!!  {AngryA}Có phải hắn ta là người khơi mào chuyện này?!
 21) LEE
 [pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{NormalD}Mấy đứa con bà... {SadB}chúng rất quan tâm tới bà!  {ThinkingB}Giờ hãy nghĩ về cảnh Duck{FearA} 
+
 lớn lên mà không có mẹ mình ở bên!
 22) LEE
 [pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{DisgustA}Chuyện gì vậy, Brenda?  {ThinkingB}Gia đình bà rõ ràng rất thông minh!  {SadB}Sao mọi chuyện lại đến nhường này?!
@@ -56,6 +60,7 @@ lớn lên mà không có mẹ mình ở bên!
 [pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{DisgustA}Chuyện gì vậy, Brenda?  {ThinkingB}Gia đình bà rõ ràng rất thông minh!  {SadB}Sao mọi chuyện lại đến nhường này?!
 23) LEE
 [pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{AngryA}Bà giữ lại những thứ này {DisgustB}để nhớ về ngày xưa tốt đẹp!  
+
 {AngryC}Đừng làm hỏng những ký ức đó với điều này!! [this=  this whole messed up situation!]
 24) LEE
 [pickup2][while Brenda has Katjaa hostage, lee tries to talk Brenda Down by reminding her of the good things]{SadB}Nơi đây là niềm tự hào của bà!  {AngryC}Giờ nhìn xem bà đã làm gì kìa!!
