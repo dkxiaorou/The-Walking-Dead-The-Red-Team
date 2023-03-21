@@ -15,7 +15,9 @@
 2) LEE
 [pickup 2] {thinkingA}Táo không, Doug?
 3) DOUG
-[pickup 2] {happyB}Chắc chắn rồi! {thinkingA}Tôi không thường ăn hoa quả...{happyA}nhưng giờ đây nó có lẽ là thứ tốt nhất trên thế giới. {normalA}Cảm ơn, Lee.
+[pickup 2] {happyB}Chắc chắn rồi! {thinkingA}Tôi không thường ăn hoa quả...{happyA}nhưng giờ đây nó có lẽ là thứ tốt 
+
+nhất trên thế giới. {normalA}Cảm ơn, Lee.
 7) LEE
 [pickup 2] {thinkingA}Không nghĩ tôi khiến anh hứng thú với chút đồ ăn à?
 56) LEE
@@ -29,7 +31,9 @@
 24) 
 Nghĩ Katjaa có thể cứu gã đó không?
 11) DOUG
-[pickup 2] {sadA}Có thể. {normalC}Ý tôi là, tôi biết về máy tính, nhưng không có nghĩa tôi có thể sửa chiếc máy tính bỏ túi.
+[pickup 2] {sadA}Có thể. {normalC}Ý tôi là, tôi biết về máy tính, nhưng không có nghĩa tôi có thể sửa 
+
+chiếc máy tính bỏ túi.
 12) DOUG
 [pickup 2] {thinkingA}Thì, phải... {happyA}hợp lý đấy.
 13) LEE
@@ -43,7 +47,11 @@ Nghĩ Katjaa có thể cứu gã đó không?
 17) LEE
 [pickup2]{happyA}{thinkingA}Cậu đang làm gì thế, Doug?
 18) DOUG
-[pickup2]{happyA}Không, là RẤT NHIỀU dây, nối với {happyB}vài chiếc chuông {happyA}được bố trí một cách chiến lược để cho chúng ta biết khi nào có xác sống đến, từ phía nào, {happyB}và mất bao lâu để chúng đến đây.
+[pickup2]{happyA}Không, là RẤT NHIỀU dây, nối với {happyB}vài chiếc chuông {happyA}được bố trí một cách chiến lược 
+
+để cho chúng ta biết khi nào có xác sống đến, từ phía nào, {happyB}và mất 
+
+bao lâu để chúng đến đây.
 19) LEE
 [pickup2][responding to "I worked up a little "warning system" for outside."]{thinkingB}Chỉ là vài đoạn dây dọ và chiếc chuông cũ thôi mà.
 20) LEE
@@ -83,7 +91,9 @@ Muốn chút thức ăn không? [Đưa thức ăn]
 40) LEE
 [pickup3][talking to doug about his alarm]Vậy là ta sẽ biết được chúng đang ở đâu và ta còn bao lâu. Thông minh đấy.
 41) DOUG
-[pickup3][talking  about his alarm]Tôi đã thiết lập ba đường dây tại bốn địa điểm và mỗi cái sẽ kích hoạt một trong bốn chiếc chuông. Nên-
+[pickup3][talking  about his alarm]Tôi đã thiết lập ba đường dây tại bốn địa điểm và mỗi cái sẽ kích hoạt 
+
+một trong bốn chiếc chuông. Nên-
 42) LEE
 [pickup3][talking to doug about his alarm]Nó hoạt động như nào?
 43) LEE
@@ -91,7 +101,9 @@ Muốn chút thức ăn không? [Đưa thức ăn]
 44) DOUG
 [pickup3][talking about Dougs alarm]Nó nên vậy.  Chúng ta sẽ phải chờ và xem.
 45) DOUG
-[pickup3][talking about Dougs alarm]Tôi biết là trông không nhiều, nhưng những cái chuông sẽ rung lên khi bọn xác sống tới gần..
+[pickup3][talking about Dougs alarm]Tôi biết là trông không nhiều, nhưng những cái chuông sẽ rung lên khi bọn 
+
+xác sống tới gần..
 46) LARRY
 [pickup3]Này, nếu nhóc Dough không muốn phần ăn của mình, thì đưa ta đây.
 47) LEE
@@ -103,10 +115,14 @@ Muốn chút thức ăn không? [Đưa thức ăn]
 49) MARK
 [pickup3]Này, nếu Doug không muốn đồ ăn, thì tôi sẽ lấy nó.
 50) MARK
-[pickup3][appologetic]Phải rồi, tôi xin lỗi. The hunger is just getting to me. Tôi sẽ để anh làm việc của mình.
+[pickup3][appologetic]Phải rồi, tôi xin lỗi. Chắc là cái đói khiến tôi mất trí rồi. 
+
+Tôi sẽ để anh làm việc của mình.
 52) DOUG
 [pickup3][Thanking Lee for saving him 3 months ago]Tôi biết anh muốn cứu tôi VÀ CẢ Carley... Nhưng, chà...
 53) DOUG
-[pickup3][Thanking Lee for saving him 3 months ago] Tôi biết mình đã nói không quan trọng lí do vì sao anh lại cứu tôi thay vì Carley, nhưng...
+[pickup3][Thanking Lee for saving him 3 months ago] Tôi biết mình đã nói không quan trọng lí do vì sao anh lại cứu tôi 
+
+thay vì Carley, nhưng...
 55) LEE
 Xin lỗi.
