@@ -21,7 +21,9 @@
 11) KENNY
 [pickup3]Tôi cần phải đến bờ biển. Đưa bọn họ ra khỏi
 12) LILLY
-[pickup3][angry] Sao các người có thể chỉ ngồi yên đó vậy! Chúng ta đã để cho chúng LẤY ĐI nó! Đó là những gì chúng ta còn lại! Các người đã để chúng lấy đi mọi thứ!
+[pickup3][angry] Sao các người có thể chỉ ngồi yên đó vậy! Chúng ta đã để cho chúng LẤY ĐI nó! 
+
+Đó là những gì chúng ta còn lại! Các người đã để chúng lấy đi mọi thứ!
 13) LILLY
 [pickup3][furious] Các người bị đéo gì vậy!
 14) DOUG
@@ -53,7 +55,9 @@
 26) LEE
 [pickup3]Tỉnh con mẹ nó dậy đi anh bạn. Chuyện này kết thúc rồi.
 27) KENNY
-[pickup3]Đừng bảo TÔI phải tỉnh dậy. Tôi còn có một gia đình THẬT SỰ để bảo vệ. Chứ không phải chỉ là sự đáng xấu hổ mà anh đang cố che dấu.
+[pickup3]Đừng bảo TÔI phải tỉnh dậy. Tôi còn có một gia đình THẬT SỰ để bảo vệ. 
+
+Chứ không phải chỉ là sự đáng xấu hổ mà anh đang cố che dấu.
 28) CLEMENTINE
 [pickup3]Chuyện gì xảy ra vậy ạ?
 29) LEE
