@@ -1,19 +1,19 @@
 1) 
 Menu chính
 2) 
-Episode 1:
+Tập 1:
 Một Ngày Mới
 3) 
-Episode 2:
+Tập 2:
 Đói Khát Và Sự Cầu Cứu
 4) 
-Episode 3:
+Tập 3:
 Con Đường Dài Phía Trước
 5) 
-Episode 4:
+Tập 4:
 Đường Cùng
 6) 
-Episode 5:
+Tập 5:
 Thời Gian Sắp Hết
 7) 
 RichPresence_Episode_06
