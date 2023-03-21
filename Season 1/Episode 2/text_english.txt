@@ -21,17 +21,17 @@ Nhìn Vào
 11) 
 Nói chuyện
 12) 
-Use
+Dùng
 13) 
 Lấy
 14) 
 Mở Ra
 15) 
-Move To
+Đi Tới
 16) 
 Đẩy
 17) 
-Unlock
+Mở Khóa
 18) 
 Tìm kiếm
 19) 
