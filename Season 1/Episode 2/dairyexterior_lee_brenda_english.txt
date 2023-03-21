@@ -1,13 +1,19 @@
 1) BRENDA
-Ngồi ngoài này, ngắm cái nông trại, tôi có thể giả vờ mọi thứ vẫn như trước kia.
+Ngồi ngoài này, ngắm cái nông trại, tôi có thể giả vờ mọi thứ 
+
+vẫn như trước kia.
 2) BRENDA
 [pickup2]Giờ là thế giới mà chúng ta phải đối diện, tôi đoán vậy.
 3) LEE
 {normald}Tôi vẫn muốn kiểm tra thử anh ấy.
 4) BRENDA
-[pickup2]{sada}Cậu phải tin tôi trong chuyện này, Lee.  {normala}Tôi đã từng khâu bao nhiêu là vết thương...Tôi biết tôi đang nói gì.
+[pickup2]{sada}Cậu phải tin tôi trong chuyện này, Lee.  {normala}Tôi đã từng khâu bao nhiêu 
+
+là vết thương...Tôi biết tôi đang nói gì.
 5) BRENDA
-Cứ chờ đi, Lee, mọi thứ sẽ tốt hơn nhiều sau món súp ngon tuyệt kèm theo một giấc ngủ ngon.
+Cứ chờ đi, Lee, mọi thứ sẽ tốt hơn nhiều sau món súp ngon tuyệt kèm 
+
+theo một giấc ngủ ngon.
 6) BRENDA
 [pickup2][friendly]Thôi nào! Sau những gì ta đã trải qua...cậu có thể gọi tôi là Brenda!
 7) LEE
@@ -27,25 +33,39 @@ Cứ chờ đi, Lee, mọi thứ sẽ tốt hơn nhiều sau món súp ngon tuy�
 52) 
 Mark ra sao trong đó rồi?
 11) BRENDA
-[pickup2]{normalA}Bệnh nhân ổn nhất mà tôi từng có. Mấy thằng con tôi nếu chỉ bị trầy chút thôi là đã la hét như sắp chết rồi. {happya}Cậu ta chắc chắn có thể dạy cho chúng một hoặc hai điều về sự cứng rắn.
+[pickup2]{normalA}Bệnh nhân ổn nhất mà tôi từng có. Mấy thằng con tôi nếu chỉ bị trầy 
+
+chút thôi là đã la hét như sắp chết rồi. {happya}Cậu ta chắc chắn có 
+
+thể dạy cho chúng một hoặc hai điều về sự cứng rắn.
 12) LEE
-[pickup2]Không có ý thô lỗ nhưng, thưa bà, sao bà lại ở ngoài đây thay vì, bà biết đấy...
+[pickup2]Không có ý thô lỗ nhưng, thưa bà, sao bà lại ở ngoài đây 
+
+thay vì, bà biết đấy...
 13) LEE
 [pickup2] Không không, tôi không có ý khiến nó nghe như vậy.
 14) BRENDA
 [pickup2][jovial]Ha, anh muốn biết tại sao tôi không làm việc trong bếp, phải chứ?
 15) BRENDA
-[pickup2]Không sao cả. Nó đang được nấu từ từ trong lò rồi. Sẽ không quá lâu đâu!
+[pickup2]Không sao cả. Nó đang được nấu từ từ trong lò rồi. Sẽ không quá 
+
+lâu đâu!
 16) BRENDA
-[pickup2]Cũng không có gì thú vị cả, có thể nói là vậy. Chỉ là giấy tờ tiền nong các thứ. Mất rất nhiều để điều hành một trang trại, Cậu biết đấy
+[pickup2]Cũng không có gì thú vị cả, có thể nói là vậy. Chỉ là giấy tờ 
+
+tiền nong các thứ. Mất rất nhiều để điều hành một trang trại, Cậu biết đấy.
 17) BRENDA
 [pickup2]Chà, ai đó có vẻ đang khá tò mò nhỉ?
 18) LEE
 [pickup2]Tôi không có ý tọc mạch đâu.
 19) LEE
-[pickup2]Vậy, mọi người đang giữ gì trong cái chuồng sau đó vậy? Ngoài con bò ra, ý tôi là vậy.
+[pickup2]Vậy, mọi người đang giữ gì trong cái chuồng sau đó vậy? Ngoài con bò ra, 
+
+ý tôi là vậy.
 20) BRENDA
-[pickup2]Tôi chỉ mừng vì hai người không bị thương. Những tên cướp đó không biết khi nào nên bỏ cuộc. Nhưng các chàng trai của tôi... chúng có thể xử lý được.
+[pickup2]Tôi chỉ mừng vì hai người không bị thương. Những tên cướp đó không biết khi 
+
+nào nên bỏ cuộc. Nhưng các chàng trai của tôi... chúng có thể xử lý được.
 21) LEE
 [pickup2]Bọn tôi va phải chút vấn đề ở đó.
 48) 
@@ -57,17 +77,31 @@ Bọn tôi va phải chút vấn đề ở đó.
 24) LEE
 [pickup2]{thinkinga}Không biết là tôi có thể sử dụng những từ đó không nữa.
 25) BRENDA
-[pickup2]{normala}Đừng phán xét người ta chứ. Thế giới này đang đem ra những điều tồi tệ nhất trong con người. Nhưng nếu thực sự quan sát, thỉnh thoảng cậu sẽ thoáng thấy phần người vẫn còn đó.
+[pickup2]{normala}Đừng phán xét người ta chứ. Thế giới này đang đem ra những điều tồi tệ 
+
+nhất trong con người. Nhưng nếu thực sự quan sát, thỉnh thoảng cậu sẽ thoáng 
+
+thấy phần người vẫn còn đó.
 26) BRENDA
-[pickup2]Khá là yên bình ngoài đây ấy chứ nhỉ? Cứ tận hưởng khi cậu còn có thể. Cậu có thể sẽ nghe thấy những con quái vật đó xào xạc bên hàng rào sớm thôi.
+[pickup2]Khá là yên bình ngoài đây ấy chứ nhỉ? Cứ tận hưởng khi cậu còn có thể. 
+
+Cậu có thể sẽ nghe thấy những con quái vật đó xào xạc bên hàng rào 
+
+sớm thôi.
 27) LEE
 [pickup2]Tôi nghĩ mình sẽ đi ngó thử xung quanh đây.
 28) BRENDA
 [pickup2]Đừng đi quá xa nhé. Bữa tối sẽ được chuẩn bị xong trước cả khi cậu biết.
 29) LEE
-[pickup2] Tôi không thể tin được Mark đã chết. Một giây trước chúng tôi còn đang nói chuyện về chỗ của bà ở đây, tự dưng sau đó lại bị một mũi tên cắm vào người.
+[pickup2] Tôi không thể tin được Mark đã chết. Một giây trước chúng tôi còn đang nói 
+
+chuyện về chỗ của bà ở đây, tự dưng sau đó lại bị một mũi tên 
+
+cắm vào người.
 30) BRENDA
-[pickup2] Ôi trời, tôi rất tiếc. Chúng tôi đã thấy vài chuyện bạo lực khủng khiếp ở đây. Nhưng tôi hứa tất cả các cậu đều an toàn.
+[pickup2] Ôi trời, tôi rất tiếc. Chúng tôi đã thấy vài chuyện bạo lực khủng khiếp 
+
+ở đây. Nhưng tôi hứa tất cả các cậu đều an toàn.
 31) 
 Sao bà lại ở ngoài đây thay vì nấu ăn?
 32) 
@@ -85,25 +119,41 @@ Bọn tôi đã gặp một người phụ nữ ở trại...
 38) BRENDA
 [pickup2] Đó không phải điều tốt đẹp gì để nói đâu, Lee.
 39) BRENDA
-[pickup2] Tôi chắc là không phải đâu. Thằng bé chỉ nhạy cảm và sẵn sàng làm bất cứ điều gì cần thiết để bảo vệ nơi này.
+[pickup2] Tôi chắc là không phải đâu. Thằng bé chỉ nhạy cảm và sẵn sàng làm bất 
+
+cứ điều gì cần thiết để bảo vệ nơi này.
 40) LEE
 [pickup2] Sao bà lại có thỏa thuận với bọn cướp?
 41) BRENDA
-[pickup2] Chúng ta còn một chút nhân tính, Lee. Chúng ta có thể làm được nhiều việc tốt hơn mà không có chúng vướng đường bằng cách xoa dịu chúng, vì vậy đó là những gì chúng ta làm.
+[pickup2] Chúng ta còn một chút nhân tính, Lee. Chúng ta có thể làm được nhiều việc 
+
+tốt hơn mà không có chúng vướng đường bằng cách xoa dịu chúng, vì vậy đó 
+
+là những gì chúng ta làm.
 42) LEE
 [pickup2] Chuyện đó thì có liên quan gì?
 43) BRENDA
 [pickup2] Có nghĩa là cậu không tin chúng được. Bất kỳ ai trong chúng.
 44) LEE
-[pickup2] Cô ta không phải là người trong "đám cướp." Có vẻ như họ đã làm điều gì đó khá tồi tệ với cô ấy và những kẻ cướp bóc của bà thì vẫn ở ngoài đó.
+[pickup2] Cô ta không phải là người trong "đám cướp." Có vẻ như họ đã làm điều 
+
+gì đó khá tồi tệ với cô ấy và những kẻ cướp bóc của bà 
+
+thì vẫn ở ngoài đó.
 45) LEE
-[pickup2] Trước khi cô ấy chết, chúng tôi đã gặp một người phụ nữ ngoài kia, tại trại của cô ấy.
+[pickup2] Trước khi cô ấy chết, chúng tôi đã gặp một người phụ nữ ngoài kia, 
+
+tại trại của cô ấy.
 51) LEE
-[pickup2] Trước khi cô ấy chết, chúng tôi đã gặp một người phụ nữ ngoài kia, tại trại của cô ấy
+[pickup2] Trước khi cô ấy chết, chúng tôi đã gặp một người phụ nữ ngoài kia, 
+
+tại trại của cô ấy
 46) BRENDA
 [pickup2] Tôi nghĩ tất cả những người trong rừng đều có vấn đề về thuốc phiện.
 47) BRENDA
-[pickup2] Những người trong rừng không tốt đâu, Lee. Tôi biết điều đó thật khó khăn, nhưng tôi rất vui vì cậu đã
+[pickup2] Những người trong rừng không tốt đâu, Lee. Tôi biết điều đó thật khó khăn, 
+
+nhưng tôi rất vui vì cậu đã
 49) LARRY
 [pickup3][reluctantly leaving Brenda as lee approaches]{normalB}Chúng ta sẽ, ờ... hoàn thành nốt cuộc trò chuyện sau.
 53) BRENDA
@@ -111,7 +161,13 @@ Bọn tôi đã gặp một người phụ nữ ở trại...
 54) 
 Có bao nhiêu căn phòng trong nhà?
 55) BRENDA
-[pickup3]{happyA}Tôi nghĩ với sự giúp đỡ của Danny, thì đã sắp xếp mọi thứ khá ổn thỏa trong nhà bếp rồi, nhưng cậu cứ thoải mái hỏi thử Andy xem. Mấy ngày qua thằng bé gánh vác khá là nhiều thứ nên tôi chắc rằng nếu có thể nhận được sự trợ giúp nào thì nó sẽ rất cảm kích đấy.
+[pickup3]{happyA}Tôi nghĩ với sự giúp đỡ của Danny, thì đã sắp xếp mọi thứ khá 
+
+ổn thỏa trong nhà bếp rồi, nhưng cậu cứ thoải mái hỏi thử Andy xem. 
+
+Mấy ngày qua thằng bé gánh vác khá là nhiều thứ nên tôi chắc rằng nếu 
+
+có thể nhận được sự trợ giúp nào thì nó sẽ rất cảm kích đấy.
 56) LEE
 [pickup3]{normalA}Tôi có thể giúp gì cho bà xung quanh nhà chứ.
 57) BRENDA
@@ -135,11 +191,17 @@ Xin lỗi, hơi thô lỗ quá.
 64) LEE
 [pickup3][flustered, as if caught] {surprisea}Uh... {thinkinga}Chỉ là tò mò thôi.
 65) BRENDA
-[pickup3]{normala}Chà, đừng lo về nó, Lee. {happya}Chúng tôi có một phòng ăn lớn tuyệt vời sẽ phù hợp với cả nhóm của cậu.
+[pickup3]{normala}Chà, đừng lo về nó, Lee. {happya}Chúng tôi có một phòng ăn lớn tuyệt vời 
+
+sẽ phù hợp với cả nhóm của cậu.
 66) BRENDA
-[pickup3][slightly offended]{angrya}Bây giờ đừng bắt đầu nghĩ quá xa.  {happya}[then friendly]Hãy tập trung vào việc chuẩn bị cho các cậu một bữa tối ngon tại nhà.
+[pickup3][slightly offended]{angrya}Bây giờ đừng bắt đầu nghĩ quá xa.  {happya}[then friendly]Hãy tập trung vào việc chuẩn bị 
+
+cho các cậu một bữa tối ngon tại nhà.
 67) BRENDA
-[pickup3][happy nostalgic]{happyc}Mừng vì cậu để ý.  Chồng tôi đã dành rất nhiều công sức cho căn nhà cũ kỹ này.
+[pickup3][happy nostalgic]{happyc}Mừng vì cậu để ý.  Chồng tôi đã dành rất nhiều công sức cho căn 
+
+nhà cũ kỹ này.
 68) LEE
 [pickup3]{happya}Chà, ông ấy đã làm rất tuyệt đấy.
 69) LEE
@@ -151,24 +213,40 @@ Xin lỗi, hơi thô lỗ quá.
 72) BRENDA
 [pickup3]{happyb} Tôi tin vào việc biến ngôi nhà thành tổ ấm mà.
 73) LEE
-[pickup3] {happya}Gia đình bà đã làm rất tuyệt vời để giữ cho nơi đây còn tồn tại đấy.
+[pickup3] {happya}Gia đình bà đã làm rất tuyệt vời để giữ cho nơi đây còn 
+
+tồn tại đấy.
 74) BRENDA
-[pickup3] {happyb}Chà ngọt ngào không cơ chứ, cảm ơn cậu Lee. Tôi và các con trai đã cố gắng thích nghi nhiều nhất có thể, nhưng chúng tôi vẫn giữ một số thói quen cũ để giúp nhắc nhở chúng tôi về những khoảng thời gian tốt đẹp xưa.
+[pickup3] {happyb}Chà ngọt ngào không cơ chứ, cảm ơn cậu Lee. Tôi và các con trai đã 
+
+cố gắng thích nghi nhiều nhất có thể, nhưng chúng tôi vẫn giữ một số thói 
+
+quen cũ để giúp nhắc nhở chúng tôi về những khoảng thời gian tốt đẹp xưa.
 75) LEE
 [pickup3] {normalB}Điều gì đã xảy ra với những người phụ việc còn lại của bà?
 ���������������������������������������������������������������������������������������������������������������
 76) BRENDA
-[pickup3][feeling tragic] {sadA}Ở đây chúng tôi cũng gặp những bi kịch của mình... cũng giống như ở những nơi khác vậy.
+[pickup3][feeling tragic] {sadA}Ở đây chúng tôi cũng gặp những bi kịch của mình... cũng giống như ở 
+
+những nơi khác vậy.
 77) BRENDA
-[pickup3][feeling tragic] {sadb}Một vài người đã rời đi để tìm kiếm gia đình mình ngay khi biết tin.
+[pickup3][feeling tragic] {sadb}Một vài người đã rời đi để tìm kiếm gia đình mình ngay khi 
+
+biết tin.
 78) BRENDA
-[pickup3] {sadA}Một số ít còn ở lại... thì... {sadc}chúng tôi đã mất gần hết bọn họ trong đêm đầu tiên những thứ đó xuất hiện ở đây.  Đúng là... một đêm khó khăn.
+[pickup3] {sadA}Một số ít còn ở lại... thì... {sadc}chúng tôi đã mất gần hết bọn họ trong 
+
+đêm đầu tiên những thứ đó xuất hiện ở đây.  Đúng là... một đêm khó khăn.
 79) LEE
 [pickup3] {normalC}Gia đình bà đã chống đỡ như thế nào kể từ ...bà biết đấy?
 80) BRENDA
-[pickup3]{normalA}Tôi nghĩ khá là khó khăn với Andy.  Dan thì trước giờ luôn là cậu bé cưng của mẹ rồi, {happya}nhưng đừng nói với nó là tôi bảo thế nhé!  [chuckles]
+[pickup3]{normalA}Tôi nghĩ khá là khó khăn với Andy.  Dan thì trước giờ luôn là cậu 
+
+bé cưng của mẹ rồi, {happya}nhưng đừng nói với nó là tôi bảo thế nhé!  [chuckles]
 81) BRENDA
-[pickup3] {normalB}Mấy thằng con là người cứu rỗi của tôi. Cả hai đều rời bỏ công việc để về giúp mẹ nó sau khi chuyện này bắt đầu xảy ra.
+[pickup3] {normalB}Mấy thằng con là người cứu rỗi của tôi. Cả hai đều rời bỏ công việc 
+
+để về giúp mẹ nó sau khi chuyện này bắt đầu xảy ra.
 82) 
 Nơi này trông tuyệt thật.
 83) 
@@ -176,7 +254,9 @@ Nơi này trông tuyệt thật.
 85) 
 Gia đình bà đã chống đỡ như thế nào?
 86) LEE
-[pickup3] �{normalA}Vậy nếu có bất cứ điều gì phát sinh mà tôi có thể giúp được, cứ đến cho tôi biết.
+[pickup3] �{normalA}Vậy nếu có bất cứ điều gì phát sinh mà tôi có thể giúp được, 
+
+cứ đến cho tôi biết.
 87) BRENDA
 [pickup3] �{happya}Chà, Lee, tôi rất cảm kích đấy.
 88) LEE
