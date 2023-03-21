@@ -1,11 +1,19 @@
 1) KENNY
-[pickup2][Conversation with Lee about leaving the Motel]Anh cũng đã bảo Glenn cậu ấy đang lựa chọn sai.  Có thể là đúng nhưng cũng có thể sai.  Và có lẽ ta sẽ không bao giờ biết được, nhưng ít nhất ta cũng phải sẵn sàng trước.
+[pickup2][Conversation with Lee about leaving the Motel]Anh cũng đã bảo Glenn cậu ấy đang lựa chọn sai.  Có thể đúng nhưng cũng có thể sai.  
+
+Và có lẽ ta sẽ không bao giờ biết được, nhưng ít nhất ta cũng phải sẵn sàng trước.
 2) KENNY
-[pickup2][Conversation with Lee about leaving the Motel] "Anh phải làm việc mà mình cần làm." Đó là điều anh đã nói với Glenn, phải chứ?
+[pickup2][Conversation with Lee about leaving the Motel] "Cậu phải làm việc mình cần làm." Đó là điều anh đã nói với Glenn, 
+
+phải chứ?
 3) LEE
-[pickup2][Conversation with Kenny about leaving the Motel]Ừ, nhưng cậu ấy rời đi là để tìm bạn của mình.  Còn gia đình của anh thì ở ngay đây mà.
+[pickup2][Conversation with Kenny about leaving the Motel]Ừ, nhưng cậu ấy rời đi là để tìm bạn của mình.  Còn gia đình của anh 
+
+thì ở ngay đây mà.
 4) KENNY
-[pickup2][Conversation with Lee about leaving the Motel]Anh đã chúc điều tốt nhất cho Glenn khi cậu ấy rời đi, tôi chỉ muốn anh tôn trọng sự lựa chọn của tôi giống vậy thôi.
+[pickup2][Conversation with Lee about leaving the Motel]Anh đã chúc điều tốt nhất cho Glenn khi cậu ấy rời đi, tôi chỉ muốn anh 
+
+tôn trọng sự lựa chọn của tôi giống vậy thôi.
 5) KENNY
 [pickup3][Conversation with Lee about leaving the Motel/  blowing the whole conversation off]Thì, chiếc RV còn chưa hoạt động nên không ích gì nói về nó lúc này cả.
 6) LEE
@@ -55,9 +63,13 @@
 23) LEE
 [pickup 2] Tôi không có đủ cho mọi người. Tôi nghĩ anh có thể chống đỡ được.
 24) KENNY
-[pickup 2] Này, anh đã chăm sóc cho thằng con tôi. Bởi vậy, anh đã làm đúng với tôi rồi.
+[pickup 2] Này, anh đã chăm sóc cho thằng con tôi. Bởi vậy, anh đã làm đúng 
+
+với tôi rồi.
 25) KENNY
-[pickup 2] Ít nhất anh cũng có thể lịch sự cho Duck một ít thức ăn chứ.  Dùng cái đầu mình đi, Lee.
+[pickup 2] Ít nhất anh cũng có thể lịch sự cho Duck một ít thức ăn chứ.  
+
+Dùng cái đầu mình đi, Lee.
 26) LEE
 [pickup 2]  Lilly có lý về việc giữ những người này là rước về thêm miệng ăn để nuôi.
 27) LEE
@@ -65,9 +77,13 @@
 28) KENNY
 [pickup 2] Giờ đó là một tuyên bố mà tôi đồng ý.
 29) KENNY
-[pickup2]Tôi biết, nhưng... có lẽ vấn đề không phải là không có thức ăn, mà là không còn gì Ở ĐÂY nữa! Chúng ta phải suy nghĩ về việc di chuyển thôi.
+[pickup2]Tôi biết, nhưng... có lẽ vấn đề không phải là không có thức ăn, mà là không còn 
+
+gì Ở ĐÂY nữa! Chúng ta phải suy nghĩ về việc di chuyển thôi.
 30) KENNY
-[pickup2]Đó không phải bí mật gì đâu, Lee.  Có lẽ đó lại là vụ cược tốt nhất của chúng ta đấy.
+[pickup2]Đó không phải bí mật gì đâu, Lee.  Có lẽ đó lại là vụ cược tốt nhất 
+
+của chúng ta đấy.
 31) LEE
 [pickup2]Nghe đây đó đồn rằng anh muốn rời khỏi motor inn.
 32) LEE
@@ -95,9 +111,15 @@ Muốn chút thức ăn không? [Đưa thức ăn]
 44) LEE
 [pickup3][to himself - choosing to save the food for someone else]Thôi.  Một vài người đã nhịn đói còn lâu hơn cả mình nữa.  Họ mới là người cần nó.
 45) KENNY
-[pickup3]Nghe này, anh đã đối tốt với tôi và gia đình tôi.  Anh đã cứu Duck khỏi bọn quái vật đó, và còn đối đầu với cả Larry ở tiệm thuốc nữa.    Tôi sẽ không quên đâu.  Anh và Clem được chào đón đi cùng chúng tôi.
+[pickup3]Nghe này, anh đã đối tốt với tôi và gia đình tôi.  Anh đã cứu Duck khỏi 
+
+bọn quái vật đó, và còn đối đầu với cả Larry ở tiệm thuốc nữa.    
+
+Tôi sẽ không quên đâu.  Anh và Clem được chào đón đi cùng chúng tôi.
 46) KENNY
-[pickup3][Letting Lee down, awkwardly refusing Lee a ride]Nghe này.  Tôi cần phải chăm sóc gia đình nữa.  Nên tôi cần biết người mà tôi mang theo có thể trông coi cho Kat và Duck không.
+[pickup3][Letting Lee down, awkwardly refusing Lee a ride]Nghe này.  Tôi cần phải chăm sóc gia đình nữa.  Nên tôi cần biết người mà tôi 
+
+mang theo có thể trông coi cho Kat và Duck không.
 47) LEE
 [pickup3][asking Kenny if he'll take Lee and Clem along in the RV once it's fixed] Còn chỗ cho tôi và Clem trong đó không?
 48) LEE
@@ -109,27 +131,41 @@ Muốn chút thức ăn không? [Đưa thức ăn]
 51) 
 [pickup3] ¿Qué estás pensando, Lee?
 52) LEE
-[pickup3]Về người ở chỗ cái bẫy gấu.  Anh có nghĩ chúng ta từ bỏ hơi sớm không?  Tôi nghĩ nếu có thêm chỉ một hai phút gì đó...
+[pickup3]Về người ở chỗ cái bẫy gấu.  Anh có nghĩ chúng ta từ bỏ hơi sớm không?  
+
+Tôi nghĩ nếu có thêm chỉ một hai phút gì đó...
 53) KENNY
-[pickup3]Anh thấy gã đó rồi đấy. Chân anh ta đã hoàn toàn bị phế rồi.  Kể cả chúng ta cứu được anh ta ra, sau đó thì sao?  Tôi nghĩ về gia đình mình còn anh cần phải nghĩ về Clementine.  Ta cần sống sốt trở về bên họ.
+[pickup3]Anh thấy gã đó rồi đấy. Chân anh ta đã hoàn toàn bị phế rồi.  Kể cả chúng ta 
+
+cứu được anh ta ra, sau đó thì sao?  Tôi nghĩ về gia đình mình còn anh cần phải 
+
+nghĩ về Clementine.  Ta cần sống sốt trở về bên họ.
 54) LEE
 [pickup3]Cảm ơn đã kéo dài thời gian cho tôi để đưa anh chàng đó ra khỏi chiếc bẫy gấu.
 55) KENNY
-[pickup3]Tôi vẫn chưa tin nổi anh lại chặt chân anh ta.  Nếu là mình thì tôi không chắc có làm được thế không.
+[pickup3]Tôi vẫn chưa tin nổi anh lại chặt chân anh ta.  Nếu là mình thì tôi không chắc 
+
+có làm được thế không.
 56) LEE
 [pickup3]Tôi đâu còn lựa chọn.  Là việc đó hoặc bọn xác sống.
 57) 
 Về người ở chỗ cái bẫy gấu...
 58) KENNY
-[pickup3]Chà, "ở đây" đang không giúp ích gì cho chúng ta cả.  Anh nên suy nghĩ về việc đi với chúng tôi.  Anh và cả Clem.
+[pickup3]Chà, "ở đây" đang không giúp ích gì cho chúng ta cả.  Anh nên suy nghĩ về việc 
+
+đi với chúng tôi.  Anh và cả Clem.
 59) LEE
-[pickup3][urging Kenny to stay with the group]Bọn tôi cần anh ở đây. Chúng ta có nhiều cơ hội sống sót hơn khi đi cùng một nhóm.
+[pickup3][urging Kenny to stay with the group]Bọn tôi cần anh ở đây. Chúng ta có nhiều cơ hội sống sót hơn khi đi 
+
+cùng một nhóm.
 60) KENNY
 [pickup3]Cơ hội TỐT NHẤT để sống sót là tránh xa khỏi đất liền!  Tôi đã quyết định rồi.
 61) KENNY
 [pickup3][confident that leaving is for the best] Tôi biết là vậy.  Tôi sẽ mang theo gia đình mình đi.
 62) LEE
-[pickup3]Bờ biển nghe có vẻ là một ý tưởng thông minh.  Có lẽ đó là nơi tốt nhất.
+[pickup3]Bờ biển nghe có vẻ là một ý tưởng thông minh.  
+
+Có lẽ đó là nơi tốt nhất.
 63) LILLY
 [pickup3][Seeing Lee give Kenny food]Sao rồi Lee?  Nhìn từ trên đây trông có vẻ như anh đang chơi trò thiên vị.
 65) 
