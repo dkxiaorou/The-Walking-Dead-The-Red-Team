@@ -27,7 +27,7 @@
 14) LEE
 {sadB}Được rồi.  Vậy cháu cứ giữ gìn nó cho tốt đi.
 15) CLEMENTINE
-{sadA}I will.
+{sadA}Cháu sẽ làm thế.
 16) LEE
 [pickup2][sean edit] Chú biết chú đã nói thế.
 17) CLEMENTINE
@@ -143,4 +143,4 @@ Muốn chút thức ăn không? [Đưa thức ăn]
 71) LEE
 Chú sẽ trở lại ngay thôi.
 73) LEE
-Sẽ trở lại ngay.
+Chú sẽ trở lại ngay.
