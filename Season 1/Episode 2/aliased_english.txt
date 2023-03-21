@@ -55,9 +55,13 @@
 28) DANNY
 {body-A}{AngryA}Lee, đừng chọc điên ả.
 29) JOLENE
-{CrazyC}Giết chóc ở khắp nơi. {CrazyD}Lấy tất cả bọn người chết bây muốn đi, bọn tao sẽ tạo thêm!
+{CrazyC}Giết chóc ở khắp nơi. {CrazyD}Lấy tất cả bọn người chết bây muốn đi, 
+
+bọn tao sẽ tạo thêm!
 30) JOLENE
-{body-Crossbow}{HappyD}Cứ như bây có thể giết tao. {CrazyA}Chúng thì không thể. {CrazyD}Chúng đã cố.
+{body-Crossbow}{HappyD}Cứ như bây có thể giết tao. {CrazyA}Chúng thì không thể. 
+
+{CrazyD}Chúng đã thử.
 31) LEE
 {body-B}{AngryB}Đệt mẹ nó.
 32) LEE
@@ -89,39 +93,63 @@
 43) KENNY
 [ambient conversation]Tôi.. ờ... Tôi là một ngư dân ở Fort Lauderdale.
 44) DANNY
-[ambient conversation]Nếu muốn thì chúng tôi có thể mang về một hai con Cá Tầm, nhưng chà... Chưa bao giờ ra biển sâu cả.
+[ambient conversation]Nếu muốn thì chúng tôi có thể mang về một hai con Cá Tầm, nhưng chà... 
+
+Chưa bao giờ ra biển sâu cả.
 45) DANNY
-[ambient conversation]Chà, nghe tuyệt thật! Bố cũng thường đưa chúng tôi đi câu cá vược miệng lớn khi chúng tôi còn nhỏ.
+[ambient conversation]Chà, nghe tuyệt thật! Bố cũng thường đưa chúng tôi đi câu cá vược miệng lớn
+
+khi chúng tôi còn nhỏ.
 46) KENNY
-[ambient conversation]Về mặt thương mại, chủ yếu là Cá Hồng và Cá Ngừ Vây Vàng. Nhưng vào mùa hè, tôi thường đưa khách du lịch ra ngoài để câu cá cờ!
+[ambient conversation]Về mặt thương mại, chủ yếu là Cá Hồng và Cá Ngừ Vây Vàng. 
+
+Nhưng vào mùa hè, tôi thường đưa khách du lịch ra ngoài để câu cá cờ!
 47) KENNY
-[ambient conversation]Nói anh biết, chẳng có gì tuyệt bằng cá ngừ tươi lấy thẳng từ biến - tiến đến lò nướng - rồi đưa lên dĩa!!  Đặc biệt là cách mà Kat nấu nó nữa!
+[ambient conversation]Nói anh biết, chẳng có gì tuyệt bằng cá ngừ tươi lấy thẳng từ biến 
+
+- tiến đến lò nướng - rồi đưa lên dĩa!!  Đặc biệt là cách mà 
+
+Kat nấu nó nữa!
 48) KATJAA
-[ambient conversation]Tôi đã gặp Ken sau khi mở phòng khám thú y của mình và anh ấy đến đó với một con bạch tuột bị ốm!
+[ambient conversation]Tôi đã gặp Ken sau khi mở phòng khám thú y của mình và anh 
+
+ấy đến đó với một con bạch tuột bị ốm!
 49) KENNY
 [ambient conversation]Sao?  Tôi còn mang nó đi đâu được?
 50) DANNY
 [ambient conversation]Cô từ đâu tới vậy Katjaa?  Giọng đó hẳn là không từ Georgia rồi!
 51) KATJAA
-[ambient conversation][friendly]Không, tất nhiên không rồi!  Gia đình tôi đến từ Bỉ, nhưng chúng tôi đã chuyển đến Florida khi tôi còn niên thiếu.
+[ambient conversation][friendly]Không, tất nhiên không rồi!  Gia đình tôi đến từ Bỉ, nhưng chúng tôi 
+
+đã chuyển đến Florida khi tôi còn niên thiếu.
 52) KENNY
 [ambient conversation]Dan, anh luôn làm việc ở trang trại này à?
 53) DANNY
-[ambient conversation]Tôi á?  Không, đó là việc của bố tôi.  Tôi điều hành một công ty bảo hiểm ở Decatur.
+[ambient conversation]Tôi á?  Không, đó là việc của bố tôi.  Tôi điều hành một công ty bảo hiểm 
+
+ở Decatur.
 54) KENNY
 [ambient conversation]Tôi nghe rồi.
 55) DANNY
-[ambient conversation]Ừ, dù sao, cũng là công việc tốt.  Nhưng khi tất cả chuyện khốn khiếp này xảy ra, tôi phải quay về nhà.  Gia đình quan trọng hơn, anh biết mà?
+[ambient conversation]Ừ, dù sao, cũng là công việc tốt.  Nhưng khi tất cả chuyện khốn khiếp 
+
+này xảy ra, tôi phải quay về nhà.  Gia đình quan trọng hơn, anh biết mà?
 56) ANDY
-[ambient conversation]Phải, dù vậy Dan cảm thấy tốt nhất là rời khỏi Macon một thời gian. Gặp phải vài... vấn đề.
+[ambient conversation]Phải, dù vậy Dan cảm thấy tốt nhất là rời khỏi Macon một 
+
+thời gian. Gặp phải vài... vấn đề.
 57) LILLY
 [ambient conversation]Decatur à?
 58) ANDY
-[ambient conversation]Thì, cuối cùng tôi cũng đảm nhận vị trí giám đốc kinh doanh. Đưa tấm bằng đại học đó đi làm.
+[ambient conversation]Thì, cuối cùng tôi cũng đảm nhận vị trí giám đốc kinh doanh. 
+
+Đưa tấm bằng đại học đó đi làm.
 59) KATJAA
 [ambient conversation]Vậy anh làm gì trước đó?
 60) ANDY
-[ambient conversation]Tôi từng có một doanh nghiệp bất động sản, nhưng, cô biết đấy... nền kinh tế này...
+[ambient conversation]Tôi từng có một doanh nghiệp bất động sản, nhưng, cô biết đấy... 
+
+nền kinh tế này...
 61) DANNY
 [ambient conversation]Ừ, dù sao bố cũng muốn anh tiếp quản mà.
 62) ANDY
@@ -129,7 +157,9 @@
 63) LARRY
 [ambient conversation]Các anh đã có nông trại này được bao lâu rồi?
 64) ANDY
-[ambient conversation]Theo tôi nhớ cũng khá lâu rồi.  Chúng tôi lớn lên ở đây.  Dan và tôi giúp đỡ những gì có thể, nhưng thực sự đây là công việc của mẹ và bố.
+[ambient conversation]Theo tôi nhớ cũng khá lâu rồi.  Chúng tôi lớn lên ở đây.  Dan và tôi 
+
+giúp đỡ những gì có thể, nhưng thực sự đây là công việc của mẹ và bố.
 65) LILLY
 [ambient conversation]Vậy hai anh không làm ở đây?
 66) ANDY
@@ -141,9 +171,13 @@
 69) KATJAA
 [ambient conversation]Buối đầu lúc tập luyện thì có, nhưng phần lớn là thú nuôi trong nhà thôi.
 70) KATJAA
-[ambient conversation]Tôi bắt đầu làm việc trong phòng khám thú y ở độ tuổi đôi mươi, rồi có bằng vài năm sau đó.
+[ambient conversation]Tôi bắt đầu làm việc trong phòng khám thú y ở độ tuổi đôi mươi, 
+
+rồi có bằng vài năm sau đó.
 71) KATJAA
-[ambient conversation]Ồ đúng rồi. Trung tâm Giải cứu Động vật hoang dã luôn mang những con cá sấu bị thương tới tôi để chữa lành trước khi thả chúng.
+[ambient conversation]Ồ đúng rồi. Trung tâm Giải cứu Động vật hoang dã luôn mang những 
+
+con cá sấu bị thương tới tôi để chữa lành trước khi thả chúng.
 72) DUCK
 [ambient conversation]Và cá sấu nữa!
 73) CLEMENTINE
@@ -155,15 +189,21 @@
 76) DUCK
 [ambient conversation]Xin lỗi ạ.
 77) ANDY
-[ambient conversation]Ừ. Tiếc là bọn tôi đã mất phần lớn nguồn thức ăn trước khi có thể khiến cho thứ đó hoạt động.
+[ambient conversation]Ừ. Tiếc là bọn tôi đã mất phần lớn nguồn thức ăn trước khi 
+
+có thể khiến cho thứ đó hoạt động.
 78) KATJAA
 [ambient conversation]Kenny Jr!  Đó không phải chuyện để nói ở bàn ăn tối đâu.
 79) DANNY
 [ambient conversation][mumbled]Bọn xác sống chết tiệt.
 80) KENNY
-[ambient conversation]Mấy cuộc săn bắt của chúng tôi cũng chẳng được ổn lắm. Bọn chúng ăn sống bất cứ thứ gì mà chúng có thể nhét răng vào.
+[ambient conversation]Mấy cuộc săn bắt của chúng tôi cũng chẳng được ổn lắm. Bọn chúng ăn sống 
+
+bất cứ thứ gì mà chúng có thể nhét răng vào.
 81) DANNY
-[ambient conversation]Thì, mọi người chỉ cần biết phải săn thứ gì thôi.  Ngoài đó có đủ thịt để khiến cho mọi người sống sót nếu biết thứ gì để bắt.
+[ambient conversation]Thì, mọi người chỉ cần biết phải săn thứ gì thôi.  Ngoài đó 
+
+có đủ thịt để khiến cho mọi người sống sót nếu biết thứ gì để bắt.
 82) KATJAA
 [ambient conversation]Cảm ơn lần nữa vì bữa ăn.  Các anh không biết đã bao lâu rồi đâu!
 83) KENNY
@@ -179,7 +219,9 @@
 88) LARRY
 [ambient conversation]Nhóc à, đừng bao giờ hỏi câu đó với một người lính, hiểu chứ?
 89) LARRY
-[ambient conversation]Những gì cậu cần biết là cậu sẽ không muốn đùa với nó đâu. Chấm hết.
+[ambient conversation]Những gì cậu cần biết là cậu sẽ không muốn đùa với nó đâu. 
+
+Chấm hết.
 90) LILLY
 [ambient conversation]Bố...
 114) LILLY
@@ -187,7 +229,9 @@
 91) DANNY
 [ambient conversation]Ừ, tôi xin lỗi.
 92) ANDY
-[ambient conversation]Đừng để ý đến em tôi.  Tôi thề là nó luôn có sở thích thích ngậm ngùi lời nói của mình.
+[ambient conversation]Đừng để ý đến em tôi.  Tôi thề là nó luôn có sở thích thích 
+
+ngậm ngùi lời nói của mình.
 93) ANDY
 [ambient conversation]Vậy mọi người biết nhau từ trước à?
 94) LILLY
@@ -195,11 +239,17 @@
 95) LILLY
 [ambient conversation]Nhưng giờ bọn tôi phải dính với nhau nếu muốn sống sót.
 96) ANDY
-[ambient conversation]Tôi hiểu rồi.  Ai cũng cần biết khi nào cần phải hy sinh một thứ để có một thứ khác tốt hơn, biết chứ.
+[ambient conversation]Tôi hiểu rồi.  Ai cũng cần biết khi nào cần phải hy sinh một 
+
+thứ để có một thứ khác tốt hơn, biết chứ.
 97) KENNY
 [ambient conversation]Mà cũng không đúng.  Bọn nhóc không nên chứng kiến những điều này.
 98) KATJAA
-[ambient conversation]Bọn trẻ rất kiên cường, anh biết mà?  Tôi ghét khi thấy bọn trẻ phải lớn lên như thế này, nhưng dưới tình hình hiện tại, tôi nghĩ bọn nó đang làm rất tốt.
+[ambient conversation]Bọn trẻ rất kiên cường, anh biết mà?  Tôi ghét khi thấy bọn trẻ phải 
+
+lớn lên như thế này, nhưng dưới tình hình hiện tại, tôi nghĩ bọn nó 
+
+đang làm rất tốt.
 99) DANNY
 [ambient conversation]Bọn trẻ đã đối mặt như nào với ...mọi thứ?
 100) DANNY
@@ -221,7 +271,9 @@
 108) DANNY
 [ambient conversation]Đó là lý do chúng tôi cần Katjaa giúp.
 109) DANNY
-[ambient conversation]Bọn tôi cũng muốn có thêm một con bê khỏe mạnh, nhưng phần lớn, bọn tôi muốn maybelle ổn hơn.
+[ambient conversation]Bọn tôi cũng muốn có thêm một con bê khỏe mạnh, 
+
+nhưng phần lớn, bọn tôi muốn maybelle ổn hơn.
 110) LEE
 [pickup1][hushed but shocked!] Mark?!  Chuyện gì đã xảy ra?!!
 111) MARK
@@ -233,7 +285,9 @@ Bố! Làm ơi, dừng lại!
 115) LILLY
 [worried] Không! Bố, cố lên! BỐ!
 116) LILLY
-Ôi Chúa ơi, ông ấy ngừng thở rồi. Tôi nghĩ ông lại lên cơn đau tim rồi!
+Ôi Chúa ơi, ông ấy ngừng thở rồi. Tôi nghĩ ông lại lên cơn
+
+đau tim rồi!
 117) KENNY
 Đệt!  Ông ta chết rồi ư?
 118) LILLY
@@ -273,9 +327,13 @@ Ta không thể giết ông ta nếu ông ta chưa chết, Kenny!
 136) LILLY
 {normalB}Nếu cuộc đi săn ở gần không ra gì, ta đành phải đi xa hơn.
 137) LILLY
-{angryB}Nhưng đây là một nơi tốt.  {normalB}Chúng ta được bảo vệ, vị trí gần với tiệm thuốc, {thinkingA}chúng ta đã có lịch trình và nó cũng hoạt động tốt.
+{angryB}Nhưng đây là một nơi tốt.  {normalB}Chúng ta được bảo vệ, vị trí gần 
+
+với tiệm thuốc, {thinkingA}chúng ta đã có lịch trình và nó cũng hoạt động tốt.
 138) LILLY
-{angryA}Trời, không phải anh nữa chứ.  Tôi biết kenny muốn rời đi.  Tôi nghĩ đó là lý do tại sao anh ta muốn làm cho chiếc RV hoạt động.
+{angryA}Trời, không phải anh nữa chứ.  Tôi biết kenny muốn rời đi.  
+
+Tôi nghĩ đó là lý do tại sao anh ta muốn làm cho chiếc RV hoạt động.
 139) LEE
 {normalC}Những máy phát này đủ để cung cấp điện cho cả trang trại ư?
 140) LEE
@@ -283,21 +341,33 @@ Ta không thể giết ông ta nếu ông ta chưa chết, Kenny!
 141) ANDY
 {normalA}Tiếc là vậy. {sadA}Chúng tôi mất bố mình vào tháng đầu tiên.
 142) ANDY
-{angryA}Sau đó, chúng tôi đã đụng độ với bọn cướp cách đây 1 tháng rưỡi, {sadA}chúng giết đi một người.
+{angryA}Sau đó, chúng tôi đã đụng độ với bọn cướp cách đây 1 tháng rưỡi, 
+
+{sadA}chúng giết đi một người.
 143) ANDY
-{angryA}Và rồi ANH TA sống dậy và xử lý phần còn lại trước khi bọn tôi có thể ngăn anh ta lại.
+{angryA}Và rồi ANH TA sống dậy và xử lý phần còn lại trước khi bọn tôi có thể 
+
+ngăn anh ta lại.
 144) LEE
 {thinkingB}Hàng rào điện đủ để ngăn chặn bọn xác sống ư?
 145) ANDY
-{happyC}Xác sống ư? {happyB}Đó là cách mà anh gọi chúng à? Được đấy. [beat] {normalC}Cái cũ thì không, nhưng Mac -- quản đốc của bọn tôi -- {happyA}anh ấy đã nghĩ ra cách khuếch đại nó bằng máy phát điện.
+{happyC}Xác sống ư? {happyB}Đó là cách mà anh gọi chúng à? Được đấy. 
+
+[beat] {normalC}Cái cũ thì không, nhưng Mac -- quản đốc của bọn tôi -- {happyA}anh ấy đã 
+
+nghĩ ra cách khuếch đại nó bằng máy phát điện.
 146) ANDY
-{happyB}Chúng tôi thường ngồi ngoài đây vài đêm và xem lũ đó kêu xèo xèo và nổ tung khi đến quá gần hàng rào.
+{happyB}Chúng tôi thường ngồi ngoài đây vài đêm và xem lũ đó kêu xèo xèo 
+
+và nổ tung khi đến quá gần hàng rào.
 147) ANDY
 {happyA}Khá là giải trí trong những ngày này, tôi đoán vậy.
 148) LEE
 {normalD}Bọn tôi có thể giúp đỡ chỗ hàng rào không?
 149) ANDY
-{normalB}Thực ra thì, có đấy. {normalA}Một vài con xác sống đã lọt qua được khi máy phát đang hết xăng.
+{normalB}Thực ra thì, có đấy. {normalA}Một vài con xác sống đã lọt 
+
+qua được khi máy phát đang hết xăng.
 150) DANNY
 {normalC}Nhớ rằng: giờ ta chỉ trinh sát thôi. Liều chết không có ích gì cả.
 151) DANNY
@@ -309,19 +379,29 @@ Ta không thể giết ông ta nếu ông ta chưa chết, Kenny!
 153) LEE
 {normalC}Làm thế nào?
 154) DANNY
-{normalC}Không sao.  {normalB}Anh không cần phải lựa chọn ngay.  {normalA}Nhưng đừng quá lâu, không thì anh không còn sự lựa chọn đâu.
+{normalC}Không sao.  {normalB}Anh không cần phải lựa chọn ngay.  {normalA}Nhưng đừng quá lâu, không thì 
+
+anh không còn sự lựa chọn đâu.
 155) BRENDA
-Ngồi ngoài này, ngắm cái nông trại, tôi có thể giả vờ mọi thứ vẫn như trước kia.
+Ngồi ngoài này, ngắm cái nông trại, tôi có thể giả vờ mọi thứ vẫn 
+
+như trước kia.
 156) BRENDA
 [pickup2]Giờ là thế giới mà chúng ta phải đối diện, tôi đoán vậy.
 157) LEE
 Tôi vẫn muốn kiểm tra thử anh ấy.
 158) BRENDA
-[pickup2]Cậu phải tin tôi trong chuyện này, Lee.  Tôi đã từng khâu bao nhiêu là vết thương...Tôi biết tôi đang nói gì.
+[pickup2]Cậu phải tin tôi trong chuyện này, Lee.  Tôi đã từng khâu 
+
+bao nhiêu là vết thương...Tôi biết tôi đang nói gì.
 159) BRENDA
-Cứ chờ đi, Lee, mọi thứ sẽ tốt hơn nhiều sau món súp ngon tuyệt kèm theo một giấc ngủ ngon.
+Cứ chờ đi, Lee, mọi thứ sẽ tốt hơn nhiều sau món súp 
+
+ngon tuyệt kèm theo một giấc ngủ ngon.
 160) BRENDA
-[pickup2][friendly]Thôi nào! Sau những gì ta đã trải qua...cậu có thể gọi tôi là Brenda!
+[pickup2][friendly]Thôi nào! Sau những gì ta đã trải qua...cậu có thể 
+
+gọi tôi là Brenda!
 161) LEE
 [pickup2][initiating conversation]Bà St. John...
 162) LEE
@@ -329,7 +409,9 @@ Cứ chờ đi, Lee, mọi thứ sẽ tốt hơn nhiều sau món súp ngon tuy�
 163) BRENDA
 [pickup2][friendly]Sao thế, Lee?
 164) ANDY
-{happyB}Đây rồi. Trang trại sữa của gia đình nhà John.  {normalC}Không có gì nhiều, {happyA}nhưng nó đã giữ cho bọn tôi an toàn tới giờ.
+{happyB}Đây rồi. Trang trại sữa của gia đình nhà John.  {normalC}Không có gì nhiều, 
+
+{happyA}nhưng nó đã giữ cho bọn tôi an toàn tới giờ.
 167) LEE
 [Calling out, firm] {AngryC} Andy!
 168) BEN
@@ -341,7 +423,9 @@ Cứ chờ đi, Lee, mọi thứ sẽ tốt hơn nhiều sau món súp ngon tuy�
 171) KENNY
 [furious] {angryC}Cậu nói rằng hắn không bị cắn!
 172) BEN
-{disgustA}Anh sẽ sống dậy dù có chết như nào đi nữa.  {sadB}Nếu không hủy đi bộ não, {disgustA}nó sẽ cứ thế diễn ra.  {sadC}Đó là điều sẽ xảy ra với TẤT CẢ chúng ta.
+{disgustA}Anh sẽ sống dậy dù có chết như nào đi nữa.  {sadB}Nếu không hủy đi bộ não, 
+
+{disgustA}nó sẽ cứ thế diễn ra.  {sadC}Đó là điều sẽ xảy ra với TẤT CẢ chúng ta.
 173) LEE
 [a bit out of breath]{normalD} Cảm ơn.
 174) LEE
@@ -357,7 +441,9 @@ Cứ chờ đi, Lee, mọi thứ sẽ tốt hơn nhiều sau món súp ngon tuy�
 179) LEE
 {thinkingA}Hệ thống báo động cơ à?
 180) DOUG
-{thinkingA}Thì... cũng chỉ là dây dọ với vài cái lon gắn với nhau, nhưng mà, cũng hoạt động tốt.
+{thinkingA}Thì... cũng chỉ là dây dọ với vài cái lon gắn với nhau, nhưng mà, 
+
+cũng hoạt động tốt.
 181) LEE
 [flat]{normalD}Này, Doug.
 182) CLEMENTINE
@@ -371,9 +457,13 @@ Cứ chờ đi, Lee, mọi thứ sẽ tốt hơn nhiều sau món súp ngon tuy�
 186) LEE
 {normalD}Cảm ơn đã trông bọn trẻ đằng kia.
 187) CARLEY
-{happyB}Ừ, thì, bản năng của tôi là chạy qua và lấy câu truyện.  Nhưng ... {sadA}ừ... bọn trẻ không cần thấy nó.
+{happyB}Ừ, thì, bản năng của tôi là chạy qua và lấy câu truyện.  Nhưng ... {sadA}ừ... 
+
+bọn trẻ không cần thấy nó.
 188) CARLEY
-{thinkingA}À, giúp tôi một điều và nói với Lilly về việc nghỉ ngơi chút.  {angryA}Đến lượt anh và tôi gác ca tối nay rồi.  Tôi cần anh thật tập trung.
+{thinkingA}À, giúp tôi một điều và nói với Lilly về việc nghỉ ngơi chút.  
+
+{angryA}Đến lượt anh và tôi gác ca tối nay rồi.  Tôi cần anh thật tập trung.
 189) DOUG
 {sadA}Này, tôi nợ anh nhiều hơn nửa thanh keo ăn dở.  Lấy nó đi.
 190) LEE
@@ -387,7 +477,9 @@ Cứ chờ đi, Lee, mọi thứ sẽ tốt hơn nhiều sau món súp ngon tuy�
 194) LEE
 [Don't worry about me]{sadA}Tôi ổn.
 195) CARLEY
-{disgustA}Tôi muốn anh giữ cái này, được chứ? Phòng trường hợp anh hoặc Clementine bắt đầu cảm thấy yếu đi.
+{disgustA}Tôi muốn anh giữ cái này, được chứ? 
+
+Phòng trường hợp anh hoặc Clementine bắt đầu cảm thấy yếu đi.
 196) LEE
 {sadA}Cô không nợ tôi gì cả, Carley.
 197) LEE
@@ -409,7 +501,7 @@ Không, không hẳn ạ.
 205) CLEMENTINE
 [pickup1][sad and embarased after being scolded about using swear words]Vâng ạ.
 206) CLEMENTINE
-[pickup1][When duck says Lee smells funny, Clem remebers what Lee said at Hershel's Barn]Như... cứt vậy, nhỉ chú Lee?
+[pickup1][When duck says Lee smells funny, Clem remebers what Lee said at Hershel's Barn]Như... Cứt vậy, nhỉ chú Lee?
 207) LEE
 [pickup1][after Clem says something smells like "shit"] Này cháu, đừng dùng từ đó, được chứ?
 208) CLEMENTINE
