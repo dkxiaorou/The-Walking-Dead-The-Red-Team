@@ -7,7 +7,9 @@
 4) LARRY
 [pickup2]Lilly có thể tự kết bạn của mình.
 5) LEE
-[pickup2]Không phải là chuyện kết bạn.  Tất cả chúng ta đều ở đây cùng nhau, chúng ta phải bắt đầu cư xử đúng như vậy chứ.
+[pickup2]Không phải là chuyện kết bạn.  Tất cả chúng ta đều ở đây cùng nhau, chúng ta phải 
+
+bắt đầu cư xử đúng như vậy chứ.
 6) LARRY
 [pickup2]Eh, dăm ba chuyện đấy. Bọn ta vẫn sẽ ổn cả nếu không có cậu.
 7) LARRY
@@ -75,6 +77,8 @@ Muốn chút thức ăn không? [Đưa thức ăn]
 34) LARRY
 [pickup3]Ồ, ta có chứ!
 35) DOUG
-[pickup3]Ôi chà.  Tôi có thể ngửi thấy mùi đồ ăn từ đây!  Tôi hy vọng ông thưởng thức nó Larry.
+[pickup3]Ôi chà.  Tôi có thể ngửi thấy mùi đồ ăn từ đây!  
+
+Tôi hy vọng ông thưởng thức nó Larry.
 38) LEE
 Sẽ trở lại ngay.
