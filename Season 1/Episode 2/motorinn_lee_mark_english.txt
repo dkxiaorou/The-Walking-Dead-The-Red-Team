@@ -21,13 +21,17 @@
 9) LEE
 [pickup 2] Xin lỗi, không có đủ đồ ăn để chia cho mọi người.
 10) MARK
-[pickup 2]  Tôi hiểu mà. Hẳn là khó khăn lắm khi phải đưa ra sự lựa chọn đó. Chỉ là, lần sau hãy để phần cho tôi.
+[pickup 2]  Tôi hiểu mà. Hẳn là khó khăn lắm khi phải đưa ra sự lựa chọn đó. Chỉ là, 
+
+lần sau hãy để phần cho tôi.
 11) LEE
 [pickup 2]Lilly khá là nổi nóng với chúng ta.
 26) 
 Lilly khá là nổi nóng với chúng ta đấy.
 12) MARK
-[pickup 2] Thì...cô ta muốn ta làm gì đây, bỏ lại những thanh thiếu niên đó ở lại với bọn xác sống ư?
+[pickup 2] Thì...cô ta muốn ta làm gì đây, bỏ lại những thanh thiếu niên đó ở lại 
+
+với bọn xác sống ư?
 13) MARK
 [pickup 2] Bọn tôi sẽ xong ngay thôi.
 14) LEE
@@ -41,7 +45,9 @@ Lilly khá là nổi nóng với chúng ta đấy.
 18) LARRY
 [pickup2][flat] Không.
 19) LEE
-[pickup2][casual. Talking to Mark at Motel]Anh có bao giờ nhớ chỗ căn cứ Không Quân không?  Ý tôi là bức tường này hẳn là chưa đạt tiêu chuẩn quân sự đâu nhỉ.
+[pickup2][casual. Talking to Mark at Motel]Anh có bao giờ nhớ chỗ căn cứ Không Quân không?  Ý tôi là bức tường này hẳn là 
+
+chưa đạt tiêu chuẩn quân sự đâu nhỉ.
 20) MARK
 [pickup2]Không đời nào tôi trở lại đó đâu. Anh đã thấy nó như thế nào khi các anh đến đón tôi mà. {sadA} Hoàn toàn tràn ngập luôn.
 21) LARRY
@@ -51,7 +57,9 @@ Lilly khá là nổi nóng với chúng ta đấy.
 23) LARRY
 [pickup2][after not being given food because Lee is "All Out"]Ồ thật vậy à?  Chà, tiện thật nhỉ.
 24) LARRY
-[pickup2][defending Lilly]Nhưng không gì cả!  Con bé đang đưa ra sự lựa chọn thông minh.  Bọn ký sinh mà các người đem về cần phải rời đi!
+[pickup2][defending Lilly]Nhưng không gì cả!  Con bé đang đưa ra sự lựa chọn thông minh.  
+
+Bọn ký sinh mà các người đem về cần phải rời đi!
 25) 
 Có bao giờ nhớ chỗ căn cứ Không Quân không?
 27) 
@@ -59,7 +67,9 @@ Nói chuyện
 28) 
 Đưa thức ăn
 29) MARK
-Thật ra thì, bọn tôi sẽ cần tới cây rìu của anh đấy.  Có phiền không nếu chúng tôi dùng nó?
+Thật ra thì, bọn tôi sẽ cần tới cây rìu của anh đấy.  Có phiền không 
+
+nếu chúng tôi dùng nó?
 30) 
 Xin lỗi, tôi hết đồ ăn rồi.
 31) 
@@ -67,7 +77,9 @@ Muốn chút thức ăn không? [Đưa thức ăn]
 38) LEE
 [pickup3][casual/tired]Ừ.  Tôi chỉ mong rằng Katjaa có thể cứu anh ta.
 39) MARK
-[pickup3][greeting Lee]Này.  Anh vẫn ổn chứ Lee?  Lúc nãy khá là căng thẳng đấy.  Phải cắt cả chân của anh ta đi.
+[pickup3][greeting Lee]Này.  Anh vẫn ổn chứ Lee?  Lúc nãy khá là căng thẳng đấy.  
+
+Phải cắt cả chân của anh ta đi.
 40) MARK
 [pickup3]Này, anh biết đó chỉ là tai nạn thôi đúng chứ.  Tôi không cố ý bắn cậu ta.
 41) LEE
