@@ -1,5 +1,7 @@
 1) DANNY
-{normalC}Hãy nhớ: chúng ta chỉ thám thính tình hình lúc này thôi. Không có ích gì khi liều chết cả.
+{normalC}Hãy nhớ: chúng ta chỉ thám thính tình hình lúc này thôi. Không có ích gì 
+
+khi liều chết cả.
 2) DANNY
 {normalC}Anh nghĩ sao về nơi này?
 3) LEE
@@ -7,7 +9,9 @@
 4) LEE
 {normalC}Làm cách nào?
 5) DANNY
-{normalC}Ổn mà.  {normalB}Anh không cần phải quyết định bây giờ.  {normalA}Nhưng đừng quá lâu, không thì sẽ không còn sự lựa chọn đâu.
+{normalC}Ổn mà.  {normalB}Anh không cần phải quyết định bây giờ.  {normalA}Nhưng đừng quá lâu, không 
+
+thì sẽ không còn sự lựa chọn đâu.
 6) DANNY
 [pickup2] {normalA}Chào nhé, cò súng.
 7) DANNY
@@ -43,15 +47,23 @@ Chỉ là hơi rùng rợn chút.
 19) DANNY
 [pickup2] {normalA}Chính xác.
 21) DANNY
-[pickup2] {normalA}Đó là nơi anh đã sai đấy. Đây là Charlotte. Cô ấy trung thành như một con chó săn đang đói khi anh có một khúc xương trong túi.
+[pickup2] {normalA}Đó là nơi anh đã sai đấy. Đây là Charlotte. Cô ấy trung thành như 
+
+một con chó săn đang đói khi anh có một khúc xương trong túi.
 24) DANNY
-[pickup2] {normalA}Những lúc như này, một khẩu .243 sẽ giúp anh ấm giữ ấm vào ban đêm hơn bất kỳ quý cô nào tôi từng biết.
+[pickup2] {normalA}Những lúc như này, một khẩu .243 sẽ giúp anh ấm giữ ấm vào ban đêm 
+
+hơn bất kỳ quý cô nào tôi từng biết.
 25) DANNY
-[pickup2] Chuyện đó xảy ra ở trang trại. Ngày trước tôi đã tự cắt trúng mình khá là tệ. Máu ở khắp nơi.
+[pickup2] Chuyện đó xảy ra ở trang trại. Ngày trước tôi đã tự cắt trúng mình khá 
+
+là tệ. Máu ở khắp nơi.
 26) DANNY
 [pickup2] Tôi mạnh mẽ mà.
 27) LEE
-[pickup2] Tôi thấy một chiếc xe cút kít đằng kia, đầy rác. Với vài chiếc quần áo đẫm máu.
+[pickup2] Tôi thấy một chiếc xe cút kít đằng kia, đầy rác. Với vài chiếc 
+
+quần áo đẫm máu.
 28) LEE
 [pickup2] Anh trông ổn mà.
 29) LEE
@@ -59,19 +71,27 @@ Chỉ là hơi rùng rợn chút.
 30) LEE
 [pickup2] Các anh có nhiều khách ghé thăm chứ?
 31) DANNY
-[pickup2] Không còn nữa. Vì bọn cướp, tất nhiên. Trước đó nơi này cũng thường đón những đứa học sinh tới tham quan.
+[pickup2] Không còn nữa. Vì bọn cướp, tất nhiên. Trước đó nơi này cũng thường đón những 
+
+đứa học sinh tới tham quan.
 32) DANNY
 [pickup2] [creepy] [we are] Nhưng khó để tìm ra.
 33) LEE
 [pickup2] [a little on edge]Vậy à?
 34) DANNY
-{normala}{body-a}[pickup2] Đã từng có nhiều hơn cơ. Chúng cũng đói bụng nữa. Hoặc là bị bệnh. Nhưng cũng có người bạn bác sĩ của anh ở đây rồi.
+{normala}{body-a}[pickup2] Đã từng có nhiều hơn cơ. Chúng cũng đói bụng nữa. Hoặc là bị bệnh. 
+
+Nhưng cũng có người bạn bác sĩ của anh ở đây rồi.
 35) LEE
 {normala}{body-a}[pickup2] Làm sao anh có thể duy trì nơi này chỉ với một con bò?
 36) LEE
-[pickup2] Các anh hẳn đã đổi lấy rất NHIỀU nhiên liệu để giữ cho máy phát điện hoạt động, đúng chứ?
+[pickup2] Các anh hẳn đã đổi lấy rất NHIỀU nhiên liệu để giữ cho máy phát điện 
+
+hoạt động, đúng chứ?
 37) DANNY
-[pickup2] Mọi người trở nên đói bụng và một vài ổ bánh mì có thể có giá lắm đấy chứ. Các anh may mắn vì đang ở phía bên này của thỏa thuận đấy.
+[pickup2] Mọi người trở nên đói bụng và một vài ổ bánh mì có thể có giá 
+
+lắm đấy chứ. Các anh may mắn vì đang ở phía bên này của thỏa thuận đấy.
 38) DANNY
 {normala}{body-a}[pickup2] Sẽ là một bữa ngon tuyệt đấy.
 39) LEE
