@@ -45,7 +45,7 @@ Cháu thấy trang trại như thế nào?
 22) 
 Chúng ta an toàn ở đây.
 23) CLEMENTINE
-[pickup3][smiling] {HappyA}Vâng ạ.
+[pickup3][smiling] {HappyA}Ổn ạ.
 24) CLEMENTINE
 [pickup3]{ThinkingA}Cháu ổn, Cháu đoán vậy. Chú có ổn không?
 25) LEE
@@ -81,7 +81,9 @@ Chú không chắc.
 39) 
 Chú không nghĩ vậy.
 40) LEE
-[pickup3]{Body-CrouchAxe}{HappyA}Có chứ.  Chú không chắc là khi nào, nhưng rồi sẽ có một ngày mọi thứ trở lại bình thường thôi.
+[pickup3]{Body-CrouchAxe}{HappyA}Có chứ.  Chú không chắc là khi nào, nhưng rồi sẽ có một ngày mọi thứ 
+
+trở lại bình thường thôi.
 41) CLEMENTINE
 [pickup3]{HappyA}Thế thì tốt ạ. Cháu mong là sẽ sớm.
 42) LEE
