@@ -1,5 +1,7 @@
 1) LEE
-[Pickup 2] {thinkingA}Nếu trại của các cậu đã bị cướp, có lẽ nghĩa là cậu đã không ăn một thời gian rồi.
+[Pickup 2] {thinkingA}Nếu trại của các cậu đã bị cướp, có lẽ nghĩa là cậu đã không ăn 
+
+một thời gian rồi.
 2) BEN
 [pickup 2]{sadA}Tôi ĐÚNG LÀ đang rất đói. {happyA}Cảm ơn.
 3) 
@@ -27,7 +29,9 @@
 11) LEE
 [pickup2]{SadA}Sao rồi, nhóc?
 12) BEN
-[pickup2]{sadA}Uh, thì, tôi, ờm... {fearA}Tôi cứ tự hỏi liệu lúc đó tôi đã có thể làm gì để giúp, anh biết đấy? {thinkingA}Như là...{sadA}Tôi không biết nữa. BẤT CỨ GÌ.
+[pickup2]{sadA}Uh, thì, tôi, ờm... {fearA}Tôi cứ tự hỏi liệu lúc đó tôi đã có thể làm gì để giúp, 
+
+anh biết đấy? {thinkingA}Như là...{sadA}Tôi không biết nữa. BẤT CỨ GÌ.
 13) LEE
 [pickup 2] {sadA}Tôi chắc là cậu đã làm những gì có thể rồi.
 14) BEN
@@ -59,9 +63,13 @@ Vậy, cậu là ai?
 25) BEN
 [pickup2]{thinkingA}Người mà anh đã cứu là thầy Parker, trưởng ban âm nhạc của trường tôi.
 26) BEN
-[pickup2][sounding pretty fragile]Tất cả chúng tôi đều đến từ Stone Mountain để tham dự vòng loại trực tiếp khi... khi mọi chuyện xảy ra.
+[pickup2][sounding pretty fragile]Tất cả chúng tôi đều đến từ Stone Mountain để tham dự vòng loại trực tiếp khi... 
+
+khi mọi chuyện xảy ra.
 27) BEN
-[pickup2]Người ở chỗ chiếc xe tải là Travis.  Cậu ấy cùng chơi trong ban nhạc của trường với tôi. Thầy Parker là trưởng ban nhưng - Chúa ơi, tôi không tin được là ta đã bỏ thầy ấy lại.
+[pickup2]Người ở chỗ chiếc xe tải là Travis.  Cậu ấy cùng chơi trong ban nhạc của trường với tôi. 
+
+Thầy Parker là trưởng ban nhưng - Chúa ơi, tôi không tin được là ta đã bỏ thầy ấy lại.
 28) 
 Cậu đã làm những gì có thể rồi.
 31) 
@@ -99,7 +107,9 @@ Muốn chút thức ăn không? [Đưa thức ăn]
 48) BEN
 [pickup3][Sad] Tôi không tin được chúng ta lại bỏ lại thầ Parker ở đó...
 49) LEE
-[pickup3]Tôi đã cố rồi. Thực sự đã cố. Tôi chỉ là... chúng ta đã hết thời gian.  Không còn gì mà ta có thể làm.
+[pickup3]Tôi đã cố rồi. Thực sự đã cố. Tôi chỉ là... chúng ta đã hết thời gian.  
+
+Không còn gì mà ta có thể làm.
 50) CARLEY
 [pickup3][seeing Lee give precious food to the new guy]Anh đang làm gì vậy Lee?  Chỗ thức ăn nên chia cho CHÚNG TÔI trước chứ.
 51) LEE
