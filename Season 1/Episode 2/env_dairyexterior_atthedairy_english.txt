@@ -9,7 +9,9 @@
 5) LEE
 [to himself]{SadA}Không có thư đến và đi trong những ngày này nhỉ.
 6) DANNY
-Ừ, bọn tôi không thật sự dùng nhó nhiều nữa.  Bọn tôi chỉ còn lại một con bò, và chúng tôi đã chuyển hầu hết cỏ khô của nó đi rồi.
+Ừ, bọn tôi không thật sự dùng nó nhiều nữa.  Bọn tôi chỉ còn lại một con bò, 
+
+và chúng tôi đã chuyển hầu hết cỏ khô của nó đi rồi.
 7) LEE
 Những Kiện Cỏ Khô.
 8) LEE
@@ -17,31 +19,47 @@ Những Kiện Cỏ Khô.
 9) DANNY
 {NormalB}Không, chẳng còn gì làm ở đây cả.
 10) ANDY
-{normalB}Ờ, có vũ khí nào trên người thì, {normalC}phải để nó ở bên ngoài. Không mang chúng vào nhà được.
+{normalB}Ờ, có vũ khí nào trên người thì, {normalC}phải để nó ở bên ngoài. 
+
+Không mang chúng vào nhà được.
 11) ANDY
 {happyB}Mùi thơm phết, nhỉ?
 12) LEE
-{happyA}Phải.  {normalA}Hẳn là một trong những đặc quyền của cuộc sống ở trang trại. Đặc biệt là trong những ngày này.
+{happyA}Phải.  {normalA}Hẳn là một trong những đặc quyền của cuộc sống ở trang trại. 
+
+Đặc biệt là trong những ngày này.
 13) ANDY
-{thinkingA}Mẹ tôi khăng khăng vậy. {happyA}Đừng lo, hôm nay tôi chưa thấy tên xác sống nào lảng vảng cả. {normalC}Bên cạnh đó, Danny và tôi sẽ sẵn sàng nếu ta có va phải rắc rối.
+{thinkingA}Mẹ tôi khăng khăng vậy. {happyA}Đừng lo, hôm nay tôi chưa thấy tên xác sống nào lảng vảng cả. 
+
+{normalC}Bên cạnh đó, Danny và tôi sẽ sẵn sàng nếu ta có va phải rắc rối.
 14) ANDY
 {happyB}Nó đây rồi. Trang trại sữa của gia đình nhà John.
 15) MARK
 {happyA}Nó đẹp thật.
 16) LILLY
-{thinkingA}Ta phải làm thế. Chúng ta cần ăn.  {sadA}Nhất là bố đấy. {normalC}Bố cần phải duy trì sức khỏe của mình.
+{thinkingA}Ta phải làm thế. Chúng ta cần ăn.  {sadA}Nhất là bố đấy. {normalC}Bố cần phải duy trì 
+
+sức khỏe của mình.
 17) LARRY
 {angryA}Và có chắc là chúng ta có thể tin họ chứ?
 18) LARRY
-{angryA}Thì, Lee đã có thể mang thức ăn về cho tất cả chúng ta, {normalC}không chỉ là những người ở lại.
+{angryA}Thì, Lee đã có thể mang thức ăn về cho tất cả chúng ta, {normalC}không chỉ là 
+
+những người ở lại.
 19) LEE
-{normalC}Thì, Ben vẫn còn lo sợ cuộc tấn công của bọn cướp đến chúng ta.  {normalB}Nhưng cậu ta vẫn cần ăn.
+{normalC}Thì, Ben vẫn còn lo sợ cuộc tấn công của bọn cướp đến chúng ta.  
+
+{normalB}Nhưng cậu ta vẫn cần ăn.
 20) LARRY
 {normalC}Nếu hỏi ta, thì thằng nhóc đó nên dũng cảm hơn.
 21) LILLY
-{normalC}Thì, Doug đã chuẩn bị rồi nên là nếu có xác sống đến, thì họ sẽ biết.  {normalA}Ben sẽ học được một bài học về bảo vệ bản thân.
+{normalC}Thì, Doug đã chuẩn bị rồi nên là nếu có xác sống đến, thì họ sẽ biết.  
+
+{normalA}Ben sẽ học được một bài học về bảo vệ bản thân.
 22) LILLY
-{normalA}Con đã bảo Carley trông chừng cậu ta rồi.  Cô ấy biết cách tự xử lý.  {normalB}Con chắc là cô ấy có thể dạy dỗ cậu ta mạnh mẽ hơn thôi.
+{normalA}Con đã bảo Carley trông chừng cậu ta rồi.  Cô ấy biết cách tự xử lý.  {normalB}Con chắc là 
+
+cô ấy có thể dạy dỗ cậu ta mạnh mẽ hơn thôi.
 23) LARRY
 [offended]{angryA}Giờ nghe đây-
 24) KENNY
@@ -51,9 +69,15 @@ Những Kiện Cỏ Khô.
 26) LEE
 [quietly] {angryA}Gì thế?
 27) KENNY
-[quietly] {normalB}Có thể không có gì cả, nhưng... {normalA}nhưng tôi đã ở chỗ chuồng giúp chuyển cỏ khô, {thinkingA}và có vẻ như họ có một kho chứa ở phía sau.
+[quietly] {normalB}Có thể không có gì cả, nhưng... {normalA}nhưng tôi đã ở chỗ chuồng giúp chuyển cỏ khô, 
+
+{thinkingA}và có vẻ như họ có một kho chứa ở phía sau.
 28) KENNY
-[quietly] {thinkingA}Khi không có ai nhìn, tôi đã thử ngó nhanh qua cánh cửa . {angryA}Họ có một đống thùng giấy trong đó, anh bạn ạ. [acuseatory]{normalB}Họ đang tích trữ gì đó, {angryA}và ai đó cần phải tìm hiểu xem đó là gì.
+[quietly] {thinkingA}Khi không có ai nhìn, tôi đã thử ngó nhanh qua cánh cửa . {angryA}Họ có một đống thùng giấy 
+
+trong đó, anh bạn ạ. [acuseatory]{normalB}Họ đang tích trữ gì đó, {angryA}và ai đó cần 
+
+phải tìm hiểu xem đó là gì.
 29) LEE
 {normalC}Sao thế?
 30) LEE
@@ -65,7 +89,9 @@ Cửa Chuồng
 33) ANDY
 [pickup1][when asked about keeping livestock in the barn]Đã từng thôi.  Giờ chỉ có mỗi con bò, và nó cũng có vẻ không ổn lắm.
 34) ANDY
-[pickup1][alt - depending on who is closer to the Barn Loft]Phải, mà bọn tôi cũng không dùng nó nhiều nữa.  Bọn tôi chỉ còn lại một con bò, và chúng tôi cũng đã chuyển hầu hết cỏ khô của nó đi.
+[pickup1][alt - depending on who is closer to the Barn Loft]Phải, mà bọn tôi cũng không dùng nó nhiều nữa.  Bọn tôi chỉ còn lại một con bò, 
+
+và chúng tôi cũng đã chuyển hầu hết cỏ khô của nó đi.
 35) 
 Cánh Đồng Ngô
 36) 
@@ -91,9 +117,11 @@ Cổng
 46) LEE
 [pickup2] [To Himself]Mong là họ không nhờ mình dọn thứ đó.
 47) LEE
-[pickup2] [To Himself] Có vẻ đã không chơi với nó trong nhiều tháng rồi. Trông nó khá là rùng rợn.
+[pickup2] [To Himself] Có vẻ đã ai không chơi với nó trong nhiều tháng rồi. Trông nó khá là rùng rợn.
 48) LEE
-[pickup2] [To Himself] {DisgustA}"Chuyến miễn phí à?" Khó mà tin được họ lại cho đi bất cứ thứ gì miễn phí lúc này.
+[pickup2] [To Himself] {DisgustA}"Chuyến miễn phí à?" Khó mà tin được họ lại cho đi bất cứ thứ gì miễn phí 
+
+lúc này.
 49) LEE
 [pickup2] [To Himself] {DisgustA}Có thể thấy rằng bọn họ tự mình làm ra những thứ này.
 50) LEE
@@ -119,7 +147,9 @@ Cổng
 517) ANDY
 [pickup3] Đương nhiên. Chúng cháy khét như bọ luôn.
 60) ANDY
-[pickup3] Chúng tôi cho nguồn điện 4000 vôn chạy qua thứ đó, với máy phát điện và bộ khuếch đại.
+[pickup3] Chúng tôi cho nguồn điện 4000 vôn chạy qua thứ đó, với máy phát điện và bộ 
+
+khuếch đại.
 61) CARLEY
 [pickup2] Tôi nghĩ thế là hơi nhiều đấy...
 62) 
@@ -139,9 +169,13 @@ Không thể để lũ trẻ ở quanh hàng rào được.
 68) LEE
 [pickup2] [impressed] Đây đúng là sự bố trí tuyệt vời đấy.
 69) LEE
-[pickup2] Bọn tôi có trẻ con trong nhóm, có vẻ không an toàn khi để chúng ở gần hàng rào chết người.
+[pickup2] Bọn tôi có trẻ con trong nhóm, có vẻ không an toàn khi để chúng ở gần 
+
+hàng rào chết người.
 70) DANNY
-[pickup2] Ờ, ý Andy là bọn tôi có nhiều thứ để giúp chúng giải trí TRÁNH XA khỏi mọi nguy hiểm.
+[pickup2] Ờ, ý Andy là bọn tôi có nhiều thứ để giúp chúng giải trí TRÁNH XA khỏi 
+
+mọi nguy hiểm.
 71) ANDY
 [pickup2] Bọn trẻ có tai mà, đúng chứ? Hãy chắc rằng chúng dùng nó.
 72) DANNY
@@ -167,7 +201,9 @@ Chúng tôi đang cực kỳ đói bụng.
 85) LEE
 [pickup2] Chúng tôi đang rất đói bụng.
 80) BRENDA
-[pickup2] Vậy các cậu tới đúng chỗ rồi! Và còn mang theo xăng làm quà nữa chứ! Việc đó sẽ giúp cậu có thứ gì đó để ăn!
+[pickup2] Vậy các cậu tới đúng chỗ rồi! Và còn mang theo xăng làm quà nữa chứ! 
+
+Việc đó sẽ giúp cậu có thứ gì đó để ăn!
 81) LEE
 [pickup2] Bọn tôi vẫn còn một nhóm người ở nhà nghỉ, gần trung tâm Macon.
 82) CARLEY
@@ -181,19 +217,29 @@ Chúng tôi đang cực kỳ đói bụng.
 86) BRENDA
 [pickup2] Đây là cho mọi người đây. Nóng hổi vừa mới ra lò sáng nay.
 87) BRENDA
-[pickup2] Andy, hãy làm đứa con ngoan và mang chỗ xăng đến máy phát điện số 4, trong bếp giúp mẹ. Nó sắp cạn rồi.
+[pickup2] Andy, hãy làm đứa con ngoan và mang chỗ xăng đến máy phát điện số 4, trong bếp 
+
+giúp mẹ. Nó sắp cạn rồi.
 88) DANNY
-[pickup2] [proud]Khó mà kiếm ra được thứ như thế nữa, nếu không có một con bò sữa cùng với bơ, khá chắc là vậy.
+[pickup2] [proud]Khó mà kiếm ra được thứ như thế nữa, nếu không có một con bò sữa cùng với bơ, 
+
+khá chắc là vậy.
 89) CARLEY
 [pickup2] Tuyệt vời!
 90) BRENDA
-[pickup2] Đúng thế. Mong là Maybelle sẽ vượt qua được căn bệnh và ở lại với chúng tôi thêm một thời gian dài nữa.
+[pickup2] Đúng thế. Mong là Maybelle sẽ vượt qua được căn bệnh và ở lại với chúng tôi thêm 
+
+một thời gian dài nữa.
 91) BRENDA
 [pickup2][quiet, talking in a background convo]  Tôi không chắc lắm, không giống như lần trước, mà chúng tôi có sự giúp đỡ.
 92) MARK
-[pickup2] [outburst] Chúng tôi có một bác sĩ thú y! Chúng tôi có thể đưa cô ấy đến đây! Có lẽ sẽ giúp được cho các bạn.
+[pickup2] [outburst] Chúng tôi có một bác sĩ thú y! Chúng tôi có thể đưa cô ấy đến đây! 
+
+Có lẽ sẽ giúp được cho các bạn.
 446) MARK
-[pickup2] [outburst] Chúng tôi có một bác sĩ thú y! Chúng tôi có thể đưa cô ấy đến đây! Có lẽ sẽ giúp được cho các bạn.
+[pickup2] [outburst] Chúng tôi có một bác sĩ thú y! Chúng tôi có thể đưa cô ấy đến đây! 
+
+Có lẽ sẽ giúp được cho các bạn.
 93) BRENDA
 [pickup2][quiet, talking in a background convo] Con nói đúng, mẹ chỉ là--
 94) DANNY
@@ -207,17 +253,23 @@ Chúng tôi đang cực kỳ đói bụng.
 98) BRENDA
 [pickup2][excited] Một bác sĩ thú y ư! Ôi, trời! Lời cầu nguyện của chúng tôi đã được đáp lại rồi!
 99) BRENDA
-[pickup2] Vậy như này thì sao, các cậu đưa người bạn bác sĩ thú y của mình đến, và tôi sẽ chuẩn bị bữa tối. Một bữa tiệc lớn cho tất cả những linh hồn đói khát các bạn.
+[pickup2] Vậy như này thì sao, các cậu đưa người bạn bác sĩ thú y của mình đến, và tôi sẽ 
+
+chuẩn bị bữa tối. Một bữa tiệc lớn cho tất cả những linh hồn đói khát các bạn.
 100) BRENDA
 [pickup2] Mọi người thấy sao?
 101) LEE
 [pickup2] Bò của mọi người bị bệnh ư? Nó bị gì--
 102) LEE
-[pickup2] Đi thôi mọi người. Chúng ta đã có thứ mình cần và chúng ta còn có nhóm của mình để quay lại nữa.
+[pickup2] Đi thôi mọi người. Chúng ta đã có thứ mình cần và chúng ta còn có nhóm của mình 
+
+để quay lại nữa.
 103) BRENDA
 Ồ, các cậu chuẩn bị rời đi à? Ah. Chà, buồn thật, tôi đã nghĩ là--
 104) MARK
-[pickup2][in a huddle] Thôi nào, mọi người! Đây là cơ hội của ta. Chúng ta giúp đỡ họ và sẽ có thể THOÁT KHỎI cái nhà nghỉ bằng xuồng ba lá đó.
+[pickup2][in a huddle] Thôi nào, mọi người! Đây là cơ hội của ta. Chúng ta giúp đỡ họ và sẽ có thể 
+
+THOÁT KHỎI cái nhà nghỉ bằng xuồng ba lá đó.
 105) CARLEY
 [pickup2][in a huddle] Tôi không biết nữa, Mark. Ta chỉ mới gặp những người này.
 106) CARLEY
@@ -233,15 +285,23 @@ Chúng tôi đang cực kỳ đói bụng.
 111) MARK
 [pickup2][in a huddle] Thôi nào, Lee.
 112) CARLEY
-[pickup2] Tôi nên quay trở lại cùng với chỗ đồ ăn và tập hợp mọi người chuẩn bị di chuyển đến đây.
+[pickup2] Tôi nên quay trở lại cùng với chỗ đồ ăn và tập hợp mọi người chuẩn bị di 
+
+chuyển đến đây.
 139) DOUG
-[pickup2] Tôi nên quay trở lại cùng với chỗ đồ ăn và tập hợp mọi người chuẩn bị di chuyển đến đây.
+[pickup2] Tôi nên quay trở lại cùng với chỗ đồ ăn và tập hợp mọi người chuẩn bị di 
+
+chuyển đến đây.
 113) BRENDA
-[pickup2] Tuyệt vời! Bữa tối cho gia đình lúc bảy giờ! Cho đến lúc đó, tất cả có thể đến và thư giãn.
+[pickup2] Tuyệt vời! Bữa tối cho gia đình lúc bảy giờ! Cho đến lúc đó, tất cả có thể 
+
+đến và thư giãn.
 114) CARLEY
 [pickup2]Anh chắc chứ?
 115) LEE
-[pickup2]Mark nói đúng. Ta giúp họ và họ giúp ta và chúng ta có thể cải thiện tình hình của mình.
+[pickup2]Mark nói đúng. Ta giúp họ và họ giúp ta và chúng ta có thể cải thiện 
+
+tình hình của mình.
 116) LEE
 [pickup2] Hai người kia có lẽ hơi kỳ lạ, nhưng ta còn lựa chọn nào nữa?
 117) LEE
@@ -251,11 +311,21 @@ Chúng tôi đang cực kỳ đói bụng.
 119) BRENDA
 [pickup2] Và tôi sẽ đi tìm gì đó cho các cậu bỏ bụng.
 120) ANDY
-[pickup2] Mark và Lee, hai người chuẩn bị ổn định xong thì đến tìm tôi để sửa chỗ hàng rào.
+[pickup2] Mark và Lee, hai người chuẩn bị ổn định xong thì đến tìm tôi để sửa 
+
+chỗ hàng rào.
 121) CARLEY
-[pickup2] Không nên đánh cược vào việc này. Chúng ta không biết liệu những người này có thực sự muốn lo liệu cho cả một nhóm không. Tôi sẽ ở lại chỗ nhà nghỉ với nhóc người mới kia và chỉ đường cho cả nhóm đến trang trại. Nhà nghỉ đúng thật là cái hố chết tiệt, nhưng ta nên giữ bảo vệ cho nơi đó cho đến khi thực sự chắc là sẽ đi.
+[pickup2] Không nên đánh cược vào việc này. Chúng ta không biết liệu những người này có thực sự 
+
+muốn lo liệu cho cả một nhóm không. Tôi sẽ ở lại chỗ nhà nghỉ với nhóc người mới 
+
+kia và chỉ đường cho cả nhóm đến trang trại. Nhà nghỉ đúng thật là cái hố chết tiệt, 
+
+nhưng ta nên giữ bảo vệ cho nơi đó cho đến khi thực sự chắc là sẽ đi.
 122) CARLEY
-[pickup2] Bảo Kenny đến giúp tôi sau bữa tối, tốt nhất là mang theo một chiếc bao tải đựng đồ. Và nếu nó ổn, thì TẤT CẢ chúng ta sẽ chuyển đến.
+[pickup2] Bảo Kenny đến giúp tôi sau bữa tối, tốt nhất là mang theo một chiếc bao tải đựng đồ. 
+
+Và nếu nó ổn, thì TẤT CẢ chúng ta sẽ chuyển đến.
 123) LEE
 [pickup2] Đó là kế hoạch hay, Carley. Tôi xin lỗi vì cô phải ở lại đó.
 124) DOUG
@@ -273,7 +343,9 @@ Chúng tôi đang cực kỳ đói bụng.
 131) DOUG
 [pickup2] Mấy người này hơi kỳ lạ đấy, Lee. Và ý kiến đó đến từ tôi đấy.
 132) LEE
-[pickup2] Không, chúng ta có đồ ăn rồi. Tôi có cảm giác không lành nếu đến đây. Quay lại thôi.
+[pickup2] Không, chúng ta có đồ ăn rồi. Tôi có cảm giác không lành nếu đến đây. 
+
+Quay lại thôi.
 133) MARK
 [pickup2]LEE! Thật điên rồi! NHÌN nơi này đi.
 134) LEE
@@ -287,11 +359,21 @@ Chúng tôi đang cực kỳ đói bụng.
 138) MARK
 [pickup2][in a huddle]BÁNH QUY, DOUG. Bánh quy đấy. Cậu đang muốn nói là CÁC CẬU không thích bánh quy à?
 140) DOUG
-[pickup2] Bảo Kenny đến giúp tôi sau bữa tối, tốt nhất là mang theo một chiếc bao tải đựng đồ. Và nếu nó ổn, thì TẤT CẢ chúng ta sẽ chuyển đến.
+[pickup2] Bảo Kenny đến giúp tôi sau bữa tối, tốt nhất là mang theo một chiếc bao tải đựng đồ. 
+
+Và nếu nó ổn, thì TẤT CẢ chúng ta sẽ chuyển đến.
 141) DOUG
-[pickup2] Vậy ta phòng ngừa chút thì sao. Chúng ta đâu muốn bỏ lại nhà nghỉ trong trường hợp ở đây không ổn, phải chứ? Tôi sẽ ở lại đó với cậu nhóc người mới, tiếp tục làm chỗ hệ thống cảnh báo và chỉ đường cho cả nhóm đến đây. Ta nên để lại ai đó giữ bảo vệ cho nhà nghỉ cho đến khi thực sự chắc là sẽ đi.
+[pickup2] Vậy ta phòng ngừa chút thì sao. Chúng ta đâu muốn bỏ lại nhà nghỉ trong trường hợp 
+
+ở đây không ổn, phải chứ? Tôi sẽ ở lại đó với cậu nhóc người mới, tiếp tục làm 
+
+chỗ hệ thống cảnh báo và chỉ đường cho cả nhóm đến đây. Ta nên để lại ai 
+
+đó giữ bảo vệ cho nhà nghỉ cho đến khi thực sự chắc là sẽ đi.
 142) LEE
-[pickup2] Kế hoạch hay đấy, Doug. Cảm ơn vì đã nghĩ cho nhóm. Tôi xin lỗi vì cậu phải ở lại đó.
+[pickup2] Kế hoạch hay đấy, Doug. Cảm ơn vì đã nghĩ cho nhóm. 
+
+Tôi xin lỗi vì cậu phải ở lại đó.
 143) CARLEY
 [pickup2] Tôi đã hiểu sao các anh lại thương lượng giao kiên định như vậy.
 144) ANDY
@@ -303,11 +385,15 @@ Chúng tôi đang cực kỳ đói bụng.
 147) CARLEY
 [pickup2] Nhưng làm ơn, bọn tôi đang rất đói.
 148) LEE
-[pickup2] Chúng tôi tay không mà tới. Các con bà bảo muốn dùng thức ăn đổi lấy xăng nhưng chúng tôi đã nói rằng chúng tôi phải tự mình đến xem nơi này.
+[pickup2] Chúng tôi tay không mà tới. Các con bà bảo muốn dùng thức ăn đổi lấy xăng nhưng 
+
+chúng tôi đã nói rằng chúng tôi phải tự mình đến xem nơi này.
 149) CARLEY
 [pickup2] Ôi trời, cảm ơn bà.
 150) BRENDA
-[pickup2] Mọi người nên lấy những chiếc bánh quy mới ra lò này, như một dấu hiệu cho sự thiện ý. Và các bạn có thể mang vài thùng xăng trở lại đây để thanh toán.
+[pickup2] Mọi người nên lấy những chiếc bánh quy mới ra lò này, như một dấu hiệu cho sự thiện ý. 
+
+Và các bạn có thể mang vài thùng xăng trở lại đây để thanh toán.
 151) DANNY
 [pickup2] Họ không mang theo xăng.
 152) BRENDA
@@ -329,7 +415,9 @@ Chúng tôi đang cực kỳ đói bụng.
 160) BRENDA
 [pickup2]Các cậu sẽ có thể giúp ích cho nơi đây. Đặc biệt là với bác sĩ thú y.
 161) BRENDA
-[pickup2] Ôi trời, thật tiếc khi nghe điều đó. Chúng tôi thực sự có thể sử dụng sự trợ giúp và sẽ làm cho nó xứng đáng với thời gian bỏ ra.
+[pickup2] Ôi trời, thật tiếc khi nghe điều đó. Chúng tôi thực sự có thể sử dụng sự trợ giúp 
+
+và sẽ làm cho nó xứng đáng với thời gian bỏ ra.
 162) LEE
 [pickup2] Bọn tôi nên đi thôi.
 163) CARLEY
@@ -341,7 +429,9 @@ Tạm biệt. Bảo trọng.
 166) DANNY
 [pickup2]Ôi, đệt!
 167) LEE
-[pickup2][out of breath, frightened] Là Mark! Chúng...là do những người...trong rừng. Chúng đã bắn Mark! Anh ta chết rồi!
+[pickup2][out of breath, frightened] Là Mark! Chúng...là do những người...trong rừng. Chúng đã bắn Mark! 
+
+Anh ta chết rồi!
 168) BRENDA
 [pickup2]{fearA}Ôi, thánh thần ơi, không...
 169) ANDY
@@ -349,13 +439,17 @@ Tạm biệt. Bảo trọng.
 170) ANDY
 [pickup2][concerned]{fearC}Lee, chuyện gì vậy?
 171) ANDY
-[pickup2]{angryA}Bạn của Lee...{angryB}anh ta chết rồi. {sadA}Chúng đã bắn anh ta, mẹ à! {sadB}Là bọn khốn đó!
+[pickup2]{angryA}Bạn của Lee...{angryB}anh ta chết rồi. {sadA}Chúng đã bắn anh ta, mẹ à! 
+
+{sadB}Là bọn khốn đó!
 172) ANDY
 {angryA}[pickup2]Là do bọn khốn ở trong rừng, Mẹ à...
 173) BRENDA
 {fearB}[pickup2]Ôi, Thần Linh ơi! Chuyện gì xảy ra với cậu vậy!?
 174) BRENDA
-{disgustA}[pickup2]Ôi không, chàng trai, đi nào, Brenda giúp được. {happyB}Nhanh vào trong đi. Chúng tôi sẽ sắp xếp hết cho mọi người.
+{disgustA}[pickup2]Ôi không, chàng trai, đi nào, Brenda giúp được. {happyB}Nhanh vào trong đi. Chúng tôi sẽ 
+
+sắp xếp hết cho mọi người.
 175) ANDY
 [pickup2]Ôi đệt!
 176) DANNY
@@ -387,7 +481,9 @@ Là do xui rủi.
 188) LARRY
 {angryC}[pickup2][to Lee]Đệt con mẹ nó!
 189) LEE
-{angrya}[pickup2]Nó có thể xảy ra ở bất cứ đâu. {thinkingA}Nó cũng có thể xảy ra với chúng ta ở chỗ nhà nghỉ.
+{angrya}[pickup2]Nó có thể xảy ra ở bất cứ đâu. {thinkingA}Nó cũng có thể xảy ra với chúng ta 
+
+ở chỗ nhà nghỉ.
 190) LEE
 {fearb}[pickup2]Chỉ là xui xẻo mà thôi... {angryA}ta không thể ngừng giả định {feara}không có người xấu ở ngoài đó.
 191) LILLY
@@ -399,15 +495,21 @@ Là do xui rủi.
 215) KENNY
 {fearB}[pickup2]Trời ạ, Lee! Nói gì đi chứ!
 194) ANDY
-{fearB}[pickup2]Lúc đầu bọn chúng cũng gây cho chúng tôi rất nhiều vấn đề, {fearA}giết rất nhiều người phụ việc của chúng tôi. {fearB}Bọn tôi cũng đã khiến chúng dừng lại bằng một thỏa thuận.
+{fearB}[pickup2]Lúc đầu bọn chúng cũng gây cho chúng tôi rất nhiều vấn đề, {fearA}giết rất nhiều người 
+
+phụ việc của chúng tôi. {fearB}Bọn tôi cũng đã khiến chúng dừng lại bằng một thỏa thuận.
 195) ANDY
-{normalB}[pickup2]Nghe này, có rất nhiều người ở trong rừng. {thinkingA}Đạo tặc, lũ cướp, {fearA}gọi chúng là gì cũng được. Chúng đóng trại ở ngoài đó.
+{normalB}[pickup2]Nghe này, có rất nhiều người ở trong rừng. {thinkingA}Đạo tặc, lũ cướp, {fearA}gọi chúng là gì cũng được. 
+
+Chúng đóng trại ở ngoài đó.
 196) KENNY
 [pickup2]Anh BIẾT về bọn người này ư?
 481) KENNY
 [pickup2]Anh BIẾT về bọn người này ư?
 197) ANDY
-[pickup2]Chúng tôi xin lỗi! Bọn tôi chưa từng bị chúng gây chuyện như thế này! Chưa từng kể từ khi đưa thức ăn cho chúng!
+[pickup2]Chúng tôi xin lỗi! Bọn tôi chưa từng bị chúng gây chuyện như thế này! 
+
+Chưa từng kể từ khi đưa thức ăn cho chúng!
 198) LEE
 {angryb}[pickup2]Anh đáng lẽ phải nói với tôi về chúng!
 199) LEE
@@ -419,7 +521,9 @@ Là do xui rủi.
 202) DANNY
 [pickup2]Không có chuyện bọn tôi sẽ để yên cho bọn khốn nạn đó đâu!
 203) ANDY
-{fearA}[pickup2]Nghe này, chúng tôi có thể có thỏa thuận với bọn người đó, {angrya}nhưng chúng tôi {angryB}SẼ KHÔNG nhường nhịn {angryA}chuyện này đâu.
+{fearA}[pickup2]Nghe này, chúng tôi có thể có thỏa thuận với bọn người đó, {angrya}nhưng chúng tôi {angryB}SẼ KHÔNG 
+
+nhường nhịn {angryA}chuyện này đâu.
 204) DANNY
 {fearA}[pickup2]Mẹ biết mình phải làm gì. {happya}Bà ấy đã làm việc này nhiều rồi.
 205) ANDY
@@ -433,7 +537,9 @@ Là do xui rủi.
 209) LILLY
 {fearB}[pickup2]Chúa ơi... anh ta sẽ ổn chứ?
 210) LEE
-{fearA}[pickup2][ignoring Larry] Có người ở trong rừng. {fearb}Bọn tôi đã ở ngoài đó [points at fence], và chúng suýt đã giết cả hai bọn tôi.
+{fearA}[pickup2][ignoring Larry] Có người ở trong rừng. {fearb}Bọn tôi đã ở ngoài đó [points at fence], và chúng suýt đã giết cả 
+
+hai bọn tôi.
 211) LEE
 {fearA}[pickup2]Anh ta bị một mũi tên bắn trúng.
 212) KENNY
@@ -467,7 +573,9 @@ Tôi tưởng nơi này an toàn!
 228) DANNY
 [pickup2] {happyA}Những người còn lại, {happyb}cứ tự nhiên thoải mái đi.
 229) DANNY
-[pickup2] {thinkingA}Khi nào anh sẵn sàng "chào hỏi" bọn chúng, {angryA}thì cứ đến tìm tôi. Tôi luôn sẵn sàng.
+[pickup2] {thinkingA}Khi nào anh sẵn sàng "chào hỏi" bọn chúng, {angryA}thì cứ đến tìm tôi. 
+
+Tôi luôn sẵn sàng.
 230) LEE
 {thinkinga}[pickup2] Chú sẽ ổn thôi, được chứ?
 231) CLEMENTINE
@@ -487,13 +595,17 @@ Tôi tưởng nơi này an toàn!
 238) DANNY
 {sadA}[pickup2]Bình tĩnh đi, tất cả!
 239) DANNY
-{angryA}[pickup2]Thức ăn lấy sự bảo vệ. {fearA} Cũng không phải là bọn tôi có nhiều sự lựa chọn, nhưng chúng đã ngừng gây rối.
+{angryA}[pickup2]Thức ăn lấy sự bảo vệ. {fearA} Cũng không phải là bọn tôi có nhiều sự lựa chọn, 
+
+nhưng chúng đã ngừng gây rối.
 240) LEE
 [pickup2] Bọn tôi đáng lẽ phải xem xét kỹ về chuyện đó trước khi đến đây.
 241) DANNY
 {angryB}[pickup2]No shit!
 242) ANDY
-{fearB}[pickup2]Tôi xin lỗi, Lee. Nếu tôi biết chúng sẽ gây rối cho các anh, {fearC}thì bọn tôi đã ta đó cùng với {happyD}các anh!
+{fearB}[pickup2]Tôi xin lỗi, Lee. Nếu tôi biết chúng sẽ gây rối cho các anh, {fearC}thì bọn tôi đã 
+
+ra đó cùng với {happyD}các anh!
 243) KENNY
 {happyb}[pickup2][to Duck]Sao hai con không đến chơi với cái xích đu đi, nhỉ?
 244) DUCK
@@ -545,7 +657,9 @@ Xích Đu
 267) LEE
 [pickup2][context: are you serious?] {ThinkingB}Hả?
 268) DANNY
-[pickup2] {ThinkingA}Gì nào? Anh không mềm lòng với chúng đâu chứ nhỉ? {AngryA}Không thể sau việc chúng đã làm với bạn anh!
+[pickup2] {ThinkingA}Gì nào? Anh không mềm lòng với chúng đâu chứ nhỉ? {AngryA}Không thể sau việc chúng đã làm 
+
+với bạn anh!
 269) BRENDA
 [pickup2] {FearA}Mấy đứa đã trở lại! Chuyện sao rồi?
 270) BRENDA
@@ -569,9 +683,17 @@ Họ không hài lòng với cách quản lý của nhau.
 277) DOUG
 [pickup2] Nó là gấp đôi điện thế đấy.
 281) ANDY
-[pickup2]Các anh có thể tìm hiểu được thêm chút gì đó về hàng rào của chúng tôi. Giờ tôi đi đổ thêm xăng vào máy phát đây trước khi chúng cạn kiệt. Hãy đến chỗ tôi khi các anh đã sẵn sàng.
+[pickup2]Các anh có thể tìm hiểu được thêm chút gì đó về hàng rào của chúng tôi. 
+
+Giờ tôi đi đổ thêm xăng vào máy phát đây trước khi chúng cạn kiệt. 
+
+Hãy đến chỗ tôi khi các anh đã sẵn sàng.
 282) ANDY
-[pickup2]Các anh có thể tìm hiểu được thêm chút gì đó về hàng rào của chúng tôi. Giờ tôi đi đổ thêm xăng vào máy phát đây trước khi chúng cạn kiệt. Hãy đến chỗ tôi khi các anh đã sẵn sàng.
+[pickup2]Các anh có thể tìm hiểu được thêm chút gì đó về hàng rào của chúng tôi. 
+
+Giờ tôi đi đổ thêm xăng vào máy phát đây trước khi chúng cạn kiệt. 
+
+Hãy đến chỗ tôi khi các anh đã sẵn sàng.
 283) LEE
 [pickup2] {AngryA}Trời ạ, Danny.
 284) LEE
@@ -591,9 +713,15 @@ Họ không hài lòng với cách quản lý của nhau.
 292) BRENDA
 [pickup2] {HappyB}Ai cũng đều căng thẳng cả. Chúng ta có thể khắc phục điều đó nhanh thôi!
 294) BRENDA
-[pickup2] {HappyA}Không đâu, chỉ là đôi lúc bất đồng thôi. Mọi người đều đói bụng cả và ai mà chẳng cáu kỉnh khi dạ dày mình trống rỗng chứ.
+[pickup2] {HappyA}Không đâu, chỉ là đôi lúc bất đồng thôi. Mọi người đều đói bụng cả và ai mà 
+
+chẳng cáu kỉnh khi dạ dày mình trống rỗng chứ.
 295) BRENDA
-[pickup2][walking away] {ThinkingA}Và Lee, đừng lo về chuyện bọn cướp. Tôi lấy làm tiếc vì cậu đã chứng kiến nhiều bạo lực hơn là mình nghĩ trong thời gian ngắn, nhưng tất cả các cậu đều an toàn ở đây. Vậy nên đừng lo.
+[pickup2][walking away] {ThinkingA}Và Lee, đừng lo về chuyện bọn cướp. Tôi lấy làm tiếc vì cậu đã chứng kiến 
+
+nhiều bạo lực hơn là mình nghĩ trong thời gian ngắn, nhưng tất cả các cậu đều 
+
+an toàn ở đây. Vậy nên đừng lo.
 296) 
 Chuông Gió
 297) LEE
@@ -631,11 +759,13 @@ Công Tắc Nguồn
 312) LEE
 [pickup2]Rồi, vậy là được.
 313) LEE
-[pickup2][smiles]{HappyB}Chúng trông thật vui.
+[pickup2][smiles]{HappyB}Họ trông thật vui.
 314) LEE
 [pickup2]Hở.  Tấm khác có lỗ trong đó.  Thứ này chắc sẽ không hoạt động được.
 315) DUCK
-[pickup2]Tớ sẽ lật nó qua nhánh trên cùng! Hãy sẵn sàng cho chế độ máy bay phản lực siêu điên rồ!
+[pickup2]Tớ sẽ lật nó qua nhánh trên cùng! Hãy sẵn sàng cho chế độ máy bay phản lực 
+
+siêu điên rồ!
 316) CLEMENTINE
 [pickup2]Cảm ơn, chú Lee!
 317) DUCK
@@ -659,7 +789,9 @@ Công Tắc Nguồn
 326) LEE
 [pickup2]{ThinkingA}Vậy chắc là được.
 327) LEE
-[pickup2] Nó cần một cái lỗ, để xuyên dây qua.  Làm cách nào để có thể đục một cái lỗ qua nó đây?
+[pickup2] Nó cần một cái lỗ, để xuyên dây qua.  Làm cách nào để có thể đục một 
+
+cái lỗ qua nó đây?
 328) LEE
 [pickup2] {HappyA}Heh.  Vui thật.
 329) LEE
@@ -677,9 +809,13 @@ Công Tắc Nguồn
 335) LEE
 [pickup2]Mình không thích điều này...
 336) LEE
-[pickup2]Và có... có lẽ là máu?  Ống kính nứt?  Làm thế quái nào mà chúng ở dưới cái chòi vậy?
+[pickup2]Và có... có lẽ là máu?  Ống kính nứt?  Làm thế quái nào mà chúng ở 
+
+dưới cái chòi vậy?
 337) LEE
-[pickup2]Không phải phong cách của Brenda.  Thứ này trông như thứ mà một người phụ nữ lớn tuổi sẽ đeo.
+[pickup2]Không phải phong cách của Brenda.  Thứ này trông như thứ mà một người phụ nữ 
+
+lớn tuổi sẽ đeo.
 338) LEE
 [pickup2] Mình không cần kính cận.
 339) LEE
@@ -691,7 +827,9 @@ Công Tắc Nguồn
 342) LEE
 [pickup2]Có lẽ bà ngoại Everett sẽ mang thứ này-- nhưng không phải mình.
 343) LEE
-[pickup2]Có thể sẽ có ngày tôi phải đóng giả một bà lão cận thị 70 tuổi... nhưng ngày đó không phải là ngày hôm nay.
+[pickup2]Có thể sẽ có ngày tôi phải đóng giả một bà lão cận thị 70 tuổi... 
+
+nhưng ngày đó không phải là ngày hôm nay.
 344) LEE
 [pickup2]If there is anything in all of creation that could reduce my chances of getting laid MORE than a worldwide zombie apocalypse... it is these glasses.
 345) LEE
@@ -771,9 +909,13 @@ So much for your "understanding."
 381) LEE
 [out of breath, frightened]{sadC} ... Anh ta chết rồi!
 382) LILLY
-[pickup3]Christ!  Anh sẽ ổn chứ?
+[pickup3]Chúa ơi!  Anh sẽ ổn chứ?
 383) BRENDA
-[Pickup3]{HappyA}Và lần nữa gửi lời cảm ơn người bạn Katjaa của cậu giúp tôi nhé.  Cô ấy và bọn trẻ đang ở trong chuồng gia súc cùng với con bò.  Người phụ nữ ấy đúng là đấng cứu thế mà!
+[Pickup3]{HappyA}Và lần nữa gửi lời cảm ơn người bạn Katjaa của cậu giúp tôi nhé.  Cô ấy và 
+
+bọn trẻ đang ở trong chuồng gia súc cùng với con bò.  Người phụ nữ ấy 
+
+đúng là đấng cứu thế mà!
 384) 
 Danny y Andy
 385) 
@@ -787,7 +929,9 @@ Danny y Andy
 389) DANNY
 [pickup3][follows 310497904]Khi nào anh đã sẵn sàng đi "chào hỏi" bọn chúng thì cứ nói với chúng tôi.
 390) ANDY
-[pickup3][nervous that Lee is messing with the generator] {FearA}Này, ờm, cứ để nó vậy đi được chứ?  {ThinkingA}Thứ này hơi phức tạp chút và tôi không muốn dành nửa ngày để sửa nó lần nữa đâu.
+[pickup3][nervous that Lee is messing with the generator] {FearA}Này, ờm, cứ để nó vậy đi được chứ?  {ThinkingA}Thứ này hơi phức tạp chút và tôi 
+
+không muốn dành nửa ngày để sửa nó lần nữa đâu.
 393) MARK
 Tôi có thể nhìn thấy bản thân ở lại đây một thời gian dài.
 394) LEE
@@ -807,7 +951,9 @@ Vậy anh nghĩ sao, Lee? Ta có nên ở lại đây không?
 401) LEE
 [pickup3][explaining Lilly & Kenny's arguing] {HappyA}Mỗi người họ đều muốn quản lý, bà biết đấy?
 402) LEE
-[pickup3][explaining Lilly & Kenny fighting]{ThinkingA}Bọn họ mỗi người một ý về cách chúng tôi nên điều hành nhóm mình.  Nếu họ không tìm được điểm chung nào, cả nhóm chúng tôi chắc sẽ rã rời hết mất.
+[pickup3][explaining Lilly & Kenny fighting]{ThinkingA}Bọn họ mỗi người một ý về cách chúng tôi nên điều hành nhóm mình.  Nếu họ không 
+
+tìm được điểm chung nào, cả nhóm chúng tôi chắc sẽ rã rời hết mất.
 403) KENNY
 [pickup3]Được rồi, Duck, hãy để Clementine thử nó một chút.
 404) KENNY
@@ -841,17 +987,25 @@ Lời đề nghị đó có áp dụng cho những người còn lại của nh�
 417) DOUG
 [pickup3][seeing the dairy for the first time]Ôi, wow!  Anh có đủ điện cho cả nơi này luôn!
 418) CARLEY
-[pickup3][seeing the dairy for the first time]Nơi này trông không dễ mà xâm nhập được!  Nếu ở đây thì sẽ khó mà biết được phần còn lại của thế giới đang trong đống đổ nát.
+[pickup3][seeing the dairy for the first time]Nơi này trông không dễ mà xâm nhập được!  Nếu ở đây thì sẽ khó mà biết được 
+
+phần còn lại của thế giới đang trong đống đổ nát.
 419) ANDY
 [pickup3]Đây là Lee.  Anh ấy đến từ Macon.
 420) BRENDA
-[pickup3]Một vài tay nông dân cũ của chúng tôi cũng đến từ Macon. Tay nghề họ ở đó cũng khá tốt.
+[pickup3]Một vài tay nông dân cũ của chúng tôi cũng đến từ Macon. 
+
+Tay nghề họ ở đó cũng khá tốt.
 421) ANDY
 [pickup3]Đây là Lee. Anh ta hiện đang sống ở nhà nghỉ cũ cạnh bên đường.
 422) BRENDA
-[pickup3]Ôi trời ơi, nơi đó khá là xập xệ đấy.  Các cậu đã có ai đó có kinh nghiệm sinh tồn quản lý nhóm ở đó chưa?
+[pickup3]Ôi trời ơi, nơi đó khá là xập xệ đấy.  Các cậu đã có ai đó có kinh nghiệm 
+
+sinh tồn quản lý nhóm ở đó chưa?
 423) ANDY
-[pickup3]Đây là Lee.  Anh ấy thường xuyên đi đây đó, nhưng với tình hình hiện tại, có lẽ chúng ta có thể thuyết phục anh ấy ở lại một thời gian.
+[pickup3]Đây là Lee.  Anh ấy thường xuyên đi đây đó, nhưng với tình hình hiện tại, có lẽ 
+
+chúng ta có thể thuyết phục anh ấy ở lại một thời gian.
 424) ANDY
 [pickup3]Đây là Lee.  Anh ấy, ờm...anh chưa từng nói mình đến từ đâu cả.
 425) LEE
@@ -871,35 +1025,53 @@ Tôi giữ cho mọi chuyện trong tầm kiểm soát.
 432) BRENDA
 [pickup3] Nghe có vẻ là anh chàng thông minh.
 433) LEE
-[pickup3]Kenny đang tìm cách đưa chúng tôi đến nơi an toàn hơn.... Anh ấy không nghĩ rằng nhà trọ sẽ trụ được mãi.
+[pickup3]Kenny đang tìm cách đưa chúng tôi đến nơi an toàn hơn.... Anh ấy không nghĩ rằng nhà trọ 
+
+sẽ trụ được mãi.
 434) LEE
-[pickup3]Lilly.  Cô ấy cứng rắn như đinh đóng cột và khiến chúng tôi tập trung vào những gì cần thiết để tồn tại.
+[pickup3]Lilly.  Cô ấy cứng rắn như đinh đóng cột và khiến chúng tôi tập trung vào những gì 
+
+cần thiết để tồn tại.
 435) LEE
-[pickup3]Chúng tôi cùng nhau làm việc.  Cộng thêm, chúng tôi cũng có nhiều người có kinh nghiệm quân sự.
+[pickup3]Chúng tôi cùng nhau làm việc.  Cộng thêm, chúng tôi cũng có nhiều người có 
+
+kinh nghiệm quân sự.
 436) BRENDA
 [pickup3]Tôi mong là cậu biết mình đang làm gì.  Nơi đó không an toàn như là ở đây đâu.
 437) MARK
 [pickup3]Lilly từng ở trong quân đội, giống như tôi.
 438) BRENDA
-[pickup3]Chà, thật tốt khi nghe vậy.  Nhà nghỉ đó không phải là nơi an toàn nhất đâu.
+[pickup3]Chà, thật tốt khi nghe vậy.  Nhà nghỉ đó không phải là nơi 
+
+an toàn nhất đâu.
 439) BRENDA
-[pickup3]Chà, thật tốt khi nghe vậy.  Nhà nghỉ đó không phải là nơi an toàn nhất đâu.
+[pickup3]Chà, thật tốt khi nghe vậy.  Nhà nghỉ đó không phải là nơi 
+
+an toàn nhất đâu.
 440) ANDY
 [pickup3][catching Lee in a lie] Khoan đã.  Tôi tưởng anh nói người khác đang điều hành mọi thứ?
 441) LEE
 [pickup3][caught in a lie]Ồ, phải, tôi tưởng bà ấy hỏi về chiến thuật sinh tồn...
 442) BRENDA
-[pickup3]Chà, cũng không quan trọng nữa.  Giờ các cậu đã ở đây.  Chúng tôi sẽ đảm bảo mọi người được an toàn và thoải mái.
+[pickup3]Chà, cũng không quan trọng nữa.  Giờ các cậu đã ở đây.  Chúng tôi sẽ đảm bảo 
+
+mọi người được an toàn và thoải mái.
 443) BRENDA
-[pickup3]Giờ thì mọi người đã ở đây, chúng tôi chắc chắn sẽ giữ cho mọi người an toàn và thoải mái.
+[pickup3]Giờ thì mọi người đã ở đây, chúng tôi chắc chắn sẽ giữ cho 
+
+mọi người an toàn và thoải mái.
 445) DOUG
 [pickup3][stuffing buscutis into his mouth]Xin lỗi.
 447) BRENDA
-[pickup3]Sẽ thật tốt nếu lại có người giúp đỡ quanh đây một lần nữa. Danny, sao con không đến giúp mẹ trong nhà bếp nhỉ.
+[pickup3]Sẽ thật tốt nếu lại có người giúp đỡ quanh đây một lần nữa. Danny, sao con không 
+
+đến giúp mẹ trong nhà bếp nhỉ.
 448) DOUG
 [pickup3]Không vấn đề.  Ben có thể đi với tôi.
 449) ANDY
-[pickup3]Cô có lẽ cần đem theo ai đó đi cùng đấy. Nhớ không, những con đường đó có thể rất nguy hiểm.
+[pickup3]Cô có lẽ cần đem theo ai đó đi cùng đấy. Nhớ không, những con đường đó 
+
+có thể rất nguy hiểm.
 450) MARK
 [pickup3]Cầm lấy đi.
 451) BEN
@@ -913,41 +1085,73 @@ Tôi giữ cho mọi chuyện trong tầm kiểm soát.
 455) DOUG
 [pickup3]Được rồi!  Gặp hai người sau!
 456) ANDY
-[pickup3] Mark, Lee, sao hai người không tham quan xung quanh một chút đi.  Khi đã ổn định cả rồi, thì tôi sẽ cần đến một vài sự trợ giúp chỗ hàng rào.
+[pickup3] Mark, Lee, sao hai người không tham quan xung quanh một chút đi.  Khi đã ổn định 
+
+cả rồi, thì tôi sẽ cần đến một vài sự trợ giúp chỗ hàng rào.
 457) ANDY
-[pickup3]Đôi lúc, bọn xác sống sẽ vướng vào hàng rào trước khi bị nướng cháy và cuối cùng lại làm đổ một cây cột.  Sẽ rất hữu ích nếu hai người có thể giúp tôi sửa lại nó.
+[pickup3]Đôi lúc, bọn xác sống sẽ vướng vào hàng rào trước khi bị nướng cháy và cuối cùng 
+
+lại làm đổ một cây cột.  Sẽ rất hữu ích nếu hai người có thể giúp tôi 
+
+sửa lại nó.
 458) LEE
 [pickup3]Có vấn đề gì sao? [with the fence?]
 459) MARK
-[pickup3]  [slightly hushed] Nơi này thật TUYỆT VỜI!!  Nó có thức ăn!  Và cả hàng rào... ây chà, cái hàng rào đó!! Nếu ổn thì nơi đây có thể là nơi mà chúng ta có thể ở lại. Vậy anh nghĩ sao nào?
+[pickup3]  [slightly hushed] Nơi này thật TUYỆT VỜI!!  Nó có thức ăn!  Và cả hàng rào... ây chà, 
+
+cái hàng rào đó!! Nếu ổn thì nơi đây có thể là nơi mà chúng ta có thể ở lại. 
+
+Vậy anh nghĩ sao nào?
 460) 
 Chúng ta nên làm tất cả có thể để giúp đỡ!
 461) 
 Phải chắc rằng nơi này an toàn đã.
 462) LEE
-[pickup3]Trước khi nghĩ đến việc đưa cả nhóm đến đây để ở, chúng ta cần tìm hiểu xem nơi này có an toàn giống như họ nói không.
+[pickup3]Trước khi nghĩ đến việc đưa cả nhóm đến đây để ở, chúng ta cần tìm hiểu xem 
+
+nơi này có an toàn giống như họ nói không.
 463) LEE
-[pickup3] Họ đang đề nghị thức ăn với ta, chúng ta nên làm bất cứ điều gì có thể để khiến những người này thích chúng ta!
+[pickup3] Họ đang đề nghị thức ăn với ta, chúng ta nên làm bất cứ điều gì có thể để 
+
+khiến những người này thích chúng ta!
 464) MARK
-[pickup3]Phải rồi.  Rõ ràng HỌ nghĩ là nó an toàn, nhưng liệu nó có đủ an toàn cho lũ trẻ không? Tôi nhận thấy một chiếc xích đu bị hỏng ở đằng kia. Không phải là một vấn đề lớn, nhưng có thể còn có những thứ khác không hoạt động mà chúng ta chưa thể nhìn thấy được.
+[pickup3]Phải rồi.  Rõ ràng HỌ nghĩ là nó an toàn, nhưng liệu nó có đủ an toàn cho 
+
+lũ trẻ không? Tôi nhận thấy một chiếc xích đu bị hỏng ở đằng kia. Không phải là 
+
+một vấn đề lớn, nhưng có thể còn có những thứ khác không hoạt động mà chúng ta 
+
+chưa thể nhìn thấy được.
 465) LEE
-[pickup3]Và kiểm tra chỗ hàng rào đó nghe có vẻ là một cách hay để có cái nhìn bao quát về hệ thống phòng thủ của họ.
+[pickup3]Và kiểm tra chỗ hàng rào đó nghe có vẻ là một cách hay để có cái nhìn 
+
+bao quát về hệ thống phòng thủ của họ.
 466) LEE
-[pickup3]Càng có thêm lý do để ta KHÔNG làm hỏng chuyện này. Nếu Andy cần trợ giúp để sửa hàng rào, thì đó là việc chúng ta nên làm.
+[pickup3]Càng có thêm lý do để ta KHÔNG làm hỏng chuyện này. Nếu Andy cần trợ giúp 
+
+để sửa hàng rào, thì đó là việc chúng ta nên làm.
 467) 
 [pickup3]También noté un columpio roto por allá. Arreglarlo podría valernos unos puntos de brownie. Además, ¡estoy seguro de que Duck y Clem les encantaría!
 468) 
 [pickup3]Muy bien. ¡Seamos invitados modelo!
 469) MARK
-[pickup3]Cách mà Brenda nói chuyện, tôi có cảm giác rằng bà ta rất vui nếu chúng ta ở lại.
+[pickup3]Cách mà Brenda nói chuyện, tôi có cảm giác rằng bà ta rất vui nếu chúng ta 
+
+ở lại.
 470) MARK
-[pickup3]Được rồi, tôi sẽ mở to mắt ngó xung quanh và anh thì tìm xem những gì có thể từ Andy.
+[pickup3]Được rồi, tôi sẽ mở to mắt ngó xung quanh và anh thì tìm xem những gì 
+
+có thể từ Andy.
 471) 
 Cái hàng rào điện đã bật lên!
 472) LEE
-[pickup3]Cái hàng rào điện đã bật lên!  Vài người đã tấn công chúng tôi từ trong rừng bà bọn tôi thì bị kẹt giữa chúng và cái hàng rào!
+[pickup3]Cái hàng rào điện đã bật lên!  Vài người đã tấn công chúng tôi từ trong rừng và 
+
+bọn tôi thì bị kẹt giữa chúng và cái hàng rào!
 473) ANDY
-[pickup3][flustered]Tôi... tôi nghe thấy Mark la lên và tưởng các anh ra dấu hiệu là đã xong chứ! [sincere]Trời ạ, tôi thực sự xin lỗi.
+[pickup3][flustered]Tôi... tôi nghe thấy Mark la lên và tưởng các anh ra dấu hiệu là đã xong chứ! 
+
+[sincere]Trời ạ, tôi thực sự xin lỗi.
 474) ANDY
 [pickup3][suprised and concerned] Cướp ư!? Ở đây á?!  Trên đất của bọn tôi ư?!
 475) LEE
@@ -963,9 +1167,13 @@ Cái hàng rào điện đã bật lên!
 480) MARK
 [pickup3][in pain from the arrow, but manning up]Ừ, tôi ổn.  Chỉ cần... lấy nó ra thôi...
 482) LEE
-[pickup3][calming down after the attack]Bọn tôi gặp phải vài người ở đây... bọn cướp tôi đoán vậy.  Tôi nghĩ chúng là người đã tấn công bọn tôi.
+[pickup3][calming down after the attack]Bọn tôi gặp phải vài người ở đây... bọn cướp tôi đoán vậy.  Tôi nghĩ chúng là 
+
+người đã tấn công bọn tôi.
 483) DANNY
-[pickup3][normal]Thức ăn đổi lấy sự bảo vệ. {fearA} Không phải là bọn tôi có sự lựa chọn nào khác, nhưng chúng cũng đã ngừng gây rối.
+[pickup3][normal]Thức ăn đổi lấy sự bảo vệ. {fearA} Không phải là bọn tôi có sự lựa chọn nào khác, 
+
+nhưng chúng cũng đã ngừng gây rối.
 484) 
 Ở đây không an toàn như chúng ta đã nghĩ.
 485) LEE
@@ -973,13 +1181,17 @@ Cái hàng rào điện đã bật lên!
 486) ANDY
 [pickup3]Này mấy nhóc, nhìn xem Lee đã làm gì cho mấy đứa kìa!
 487) CLEMENTINE
-[pickup3]Một cái xích đu!!  Cháu thích xích đu!  Giống hệt như ở nhà cây của mình vậy!  Đi nào, Duck!
+[pickup3]Một cái xích đu!!  Cháu thích xích đu!  Giống hệt như ở nhà cây của mình vậy!  
+
+Đi nào, Duck!
 488) ANDY
 [pickup3][commending Lee for fixing the swing for the kids]Anh là một người tốt, Lee.  Làm tốt lắm.
 489) ANDY
 [pickup3]Chẳng trách anh lại là người lãnh đạo của nhóm mình!
 490) ANDY
-[pickup3]Này, tôi nhớ đã nhìn thấy những đứa trẻ trong nhóm của anh, vậy nên tôi đã sửa chiếc xích đu đó khi anh ra ngoài. Hy vọng bọn trẻ thích xích đu!
+[pickup3]Này, tôi nhớ đã nhìn thấy những đứa trẻ trong nhóm của anh, vậy nên tôi đã sửa 
+
+chiếc xích đu đó khi anh ra ngoài. Hy vọng bọn trẻ thích xích đu!
 491) CLEMENTINE
 [pickup3][stops to thank lee before running off to play]Cảm ơn chú Lee!  Chú là tuyệt nhất!
 492) ANDY
@@ -987,33 +1199,61 @@ Cái hàng rào điện đã bật lên!
 493) LEE
 [pickup3][for fixing the swing for the kids]Cảm ơn.
 494) KENNY
-[pickup4]Điều mà chúng ta cần làm là tìm cách đưa tất cả mọi người trong nhóm tới đây để ở.  Có thể là chiếm luôn nơi này nếu cần thiết.
+[pickup4]Điều mà chúng ta cần làm là tìm cách đưa tất cả mọi người trong nhóm tới đây 
+
+để ở.  Có thể là chiếm luôn nơi này nếu cần thiết.
 495) LARRY
-[pickup3]Này, hạ hỏa đi ngài Rambo.  Đây là những người tốt. Hãy đừng làm gì dại dột khiến chúng ta bị đá ra ngoài trước khi được ăn!
+[pickup3]Này, hạ hỏa đi ngài Rambo.  Đây là những người tốt. Hãy đừng làm gì dại dột 
+
+khiến chúng ta bị đá ra ngoài trước khi được ăn!
 496) KENNY
-[pickup4]Không an toàn á?!  Nơi này an toàn hơn rất nhiều so với chỗ nhà nghỉ!  Tôi nghĩ tất cả tay súng của chúng ta có thể xử lý được vài bọn nhãi chỉ dùng cung và mũi tên!
+[pickup4]Không an toàn á?!  Nơi này an toàn hơn rất nhiều so với chỗ nhà nghỉ!  Tôi nghĩ 
+
+tất cả tay súng của chúng ta có thể xử lý được vài bọn nhãi 
+
+chỉ dùng cung và mũi tên!
 497) LILLY
-[pickup3][voicing her opinion but trying to keep it out of earshot]Cướp ư?  Nghiêm túc đấy à?  Nơi này chẳng an toàn chút nào, chúng ta không thể ở đây được.
+[pickup3][voicing her opinion but trying to keep it out of earshot]Cướp ư?  Nghiêm túc đấy à?  Nơi này chẳng an toàn chút nào, chúng ta không thể 
+
+ở đây được.
 498) LEE
-[pickup3]Tôi sẽ ra ngoài với Dan để tìm hiểu thêm về bọn cướp. Đưa anh ta ra khỏi nơi này sẽ giúp anh có cơ hội kiểm tra nơi này sâu hơn chút. Xem có cách nào thuyết phục họ cho chúng ta ở lại một thời gian không.
+[pickup3]Tôi sẽ ra ngoài với Dan để tìm hiểu thêm về bọn cướp. Đưa anh ta ra khỏi 
+
+nơi này sẽ giúp anh có cơ hội kiểm tra nơi này sâu hơn chút. Xem có cách nào 
+
+thuyết phục họ cho chúng ta ở lại một thời gian không.
 499) LEE
-[pickup3]Nghe này, Mark và tôi đã ngó qua nơi này trước khi bọn cướp xuất hiện. Ngoài việc đó ra, nơi này có vẻ khá an toàn.
+[pickup3]Nghe này, Mark và tôi đã ngó qua nơi này trước khi bọn cướp xuất hiện. 
+
+Ngoài việc đó ra, nơi này có vẻ khá an toàn.
 500) LEE
-[pickup3]Tôi nghĩ việc có lòng tin của những người này sẽ rất quan trọng. Họ đã nói rằng họ có rất nhiều thức ăn. Nếu chúng ta có thể khiến họ nghĩ rằng việc có chúng ta ở đây sẽ mang lại lợi ích cho họ, thì tất cả chúng ta đều thắng.
+[pickup3]Tôi nghĩ việc có lòng tin của những người này sẽ rất quan trọng. Họ đã nói rằng 
+
+họ có rất nhiều thức ăn. Nếu chúng ta có thể khiến họ nghĩ rằng việc có 
+
+chúng ta ở đây sẽ mang lại lợi ích cho họ, thì tất cả chúng ta đều thắng.
 501) LARRY
 [pickup3]Bọn ta sẽ mang cho họ cái bao tải hay gì đó.
 502) LEE
 [pickup3]Ben và Doug đâu?
 503) LILLY
-[pickup3]Vì Doug đã ĂN một nửa số bánh quy trên đường đến đón chúng tôi nên tôi đã bảo họ ở lại. Tôi vẫn không nghĩ chúng ta nên cố ở lại đây và phải có ai đó trông coi nhà trọ đến khi ta quay lại.
+[pickup3]Vì Doug đã ĂN một nửa số bánh quy trên đường đến đón chúng tôi nên tôi đã bảo 
+
+họ ở lại. Tôi vẫn không nghĩ chúng ta nên cố ở lại đây và phải có ai đó trông coi 
+
+nhà trọ đến khi ta quay lại.
 504) LILLY
-[pickup3]Sau khi Carley và Ben đã ăn trước một chút đồ ăn trên đường tới đón chúng tôi, cô ấy tình nguyện ở lại trông coi chỗ nhà nghỉ cho tới khi chúng ta quay lại.
+[pickup3]Sau khi Carley và Ben đã ăn trước một chút đồ ăn trên đường tới đón chúng tôi, 
+
+cô ấy tình nguyện ở lại trông coi chỗ nhà nghỉ cho tới khi chúng ta quay lại.
 505) LEE
 [pickup3]Ben và Carley đâu rồi?
 506) LILLY
-[pickup3][disgusted] Vâng, nó... hẳn là "quyến rũ" đấy, bố.
+[pickup3][disgusted] Vâng,... hẳn là "quyến rũ" đấy, bố.
 507) LEE
-Tôi đi giúp Dan xử lý bọn cướp đó đây.  Mọi người nên thử làm bạn với Andy và Brenda trong khi không có tôi.
+Tôi đi giúp Dan xử lý bọn cướp đó đây.  Mọi người nên thử làm bạn với 
+
+Andy và Brenda trong khi không có tôi.
 508) LARRY
 [pickup3]À, dễ thôi.  Ta đã có sự quyến rũ nạp sẵn trong mông rồi.
 509) LILLY
@@ -1027,19 +1267,31 @@ Hay que caerles bien.
 513) ANDY
 [pickup3] {NormalA}Ừa. Không qua loa được khi nói đến chuyện an toàn.
 514) LEE
-[pickup3]{HappyA}Cái hàng rào thật tuyệt vời. Chúng tôi sẽ làm bất cứ điều gì anh cần để giúp nó hoạt động.
+[pickup3]{HappyA}Cái hàng rào thật tuyệt vời. Chúng tôi sẽ làm bất cứ điều gì anh cần để 
+
+giúp nó hoạt động.
 515) ANDY
-[pickup3]{HappyA}Chà, dọn sạch chỗ hàng rào đó sẽ giúp ích rất nhiều đấy. Chỉ cần cho tôi biết khi anh đã sẵn sàng.
+[pickup3]{HappyA}Chà, dọn sạch chỗ hàng rào đó sẽ giúp ích rất nhiều đấy. 
+
+Chỉ cần cho tôi biết khi anh đã sẵn sàng.
 516) LEE
-[pickup3][to himself]{ThinkingB}Tôi đoán Mark và tôi thật may mắn khi không chạm vào thứ này khi nó bật lên.
+[pickup3][to himself]{ThinkingB}Mình đoán Mark và mình thật may mắn khi không chạm vào thứ này khi 
+
+nó bật lên.
 518) LEE
-[pickup3] {ThinkingB}Khiến nó an toàn cho Clem và Duck, và cũng để cho nhà John biết rằng chúng ta có thể giúp ích ở đây.
+[pickup3] {ThinkingB}Khiến nó an toàn cho Clem và Duck, và cũng để cho nhà John biết rằng 
+
+chúng ta có thể giúp ích ở đây.
 519) LEE
 [pickup3][to himself looking at the broken swing] {ThinkingA}Trông có vẻ như chỉ cần một tấm ván mới với chút dây thừng thôi.
 520) LEE
-[pickup3][Calling out from across the yard]{SadA}Tiếc là nó hỏng rồi. {ThinkingA}Tôi cá Clementine và Duck sẽ rất thích thứ gì đó như này để chơi đấy.
+[pickup3][Calling out from across the yard]{SadA}Tiếc là nó hỏng rồi. {ThinkingA}Tôi cá Clementine và Duck sẽ rất thích thứ gì đó 
+
+như này để chơi đấy.
 521) ANDY
-[pickup3][Calling out from across the yard]{NormalA}Đôi khi những đứa trẻ thích chiếc xích đu cũ đó hơn cả chuyến tham quan nữa cơ!
+[pickup3][Calling out from across the yard]{NormalA}Đôi khi những đứa trẻ thích chiếc xích đu cũ đó hơn cả chuyến tham quan 
+
+nữa cơ!
 522) LEE
 [pickup3][Calling out from across the yard]{HappyA}Hẳn vậy rồi.
 523) 
@@ -1049,7 +1301,9 @@ Có phiền không nếu tôi thử sửa nó?
 525) 
 Sao nó lại hỏng vậy?
 526) ANDY
-[pickup3][Calling out from across the yard]{HappyB}Tất nhiên rồi! Thế thì thật tuyệt! Mẹ chắc chắn sẽ rất cảm kích sự giúp đỡ của tất cả các bạn.
+[pickup3][Calling out from across the yard]{HappyB}Tất nhiên rồi! Thế thì thật tuyệt! Mẹ chắc chắn sẽ rất cảm kích sự giúp đỡ 
+
+của tất cả các bạn.
 527) LEE
 [pickup3][Calling out from across the yard]{HappyA}Có phiền không nếu tôi sửa nó?
 528) ANDY
@@ -1063,7 +1317,9 @@ Sao nó lại hỏng vậy?
 532) LEE
 [pickup3][Calling out from across the yard]{ThinkingA}Sao nó lại hỏng vậy?
 533) ANDY
-[pickup3][Calling out from across the yard]{SadA}Bị phá hỏng vào ngày đầu tiên những... thứ đó xuất hiện. Ơn trời là không có ai trên đó lúc đấy.
+[pickup3][Calling out from across the yard]{SadA}Bị phá hỏng vào ngày đầu tiên những... thứ đó xuất hiện. 
+
+Ơn trời là không có ai trên đó lúc đấy.
 534) ANDY
 [pickup3][Calling out from across the yard]{ThinkingA}Đang tìm nơi thư giãn trước khi xử lý chỗ hàng rào bên ngoài à?
 535) LEE
@@ -1073,7 +1329,9 @@ Sao nó lại hỏng vậy?
 537) LEE
 [pickup3]{DisgustA}Mình sẽ cần vài sợi dây.
 538) LEE
-[pickup3]{ThinkingA}...Và hẳn sẽ có mộ tấm ván đâu đây mà mình có thể dùng làm tấm ván ngồi.
+[pickup3]{ThinkingA}...Và hẳn sẽ có một tấm ván đâu đây mà mình có thể dùng làm 
+
+tấm ván ngồi.
 539) LEE
 [pickup3]{DisgustA}...Nhưng tấm ván mà mình tìm thấy thì dài quá.
 540) LEE
@@ -1081,7 +1339,9 @@ Sao nó lại hỏng vậy?
 541) LEE
 [pickup3][looking in the storage bench]{ThinkingA}Dây thừng này hoàn hảo cho chiêc xích đu đấy.
 542) LEE
-[pickup3]{ThinkingA}Mọi thứ ở đây trông thật an toàn.  {ThinkingB}Và giờ mình đã biết nơi để tìm vài đoạn dây trong trường hợp họ cần giúp buộc thứ gì.
+[pickup3]{ThinkingA}Mọi thứ ở đây trông thật an toàn.  {ThinkingB}Và giờ mình đã biết nơi để 
+
+tìm vài đoạn dây trong trường hợp họ cần giúp buộc thứ gì.
 543) LEE
 [pickup3][looking in the storage bench]{DisgustA}Không còn gì mà mình cần ở đây.
 544) LEE
@@ -1089,19 +1349,27 @@ Sao nó lại hỏng vậy?
 545) LEE
 [pickup3]{ThinkingA}Tấm gỗ này ổn rồi, nhưng mình cần vài đoạn dây nữa.
 546) LEE
-[pickup3]{ThinkingA}Sợi dây này sẽ ổn ngay khi mình tìm được một tấm ván có độ dài phù hợp.
+[pickup3]{ThinkingA}Sợi dây này sẽ ổn ngay khi mình tìm được một tấm ván có độ dài 
+
+phù hợp.
 547) LEE
 [pickup3][getting ready to fix he swing] Được rồi, sẽ không quá khó đâu.
 548) LEE
 [pickup3]{ThinkingA}Mình cá là họ phải dùng rất nhiều gỗ để sửa chữa chỗ hàng rào.
 549) LEE
-[pickup3]{ThinkingA}Cái này lớn quá, nhưng nếu mình có thể tìm được thứ gì đó cắt nó nhỏ lại, thì nó có thể là một chỗ ngồi tốt cho chiếc xích đu.
+[pickup3]{ThinkingA}Cái này lớn quá, nhưng nếu mình có thể tìm được thứ gì đó cắt nó 
+
+nhỏ lại, thì nó có thể là một chỗ ngồi tốt cho chiếc xích đu.
 550) LEE
 [pickup3]{HappyA}Có phiền không nếu tôi dùng một tấm ván này?
 551) ANDY
-[pickup3]{ThinkingA}Đã bắt đầu đi sửa chữa các thứ rồi, hử?  Tôi thích người chủ động như vậy đấy!  {HappyA}Ừ, cứ tự nhiên đi!
+[pickup3]{ThinkingA}Đã bắt đầu đi sửa chữa các thứ rồi, hử?  Tôi thích người chủ động 
+
+như vậy đấy!  {HappyA}Ừ, cứ tự nhiên đi!
 552) LEE
-[pickup3]{ThinkingA}Nếu một vài công cụ đều được để sẵn bên ngoài như hiện tại, chúng ta sẽ ổn ở đây.
+[pickup3]{ThinkingA}Nếu một vài công cụ đều được để sẵn bên ngoài như hiện tại, 
+
+chúng ta sẽ ổn ở đây.
 553) LEE
 [pickup3]{DisgustA}Sẽ thật tuyệt nếu có một trong những thứ này chỗ nhà nghỉ.
 554) LEE
@@ -1109,9 +1377,15 @@ Sao nó lại hỏng vậy?
 555) LEE
 [pickup3][taking the saw in anticipation of cutting some boards.]  {ThinkingB}Hmm...
 556) BRENDA
-[pickup3]Cậu biết không, tôi đã từng đẩy cho Andy và em trai của nó trên chiếc xích đu đó mỗi đêm khi chúng còn nhỏ. [sighs] Có vẻ như cũng đã lâu lắm rồi.
+[pickup3]Cậu biết không, tôi đã từng đẩy cho Andy và em trai của nó trên chiếc 
+
+xích đu đó mỗi đêm khi chúng còn nhỏ. [sighs] Có vẻ như cũng đã 
+
+lâu lắm rồi.
 557) BRENDA
-[pickup3]Con vừa nói gì à, con yêu?  [Then notices the repaired swing - Happy!] Ôi trời xem kìa. Cậu đã làm thế à?
+[pickup3]Con vừa nói gì à, con yêu?  [Then notices the repaired swing - Happy!] 
+
+Ôi trời xem kìa. Cậu đã làm thế à?
 558) LEE
 [pickup3]Chỉ đang cố gắng giúp đỡ một chút quanh đây thôi.
 559) LEE
@@ -1127,15 +1401,21 @@ Sao nó lại hỏng vậy?
 564) ANDY
 [pickup3][genuinely curious as to what Lee is working on.  NOT suspicious.]{SurprisedA}Này... {DisgustA}Anh đang định làm gì quanh chuồng gia súc?
 565) ANDY
-[pickup3][friendly]{ThinkingA}À, sẽ còn nhiều thời gian cho tất cả những việc đó, sau khi chúng ta sửa chỗ hàng rào ở bên ngoài.
+[pickup3][friendly]{ThinkingA}À, sẽ còn nhiều thời gian cho tất cả những việc đó, 
+
+sau khi chúng ta sửa chỗ hàng rào ở bên ngoài.
 581) ANDY
-[pickup3][friendly]{ThinkingA}À, sẽ còn nhiều thời gian cho tất cả những việc đó, sau khi chúng ta sửa chỗ hàng rào ở bên ngoài.
+[pickup3][friendly]{ThinkingA}À, sẽ còn nhiều thời gian cho tất cả những việc đó, 
+
+sau khi chúng ta sửa chỗ hàng rào ở bên ngoài.
 566) LEE
 [pickup3]{HappyA}Chỉ đang cố tìm thêm cách để giúp đỡ thôi!
 567) ANDY
 [pickup3]{HappyA}Chà, tôi cảm kích lắm đấy!
 568) ANDY
-[pickup3]Như vậy đi, {HappyB}chúng ta sẽ đến xem có gì làm ở đó không sau khi đã sửa xong chỗ hàng rào này.
+[pickup3]Như vậy đi, {HappyB}chúng ta sẽ đến xem có gì làm ở đó không sau khi 
+
+đã sửa xong chỗ hàng rào này.
 569) LEE
 [pickup3]{HappyB}Nghe hay đấy.
 576) LEE
@@ -1145,9 +1425,15 @@ Sao nó lại hỏng vậy?
 580) LEE
 [pickup3]{HappyB}Nghe hay đấy.
 570) LEE
-[pickup3]{FearA}Trang trại an toàn đến mức nào?  Có một nơi an toàn cho con bò là khá quan trọng.
+[pickup3]{FearA}Trang trại an toàn đến mức nào?  Có một nơi an toàn cho con bò 
+
+là khá quan trọng.
 571) ANDY
-[pickup3]{NormalA}Nhờ cái hàng rào, không còn gì vào trong đây được nữa.  {SadA}Thật không may, bọn người chết đã xơi mất hầu hết gia súc của chúng tôi trước khi chúng tôi đưa nó vào hoạt động.
+[pickup3]{NormalA}Nhờ cái hàng rào, không còn gì vào trong đây được nữa.  {SadA}Thật không may, 
+
+bọn người chết đã xơi mất hầu hết gia súc của chúng tôi trước khi 
+
+kịp đưa nó vào hoạt động.
 572) LEE
 [pickup3]{ThinkingA}Có phiền không nếu tôi ngó qua chút?
 579) LEE
@@ -1169,19 +1455,29 @@ Không gì cả.
 585) LEE
 [pickup3][to himself - looking at the ribbons]{ThinkingA}Họ đã đặt rất nhiều tình yêu vào trang trại.
 586) ANDY
-[pickup3][heartfelt]{SadA}Nơi đây là cả cuộc đời của cha tôi đấy.  Nó là tất cả đối với ông ấy.
+[pickup3][heartfelt]{SadA}Nơi đây là cả cuộc đời của cha tôi.  Nó là tất cả đối với ông ấy.
 587) LEE
 [pickup3][calling across the yard]{ThinkingA}Trang trại này cũng giành được nhiều danh hiệu phết đấy, nhỉ?
 588) ANDY
-[pickup3]{DisgustA}Và rồi một ngày cả thế giới thay đổi...Giờ nơi này là di sản còn lại của cha tôi.  {ThinkingA}Đó là lý do tại sao chúng tôi rất quan tâm đến nó, và tại sao chúng tôi muốn chia sẻ nó với những người tốt như anh vậy.
+[pickup3]{DisgustA}Và rồi một ngày cả thế giới thay đổi...Giờ nơi này là di sản 
+
+còn lại của cha tôi.  {ThinkingA}Đó là lý do tại sao chúng tôi rất quan tâm 
+
+đến nó, và tại sao chúng tôi muốn chia sẻ nó với những người tốt như anh vậy.
 589) LEE
 [pickup3]{HappyA}Thật vậy à?
 590) LEE
 [pickup3]{NormalA}Bố mẹ tôi cũng chịu thua sau khi sinh được hai đứa.
 591) ANDY
-[pickup3][heartfelt]{HappyA}Anh biết không, khi lần đầu ông ấy mua nơi này, nó cũng chỉ là một căn nhà một tầng thôi.
+[pickup3][heartfelt]{HappyA}Anh biết không, khi lần đầu ông ấy mua nơi này, nó cũng chỉ là một 
+
+căn nhà một tầng thôi.
 592) ANDY
-[pickup3][heartfelt]{ThinkingA}Sau khi bọn tôi được sinh ra, thì ông ấy khăng khăng đòi xây thêm tầng thứ hai.  Bảo rằng họ phải có chỗ cho càng nhiều đứa nhỏ càng tốt. [with a smile]{SadA}...Mẹ tôi thì ngừng ngay sau khi sinh Dan ra.
+[pickup3][heartfelt]{ThinkingA}Sau khi bọn tôi được sinh ra, thì ông ấy khăng khăng đòi xây thêm tầng 
+
+thứ hai.  Bảo rằng họ phải có chỗ cho càng nhiều đứa nhỏ càng tốt. 
+
+[with a smile]{SadA}...Mẹ tôi thì ngừng ngay sau khi sinh Dan ra.
 593) LEE
 [pickup3][taking in a deep sniff] {HappyA}Mmmm, rau ngó tươi!  Thật nóng lòng cho bữa tối mà!
 594) 
@@ -1195,19 +1491,31 @@ Không gì cả.
 598) 
 [pickup3][Responding to mark asking"how do we play this"]Lo tocaremos de oído.
 599) BRENDA
-[pickup3]Chà, cô chắc hẳn là bác sĩ thú y của nhóm!  Sao cô không cùng giúp tôi chữa trị cho bạn mình đi, sau đóta có thể nói về con bò tội nghiệp của chúng tôi.
+[pickup3]Chà, cô chắc hẳn là bác sĩ thú y của nhóm!  Sao cô không cùng giúp tôi 
+
+chữa trị cho bạn mình đi, sau đó ta có thể nói về con bò 
+
+tội nghiệp của chúng tôi.
 600) BRENDA
-[pickup3]Tôi đã luôn chữa vết thương nhiều năm rồi. Tôi có đủ băng gạc và kim tiêm cho cả đời đấy!
+[pickup3]Tôi đã luôn chữa vết thương nhiều năm rồi. Tôi có đủ băng gạc và 
+
+kim tiêm cho cả đời đấy!
 601) KATJAA
-[pickup3]Vậy, nếu cần giúp đỡ, tôi có thể giữ vết thương sạch sẽ trong khi bà khâu vết thương lại.
+[pickup3]Vậy, nếu cần giúp đỡ, tôi có thể giữ vết thương sạch sẽ trong khi 
+
+bà khâu vết thương lại.
 602) KATJAA
 [pickup3][concerned about Mark's wound]Bà có thuốc kháng sinh hoặc bất cứ thứ gì để ngăn nhiễm trùng không?
 603) DANNY
-[pickup3][folows  310497904] Khó mà biết chính xác tất cả ở đâu, nhưng tôi nghĩ mình biết vị trí ít nhất MỘT trong số các trại của chúng.
+[pickup3][folows  310497904] Khó mà biết chính xác tất cả ở đâu, nhưng tôi nghĩ mình biết vị trí 
+
+ít nhất MỘT trong số các trại của chúng.
 604) LEE
 [pickup3]{FearA}Tôi mong là Mark ổn trong đó.
 605) LEE
-[pickup3]{DisgustA}Nếu không có đủ chỗ trong nhà cho tất cả, tôi đoán một vài người trong chúng ta có thể cắm trại ở đây theo ca.
+[pickup3]{DisgustA}Nếu không có đủ chỗ trong nhà cho tất cả, mình đoán một vài người 
+
+trong chúng ta có thể cắm trại ở đây theo ca.
 606) 
 [pickup3][joking around/flirting]Bueno, ya veremos eso.
 607) 
@@ -1219,13 +1527,17 @@ Không gì cả.
 610) LEE
 [pickup3][follows 310497311]{ThinkingA}Chúng ta sẽ cần tìm cách duy trì nó nếu quyết định ở lại đây.
 611) LEE
-[pickup3][looking at bales of hay] {ThinkingA}Thêm nhiều thứ này có thể đủ để chắn mũi tên nếu nó trở thành một vấn đề.
+[pickup3][looking at bales of hay] {ThinkingA}Thêm nhiều thứ này có thể đủ để chắn mũi tên nếu nó trở thành 
+
+một vấn đề.
 612) 
 [pickup3][ambient][process muted or positional]Sé a qué te refieres. Mi chica es lo que me hace seguir. Si no fuera por ella, no sé si me molestaría en luchar con lo que el mundo se ha convertido.
 613) 
 [pickup3][ambient][process muted or positional]No digas eso, todos estamos buscando algo mejor. ¡Al menos tenemos salud!
 614) BRENDA
-[pickup3][ambient]Ồ tôi có thể lo ổn thỏa.  Cộng thêm còn có mấy đứa con trợ giúp nữa.  Không có chúng tôi cũng không thể xử lý được.
+[pickup3][ambient]Ồ tôi có thể lo ổn thỏa.  Cộng thêm còn có mấy đứa con trợ giúp nữa.  
+
+Không có chúng tôi cũng không thể xử lý được.
 615) LARRY
 [pickup3][ambient]Vậy một người phụ nữ như cô đã tự mình duy trì cả nơi này như nào?
 616) BRENDA
@@ -1243,11 +1555,17 @@ Không gì cả.
 619) LEE
 [pickup3]{NormalA}Tôi sẽ tiếp tục ngó xung quanh.
 620) LEE
-[pickup3]{FearA}Vẫn chưa có cơ hội đến chuồng gia súc kiểm tra nữa.  {NormalA}Tôi sẽ làm thế ngay sau khi giúp Andy sửa lại hàng rào.
+[pickup3]{FearA}Vẫn chưa có cơ hội đến chuồng gia súc kiểm tra nữa.  
+
+{NormalA}Tôi sẽ làm thế ngay sau khi giúp Andy sửa lại hàng rào.
 621) LEE
-[pickup3]{ThinkingA}Hàng rào đúng là không đùa được, ít nhất là xung quanh nhà. Tôi rất mong được xem phần còn lại của nó.
+[pickup3]{ThinkingA}Hàng rào đúng là không đùa được, ít nhất là xung quanh nhà. 
+
+Tôi rất mong được xem phần còn lại của nó.
 622) LEE
-[pickup3]{ThinkingA}Máy phát điện có lẽ là một vấn đề.  Andy nói rằng nó khá là "phức tạp" và mất khá nhiều thời gian để sửa được.
+[pickup3]{ThinkingA}Máy phát điện có lẽ là một vấn đề.  Andy nói rằng nó khá là "phức tạp" 
+
+và mất khá nhiều thời gian để sửa được.
 623) 
 Tôi vẫn chưa thể kiểm tra chuồng gia súc.
 624) 
@@ -1259,7 +1577,9 @@ Máy phát điện có lẽ là một vấn đề...
 627) MARK
 [pickup3]{ThinkingB}Được rồi.  Có gì nữa thì nói tôi.
 628) MARK
-[pickup3]{ThinkingB}Vậy tìm hiểu được gì về Andy rồi?  Nghĩ họ có sẵn sàng cho chúng ta ở lại không?
+[pickup3]{ThinkingB}Vậy tìm hiểu được gì về Andy rồi?  Nghĩ họ có sẵn sàng cho 
+
+chúng ta ở lại không?
 629) MARK
 [pickup3]{HappyA}Tôi biết đó là ý hay mà!
 630) LEE
@@ -1267,7 +1587,7 @@ Máy phát điện có lẽ là một vấn đề...
 631) 
 Se alegraron de que arreglaran el columpio.
 632) 
-Securing the perimeter will help a lot!
+Sửa chỗ hàng rào sẽ giúp ích rất nhiều!
 633) MARK
 [pickup3]{HappyA}Chúng ta đang làm khá ổn VÀ khiến nơi này an toàn hơn với ta!
 634) LEE
@@ -1275,7 +1595,9 @@ Securing the perimeter will help a lot!
 635) LEE
 [pickup3]{HappyA}Tôi tiếp tục đây.
 636) LEE
-[pickup3][to himself - looking at the generatior]{FearA}Mình mừng là Andy biết cách sửa thứ này nếu có gì xảy ra.  {ThinkingA}Mình mù tịt về thứ này.
+[pickup3][to himself - looking at the generatior]{FearA}Mình mừng là Andy biết cách sửa thứ này nếu có gì xảy ra.  
+
+{ThinkingA}Mình mù tịt về thứ này.
 637) MARK
 [pickup3]{SadA}Đệt.
 638) LEE
@@ -1285,7 +1607,9 @@ Puede que haya ofendido a Brenda…
 640) 
 Andy có vẻ cởi mở với khách khứa.
 641) LEE
-[pickup3]{HappyA}Andy nói rằng họ đã từng có khách ở đây trước đó. Điều đó cho tôi biết là họ khá cởi mở với ý tưởng này.
+[pickup3]{HappyA}Andy nói rằng họ đã từng có khách ở đây trước đó. Điều đó cho tôi 
+
+biết là họ khá cởi mở với ý tưởng này.
 642) MARK
 [pickup3]{HappyB}Thật tuyệt vời!
 643) 
@@ -1317,7 +1641,7 @@ Giải thưởng
 657) 
 Giày
 662) 
-I might have offended Brenda...
+Tôi có lẽ đã xúc phạm đến Brenda...
 663) ANDY
 Ở đây an toàn hơn là ngoài kia.
 664) DANNY
