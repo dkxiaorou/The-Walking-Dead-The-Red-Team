@@ -49,7 +49,9 @@ với bọn xác sống ư?
 
 chưa đạt tiêu chuẩn quân sự đâu nhỉ.
 20) MARK
-[pickup2]Không đời nào tôi trở lại đó đâu. Anh đã thấy nó như thế nào khi các anh đến đón tôi mà. {sadA} Hoàn toàn tràn ngập luôn.
+[pickup2]Không đời nào tôi trở lại đó đâu. Anh đã thấy nó như thế nào khi các anh 
+
+đến đón tôi mà. {sadA} Hoàn toàn tràn ngập luôn.
 21) LARRY
 [pickup2][looking for his food for the day from Lee]Này, của ta đâu?
 22) LEE
