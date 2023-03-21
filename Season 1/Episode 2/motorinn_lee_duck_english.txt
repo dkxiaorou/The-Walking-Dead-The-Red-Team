@@ -79,7 +79,9 @@ Muốn chút thức ăn không? [Đưa thức ăn]
 38) BEN
 [pickup3]...Nhưng, Tôi không nghĩ người phụ nữ trên chiếc RV lại phản ứng như vậy.
 39) LEE
-[pickup3]Tôi nghĩ là cô ta muốn tôi cho bố cổ ăn.  Nhưng nó tùy thuộc vào tôi.  Cô ta đã để tôi chịu trách nhiệm.
+[pickup3]Tôi nghĩ là cô ta muốn tôi cho bố cổ ăn.  Nhưng nó tùy thuộc vào tôi.  
+
+Cô ta đã để tôi chịu trách nhiệm.
 40) LEE
 [pickup3]Ừ và tôi cũng đã cho Larry đồ ăn, nên nó có thể sẽ khiến Lilly vui.
 42) LEE
