@@ -13,17 +13,25 @@
 7) LEE
 {thinkingA}Tôi chưa thấy anh ta từ lúc đó.
 8) KENNY
-{normalA}Hmm, tôi có nên bảo Kat {normalB}xem thử anh ta khi đã xong việc với con bò không?
+{normalA}Hmm, tôi có nên bảo Kat {normalB}xem thử anh ta khi đã xong việc với 
+
+con bò không?
 9) KENNY
-{normalB}Có lẽ, có lẽ không. Một khi chúng ta có được thức ăn, chúng ta có thể bảo vệ nó tốt hơn.
+{normalB}Có lẽ, có lẽ không. Một khi chúng ta có được thức ăn, chúng ta có 
+
+thể bảo vệ nó tốt hơn.
 10) KENNY
-{thinkingA}Thay vì chỉ đợi loanh quanh ở nhà nghỉ cho ai đó đến tấn công hoặc xơi tái chúng ta.
+{thinkingA}Thay vì chỉ đợi loanh quanh ở nhà nghỉ cho ai đó đến tấn công 
+
+hoặc xơi tái chúng ta.
 11) LEE
 {thinkingA}Nơi này không an toàn.
 12) LEE
 {happyA}Tôi mừng vì anh đã quyết định đi cùng bọn tôi.
 13) KENNY
-{normalB}Ừ, thì, ta cần thức ăn mà.  {normalA}Giúp cho con bò này thì nên xứng với việc đó.
+{normalB}Ừ, thì, ta cần thức ăn mà.  {normalA}Giúp cho con bò này thì nên xứng 
+
+với việc đó.
 14) KENNY
 [worried] {angryA}Tôi để ý thấy không nhiều xác sống lắm trên đường đến đây.
 15) LEE
@@ -31,15 +39,21 @@
 16) KENNY
 {normalA}Phải không? Tôi có linh cảm xấu.
 17) KENNY
-{angryA}Cho dù đó là từ bọn xác sống hay những tên cướp, sẽ có một cơn bão xảy ra.
+{angryA}Cho dù đó là từ bọn xác sống hay những tên cướp, sẽ có một cơn 
+
+bão xảy ra.
 18) LEE
 {normalC}Có vấn đề gì ư?
 19) KENNY
-{angryA}Nếu chúng ta không nhìn thấy chúng, điều đó có nghĩa là có rất nhiều đang đợi ở đâu đó...
+{angryA}Nếu chúng ta không nhìn thấy chúng, điều đó có nghĩa là có rất nhiều 
+
+đang đợi ở đâu đó...
 20) KENNY
 ...hoặc ai đó có hỏa lực mạnh hơn chúng ta đã tiêu diệt chúng.
 21) KENNY
-{normalA}Dù là trường hợp nào, tôi có cảm giác không tốt rằng một trận bão lớn đang được ủ.
+{normalA}Dù là trường hợp nào, tôi có cảm giác không tốt rằng một trận bão 
+
+lớn đang được ủ.
 22) LEE
 {normalD}Bọn xác sống không khiến tôi lo bằng đám cướp.
 23) KENNY
@@ -47,7 +61,9 @@
 24) KENNY
 {fearA}Có gì đó đang đến, Lee à. Sẽ có một cuộc chiến.
 25) KENNY
-{sadA}Trên đường tới đây, tôi đã bị chóng mặt, run tay, đổ mồ hôi hột. {normalA}Cứ tưởng sắp ngất đến nơi rồi.
+{sadA}Trên đường tới đây, tôi đã bị chóng mặt, run tay, đổ mồ hôi hột. 
+
+{normalA}Cứ tưởng sắp ngất đến nơi rồi.
 26) LEE
 {normalD}Họ có đồ ăn ở đây.
 27) KENNY
@@ -59,17 +75,23 @@
 75) 
 Anh sao rồi?
 30) KENNY
-[quietly] {angryA}Nếu họ có nguồn thức ăn đâu đó, {normalA}ta cần biết nó ở đâu và làm sao để lấy được.
+[quietly] {angryA}Nếu họ có nguồn thức ăn đâu đó, {normalA}ta cần biết nó ở đâu và 
+
+làm sao để lấy được.
 31) KENNY
 [quietly] {sadA}Phòng khi có chuyện xảy ra.
 32) KENNY
-{normalB}Katjaa biết đấy, nói chuyện với cổ đi và cổ sẽ cho anh xem nơi tôi đang nói đến.
+{normalB}Katjaa biết đấy, nói chuyện với cổ đi và cổ sẽ cho anh xem nơi tôi 
+
+đang nói đến.
 33) KENNY
 {angryA}Tìm ra thứ gì ở trong căn phòng đó.
 34) LEE
 [quietly] {thinkingA}Tôi vẫn không thích điều này.
 35) KENNY
-{sadA}Thôi nào, Lee, không phải chỉ mỗi chúng ta. Ta cần phải nghĩ đến bọn trẻ nữa.
+{sadA}Thôi nào, Lee, không phải chỉ mỗi chúng ta. Ta cần phải nghĩ đến 
+
+bọn trẻ nữa.
 36) KENNY
 [quietly] {normalB}Anh không cần phải thích nó, cứ làm thôi.
 37) LEE
@@ -105,9 +127,13 @@ Anh sao rồi?
 86) LEE
 [greeting]{normalB}Chào...
 52) KENNY
-[noticing Lee's silence]{angryA}Anh cũng thấy vậy mà, đúng không?   {fearA}Trời, tôi cảm giác có điều gì đó tồi tệ sắp xảy ra, Lee.
+[noticing Lee's silence]{angryA}Anh cũng thấy vậy mà, đúng không?   {fearA}Trời, tôi cảm giác có điều gì đó 
+
+tồi tệ sắp xảy ra, Lee.
 53) KENNY
-[responding to Lee's silence; hushed][quietly]  {angryA}Ây đừng nhìn tôi!  {thinkingA}Tôi không giỏi việc đột nhập gì đâu.  Nhưng ai đó phải làm nó!
+[responding to Lee's silence; hushed][quietly]  {angryA}Ây đừng nhìn tôi!  {thinkingA}Tôi không giỏi việc đột nhập gì đâu.  Nhưng ai đó 
+
+phải làm nó!
 54) KENNY
 {normalB}Sao thế, Lee?
 55) KENNY
@@ -119,19 +145,31 @@ Anh sao rồi?
 58) LEE
 [pickup2] Tôi đoán Lilly không quá hào hứng khi ở đây.
 59) KENNY
-[pickup2] Tôi có thể đưa ra hai điều tồi tệ về những gì Lily muốn. Duck và Katjaa cần thức ăn, và tôi sẽ không ngồi quanh nhà nghỉ đó và nhìn họ đói bụng đâu.
+[pickup2] Tôi có thể đưa ra hai điều tồi tệ về những gì Lily muốn. Duck và 
+
+Katjaa cần thức ăn, và tôi sẽ không ngồi quanh nhà nghỉ đó và nhìn 
+
+họ đói bụng đâu.
 60) LEE
-[pickup2] Nếu mọi chuyện ổn thỏa, có lẽ nó và Katjaa có thể có một cuộc sống dễ dàng hơn ở đây.
+[pickup2] Nếu mọi chuyện ổn thỏa, có lẽ nó và Katjaa có thể có một cuộc sống 
+
+dễ dàng hơn ở đây.
 61) KENNY
 [pickup2][bitter]Ừ, phải.
 62) LEE
 [pickup2] Đó là quá khứ rồi, Kenny. Nhiều chuyện đã xảy ra kể từ đó.
 63) KENNY
-[pickup2] [bitter]Buồn cười nhể, anh có vẻ không lo lắng lắm về Duck khi Larry muốn ném thằng bé ra ngoài hồi ở Macon.
+[pickup2] [bitter]Buồn cười nhể, anh có vẻ không lo lắng lắm về Duck khi Larry muốn ném 
+
+thằng bé ra ngoài hồi ở Macon.
 64) KENNY
-[pickup2] [bitter] Buồn cười nhể, vì anh dường như không lo lắng lắm về Duck ở Trang trại của Hershel.
+[pickup2] [bitter] Buồn cười nhể, vì anh dường như không lo lắng lắm về Duck ở Trang trại 
+
+của Hershel.
 65) KENNY
-[pickup2] Tôi mong là anh đúng. Duck và Clementine xứng đáng có một cuộc sống tốt hơn là chết đói ở một nhà nghỉ tồi tàn.
+[pickup2] Tôi mong là anh đúng. Duck và Clementine xứng đáng có một cuộc sống tốt hơn 
+
+là chết đói ở một nhà nghỉ tồi tàn.
 66) LEE
 [pickup2] Tôi đi ngó xung quanh chút đây.
 67) KENNY
@@ -153,9 +191,13 @@ Gia đình anh trên đường tới đây ổn chứ?
 76) KENNY
 [pickup3][follows # 310481005]Lần này anh ủng hộ tôi, phải chứ?
 77) LEE
-[pickup3][agreeing with Kenny that Lilly is wrong about the motor inn]Ừ, tất nhiên rồi.  Khả năng phán đoán của Lilly đã bị che mờ, nhưng anh thì lại có một cái đầu khá rõ ràng về việc này.
+[pickup3][agreeing with Kenny that Lilly is wrong about the motor inn]Ừ, tất nhiên rồi.  Khả năng phán đoán của Lilly đã bị che mờ, 
+
+nhưng anh thì lại có một cái đầu khá rõ ràng về việc này.
 78) LEE
-[pickup3][disagreeing with Kenny about the motor inn]Lilly đang làm rất tốt trong việc giữ cả nhóm đoàn kết.  Anh nên lùi lại chút đi.
+[pickup3][disagreeing with Kenny about the motor inn]Lilly đang làm rất tốt trong việc giữ cả nhóm đoàn kết.  
+
+Anh nên lùi lại chút đi.
 79) LEE
 [pickup3][not siding with anyone about the motor inn]Đừng làm tôi phải chọn phe chứ, Kenny.
 80) KENNY
@@ -173,38 +215,64 @@ Tôi không chọn theo phe ai đâu.
 87) KENNY
 [pickup3] Này Lee, tìm thấy thứ gì thú vị chưa?
 88) KENNY
-[pickup3] Tốt khi biết đấy. Giữ cho đôi tai của anh luôn mở cho bất cứ điều gì khác có thể giúp chúng ta.
+[pickup3] Tốt khi biết đấy. Giữ cho đôi tai của anh luôn mở cho 
+
+bất cứ điều gì khác có thể giúp chúng ta.
 89) LEE
-[pickup3] Tôi chỉ đang cố đảm bảo nơi này an toàn, trong trường hợp chúng ta quyết định biến đây thành một giải pháp lâu dài hơn. Trừ những người trong rừng ra, thì nó có vẻ khá an toàn.
+[pickup3] Tôi chỉ đang cố đảm bảo nơi này an toàn, trong trường hợp chúng ta quyết định 
+
+biến đây thành một giải pháp lâu dài hơn. Trừ những người trong rừng ra, 
+
+thì nó có vẻ khá an toàn.
 90) KENNY
-[pickup3] Đúng vậy. Chà, thật tốt khi biết chúng ta đang làm việc với những gì ở đây.
+[pickup3] Đúng vậy. Chà, thật tốt khi biết chúng ta đang làm việc với 
+
+những gì ở đây.
 91) KENNY
 [pickup3] Tiếp tục ngó xung quanh xem và cho tôi biết nếu tìm thấy gì khác.
 92) LEE
-[pickup3] Tôi đã nói chuyện với Andy trước đó, có vẻ như họ không có quá nhiều súng xung quanh. Họ chủ yếu dựa vào hàng rào để giữ an toàn.
+[pickup3] Tôi đã nói chuyện với Andy trước đó, có vẻ như họ không có quá 
+
+nhiều súng xung quanh. Họ chủ yếu dựa vào hàng rào để giữ an toàn.
 93) LEE
-[pickup3] vậy đó là vấn đề đấy, khi không còn xăng, thì sẽ không còn hàng rào nữa.
+[pickup3] Vậy đó là vấn đề đấy, khi không còn xăng, thì sẽ không còn hàng rào nữa.
 94) KENNY
 [pickup3] Này Lee, mọi chuyện với nhà Johns sao rồi?
 95) LEE
-[pickup3] Ổn cả. Tôi đã nói chuyện với Andy trước đó và đã đề nghị giúp đỡ ở trang trại.
+[pickup3] Ổn cả. Tôi đã nói chuyện với Andy trước đó và đã đề nghị giúp đỡ 
+
+ở trang trại.
 96) KENNY
 [pickup3] Tuyệt đấy. Nghe có vẻ họ đang bắt đầu chấp nhận chúng ta.
 97) LEE
 [pickup3] Chắc chắn rồi.
 98) LEE
-[pickup3]Tôi không nghĩ họ có nhiều thứ để bảo vệ mình ngoài hàng rào nên anh ta có vẻ khá cảm kích.
+[pickup3]Tôi không nghĩ họ có nhiều thứ để bảo vệ mình ngoài hàng rào 
+
+nên anh ta có vẻ khá cảm kích.
 99) KENNY
 [pickup3] Phải, nơi đây đúng là một bước tiến lớn so với chỗ nhà nghỉ đó.
 100) LEE
-[pickup3] Họ có vẻ khá tốt. Nếu ta chơi đúng quân bài của mình, tôi nghĩ mọi chuyện sẽ có lợi cho chúng ta ở đây.
+[pickup3] Họ có vẻ khá tốt. Nếu ta chơi đúng quân bài của mình, tôi nghĩ 
+
+mọi chuyện sẽ có lợi cho chúng ta ở đây.
 101) KENNY
-[pickup3] Đừng chờ quá lâu để giúp tìm ra trại cướp đó. Đó sẽ là một cơ hội tốt để tìm hiểu thêm một chút về nhà John và mối quan hệ của họ với... bọn cướp hay thứ gì đó.
+[pickup3] Đừng chờ quá lâu để giúp tìm ra trại cướp đó. Đó sẽ là một cơ 
+
+hội tốt để tìm hiểu thêm một chút về nhà John và mối quan hệ của họ 
+
+với... bọn cướp hay thứ gì đó.
 102) LEE
 [pickup3] Được. Tôi sẽ xem mình tìm được gì.
 103) LEE
 [pickup3] Ý hay đấy.
 104) KENNY
-[pickup3] Đừng chờ quá lâu để giúp tìm ra trại cướp đó. Có vẻ như họ khá phấn khích về nó. Đây có thể là một cách tốt để nhận được lòng tin của họ.
+[pickup3] Đừng chờ quá lâu để giúp tìm ra trại cướp đó. Có vẻ như họ 
+
+khá phấn khích về nó. Đây có thể là một cách tốt để nhận được 
+
+lòng tin của họ.
 105) KENNY
-[pickup3]Vậy, miễn là còn ở PHÍA BÊN NÀY, mọi thứ sẽ ổn.  Với điều kiện hàng rào giữ vững.
+[pickup3]Vậy, miễn là còn ở PHÍA BÊN NÀY, mọi thứ sẽ ổn.  
+
+Với điều kiện hàng rào giữ vững.
