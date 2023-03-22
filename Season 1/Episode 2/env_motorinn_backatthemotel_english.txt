@@ -9,19 +9,23 @@
 5) KENNY
 [furious] {angryC}Cậu đã nói hắn không bị cắn mà!
 6) BEN
-{disgustA}Anh sẽ sống dậy bất kể có chết như nào.  {sadB}Nếu không hủy đi bộ não, {disgustA}thì nó sẽ cứ thế xảy ra.  {sadC}Đó là chuyện sẽ xảy đến với TẤT CẢ chúng ta.
+{disgustA}Anh sẽ sống dậy bất kể có chết như nào.  {sadB}Nếu không hủy đi bộ não, {disgustA}thì 
+
+nó sẽ cứ thế xảy ra.  {sadC}Đó là chuyện sẽ xảy đến với TẤT CẢ chúng ta.
 7) LILLY
 {normalB}Những người này đến để đổi chút xăng.
 8) ANDY
-[to Lee] {happyB}Xin chào. Tôi là Andrew St. John; đây là em trai tôi, Dan.
+[to Lee] {happyB}Xin chào. Tôi là Andrew St. John, đây là em trai tôi, Dan.
 9) LEE
 [to himself about the couch]{normalD}Cũng đã tốt hơn.
 10) LEE
 [to himself]{normalD}Ta cần phải tìm thức ăn. Sớm hơn.
 11) LEE
-[to himself]{normalD}Vững chắc, nhưng nó sẽ không giữ mãi được, giống như những nơi còn lại của chỗ này vậy.
+[to himself]{normalD}Vững chắc, nhưng nó sẽ không giữ mãi được, giống như những nơi còn lại 
+
+của chỗ này vậy.
 12) LEE
-[to himself]{normalD}Dù ghét phải thừa nhận, Larry đã đúng; những thứ này tạo nên cái cổng khá ổn.
+[to himself]{normalD}Dù ghét phải thừa nhận, Larry đã đúng, những thứ này tạo nên cái cổng khá ổn.
 13) LEE
 [to himself]Không còn gì có ích ở đó.  Tốt hơn mình nên ở lại với nhóm.
 14) LEE
@@ -83,7 +87,7 @@ Có lẽ cậu ta có thể ở lại một thời gian...
 40) LEE
 {thinkingA}Hệ thống báo động cơ à?
 41) DOUG
-{thinkingA}Thì... cũng chỉ là dây dọ nối với với vài cái lon thôi, nhưng này, nó có hoạt động.
+{thinkingA}Thì... cũng chỉ là dây dọ nối với vài cái lon thôi, nhưng này, nó có hoạt động.
 42) CLEMENTINE
 [to ben; quizzing him about her drawing] {normalC}Đoán xem đây là gì?
 43) BEN
@@ -95,9 +99,13 @@ Có lẽ cậu ta có thể ở lại một thời gian...
 46) LEE
 {normalD}Cảm ơn đã trông bọn trẻ ở đây.
 47) CARLEY
-{happyB}Ừ, thì, bản năng của tôi là chạy qua và lấy đi câu chuyện.  Nhưng ... {sadA}ừ... bọn trẻ không cần phải thấy điều đó.
+{happyB}Ừ, thì, bản năng của tôi là chạy qua và lấy đi câu chuyện.  Nhưng ... {sadA}ừ... 
+
+bọn trẻ không cần phải thấy điều đó.
 48) CARLEY
-{thinkingA}Ồ, và giúp tôi một việc là nói với Lilly về việc nghỉ ngơi đi.  {angryA}Đến lượt anh và tôi gác ca tối nay rồi.  Tôi cần anh thật tập trung.
+{thinkingA}Ồ, và giúp tôi một việc là nói với Lilly về việc nghỉ ngơi đi.  {angryA}Đến lượt 
+
+anh và tôi gác ca tối nay rồi.  Tôi cần anh thật tập trung.
 49) DOUG
 {sadA}Này, tôi nợ anh nhiều hơn là nửa thanh kẹo ăn dở.  Lấy nó đi.
 50) LEE
@@ -119,13 +127,21 @@ Có lẽ cậu ta có thể ở lại một thời gian...
 459) KATJAA
 {thinkingA}Chỉ cần giữ chặt chỗ này thôi để tôi băng chỗ này lại...
 58) KATJAA
-{sadB}Anh biết không, Tôi cứ nghĩ mình đang dần quen với việc này rồi... chữa vết thương cho mọi người...
+{sadB}Anh biết không, tôi cứ nghĩ mình đang dần quen với việc này rồi... chữa vết thương 
+
+cho mọi người...
 59) KATJAA
-{angryA}Anh nghĩ gì mà mang anh ta tới đây vậy? Kể cả nếu anh ta có sống được, chúng ta sẽ không thể chăm sóc được anh ta...
+{angryA}Anh nghĩ gì mà mang anh ta tới đây vậy? Kể cả nếu anh ta có sống được, 
+
+chúng ta sẽ không thể chăm sóc được anh ta...
 578) KATJAA
-{angryA}Anh nghĩ gì mà mang anh ta tới đây vậy? Kể cả nếu anh ta có sống được, chúng ta sẽ không thể chăm sóc được anh ta...
+{angryA}Anh nghĩ gì mà mang anh ta tới đây vậy? Kể cả nếu anh ta có sống được, 
+
+chúng ta sẽ không thể chăm sóc được anh ta...
 60) KATJAA
-{thinkingA}Nhưng, ý tôi là, vết cắt và vết bầm là một chuyện, nhưng Lee à, {disgustA}người này mất luôn cả chân cơ!
+{thinkingA}Nhưng, ý tôi là, vết cắt và vết bầm là một chuyện, nhưng Lee à, 
+
+{disgustA}người này mất luôn cả chân cơ!
 61) LEE
 {normalD}Được thôi.  Cô cần gì?
 418) 
@@ -147,7 +163,9 @@ Là chồng cô muốn vậy.
 65) KATJAA
 {sadA}Ừ.. Tôi biết mà...
 66) KATJAA
-{thinkingB}Đi xem thử những người khác thế nào đi.  Dù sao tôi cũng cần một chút không gian ở đây.
+{thinkingB}Đi xem thử những người khác thế nào đi.  Dù sao tôi cũng cần một chút 
+
+không gian ở đây.
 67) KATJAA
 [changing the subject] {normalA}Ừ thì, anh đã làm những gì có thể rồi, Lee.  Cảm ơn vì đã giúp.
 68) LILLY
@@ -169,7 +187,11 @@ Là chồng cô muốn vậy.
 88) LEE
 [hoarse whisper, unintelligible words, dreaming, weird] Tôi...ahh....
 74) DOUG
-{normalC}Anh nghĩ mình là người cứu thế của nhóm à, Lee? {angryA}Anh không thể cứu ai cả. {happyA}Đặc biệt là cô bé nhỏ mà đang dựa vào anh. {angryB}Nó sẽ chết sớm thôi. {happyA}Cô xác sống nhỏ.
+{normalC}Anh nghĩ mình là người cứu thế của nhóm à, Lee? {angryA}Anh không thể cứu ai cả. 
+
+{happyA}Đặc biệt là cô bé nhỏ mà đang dựa vào anh. {angryB}Nó sẽ chết sớm thôi. 
+
+{happyA}Cô xác sống nhỏ.
 75) DOUG
 {sadA}Tôi sẽ cho anh cơ hội thứ hai, Lee. {fearA}Anh có thể cứu tôi không?
 76) DOUG
@@ -189,7 +211,9 @@ Là chồng cô muốn vậy.
 95) LEE
 {sadC}Tôi còn không biết nhiều về cậu.
 82) DOUG
-{disgustA}Chỉ vậy thôi? {happyB}Có lẽ anh thích giết chóc. {angryA}Có thể anh thích sự kiểm soát mà mình đang có. {happyC}Đó có phải điều xảy ra với Sam?
+{disgustA}Chỉ vậy thôi? {happyB}Có lẽ anh thích giết chóc. {angryA}Có thể anh thích sự kiểm soát mà 
+
+mình đang có. {happyC}Đó có phải điều xảy ra với Sam?
 83) LEE
 {thinkingA}Cậu ra đi sẽ tốt hơn, không cần phải nhịn đói tới chết cùng bọn tôi.
 98) LEE
@@ -197,9 +221,15 @@ Cậu ra đi sẽ tốt hơn, không cần phải nhịn đói tới chết cùn
 86) LEE
 [context: "is that you?"]{fearA}C... Carley?
 87) CARLEY
-{thinkingB}Có lẽ là tôi khiến anh nhớ về cô ta. {angryB}Cô ta cũng chưa từng yêu anh, anh biết chứ.
+{thinkingB}Có lẽ là tôi khiến anh nhớ về cô ta. {angryB}Cô ta cũng chưa từng yêu anh, 
+
+anh biết chứ.
 89) CARLEY
-{normalB}Anh không cứu được ai cả. {HappyB}Đặc biệt là đứa bé nhỏ đang dựa dẫm vào anh. {AngryB}Nó chết chắc rồi. {HappyB}Bé con xác sống. {AngryD}Anh đang tìm gì thế, Lee?  Cơ hội thứ hai à?
+{normalB}Anh không cứu được ai cả. {HappyB}Đặc biệt là đứa bé nhỏ đang dựa dẫm vào anh. 
+
+{AngryB}Nó chết chắc rồi. {HappyB}Bé con xác sống. {AngryD}Anh đang tìm gì thế, Lee?  
+
+Cơ hội thứ hai à?
 90) CARLEY
 {thinkingB}Tôi sẽ cho anh một cơ hội nữa... {disgustB}Có thể cứu tôi lần này không?
 92) CARLEY
@@ -219,17 +249,24 @@ Cậu ra đi sẽ tốt hơn, không cần phải nhịn đói tới chết cùn
 101) LEE
 [slightly disoriented  from just waking up]{sadC}Sao thế?
 102) KATJAA
-[alt]Thật là. Tôi yêu người đàn ông đó đến chết, nhưng tôi thề đôi khi anh ấy còn ngốc hơn một cái bao đựng búa nữa.
+[alt]Thật là. Tôi yêu người đàn ông đó đến chết, nhưng tôi thề đôi khi anh ấy còn 
+
+ngốc hơn một cái bao đựng búa nữa.
 103) KATJAA
-{thinkingA}Sao anh không đi giúp Mark và Larry với bức tường đi.  Tốt hơn nếu giữ cho mình bận bịu.
+{thinkingA}Sao anh không đi giúp Mark và Larry với bức tường đi.  Tốt hơn nếu giữ cho 
+bản thân bận bịu.
 104) KATJAA
-{fearA}Sao anh không đến xem thử thằng nhóc thế nào.  Chuyện này không dễ dàng cho nó đâu.
+{fearA}Sao anh không đến xem thử đứa nhóc thế nào.  Chuyện này không dễ dàng cho cậu ta đâu.
 105) KENNY
 [fearing the worst/ hushed] {angryA} Cậu ta không qua khỏi, đúng chứ?
 106) MARK
-[pickup2][just slightly irritated - at Motel Fence]Thôi nào, Larry, tha cho người ta đi, trời ạ. Mọi chuyện đã khác rồi -- phân biệt chủng tộc giờ lỗ thời rồi.
+[pickup2][just slightly irritated - at Motel Fence]Thôi nào, Larry, tha cho người ta đi, trời ạ. Mọi chuyện đã khác rồi -- 
+
+phân biệt chủng tộc giờ lỗ thời rồi.
 107) MARK
-[pickup2][slightly irritated - at Motel fence]Thôi nào, Larry. Tha cho người ta đi. Tôi chắc rằng Lee đang phát mệt vì ông nghĩ rằng anh ấy là mối nguy cho cả nhóm rồi.
+[pickup2][slightly irritated - at Motel fence]Thôi nào, Larry. Tha cho người ta đi. Tôi chắc rằng Lee đang phát mệt vì ông 
+
+nghĩ rằng anh ấy là mối nguy cho cả nhóm rồi.
 108) MARK
 [pickup2][slightly irritated - at motel fence]Thôi nào, Larry. Chuyện gì giữa hai người vậy?  Sao ông lại có ác cảm với Lee như thế?
 109) LARRY
@@ -243,7 +280,9 @@ Cậu ra đi sẽ tốt hơn, không cần phải nhịn đói tới chết cùn
 113) LARRY
 [pickup2][annoyed-  at motel fence]Điều duy nhất mà ta "phải" làm là bảo vệ con gái mình.
 114) MARK
-[pickup2][trying to get Lee & Larry to stop arguing]Nghe này, tôi không quan tâm chuyện là gì, nhưng hai người nên bắt đầu cố hòa hợp với nhau đi.
+[pickup2][trying to get Lee & Larry to stop arguing]Nghe này, tôi không quan tâm chuyện là gì, nhưng hai người nên bắt đầu cố 
+
+hòa hợp với nhau đi.
 115) LARRY
 [pickup2][finding out that Lee's been talking behind his back - quietly threatening]Không á?  Thế ý cậu là gì?
 116) MARK
@@ -253,7 +292,9 @@ Cậu ra đi sẽ tốt hơn, không cần phải nhịn đói tới chết cùn
 118) LARRY
 [pickup2][Not sure if lee's lying , but giving him the benefit of the doubt - Motel Fence]Sao cũng được, ta còn phải làm việc nữa.
 119) LARRY
-[pickup2][annoyed-  at motel fence - Cont.]Và ngay bây giờ, có nghĩa là sửa bức tường chết tiệt này nên tôi sẽ rất cảm kích nếu hai người im lặng và để tôi quay lại làm việc.
+[pickup2][annoyed-  at motel fence - Cont.]Và ngay bây giờ, có nghĩa là sửa bức tường chết tiệt này nên tôi sẽ rất 
+
+cảm kích nếu hai người im lặng và để tôi quay lại làm việc.
 120) LARRY
 [pickup2][Responding to lee's silence]Sao cũng được, ta còn việc cần làm nữa.
 121) 
@@ -267,9 +308,13 @@ Quả Bóng Đá
 125) 
 Bàn
 126) MARK
-[pickup2][trying to stop an argument between Lee & larry at the motel]Thôi nào, Larry.  Tha cho Lee đi.  Anh ấy biết ông chỉ ra ngoài để bảo vệ Lilly, anh ấy đã nói với tôi như vậy. Cũng giống như anh ấy đang cố gắng bảo vệ Clementine vậy.
+[pickup2][trying to stop an argument between Lee & larry at the motel]Thôi nào, Larry.  Tha cho Lee đi.  Anh ấy biết ông chỉ ra ngoài để bảo vệ Lilly, 
+
+anh ấy đã nói với tôi như vậy. Cũng giống như anh ấy đang cố gắng bảo vệ Clementine vậy.
 127) LARRY
-[pickup2][About to go off on a tangent about Lee, but then thinks better of it, ]CẬU TA- ...  Ta chỉ là cần chút thức ăn thôi.  Lâu đến thế này mà không có một bữa ăn tử tế khiến ai cũng sẽ cáu kỉnh cả.
+[pickup2][About to go off on a tangent about Lee, but then thinks better of it, ]CẬU TA- ...  Ta chỉ là cần chút thức ăn thôi.  Lâu đến thế này 
+
+mà không có một bữa ăn tử tế khiến ai cũng sẽ cáu kỉnh cả.
 128) LARRY
 [pickup2][sneering at Lee during Motel Fence argument]Hắn biết tại sao đấy.
 129) LARRY
@@ -283,13 +328,17 @@ Bàn
 133) KATJAA
 [pickup2][talking to Lee at the Trck after David dies.  Follows "Let Kenny go, Kat"] Nhưng...
 134) KATJAA
-[pickup2][Slightly annoyed at Lee's reaction to Kenny storming off after Davids death]Đừng như thế chứ, Lee. Tôi biết ta đều đã thấy cái chết.  Nhưng nó không khiến việc này dễ hơn chút nào.
+[pickup2][Slightly annoyed at Lee's reaction to Kenny storming off after Davids death]Đừng như thế chứ, Lee. Tôi biết ta đều đã thấy cái chết.  Nhưng nó không 
+
+khiến việc này dễ hơn chút nào.
 135) LEE
 [pickup2][looking at the ice machine.  To himself]Ugh.  Mong là lúc đấy Glenn không phải trốn ở đây quá lâu.  Mùi kinh thật sự.
 136) LARRY
 [pickup2] Ồ, vậy là cậu nghĩ như thế à?
 137) KATJAA
-[pickup1][sean edit][frustrated in the midst of a surgery, talking to herself as Lee walks up] {angryA}Ước gì có thể đi ăn một bữa "thịt nướng" hoặc uống bia khỏa khuây cùng với những người bạn tốt ngay giờ.
+[pickup1][sean edit][frustrated in the midst of a surgery, talking to herself as Lee walks up] {angryA}Ước gì có thể đi ăn một bữa "thịt nướng" hoặc uống bia khỏa khuây cùng với 
+
+những người bạn tốt ngay giờ.
 138) KATJAA
 [pickup1][sean edit] [frustrated, in the midst of performing a surgery]{angryA}Providence, như anh nói. Gần đây tôi không chắc nữa.
 139) KATJAA
@@ -305,7 +354,9 @@ Tôi cũng phát mệt với việc này rồi.
 144) LEE
 [pickup2][Mirroring Kennys frustration over people alyways dying] Tôi cũng phát mệt với việc này rồi.
 145) KATJAA
-[pickup2][Responding to lee saying "Im sick of people dying!"] Anh nghĩ tôi không vậy à? [then conflicted]Tôi không biết nữa... Có lẽ như vậy là tốt nhất.  Nuôi bọn trẻ thôi cũng đủ mệt rồi.
+[pickup2][Responding to lee saying "Im sick of people dying!"] Anh nghĩ tôi không vậy à? [then conflicted]Tôi không biết nữa... Có lẽ như vậy là tốt nhất.  
+
+Nuôi bọn trẻ thôi cũng đủ mệt rồi.
 146) KATJAA
 [pickup2][after Kenny stors off, frustrated that people keep dying ][tired] Đáng lẽ anh ấy không nên làm thế.
 147) LEE
@@ -379,19 +430,27 @@ Tôi cũng phát mệt với việc này rồi.
 181) KENNY
 [pickup2][a bit defensive and a bit guilty when Katjaa askes what they did to the injured person they are brining to her for help]Chuyện đó không quan trọng.
 182) LILLY
-[pickup2][angry with lee, kenny and mark for bringing strangers to the motel knowing there isnt enough food as it is, and extremely frustrated since she is the person in charge of rations for eveyone] {angryC}Cái quái gì vậy?!  Anh không thể mang thêm người mới tới đây như thế được!  {angryB}Nghĩ sao vậy?!
+[pickup2][angry with lee, kenny and mark for bringing strangers to the motel knowing there isnt enough food as it is, and extremely frustrated since she is the person in charge of rations for eveyone] {angryC}Cái quái gì vậy?!  Anh không thể mang thêm người mới tới đây như thế được!  
+
+{angryB}Anh nghĩ gì vậy?!
 183) LILLY
 [pickup2][angry with Lee and frustrated with her position as Leader, she challenges Lee to walk in her shoes]{angryB}Anh biết gì không?  Nếu nghĩ rằng tôi đang làm không tốt, vậy thì anh làm đi!
 184) LEE
 [pickup2][When Lilly tells he that HE is in charge of the rations, Lee thinks she's overreacting.]{disgustA}Lilly [come on!]-
 185) LILLY
-[pickup2][angry and serious- laying it on the line that Lee now has to suffer the tough decisions she makes every day]{angryA}Không, tôi nghiêm túc đấy. {angryB}Cầm lấy chỗ đồ ăn đó, và đi chia cho mọi người đi.  Rồi anh sẽ biết cảm giác không có đủ đồ ăn để chia cho mọi người là như thế nào.
+[pickup2][angry and serious- laying it on the line that Lee now has to suffer the tough decisions she makes every day]{angryA}Không, tôi nghiêm túc đấy. {angryB}Cầm lấy chỗ đồ ăn đó, và đi chia cho mọi người đi.  
+
+Rồi anh sẽ biết cảm giác không có đủ đồ ăn để chia cho mọi người là như thế nào.
 186) LILLY
-[pickup2][Lilly angrily motions to the only food they have left and puts Lee in charge of it]{angryC}Đó là chỗ thức ăn chúng ta có cho hôm nay.  {thinkingA}Tự ANH quyết định phải chia cho ai đi!
+[pickup2][Lilly angrily motions to the only food they have left and puts Lee in charge of it]{angryC}Đó là chỗ thức ăn chúng ta có cho hôm nay.  {thinkingA}Tự ANH quyết định phải 
+
+chia cho ai đi!
 187) KENNY
 [pickup2][defensive; irritated that Lilly is once again trying to bully people in the name of "leadership"]Này, mẹ kiếp, bình tĩnh một phút thôi có được không?
 188) LILLY
-[pickup2][Really annoyed that Lee & Kenny have brough new people to the camp while everyone is starving]{angryC}Không, tôi không bình tĩnh!  Tôi muốn biết tại sao anh lại nghĩ mang thêm miệng ăn tới lại là ý hay?!
+[pickup2][Really annoyed that Lee & Kenny have brough new people to the camp while everyone is starving]{angryC}Không, tôi không bình tĩnh!  Tôi muốn biết tại sao anh lại nghĩ mang thêm miệng ăn 
+
+tới đây lại là ý hay?!
 189) MARK
 [pickup2][to himself, annoyed that Lilly and Kenny are fighting where there are bigger things to worry about]{thinkingB}Chúa ơi.
 190) LEE
@@ -401,13 +460,21 @@ Tôi cũng phát mệt với việc này rồi.
 192) LEE
 [pickup2][TENSE! - Lilly is angry that you brought strangers into the camp! says"What were you thinking?!"]{angryA}Bọn tôi đã bỏ lại một người rồi.
 193) LEE
-[pickup3][TENSE! - Lilly is angry that you brought strangers into the camp! says"What were you thinking?!"]{angryB}Tôi nghĩ chúng ta có thể cứu mạng anh ta! {angryC}Tôi cũng là người đã chặt chân của anh ta, nên tôi phải chịu trách nhiệm.
+[pickup3][TENSE! - Lilly is angry that you brought strangers into the camp! says"What were you thinking?!"]{angryB}Tôi nghĩ chúng ta có thể cứu mạng anh ta! {angryC}Tôi cũng là người đã chặt chân 
+
+của anh ta, nên tôi phải chịu trách nhiệm.
 194) LILLY
-[pickup2][Really annoyed that Lee & Kenny have brough new people to the camp while everyone is starving]{angryB}Chúng ta KHÔNG chịu trách nhiệm cho tất cả những kẻ sống sót mà ta gặp phải! {angryC}Mà là cần tập trung cho nhóm của CHÚNG TA!  Ngay tại đây. Ngay lúc này.
+[pickup2][Really annoyed that Lee & Kenny have brough new people to the camp while everyone is starving]{angryB}Chúng ta KHÔNG chịu trách nhiệm cho tất cả những kẻ sống sót mà ta gặp phải! 
+
+{angryC}Mà là cần tập trung cho nhóm của CHÚNG TA!  Ngay tại đây. Ngay lúc này.
 199) LILLY
-[pickup2][Really annoyed that Lee & Kenny have brough new people to the camp while everyone is starving]{angryB}Chúng ta KHÔNG chịu trách nhiệm cho tất cả những kẻ sống sót mà ta gặp phải! {angryC}Mà là cần tập trung cho nhóm của CHÚNG TA!  Ngay tại đây. Ngay lúc này.
+[pickup2][Really annoyed that Lee & Kenny have brough new people to the camp while everyone is starving]{angryB}Chúng ta KHÔNG chịu trách nhiệm cho tất cả những kẻ sống sót mà ta gặp phải! 
+
+{angryC}Mà là cần tập trung cho nhóm của CHÚNG TA!  Ngay tại đây. Ngay lúc này.
 195) LILLY
-[pickup2][Really annoyed that Lee & Kenny have brough new people to the camp while everyone is starving]{thinkingA}Một người nữa á?!  {angryA}Chúa ơi, Lee!  Nếu có nhiều hơn thì sao?!  {angryB}Nếu chúng theo anh tới đây thì phải làm sao?!
+[pickup2][Really annoyed that Lee & Kenny have brough new people to the camp while everyone is starving]{thinkingA}Một người nữa á?!  {angryA}Chúa ơi, Lee!  Nếu có nhiều hơn thì sao?!  {angryB}Nếu chúng theo anh 
+
+tới đây thì phải làm sao?!
 196) LARRY
 [pickup2][Really annoyed that Lee & Kenny have brough new people to the camp while everyone is starving]{angryB}Vậy cậu nên làm việc cần làm và kết liễu hắn đi chứ.
 197) KENNY
@@ -419,31 +486,57 @@ Tôi cũng phát mệt với việc này rồi.
 201) BEN
 [pickup2][TENSE! - Trying to fend of suspicion durring the arguement by insisting that there were no more of them]{sadB}Không còn ai nữa. Mỗi bọn tôi thôi!
 202) KENNY
-[pickup2][Bringing down the intensity a bit, through grittet teeth.  Getting really fed up with Lilly trying to bully people with her leadership - ]Cô biết không, cô cứ thích nghĩ rằng mình là người lãnh đạo của cái nhóm này, nhưng chúng tôi có thể tự đưa ra quyết định của mình!  Đây không phải là chế độ độc tài cá nhân của riêng cô!
+[pickup2][Bringing down the intensity a bit, through grittet teeth.  Getting really fed up with Lilly trying to bully people with her leadership - ]Cô biết không, cô cứ thích nghĩ rằng mình là người lãnh đạo của cái nhóm này, 
+
+nhưng chúng tôi có thể tự đưa ra quyết định của mình!  Đây không phải là 
+
+chế độ độc tài của riêng cô!
 203) MARK
-[pickup2][getting sucked into the argument, defending the position that bringing the injured people was the right thing to do] {angryB}Thôi nào, Lilly.  Đây đều là người cả!  Là những người cố gắng sinh tồn giống như chúng ta.  Đáng lẽ nên cùng hỗ trợ nhau mà sống sót chứ!
+[pickup2][getting sucked into the argument, defending the position that bringing the injured people was the right thing to do] {angryB}Thôi nào, Lilly.  Đây đều là người cả!  Là những người cố gắng sinh tồn giống 
+
+như chúng ta. Đáng lẽ nên cùng hỗ trợ nhau mà sống sót chứ!
 204) MARK
 [pickup2][realizing that Lilly doesnt really consider him one of the group, mark exits the argument kowing his opinion isnt going to matter to her]{thinkingA}Được thôi.  Vậy mấy người tự xử đi.  [turns to Ben, Sarcastic] {disgustA}chào mừng đến với gia đình, Nhóc.
 205) LILLY
-[pickup2][Really annoyed that Lee & Kenny have brought new people to the camp while everyone is starving]{angryB}Lý do duy nhất mà anh ở đây là bởi vì anh có thức ăn.  {angryC}Đủ cho TẤT CẢ chúng ta.  {angryA}Nhưng số thức ăn đó cũng dần cạn kiệt rồi, có lẽ cũng chỉ còn trụ được vài tuần nữa thôi, [turns to Ben]và {thinkingB}tôi cũng không nghĩ rằng mấy người có mang theo bất kỳ thứ gì đâu nhỉ?!
+[pickup2][Really annoyed that Lee & Kenny have brought new people to the camp while everyone is starving]{angryB}Lý do duy nhất mà anh ở đây là bởi vì anh có thức ăn.  {angryC}Đủ cho 
+
+TẤT CẢ chúng ta.  {angryA}Nhưng số thức ăn đó cũng dần cạn kiệt rồi, có lẽ cũng chỉ còn 
+
+trụ được vài tuần nữa thôi, [turns to Ben]và {thinkingB}tôi cũng không nghĩ rằng mấy người có mang theo 
+
+bất kỳ thứ gì đâu nhỉ?!
 206) LILLY
 [pickup2][Really annoyed that Lee & Kenny have brought new people to the camp while everyone is starving]{angryB}Này, tôi cũng không có xin được lãnh đạo nhóm này nhá!
 207) LEE
-[pickup2][difusing the tense argument by taking side]{sadA}Lilly nói đúng.  Nhóm này cần một ai đó lãnh đạo không thì ta sẽ tan rã mất. {angryA}Ta không thể cứ tiếp tục cãi cọ với nhau được.
+[pickup2][difusing the tense argument by taking side]{sadA}Lilly nói đúng.  Nhóm này cần một ai đó lãnh đạo không thì ta sẽ tan rã mất. 
+
+{angryA}Ta không thể cứ tiếp tục cãi cọ với nhau được.
 208) LEE
-[pickup2][difusing the tense argument by taking sides]{angryB}Kenny nói đúng. Phải, cô quản lý chỗ thức ăn, và lịch trình, nhưng cô KHÔNG có quản lý mạng sống của ai cả.
+[pickup2][difusing the tense argument by taking sides]{angryB}Kenny nói đúng. Phải, cô quản lý chỗ thức ăn, và lịch trình, nhưng cô KHÔNG có 
+
+quản lý mạng sống của ai cả.
 209) KENNY
 [pickup2][sarcastic, highy irritated tha Lee has taken Lilly's side in the agrugment about leadership] Tuyệt đấy. Vậy đã chọn phe rồi à, Lee!
 210) LILLY
-[pickup2][taking a deep breath, makes the decision to let the Kid stay (for now) because she believes that might help difuse the tension in the group for the moment, not because it's the right thing]... {angryB}Họ có thể ở lại tới khi Katjaa đã chữa xong cho người đó. Sao đó thì bọn họ PHẢI rời đi.  {angryC}Tôi không quan tâm họ trong tình trạng nào. Ta chỉ là không có đủ thức ăn.
+[pickup2][taking a deep breath, makes the decision to let the Kid stay (for now) because she believes that might help difuse the tension in the group for the moment, not because it's the right thing]... {angryB}Họ có thể ở lại tới khi Katjaa đã chữa xong cho người đó. Sau đó 
+
+thì bọn họ PHẢI rời đi.  {angryC}Tôi không quan tâm họ trong tình trạng nào. 
+
+Ta chỉ là không có đủ thức ăn.
 211) LEE
-[pickup2][tense - in the argument, defenting his own decision to bring back strangers]  [Conceding that Lilly IS in charge]{sadA}Nghe này, giờ họ đã ở đây rồi, ta không thể thay đổi điều đó... {normalD}vậy cô muốn làm gì đây?
+[pickup2][tense - in the argument, defenting his own decision to bring back strangers]  [Conceding that Lilly IS in charge]{sadA}Nghe này, giờ họ đã ở đây rồi, ta không thể thay đổi điều đó... {normalD}vậy 
+
+cô muốn làm gì đây?
 212) KENNY
 [pickup2] Sao cũng được.
 213) LEE
 [pickup2][Still tense - difusing the tense argument by taking sides]{angryB}Và để làm rõ, Kenny đã muốn bỏ lại những người đó!
 214) LEE
-[pickup2][Still tense - difusing the tense argument by taking sides]{thinkingB}Nghe này, một khi Katjaa đã chữa cho gã đó, cô có thể đá họ ra khỏi đây... {angryA}Gửi họ ra ngoài một mình, tôi không quan tâm ít hơn.  {angryB}Nhưng ít nhất họ cũng nên có cơ hội đánh trả lại bọn xác sống chứ.
+[pickup2][Still tense - difusing the tense argument by taking sides]{thinkingB}Nghe này, một khi Katjaa đã chữa cho gã đó, cô có thể đá họ ra khỏi đây... 
+
+{angryA}Gửi họ ra ngoài một mình, tôi không quan tâm ít hơn.  {angryB}Nhưng ít nhất họ cũng nên 
+
+có cơ hội đánh trả lại bọn xác sống chứ.
 215) LILLY
 [pickup2][highyly annoyed tha Lee is challenging her leadership skills.] {angryA}Thật đấy à?!
 216) KENNY
@@ -451,17 +544,29 @@ Tôi cũng phát mệt với việc này rồi.
 217) KENNY
 [pickup2][TENSE - annoyed that Lee doesnt have his back in this arguement]Không, Lee, nó CÓ quan trọng đấy! MỘT người không thể quản lý TẤT CẢ mọi chuyện được!
 218) LEE
-[pickup2][TENSE! - Trying to difuse the situation by NOT taking sides.]{thinkingB}Không quan trọng rằng ai lãnh đạo cả!  Dù gì họ cũng đã ở đây rồi. {normalD}Tôi đoán chúng ta cần quyết định điều cần làm tiếp theo thôi.
+[pickup2][TENSE! - Trying to difuse the situation by NOT taking sides.]{thinkingB}Không quan trọng rằng ai lãnh đạo cả!  Dù gì họ cũng đã ở đây rồi. 
+
+{normalD}Tôi đoán chúng ta cần quyết định điều cần làm tiếp theo thôi.
 219) KENNY
-[pickup2][TENSE- a beat - as Kenny works out his frustration, then accusational and a bit hurt]Anh có thể cảm thấy an toàn khi ở phía sau hàng rào, nhưng rồi sớm muộn gì anh cũng phải quyết định nên theo phe nào thôi.
+[pickup2][TENSE- a beat - as Kenny works out his frustration, then accusational and a bit hurt]Anh có thể cảm thấy an toàn khi ở phía sau hàng rào, nhưng rồi sớm muộn gì 
+
+cũng phải quyết định nên theo phe nào thôi.
 220) KENNY
 [pickup2][Fed up with arguing with Lilly and Lee not having his back] Anh không có gì để nói à Lee?
 221) LILLY
-[pickup2][Still tense - annoyed that Kenny cant see the big picture]{angryB} Nếu Kenny chịu dùng não mà suy nghĩ chỉ năm giây thôi, anh ta sẽ nhận ra được tôi chọn như vậy là để {angryD}BẢO VỆ gia đình của anh ta!  {angryC}Ta đơn giản là không có đủ thức ăn!
+[pickup2][Still tense - annoyed that Kenny cant see the big picture]{angryB} Nếu Kenny chịu dùng não mà suy nghĩ chỉ năm giây thôi, anh ta sẽ nhận ra được 
+
+tôi chọn như vậy là để {angryD}BẢO VỆ gia đình của anh ta!  {angryC}Ta đơn giản là 
+
+không có đủ thức ăn!
 222) LILLY
-[pickup2][Still angry, but sick of fighting]{angryB}Anh nghĩ đối với tôi chuyện này dễ lắm sao? Mọi người đang bắt đầu ghét tôi bởi vì TÔI là người chia khẩu phần ăn.  Nhưng hỏi thì CHẲNG AI KHÁC muốn làm cả!
+[pickup2][Still angry, but sick of fighting]{angryB}Anh nghĩ đối với tôi chuyện này dễ lắm sao? Mọi người đang bắt đầu ghét tôi 
+
+bởi vì TÔI là người chia khẩu phần ăn.  Nhưng CHẲNG AI KHÁC muốn làm cả!
 223) LILLY
-[pickup2][fed up! but VERY matter of fact.] {thinkingA}Hay anh biết gì không?  {angryA}Tối nay tôi không làm nữa.  Anh làm đi.  Số thức ăn cho hôm nay đây, nhưng nó cũng chẳng đủ cho mọi người.  {normalC}Chúc may mắn.
+[pickup2][fed up! but VERY matter of fact.] {thinkingA}Hay anh biết gì không?  {angryA}Tối nay tôi không làm nữa.  Anh làm đi.  Số thức ăn 
+
+cho hôm nay đây, nhưng nó cũng chẳng đủ cho mọi người.  {normalC}Chúc may mắn.
 224) 
 Kenny nói đúng.
 225) 
@@ -469,11 +574,17 @@ Lilly nói đúng.
 226) 
 Không quan trọng ai lãnh đạo cả!
 227) LILLY
-[pickup2][after the argument, having spent all her energy, appealing to Lee for help.] {sadB}Nghe này, giờ tôi không làm chuyện này được.  {disgustA}Anh hiểu tôi phải đối mặt với chuyện gì. {sadA}Làm ơn giúp tôi một việc, tôi cần anh chia khẩu phần ăn cho hôm nay.
+[pickup2][after the argument, having spent all her energy, appealing to Lee for help.] {sadB}Nghe này, giờ tôi không làm chuyện này được.  {disgustA}Anh hiểu tôi phải đối mặt với chuyện gì. 
+
+{sadA}Làm ơn giúp tôi một việc, tôi cần anh chia khẩu phần ăn cho hôm nay.
 228) LEE
 [pickup2][after fighting, he has no enegry left... sypathizing with Lilly's job of rationing food they dont have enough of]{surpriseA}Chỉ thế này thôi á?
 229) LILLY
-[pickup3][follows: 310522313][tired, reafiriming that the food really is almost gone] {sadA}Nếu chúng ta muốn kéo dài vượt qua tuần này, thì đây là tất cả mà ta có thể dùng cho hôm nay.  Sẽ không đủ cho tất cả mọi người, nhưng... [too worn out to even finish that thought, and just leaves it to Lee]{sadB}Hãy cứ làm gì mà anh nghĩ là đúng.
+[pickup3][follows: 310522313][tired, reafiriming that the food really is almost gone] {sadA}Nếu chúng ta muốn kéo dài vượt qua tuần này, thì đây là tất cả mà ta có thể 
+
+dùng cho hôm nay.  Sẽ không đủ cho tất cả mọi người, nhưng... [too worn out to even finish that thought, and just leaves it to Lee]{sadB}Hãy cứ 
+
+làm gì mà anh nghĩ là đúng.
 230) LEE
 [pickup2][knowing that his next statement is going to sound shitty, right after a guy died] Thì... ít nhất anh ta cũng không còn là vấn đề của chúng ta nữa.
 231) KATJAA
@@ -501,7 +612,9 @@ Chúng ta cần loại bỏ cậu ta.
 240) BEN
 [pickup2][Super defensive!  Being yelled at!!]{sadA}Nó không đến từ vết cắn!
 241) BEN
-[pickup2][Super defensive!  Being yelled at!!]{sadB}Mọi người sẽ sống dậy kể cả có chết như thế nào.  Nếu không hủy đi bộ não, thì chuyện đó sẽ xảy ra.  Nó sẽ xảy ra với TẤT CẢ chúng ta.
+[pickup2][Super defensive!  Being yelled at!!]{sadB}Mọi người sẽ sống dậy kể cả có chết như thế nào.  Nếu không hủy đi bộ não, 
+
+thì chuyện đó sẽ xảy ra.  Nó sẽ xảy ra với TẤT CẢ chúng ta.
 242) LARRY
 [pickup3][calming down but still pissed.  Low and seething]Rồi cậu sẽ khiến TẤT CẢ chúng ta bị giết mất!
 577) LARRY
@@ -515,13 +628,27 @@ Chúng ta cần loại bỏ cậu ta.
 246) BEN
 [pickup2][defensive - being accused of lying about not having to be bit to change]{sadB}Thật mà!  Tôi thề!
 247) KATJAA
-[pickup2][after hearing that people come back as zombies not matter what, and Lee thinking it's a lie]{sadB}Có lẽ cậu ta nói đúng đấy.  Tôi không thấy vết cắn nào cả. Điều đó cũng giải thích được tại sao bọn chúng lại nhiều đến thế.
+[pickup2][after hearing that people come back as zombies not matter what, and Lee thinking it's a lie]{sadB}Có lẽ cậu ta nói đúng đấy.  Tôi không thấy vết cắn nào cả. Điều đó cũng 
+
+giải thích được tại sao bọn chúng lại nhiều đến thế.
 248) KENNY
-[pickup2][after hearing that people come back as zombies not matter what, ]{fearA}Chúa ơi.  Nếu chỉ, CHẾT đi và đó là tất cả những gì nó cần, thì toi thật, {sadB}một vụ tai nạn xe hơi thôi và một gia đình năm người sẽ biến thành một gia đình xác sống.
+[pickup2][after hearing that people come back as zombies not matter what, ]{fearA}Chúa ơi.  Nếu chỉ, CHẾT đi và đó là tất cả những gì nó cần, thì toi thật, 
+
+{sadB}một vụ tai nạn xe hơi thôi và một gia đình năm người sẽ biến thành một 
+
+gia đình xác sống.
 249) BEN
-[pickup2][trying to explain that you dont have to be bitten to become a zombie, but doesnt really know the details.  Answering "we're all infected?"] {sadB}Tôi- Tôi đoán thế.  Tôi không biết... {sadC}Tất cả những gì tôi biết là mình đã tận mắt thấy những người mà tôi BIẾT là chưa từng bị cắn, đều sống dậy.
+[pickup2][trying to explain that you dont have to be bitten to become a zombie, but doesnt really know the details.  Answering "we're all infected?"] {sadB}Tôi- Tôi đoán thế.  Tôi không biết... {sadC}Tất cả những gì tôi biết là mình đã 
+
+tận mắt thấy những người mà tôi BIẾT là chưa từng bị cắn, đều sống dậy.
 250) BEN
-[pickup2][trying to explain that you dont have to be bitten to become a zombie, but doesnt really know the details.] {sadA}Lúc mà lần đầu mà tôi thấy nó xảy ra, tất cả chúng tôi đang trốn trong một phòng gym và mọi người đều nghĩ rằng cuối cùng cũng đã được an toàn.  {sadB}Nhưng có một cô gái, Jenny Pitcher, tôi đoán là cô ấy không chịu được nữa.  Và bắt đầu nốc rất nhiều thuốc.
+[pickup2][trying to explain that you dont have to be bitten to become a zombie, but doesnt really know the details.] {sadA}Lúc mà lần đầu mà tôi thấy nó xảy ra, tất cả chúng tôi đang trốn trong 
+
+một phòng gym và mọi người đều nghĩ rằng cuối cùng cũng đã được an toàn.  {sadB}Nhưng có 
+
+một cô gái, Jenny Pitcher, tôi đoán là cô ấy không chịu được nữa.  
+
+Và bắt đầu nốc rất nhiều thuốc.
 251) BEN
 [pickup2][trying to explain that you dont have to be bitten to become a zombie, but doesnt really know the details.]{sadC}Ai đó đã đến phòng của mấy cô gái vào sáng hôm sau và...Chúa ơi...
 252) LILLY
@@ -553,7 +680,9 @@ Chúa giúp chúng con.
 265) BEN
 [pickup2][scared and being interrogated.  Asked "who are those people?!"][whispered]{fearA}Tôi- Tôi không biết!
 266) LEE
-[pickup2][interrogating Ben about the people coming down the road][quiet]{thinkingB}Nếu họ thân thiện, chúng tôi sẽ không muốn làm đau họ.  Họ có vẻ không thuộc nhóm của cậu, nhỉ?!
+[pickup2][interrogating Ben about the people coming down the road][quiet]{thinkingB}Nếu họ thân thiện, chúng tôi sẽ không muốn làm đau họ.  Họ có vẻ không thuộc nhóm 
+
+của cậu, nhỉ?!
 267) BEN
 [pickup2][scared and being interrogated.  ][quiet][taking in the tragedy]{sadA}...những người cuối cùng.
 268) BEN
@@ -595,13 +724,21 @@ Chúa giúp chúng con.
 286) LEE
 [pickup2][calling out - confronting strangers as they arrive at the motel.  Stern]{angryA}Chúng tôi đông hơn các anh, hãy quay đầu và rời đi.
 287) ANDY
-[pickup2][cautious - being confronted by Lilly & Lee at gunpoint]{SurprisedA}Tất nhiên.  Bọn tôi cũng không muốn. [trying to ease the tension of the situation] {happyA}Tôi là Andy St. John.  Đây là em trai tôi Dan.  Bọn tôi chỉ đang đi tìm chút xăng thôi.
+[pickup2][cautious - being confronted by Lilly & Lee at gunpoint]{SurprisedA}Tất nhiên.  Bọn tôi cũng không muốn. [trying to ease the tension of the situation] {happyA}Tôi là Andy St. John.  Đây là em trai tôi Dan.  
+
+Bọn tôi chỉ đang đi tìm chút xăng thôi.
 288) ANDY
-[pickup2][cautious - being confronted by Lilly & Lee at gunpoint]{happyA}Được, ổn thôi.  {thinkingA}Nhưng sẽ thật tốt nếu anh giúp đỡ vài người đang cần giúp đỡ nếu có thể chia sẻ một ít xăng trước khi chúng tôi đi...
+[pickup2][cautious - being confronted by Lilly & Lee at gunpoint]{happyA}Được, ổn thôi.  {thinkingA}Nhưng sẽ thật tốt nếu anh giúp đỡ vài người đang cần giúp đỡ 
+
+nếu có thể chia sẻ một ít xăng trước khi chúng tôi đi...
 289) ANDY
-[pickup2][cautious - being confronted by Lilly, (Carkey) & Lee at gunpoint]{thinkingA}Có vẻ các anh đã khóa chặt phòng thủ của nhà nghỉ, điều đó không sao, nhưng nếu các anh có thể chia sẻ chút xăng thì chúng tôi sẽ rất biết ơn.
+[pickup2][cautious - being confronted by Lilly, (Carkey) & Lee at gunpoint]{thinkingA}Có vẻ các anh đã khóa chặt phòng thủ của nhà nghỉ, điều đó không sao, nhưng 
+
+nếu các anh có thể chia sẻ chút xăng thì chúng tôi sẽ rất biết ơn.
 597) ANDY
-[pickup2][cautious - being confronted by Lilly, (Carkey) & Lee at gunpoint]{thinkingA}Có vẻ các anh đã khóa chặt phòng thủ của nhà nghỉ, điều đó không sao, nhưng nếu các anh có thể chia sẻ chút xăng thì chúng tôi sẽ rất biết ơn.
+[pickup2][cautious - being confronted by Lilly, (Carkey) & Lee at gunpoint]{thinkingA}Có vẻ các anh đã khóa chặt phòng thủ của nhà nghỉ, điều đó không sao, nhưng 
+
+nếu các anh có thể chia sẻ chút xăng thì chúng tôi sẽ rất biết ơn.
 290) LEE
 [pickup2][calling out - confronting strangers as they arrive at the motel.  Stern]{angryA}Các anh có vũ trang không?!
 291) DANNY
@@ -623,7 +760,9 @@ Chúa giúp chúng con.
 299) ANDY
 [pickup2][suprised at gunpoint, Andy tries to show that they are friendly]{surprisedA}Ôi đệt! {thinkingA}Được, được rồi... Không vấn đề.
 300) ANDY
-[pickup2][trying to be friendly while suddenly being held at gunpoint]{SurprisedA}Woah, cô gái à, bình tĩnh!  Tôi và em trai, chúng tôi... chúng tôi chỉ muốn biết mọi người có thể giúp bọn tôi không.
+[pickup2][trying to be friendly while suddenly being held at gunpoint]{SurprisedA}Woah, cô gái à, bình tĩnh!  Tôi và em trai, chúng tôi... chúng tôi chỉ 
+
+muốn biết mọi người có thể giúp bọn tôi không.
 301) CARLEY
 [pickup2][forceful, confronting strangers that have suddenly showed up at your front gate]{angryB} Tôi bảo lùi lại!
 302) CARLEY
@@ -631,7 +770,9 @@ Chúa giúp chúng con.
 303) LILLY
 [pickup2][backing Carley up as she confronts the strangers, but coaxing her not to take it too far]{angryA}...Carley...
 304) ANDY
-[pickup2][careful - trying to establing themselfs as useful and not a threat] {happyB}Nghe này, chúng tôi sở hữu một trang trại bò sữa cách đây vài dặm. Nếu các bạn sẵn sàng hạ súng xuống, {thinkingA}chúng ta có thể nói về chuyện trao đổi vài thứ.
+[pickup2][careful - trying to establing themselfs as useful and not a threat] {happyB}Nghe này, chúng tôi sở hữu một trang trại bò sữa cách đây vài dặm. Nếu các bạn 
+
+sẵn sàng hạ súng xuống, {thinkingA}chúng ta có thể nói về chuyện trao đổi vài thứ.
 305) LEE
 [pickup2][barganing with the strangers for gas] {thinkingA}Các anh đề nghị gì?
 306) LEE
@@ -641,11 +782,13 @@ Chúa giúp chúng con.
 308) LILLY
 [pickup2][barganing with the brother over gas]{thinkingA}Các anh cần xăng, bọn tôi cần thức ăn.  Nói chuyện thôi.
 309) DANNY
-[pickup3][barganing with the strangers for gas]{thinkingA}Lương thực của mọi người như thế nào rồi?  Chúng tôi vẫn còn rất nhiều ở trang trại.
+[pickup3][barganing with the strangers for gas]{thinkingA}Lương thực của mọi người sao rồi?  Chúng tôi vẫn còn rất nhiều ở trang trại.
 310) ANDY
 [pickup2][brightening up, friendly] {happyB}Chà phải, bọn tôi có thức ăn! {happyA}Vậy nói về xăng nào.
 311) ANDY
-[pickup2] [bargaining with lee & groups for gas.  Lee doesnt want to make any deals]{thinkingA}Điều đó đúng, anh không cần.  {happyA}Nhưng một nhóm cỡ của anh, chắc cũng sắp hết thức ăn rồi. Tôi nghĩ rằng đó có thể là một giao dịch công bằng.
+[pickup2] [bargaining with lee & groups for gas.  Lee doesnt want to make any deals]{thinkingA}Điều đó đúng, anh không cần.  {happyA}Nhưng một nhóm cỡ của anh, chắc cũng sắp hết thức ăn rồi. 
+
+Tôi nghĩ rằng đó có thể là một giao dịch công bằng.
 312) KENNY
 [pickup2][still arguing that keeping the gas is more important that trusting strangers] {angryB}Chúng ta thậm chí không biết những kẻ đó có nói thật không!
 313) LILLY
@@ -659,11 +802,17 @@ Chúa giúp chúng con.
 317) CARLEY
 [pickup2][volunteering to go to the dairy with Lee]{angryA}Tôi sẽ đi cùng anh.  Tôi sẽ hỗ trợ cho nếu có gì đó không ổn.
 318) DOUG
-[pickup2][volunteering to go to the dairy with Lee]Tôi cũng sẽ đi, cải thiện số lượng, trong trường hợp chúng ta gặp phải bất cứ thứ gì chết chóc
+[pickup2][volunteering to go to the dairy with Lee]Tôi cũng sẽ đi, cải thiện số lượng, trong trường hợp chúng ta gặp phải bất cứ 
+
+thứ gì chết chóc
 319) KENNY
-[pickup2][unhappy with Lilly's plan]{angryA}Không không, tìm hiểu trước họ đủ thức ăn xứng đáng với thời gian của ta không đã! SAU ĐÓ ta có thể nghĩ đến việc trao đổi.
+[pickup2][unhappy with Lilly's plan]{angryA}Không không, tìm hiểu trước họ đủ thức ăn xứng đáng với thời gian của ta không đã! 
+
+SAU ĐÓ ta có thể nghĩ đến việc trao đổi.
 320) LILLY
-[pickup2][making a plan for checking out the dairy]{thinkingA}Anh nên mang theo cùng CHÚT xăng.  Như dấu hiệu của sự tin tưởng.  Và thứ gì đó để trao đổi khi đến đó.
+[pickup2][making a plan for checking out the dairy]{thinkingA}Anh nên mang theo cùng CHÚT xăng.  Như dấu hiệu của sự tin tưởng.  Và 
+
+thứ gì đó để trao đổi khi đến đó.
 321) ANDY
 [pickup2][trying to get lee & Group to make a decision, knowing that it's leaning in thier favor] {happyA}Vậy các bạn nghĩ sao?
 544) ANDY
@@ -671,7 +820,9 @@ Chúa giúp chúng con.
 322) LEE
 [pickup2][making his final offer]{angryB}Không có xăng đến khi bọn tôi kiểm tra trang trại.
 323) LEE
-[pickup2][making his final offer]{thinkingA}Bọn tôi sẽ mang CHÚT xăng tới trang trại.  Để trao đổi, các anh đưa cho chúng tôi chút đồ ăn để mang về.  {thinkingB}Tới đó rồi ta sẽ tính tiếp.
+[pickup2][making his final offer]{thinkingA}Bọn tôi sẽ mang CHÚT xăng tới trang trại.  Để trao đổi, các anh đưa cho chúng tôi 
+
+chút đồ ăn để mang về.  {thinkingB}Tới đó rồi ta sẽ tính tiếp.
 324) ANDY
 [pickup2][andy gives in and gives the okay for Lee & compnay to follow them to the dairy]{happyB}Được rồi. Cứ vậy đi.  Đi thôi.
 325) LEE
@@ -679,9 +830,13 @@ Chúa giúp chúng con.
 326) DANNY
 [pickup2][still arguing for the gas]{thinkingA}Nhưng nếu các anh có xăng ở ngay đây--
 327) ANDY
-[pickup2][agreeing to Lee's terms for the traid]{happyA}Nghe ổn đấy.  Một vài gallon sẽ đủ cung cấp năng lượng cho một chiếc máy phát điện của chúng tôi trong một thời gian.
+[pickup2][agreeing to Lee's terms for the traid]{happyA}Nghe ổn đấy.  Một vài gallon sẽ đủ cung cấp năng lượng cho một chiếc máy 
+
+phát điện của chúng tôi trong một thời gian.
 328) DANNY
-[pickup3]Chỗ của chúng tôi, xung quanh được bảo vệ bởi hàng rào điện.  Điện thì được cung cấp bởi máy phát...
+[pickup3]Chỗ của chúng tôi, xung quanh được bảo vệ bởi hàng rào điện.  Điện thì được cung cấp 
+
+bởi máy phát...
 329) 
 Anh ta sẽ chết nếu chúng tôi bỏ lại anh ta!
 330) 
@@ -707,9 +862,11 @@ Chúng tôi đông hơn các anh ở đây.
 340) LARRY
 [pickup2][arguing that letting a stranger die is fine] {angryB}Thì sao?
 341) LILLY
-[pickup2][really doesnt need her dad trying to defend her.  She can handle this herself] {fearA}Bố ơi, thôi. {sadA}Hay là bố đi giúp Mark sửa lại bức tường đi ạ?
+[pickup2][really doesnt need her dad trying to defend her.  She can handle this herself] {fearA}Bố ơi. {sadA}Hay là bố đi giúp Mark sửa lại bức tường đi ạ?
 342) LARRY
-[pickup2][defending Lilly in the arguement]{angryC}Khi gặp quyết định khó khăn thì tôi không thấy ai trong các người đứng ra quyết định cả!  {angryB}Tôi thấy con gái mình còn cứng cỏi hơn so với tất cả mấy người cộng lại đấy!
+[pickup2][defending Lilly in the arguement]{angryC}Khi gặp quyết định khó khăn thì ta không thấy ai trong các người đứng ra quyết định cả!  
+
+{angryB}Ta thấy con gái mình còn cứng cỏi hơn so với tất cả cộng lại đấy!
 343) MARK
 [pickup2][Urgent!: while Katjaa is attacked by David Zombie!]Đừng bắn!  Nó sẽ thu hút xác sống tới!
 344) BEN
@@ -745,13 +902,13 @@ Cháu có thật sự cần nó không?
 359) CLEMENTINE
 [pickup2][tired & Hungry -"Do you really need your hat?"]{sadC}Bố cháu đã tặng nó cho cháu vào ngày sinh nhật của mình.
 360) CLEMENTINE
-[pickup2][tired and hungry, but happy] {normalA}Ổn ạ.
+[pickup2][tired and hungry, but happy] {normalA}Vâng ạ.
 361) LEE
 [pickup2][tired & Hungr]{happyA}Được rồi, Clem. {normalA}Chú còn việc khác cần làm nữa.  {normalC}Cháu quay lại chơi với Duck một lúc đi.
 362) LEE
 [pickup2][tired and hungry]{thinkingA}Chú hứa nếu chú tìm thấy thì chú sẽ cho cháu biết.
 363) LEE
-[pickup2] Chúng tôi đã đào qua những thứ đó để tìm thức ăn từ lâu rồi.
+[pickup2] Chúng ta đã đào qua những thứ đó để tìm thức ăn từ lâu rồi.
 364) LEE
 [pickup2] Nó giữ cho bọn xác sống ở ngoài. Carley đang thực hiện phần lớn nhiệm vụ canh gác.
 365) LEE
@@ -771,7 +928,9 @@ Cháu có thật sự cần nó không?
 372) CLEMENTINE
 [pickup2][insistant, knowing Ben is better off not in the middle of this argument] {sadA}Đi ngay thôi, được chứ?
 373) LILLY
-[pickup2][frustrated as hell! makes her point] {angryA}Mọi người đều rất vui khi được tôi phân phát thức ăn khi còn đủ để đi khắp nơi, nhưng giờ nó đã cạn kiệt, {angryD}và rồi đột nhiên tôi lại trở thành kẻ xấu!
+[pickup2][frustrated as hell! makes her point] {angryA}Mọi người đều rất vui khi được tôi phân phát thức ăn khi còn đủ để đi khắp nơi, 
+
+nhưng giờ nó đã cạn kiệt, {angryD}và rồi đột nhiên tôi lại trở thành kẻ xấu!
 374) MARK
 [pickup2][irritated, trying to hold a board while Larry hammers it with another board]{sadA}Tôi đang cố đây. Tôi không nhận ra là mình đã trở nên yếu như thế này rồi.
 375) LARRY
@@ -779,7 +938,7 @@ Cháu có thật sự cần nó không?
 376) LEE
 [pickup2] {angryA}Được rồi, chúng ta đi. {happyA}Clementine, cháu nghĩ sao?
 377) LARRY
-[pickup2] {thinkingA}You're not even going to ask Clementine, then? {normalC}She's a big girl, {happyA}aren't you, hon?
+[pickup2] {thinkingA}Vậy sao không hỏi Clementine thử xem? {normalC}Con bé lớn rồi mà, {happyA}phải chứ, bé con?
 378) LEE
 [pickup2] {angryB}Không. Ta ở lại. Tôi kiên quyết về điều này, bất kể mọi phiếu bầu.
 379) LARRY
@@ -803,15 +962,25 @@ Cháu có thật sự cần nó không?
 430) LARRY
 [pickup2] {normalC}Ý cậu là sao? Bọn họ có loại thiết lập nào?
 385) MARK
-[pickup2] {happyB}Mọi người sẽ không tin đâu, họ có một con bò sữa, và HÀNG RÀO, ôi chà, chiếc hàng rào.
+[pickup2] {happyB}Mọi người sẽ không tin đâu, họ có một con bò sữa, và HÀNG RÀO, ôi chà, 
+
+chiếc hàng rào.
 431) MARK
-[pickup2] {happyB}Mọi người sẽ không tin đâu, họ có một con bò sữa, và HÀNG RÀO, ôi chà, chiếc hàng rào.
+[pickup2] {happyB}Mọi người sẽ không tin đâu, họ có một con bò sữa, và HÀNG RÀO, ôi chà, 
+
+chiếc hàng rào.
 386) MARK
-[pickup2] {thinkingA}Chúng ta cần phải nghĩ như một NHÓM, Lee à. Điều này ảnh hưởng tới tất cả mọi người.
+[pickup2] {thinkingA}Chúng ta cần phải nghĩ như một NHÓM, Lee à. Điều này ảnh hưởng tới 
+
+tất cả mọi người.
 435) MARK
-[pickup2] {thinkingA}Chúng ta cần phải nghĩ như một NHÓM, Lee à. Điều này ảnh hưởng tới tất cả mọi người.
+[pickup2] {thinkingA}Chúng ta cần phải nghĩ như một NHÓM, Lee à. Điều này ảnh hưởng tới 
+
+tất cả mọi người.
 387) DOUG
-[pickup2] Tôi nghĩ ta nên đi. Nhưng tôi sẽ ở lại để trông coi cho nhà nghỉ, ít nhất là cho đến bữa tối nay.
+[pickup2] Tôi nghĩ ta nên đi. Nhưng tôi sẽ ở lại để trông coi cho nhà nghỉ, ít nhất là 
+
+cho đến bữa tối nay.
 388) LILLY
 [pickup2] {thinkingA}Doug?
 389) KENNY
@@ -823,9 +992,17 @@ Cháu có thật sự cần nó không?
 444) LILLY
 [pickup2] {happyA}Ta đã biết phiếu của Mark rồi. {thinkingA}Lee?
 391) LILLY
-[pickup2] {angryB}Nếu thế thì chúng ta sẽ ở lại cái nhà trọ tồi tàn toàn gián này với cái hạng cân nhẹ như giấy của anh đằng đó. {happyA}Hơn nữa chúng ta cũng ở gần với Macon nơi mà có hiệu thuốc để lấy thêm cho Bố tôi.
+[pickup2] {angryB}Nếu thế thì chúng ta sẽ ở lại cái nhà trọ tồi tàn toàn gián này với cái 
+
+hạng cân nhẹ như giấy của anh đằng đó. {happyA}Hơn nữa chúng ta cũng ở gần với Macon 
+
+nơi mà có hiệu thuốc để lấy thêm cho Bố tôi.
 438) LILLY
-[pickup2] {angryB}Nếu thế thì chúng ta sẽ ở lại cái nhà trọ tồi tàn toàn gián này với cái hạng cân nhẹ như giấy của anh đằng đó. {happyA}Hơn nữa chúng ta cũng ở gần với Macon nơi mà có hiệu thuốc để lấy thêm cho Bố tôi.
+[pickup2] {angryB}Nếu thế thì chúng ta sẽ ở lại cái nhà trọ tồi tàn toàn gián này với cái 
+
+hạng cân nhẹ như giấy của anh đằng đó. {happyA}Hơn nữa chúng ta cũng ở gần với Macon 
+
+nơi mà có hiệu thuốc để lấy thêm cho Bố tôi.
 392) LILLY
 [pickup2] {thinkingA}Kenny, Katjaa?
 440) LILLY
@@ -847,13 +1024,25 @@ Cháu có thật sự cần nó không?
 437) KENNY
 [pickup2] {angryA}Còn nếu không thì sao?
 397) LILLY
-[pickup2] {angryA}Thì ta sẽ bỏ phiếu quay lại. Nếu đa số đồng ý, Lee và Mark, hai người quay lại và nói với họ rằng chúng tôi đã đổi ý trong khi bọn tôi chuẩn bị và gặp anh ở đó.
+[pickup2] {angryA}Thì ta sẽ bỏ phiếu quay lại. Nếu đa số đồng ý, Lee và Mark, hai người 
+
+quay lại và nói với họ rằng chúng tôi đã đổi ý trong khi bọn tôi chuẩn bị 
+
+và gặp anh ở đó.
 436) LILLY
-[pickup2] {angryA}Thì ta sẽ bỏ phiếu quay lại. Nếu đa số đồng ý, Lee và Mark, hai người quay lại và nói với họ rằng chúng tôi đã đổi ý trong khi bọn tôi chuẩn bị và gặp anh ở đó.
+[pickup2] {angryA}Thì ta sẽ bỏ phiếu quay lại. Nếu đa số đồng ý, Lee và Mark, hai người 
+
+quay lại và nói với họ rằng chúng tôi đã đổi ý trong khi bọn tôi chuẩn bị 
+
+và gặp anh ở đó.
 398) LARRY
-[pickup2] {angryC}TÌNH HÌNH TỐT á? Chà, {disgustA}Cha nội ơi, con xin lỗi vì những người có nguồn cung cấp thực phẩm và NƠI PHÒNG VỆ đã không {angryD}cù vào cái mông hồng hào xinh đẹp của cha đấy.
+[pickup2] {angryC}TÌNH HÌNH TỐT á? Chà, {disgustA}Cha nội ơi, con xin lỗi vì những người có nguồn cung cấp thực 
+
+phẩm và NƠI PHÒNG VỆ đã không {angryD}cù vào cái mông hồng hào xinh đẹp của bố đấy.
 424) LARRY
-[pickup2] {angryC}TÌNH HÌNH TỐT á? Chà, {disgustA}Cha nội ơi, con xin lỗi vì những người có nguồn cung cấp thực phẩm và NƠI PHÒNG VỆ đã không {angryD}cù vào cái mông hồng hào xinh đẹp của cha đấy.
+[pickup2] {angryC}TÌNH HÌNH TỐT á? Chà, {disgustA}Cha nội ơi, con xin lỗi vì những người có nguồn cung cấp thực 
+
+phẩm và NƠI PHÒNG VỆ đã không {angryD}cù vào cái mông hồng hào xinh đẹp của bố đấy.
 399) LEE
 [pickup2] {thinkingA}Không đúng với chúng tôi. {thinkingB}Tôi không cảm thấy ổn khi ở đó.
 423) LEE
@@ -871,17 +1060,27 @@ Cháu có thật sự cần nó không?
 427) LARRY
 [pickup2] {angryA}Vậy cậu thà để chúng chết đói à?!
 403) LARRY
-[pickup2] {angryA}Cậu có nghĩ về những NGƯỜI CÒN LẠI không? {angryB}Chúng ta có, gì nhể, một rổ bánh mì đây? {angryC}Chúa ơi, Lee.
+[pickup2] {angryA}Cậu có nghĩ về những NGƯỜI CÒN LẠI không? {angryB}Chúng ta có, gì nhể, một rổ bánh mì? 
+
+{angryC}Chúa ơi, Lee.
 429) LARRY
-[pickup2] {angryA}Cậu có nghĩ về những NGƯỜI CÒN LẠI không? {angryB}Chúng ta có, gì nhể, một rổ bánh mì đây? {angryC}Chúa ơi, Lee.
+[pickup2] {angryA}Cậu có nghĩ về những NGƯỜI CÒN LẠI không? {angryB}Chúng ta có, gì nhể, một rổ bánh mì? 
+
+{angryC}Chúa ơi, Lee.
 404) LEE
-[pickup2] {angryA}Sẽ không an toàn cho Clementine. {angryB}Cái hàng rào đó rất nguy hiểm và {disgustA}và tôi không thích cái vẻ của những gã đó.
+[pickup2] {angryA}Sẽ không an toàn cho Clementine. {angryB}Cái hàng rào đó rất nguy hiểm và 
+
+{disgustA}và tôi không thích cái vẻ của những gã đó.
 428) LEE
-[pickup2] {angryA}Sẽ không an toàn cho Clementine. {angryB}Cái hàng rào đó rất nguy hiểm và {disgustA}và tôi không thích cái vẻ của những gã đó.
+[pickup2] {angryA}Sẽ không an toàn cho Clementine. {angryB}Cái hàng rào đó rất nguy hiểm và 
+
+{disgustA}và tôi không thích cái vẻ của những gã đó.
 405) LILLY
 [pickup2] {thinkingA}Carley?
 406) CARLEY
-[pickup2] Tôi nói ta nên đi. Họ có rất nhiều nguồn cung. Nhưng tôi sẽ ở lại đây cho tới bữa tối.
+[pickup2] Tôi nói ta nên đi. Họ có rất nhiều nguồn cung. Nhưng tôi sẽ 
+
+ở lại đây cho tới bữa tối.
 407) LILLY
 [pickup2] [to the group]{happyA}Họ trở lại rồi!
 408) DOUG
@@ -889,11 +1088,15 @@ Cháu có thật sự cần nó không?
 411) CARLEY
 [pickup2] {happyA}Và bọn tôi cũng có đồ ăn đây!
 409) MARK
-[pickup2] {happyA}Và sẽ còn có nhiều hơn nữa nếu Lee đây chấp nhận lời đề nghị Ở LẠI của gia đình ngọt ngào đó. {happyB}Họ thậm chí còn mời ta BỮA TỐI nữa.
+[pickup2] {happyA}Và sẽ còn có nhiều hơn nữa nếu Lee đây chấp nhận lời mời Ở LẠI của gia 
+
+đình ngọt ngào đó. {happyB}Họ thậm chí còn mời ta BỮA TỐI nữa.
 410) LILLY
 [pickup2] {normalC}Sao cơ?!
 414) LARRY
-[pickup2]{angryA}Chớ cậu muốn gì? Một chút bố thí à?  Tôi đang có sẵn 60 xu trong túi đây nếu cậu chịu ngậm miệng và ngừng cư xử như một tên yếu đuối như vậy.
+[pickup2]{angryA}Chớ cậu muốn gì? Một chút bố thí à?  Tôi đang có sẵn 60 xu trong túi đây 
+
+nếu cậu chịu ngậm miệng và ngừng cư xử như một tên yếu đuối như vậy.
 415) 
 Ừ, đúng đấy!
 416) 
@@ -919,19 +1122,23 @@ Nói chuyện
 452) KATJAA
 [pickup3][flustered while operating on the injured man, and a bit annoyed at Lee]Sao anh không đưa nó cho Duck đi.  Giờ tôi đang hơi bận với đống lộn xộn của anh.
 453) 
-Xẻng
+Đẩy Ra
 454) 
 Đá
 455) LEE
 [pickup3][casual, looking as some stuff doug is messing with]Thứ đó để làm gì?
 456) DOUG
-[pickup3][explaining the cans hanging from the sign, embarased]Ồ, đó là nỗ lực đầu tiên của tôi trong việc tạo ra hệ thống báo động. Phiên bản mới tinh vi hơn nhiều!
+[pickup3][explaining the cans hanging from the sign, embarased]Ồ, đó là nỗ lực đầu tiên của tôi trong việc tạo ra hệ thống báo động. 
+
+Phiên bản mới tinh vi hơn nhiều!
 457) CLEMENTINE
 [pickup3][ambient]Đừng nhấn mạnh quá, chú làm nó vỡ mất.
 460) LEE
 [pickup3][giving the axe to mark to fix the fence]Đây Mark.  Thứ này sẽ giúp được đấy.
 461) LARRY
-[pickup3][annoyed at lee]Này, ta mới là người làm tất cả công việc ở đây.  Cậu không nghĩ rằng nên đưa cây rìu cho ta à?
+[pickup3][annoyed at lee]Này, ta mới là người làm tất cả công việc ở đây.  Cậu không nghĩ rằng nên 
+
+đưa cây rìu cho ta à?
 462) MARK
 [pickup3][taki9ng the axe from lee to fix the fence] Cảm ơn.
 463) LEE
@@ -973,7 +1180,9 @@ Xẻng
 481) KENNY
 [pickup3][scolding Lee]{disgusta}Chúa ơi Lee, tôi không nghĩ anh lại ngu vậy.
 482) CARLEY
-[pickup3] [Lee has given food to the New guy over his established friends]{thinkingA}Lee, tôi nghĩ điều đó... thật ngọt ngào... nhưng, chúng ta không có đủ thức ăn để chia sẻ như thế. Anh cần phải nghĩ về chúng ta trước tiên.
+[pickup3] [Lee has given food to the New guy over his established friends]{thinkingA}Lee, tôi nghĩ điều đó... thật ngọt ngào... nhưng, chúng ta không có đủ thức ăn 
+
+để chia sẻ như thế. Anh cần phải nghĩ về chúng ta trước tiên.
 483) KENNY
 [pickup3][kenny walks over when he sees that Lee is handing out the food]{thinkinga}Ồ, tôi thấy Lilly còn không thể đảm nhận việc của mình.
 484) BEN
@@ -995,9 +1204,13 @@ Xẻng
 492) CLEMENTINE
 [pickup3][seeing how little food lee has to give out] {sada}Đó là số thức ăn để chia ạ?
 493) LARRY
-[pickup3][pissed that he didnt get food]Cứ đối xử với mọi người như thế thì số ngày mà cậu còn được ở trong nhóm này sẽ chỉ được đếm trên đầu ngón tay thôi đấy!
+[pickup3][pissed that he didnt get food]Cứ đối xử với mọi người như thế thì số ngày mà cậu còn được ở trong nhóm này 
+
+sẽ chỉ được đếm trên đầu ngón tay thôi đấy!
 603) LARRY
-[pickup3][pissed that he didnt get food]Cứ đối xử với mọi người như thế thì số ngày mà cậu còn được ở trong nhóm này sẽ chỉ được đếm trên đầu ngón tay thôi đấy!
+[pickup3][pissed that he didnt get food]Cứ đối xử với mọi người như thế thì số ngày mà cậu còn được ở trong nhóm này 
+
+sẽ chỉ được đếm trên đầu ngón tay thôi đấy!
 494) DOUG
 [pickup3][disapointed that he didnt get food - To himself] Đệt mẹ nó.  Mình có TRONG danh sách được ăn hôm nay mà!
 495) CLEMENTINE
@@ -1007,7 +1220,9 @@ Xẻng
 497) KENNY
 [pickup3][disapointed that Lee didnt give food to the kids]Chính xác thì anh bị gì vậy?!
 498) KENNY
-[pickup3][gettin pissed off] Anh đã có đồ ăn trong tay vậy mà không đưa cho tôi HOẶC mấy đứa nhỏ à?  Anh là loại người gì thế?
+[pickup3][gettin pissed off] Anh đã có đồ ăn trong tay vậy mà không đưa cho tôi HOẶC mấy đứa nhỏ à?  
+
+Anh là loại người gì thế?
 499) LEE
 [pickup3][Kenny is berating him] Gì cơ?
 500) LEE
@@ -1015,7 +1230,9 @@ Xẻng
 501) KENNY
 [pickup3][angry that lee didnt give him food]Vậy, tôi và gia đình mình không liên quan với anh nữa à?
 502) KENNY
-[pickup3][Assuring Lee it's okay that he didnt get food]Này, đó là một sự lựa chọn khó khăn, nhưng anh đã chăm sóc cho bọn trẻ.  Đó là điều mà một người đàn ông thực thụ làm.
+[pickup3][Assuring Lee it's okay that he didnt get food]Này, đó là một sự lựa chọn khó khăn, nhưng anh đã chăm sóc cho bọn trẻ.  
+
+Đó là điều mà một người đàn ông thực thụ làm.
 503) LEE
 [pickup3][pre-emptively defending himself] Kenny, tôi biết tôi đã hết thức ăn trước khi-
 593) LEE
@@ -1045,7 +1262,9 @@ Xẻng
 513) DOUG
 [pickup3][walking over after seeing Lee with the food]{normalA}Vậy anh là người chia thức ăn hôm nay?  Còn danh sách của Lilly thì sao?
 514) LARRY
-[pickup3][seeing that Lee is handing out food] {angrya}Này, ta đã thấy danh sách thức ăn của Lilly cho hôm nay và ta biết mình có trong đó.  Chỉ cần đừng có đưa ta đồ ăn vặt là được.
+[pickup3][seeing that Lee is handing out food] {angrya}Này, ta đã thấy danh sách thức ăn của Lilly cho hôm nay và ta biết mình 
+
+có trong đó.  Chỉ cần đừng có đưa ta đồ ăn vặt là được.
 515) LEE
 [pickup3][to himself, bummed that he's out of food]Vậy, thế là hết.
 596) LEE
@@ -1073,7 +1292,9 @@ Xẻng
 525) KENNY
 [pickup3]Này cảm ơn vì đã chăm sóc cho tôi và gia đình...
 526) KENNY
-[pickup3]Tôi nghiêm túc về lời đề nghị đi cùng chúng tôi đấy.  Anh thừa xứng đáng đi cùng chiếc RV với tôi.
+[pickup3]Tôi nghiêm túc về lời đề nghị đi cùng chúng tôi đấy.  Anh thừa xứng đáng đi cùng 
+
+chiếc RV với tôi.
 528) LEE
 [pickup3][a bit out of breath after being attacked by a zombie]Ừ.  Cảm ơn.
 529) CARLEY
@@ -1091,15 +1312,21 @@ Xẻng
 535) LEE
 [pickup3][panicking!  Being attacekd by a zombie and seeing Carley run over with her gun] BẮN NÓ!!
 536) CARLEY
-[pickup3][chiming in on the argument about bringing new poeple.  It's pretty heated]Mà, khoan đã!  Chúng ta thậm chí còn chưa nói chuyện với những người này nữa!  Có thể họ SẼ có ích!
+[pickup3][chiming in on the argument about bringing new poeple.  It's pretty heated]Mà, khoan đã!  Chúng ta thậm chí còn chưa nói chuyện với những người này nữa!  
+
+Có thể họ SẼ có ích!
 537) CARLEY
 [pickup3][in the middle of an argument follows Kenny saying "This isn't your own personal dictatorship!"]Ôi thôi nào.  Anh đang nói quá đấy!
 538) CARLEY
-[pickup3][bowing out of the arguement]Mọi thứ luôn biến thành cuộc đấu tranh quyền lực giữa hai người. Tôi không muốn trở thành một phần của điều đó đâu.
+[pickup3][bowing out of the arguement]Mọi thứ luôn biến thành cuộc đấu tranh quyền lực giữa hai người. Tôi không muốn trở thành 
+
+một phần của điều đó đâu.
 539) LARRY
 [pickup3]{after Lee gives Larry food] Cậu ta biết nên giữ ai vui lòng đấy.
 540) MARK
-[pickup3]Chà, tôi sẽ cẩn thận để không có vẻ như tôi đang chơi trò thiên vị. Tôi không muốn trong vị trí của anh lúc này chút nào.
+[pickup3]Chà, tôi sẽ cẩn thận để không có vẻ như tôi đang chơi trò thiên vị. 
+
+Tôi không muốn trong vị trí của anh lúc này chút nào.
 541) LARRY
 [pickup3]Chà, giờ cậu đã biết con bé đang đối phó với chuyện gì.
 542) MARK
@@ -1117,7 +1344,9 @@ Không thỏa thuận gì cả, chúng ta chỉ sẽ ở đây.
 549) LEE
 [pickup3][justifying to the group]Chúng ta đang bắt đầu phát triển tình hình tốt hơn ở đây tại nhà nghỉ.
 550) LILLY
-[pickup3] [preceeds #310522558]{angryA}Vậy thì chúng ta bỏ phiếu. Nếu mọi người đồng ý thì chúng ta sẽ gửi các anh đi cùng với chút xăng đến kiểm tra thử nơi đó.
+[pickup3] [preceeds #310522558]{angryA}Vậy thì chúng ta bỏ phiếu. Nếu mọi người đồng ý thì chúng ta sẽ gửi các anh 
+
+đi cùng với chút xăng đến kiểm tra thử nơi đó.
 551) DOUG
 [pickup3] Tôi nghĩ ta nên đi.
 552) CARLEY
@@ -1151,15 +1380,27 @@ Không thỏa thuận gì cả, chúng ta chỉ sẽ ở đây.
 565) LARRY
 [pickup3]Ừ, đưa bọn ta dùng thứ đó một lúc.
 566) KATJAA
-[pickup3]Nghe này, lần sau tôi hỏi anh "đã có chuyện gì," Tôi sẽ rất vui nếu anh dành thời gian để trả lời, được chứ?
+[pickup3]Nghe này, lần sau tôi hỏi anh "đã có chuyện gì," Tôi sẽ rất vui nếu anh 
+
+dành thời gian để trả lời, được chứ?
 567) LEE
 [pickup3]Ừ.  Xin lỗi.
 568) KATJAA
-[pickup3]Khi anh lần đầu tiên đưa cậu ta đến đây, anh đã hỏi liệu tôi có thể chữa cho cậu ta không. Tôi không phải bác sĩ, Lee, tôi làm thú y mà. Anh không thể đặt mọi người vào nguy hiểm và mong tôi chữa cho họ được.
+[pickup3]Khi anh lần đầu tiên đưa cậu ta đến đây, anh đã hỏi liệu tôi có thể 
+
+chữa cho cậu ta không. Tôi không phải bác sĩ, Lee, tôi làm thú y mà. 
+
+Anh không thể đặt mọi người vào nguy hiểm và mong tôi chữa cho họ được.
 569) KATJAA
-[pickup3]Người mà các anh mang tới... Tôi đã cố gắng rồi, nhưng anh ta sẽ không thể nào sống sót được.
+[pickup3]Người mà các anh mang tới... Tôi đã cố gắng rồi, nhưng anh ta sẽ không thể nào 
+
+sống sót được.
 570) KATJAA
-[pickup3]Anh đã không trả lời tôi khi lần đầu tôi hỏi chuyện gì xảy ra ngoài đó. Kenny nói nó không quan trọng, nhưng nó có đấy. Anh không thể để Kenny vướng vào mớ hỗn độn này. Tôi CẦN anh ấy quay lại, và không giống như anh chàng này.
+[pickup3]Anh đã không trả lời tôi khi lần đầu tôi hỏi chuyện gì xảy ra ngoài đó. 
+
+Kenny nói nó không quan trọng, nhưng nó có đấy. Anh không thể để Kenny vướng 
+
+vào mớ hỗn độn này. Tôi CẦN anh ấy quay lại, và không giống như gã này.
 571) LILLY
 [pickup3][Seeing Lee give Kenny food]Sao rồi Lee?  Từ trên đây có vẻ như anh đang chơi trò thiên vị.
 572) 
