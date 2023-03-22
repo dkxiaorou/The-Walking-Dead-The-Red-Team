@@ -1,11 +1,13 @@
 1) MARK
-[pickup2] Lee, anh điên rồi à?!!  Đừng loanh quan nữa, thử gì đó khác đi!!
+[pickup2] Lee, anh điên rồi à?!!  Đừng loanh quanh nữa, thử gì đó khác đi!!
 2) BEN
 {surprisedA} Bị cắn á? Không có! Tôi thề!
 3) KENNY
 {disgustA} Thế quái nào anh ta lại mất nhiều máu thế này? {fearB} Đã bị cắn rồi à?
 4) KENNY
-[pickup2]{fearA} Với đống máu và tiếng la hét như vậy... {fearB} Rồi chúng ta sẽ bị bao vây sớm thôi.
+[pickup2]{fearA} Với đống máu và tiếng la hét như vậy... {fearB} Rồi chúng ta sẽ bị bao 
+
+vây sớm thôi.
 5) BEN
 [freaking out] {fearB} ôi trời, ôi trời....
 6) BEN
@@ -113,23 +115,31 @@ Dùng
 49) LEE
 [pickup2] [hunting with Mark in the woods, Wondering what a zombie was eating] {thinkingB} Có vẻ là một con thỏ.
 50) LEE
-[pickup2] [hunting with Mark in the woods, after losing a rabbit] {disgustA} Một con thỏ thì khó mà thành một bữa ăn được, Mark à,  nhưng... có còn hơn không. Chúng ta ai cũng đói cả.
+[pickup2] [hunting with Mark in the woods, after losing a rabbit] {disgustA} Một con thỏ thì khó mà thành một bữa ăn được, Mark à,  nhưng... có còn hơn không. 
+
+Chúng ta ai cũng đói cả.
 51) MARK
-[pickup2][Responding to "We need something that will feed all of us"] {thinkingA} Không đùa chút nào.
+[pickup2][Responding to "We need something that will feed all of us"] {thinkingA} Không đùa chú nào.
 52) MARK
-[pickup2] [cont] {disgustA} Tối qua tôi nghe cậu bạn Doug của anh chỉ nằm trên giường kể tên các loại bánh khác nhau. Khiến tôi sắp khùng đến nơi rồi. Tôi nghĩ cậu ta đang bắt đầu đến giới hạn.
+[pickup2] [cont] {disgustA} Tối qua tôi nghe cậu bạn Doug của anh chỉ nằm trên giường kể tên các loại bánh 
+
+khác nhau. Khiến tôi điên cả đầu. Tôi nghĩ cậu ta đang bắt đầu đến giới hạn.
 53) LEE
 [pickup2] {thinkingA} Không phải chỉ mỗi cậu ta. Cứ kệ cậu ấy đi.
 54) LEE
 [pickup2] {thinkingA} Ai cũng sắp đến giới hạn rồi. Cứ kệ cô ấy đi.
 55) MARK
-[pickup2] {disgustA} Khi tôi vô tình lấy mất một phần thức ăn của Carley vào tối hôm trước, tôi cứ tưởng cô ấy định chặt tay tôi đến nơi rồi cơ đấy!
+[pickup2] {disgustA} Khi tôi vô tình lấy mất một phần thức ăn của Carley vào tối hôm trước, tôi cứ tưởng 
+
+cô ấy định chặt tay tôi đến nơi rồi cơ đấy!
 56) MARK
 [pickup2][agreeing that the lack of food is making everyone on egde] {normalB} Ừ, anh nói đúng.  [frustrated] {disgustB} Tôi ước mình biết chắc lượng thức ăn ta còn là bao nhiêu.
 57) LEE
 [pickup2] {disgustA}{body-crouchAxe} Anh sẽ phải hỏi Lilly thôi. Cô ấy là người quản lý khẩu phần ăn mà.
 58) LEE
-[pickup2] {sadA}{body-crouchAxe} Không đủ đâu. Theo như Lilly nói, chúng ta sắp phải dùng đến số lương thực dự trữ cuối cùng rồi. {thinkingA} Một vài người sẽ phải nhịn bữa tối nay.
+[pickup2] {sadA}{body-crouchAxe} Không đủ đâu. Theo như Lilly nói, chúng ta sắp phải dùng đến số lương thực dự trữ 
+
+cuối cùng rồi. {thinkingA} Một vài người sẽ phải nhịn bữa tối nay.
 59) LEE
 [pickup2] {thinkingA}{body-crouchAxe} Chúng ta sẽ xoay sở được thôi.
 60) 
@@ -147,23 +157,35 @@ Không đủ đâu.
 66) 
 Anh sẽ phải hỏi Lilly rồi.
 67) MARK
-[pickup2] {disgustA}{body-crouchRifle} Có lẽ vậy. Anh biết có vài người không quá hài lòng về cách Lilly quản lý chỗ lương thực mà.
+[pickup2] {disgustA}{body-crouchRifle} Có lẽ vậy. Anh biết có vài người không quá hài lòng về cách Lilly quản lý 
+
+chỗ lương thực mà.
 68) LEE
-[pickup2] {thinkingB} Lilly biết quan trọng là giữ cho đám người lớn ăn đủ và hoạt động tương đương. {disgustA} Đôi khi điều đó cũng có nghĩa ai đó phải nhịn một bữa.
+[pickup2] {thinkingB} Lilly biết quan trọng là giữ cho đám người lớn ăn đủ và hoạt động tương đương. 
+
+{disgustA} Đôi khi điều đó cũng có nghĩa ai đó phải nhịn một bữa.
 69) MARK
 [pickup2][responding to lee's silence when asked "How much food is left?"] {disgustA}{body-crouchRifle} ...Đến mức đó luôn à? {sadA} Kenny có biết không?
 70) LEE
 [pickup2] {disgustA}{body-crouchAxe} Tôi chịu.[-if Kenny knows that we have no food left]
 71) MARK
-[pickup2] {angryA} Ừ, giữa cái cảnh thiếu thốn lương thực như thế này cùng với việc Kenny và Lilly cứ cãi nhau tối ngày, {sadA} mọi thứ đang trở nên khá căng thẳng ở Motor Inn.
+[pickup2] {angryA} Ừ, giữa cái cảnh thiếu thốn lương thực như thế này cùng với việc Kenny và Lilly cứ 
+
+cãi nhau tối ngày, {sadA} mọi thứ đang trở nên khá căng thẳng ở Motor Inn.
 72) MARK
-[pickup2] {thinkingA} Anh biết không Kenny đang đề cập rằng sẽ rời đi ngay nếu như có thể khiến chiếc RV đó chạy được.
+[pickup2] {thinkingA} Anh biết không Kenny đang đề cập rằng sẽ rời đi ngay nếu như có thể khiến chiếc RV 
+
+đó chạy được.
 73) LEE
 [pickup2] {normalD}{body-crouchAxe} Tôi mong là có. [hoping kenny is having better luck hunting for food]
 74) MARK
 [pickup2] {normalA}{body-crouchRifle} Anh nghĩ Kenny có chút nào may mắn hơn so với ta ngoài này không?
 75) MARK
-[pickup2] {sadA}{body-crouchRifle} Cũng chẳng trách anh ta được, mà - {disgustA} tối qua anh đã nghe chuyện giữa Larry với anh ta chưa? {thinkingB} Tên già đó bị sao thế không biết? {normalB} Có vẻ như lão cũng có vấn đề với cả anh nữa.
+[pickup2] {sadA}{body-crouchRifle} Cũng chẳng trách anh ta được, mà - {disgustA} tối qua anh đã nghe chuyện giữa Larry với 
+
+anh ta chưa? {thinkingB} Tên già đó bị sao thế không biết? {normalB} Có vẻ như lão cũng 
+
+có vấn đề với cả anh nữa.
 76) 
 Lão nghĩ tôi là mối nguy hiểm.
 77) 
@@ -175,13 +197,23 @@ Tôi cũng chịu.
 80) LEE
 [pickup2][Responding to "What's Larry's deal"?] {disgustA}{body-crouchAxe} Lão ta nghĩ tôi là mối nguy cho nhóm{thinkingB} và cả Clementine nữa.
 81) MARK
-[pickup2] {thinkingB}{body-crouchRifle} Tôi nghĩ lão ta mới là người đang đẩy chúng ta vào nguy hiểm đấy. {angryA} Từ cái cách mà Lilly lo cho sức khỏe của lão, tôi sẽ không ngạc nhiên nếu cô ấy làm đến mước hớt váng khẩu phần ăn cho lão đâu.
+[pickup2] {thinkingB}{body-crouchRifle} Tôi nghĩ lão ta mới là người đang đẩy chúng ta vào nguy hiểm đấy. {angryA} Từ cái cách mà 
+
+Lilly lo cho sức khỏe của lão, tôi sẽ không ngạc nhiên nếu cô ấy làm đến mức
+
+ hớt váng khẩu phần ăn cho lão đâu.
 82) LEE
 [pickup2][Responding to "What's Larry's deal"?] {angryA}{body-crouchAxe} Là một tên già phân biệt chủng tộc khốn nạn, chắc đó là vấn đề của lão.
 83) MARK
-[pickup2] {angryA}{body-crouchRifle} Vậy lão ta tốt nhất nên vượt qua điều đó và tìm cách giảm cân bớt đi. {thinkingA} Có bị bệnh về tim mạch hay không thì, chúng ta ai cũng nên ra ngoài này và kiếm thức ăn.
+[pickup2] {angryA}{body-crouchRifle} Vậy lão ta tốt nhất nên vượt qua điều đó và tìm cách giảm cân bớt đi. 
+
+{thinkingA} Có bị bệnh về tim mạch hay không thì, chúng ta ai cũng nên 
+
+ra ngoài này và kiếm thức ăn.
 84) MARK
-[pickup2] {thinkingA}{body-crouchRifle} Này, tôi biết rõ Lilly. {angryA} Cô ấy có thể tự trông coi cho bản thân mình. {thinkingA} Ông ta nên để dành năng lượng thừa thãi đó vào việc tìm kiếm thức ăn cho nhóm còn hơn.
+[pickup2] {thinkingA}{body-crouchRifle} Này, tôi biết rõ Lilly. {angryA} Cô ấy có thể tự trông coi cho bản thân mình. {thinkingA} Ông ta 
+
+nên để dành năng lượng thừa thãi đó vào việc tìm kiếm thức ăn cho nhóm còn hơn.
 85) LEE
 [pickup2][Responding to "What's Larry's deal?" with some reluctance & pride swallowing] {thinkingA}{body-crouchAxe} Larry chỉ là {normalD} trông coi cho con gái mình thôi.
 86) LEE
@@ -193,7 +225,9 @@ Tôi cũng chịu.
 89) MARK
 [pickup2][still weary from hunger - Mark is aiming his rifle at a bird in a tree] {thinkingB}{body-crouchRifle} Tin tôi đi.  Nếu không nghĩ mình có thể bắn trúng thì tôi sẽ không bắn đâu.
 90) MARK
-[pickup2][still weary from hunger]  {sadA}{body-crouchRifle} Tôi vẫn không thể tin được chúng ta lại tiêu hết số thức ăn dự trữ đó chỉ trong ba tháng! {painA} Lúc đó trông nhiều lắm cơ mà.
+[pickup2][still weary from hunger]  {sadA}{body-crouchRifle} Tôi vẫn không thể tin được chúng ta lại tiêu hết số thức ăn dự trữ đó chỉ trong 
+
+ba tháng! {painA} Lúc đó trông nhiều lắm cơ mà.
 91) MARK
 [pickup2][URGENT, having heard a scream in the woods!] {fearB} Đệt!  Là tiếng Kenny à?!
 271) MARK
@@ -207,7 +241,9 @@ Tôi cũng chịu.
 279) MARK
 [pickup2][URGENT, having heard a scream in the woods!] {fearB} Đệt!  Là tiếng Kenny à?!
 92) MARK
-[pickup2] {thinkingB} Ừ, ngoại trừ việc nếu vậy thì giờ tôi đã LÀ thức ăn rồi. {disgustA} Tin tôi đi, tôi không hối hận chút nào cả!
+[pickup2] {thinkingB} Ừ, ngoại trừ việc nếu vậy thì giờ tôi đã LÀ thức ăn rồi. {disgustA} Tin tôi đi, 
+
+tôi không hối hận chút nào cả!
 93) LEE
 [pickup2][still weary from hunger - Mark is aiming his rifle at a bird in a tree] {disgustA}{body-crouchAxe} Khá là xa đấy.  Phí mất một viên đạn cũng uổng.
 94) DAVID
@@ -233,9 +269,13 @@ Tôi cũng chịu.
 278) LEE
 [pickup2][URGENT, having heard a scream in the woods!] {surpriseA} Tôi không biết nữa!  Đi nào!
 98) TRAVIS
-[pickup2][nervous!!  When strangers show up suddenly with gun, Travis panics] {fearC} Ôi đệt!!  Không.  Không... Làm ơn đừng giết chúng tôi! {fearD} Chúng tôi chỉ muốn giúp thầy giáo của mình thôi!!  Rồi chúng tôi sẽ rời đi ngay, tôi hứa!
+[pickup2][nervous!!  When strangers show up suddenly with gun, Travis panics] {fearC} Ôi đệt!!  Không.  Không... Làm ơn đừng giết chúng tôi! {fearD} Chúng tôi chỉ muốn giúp thầy giáo 
+
+của mình thôi!!  Rồi chúng tôi sẽ rời đi ngay, tôi hứa!
 99) TRAVIS
-[pickup2][Wanting Ben to stop asking for help from strangers!] {surprisedA} Đây có thể là những kẻ đã đột kích vào trại của chúng ta và... {fearB} Phải chật vật lắm ta mới thoát khỏi đó đấy!
+[pickup2][Wanting Ben to stop asking for help from strangers!] {surprisedA} Đây có thể là những kẻ đã đột kích vào trại của chúng ta và... 
+
+{fearB} Phải chật vật lắm ta mới thoát khỏi đó đấy!
 100) BEN
 [pickup2][panicing- his teacher is caught in a bear trap!] {fearD} Travis, có thể họ sẽ giúp được ta đấy!
 101) MARK
@@ -245,15 +285,21 @@ Tôi cũng chịu.
 103) LEE
 [pickup2][trying to quickly convince Travis they they arent murderers] {fearB} Không sao đâu.  Chúng tôi sẽ không làm hại các cậu.
 104) TRAVIS
-[pickup2][still thinking he's got things covered- caling out] {thinkingB} Ben, ngậm mồm đi! {fearB} Bố tôi thuộc lực lượng tinh nhuệ mà, tôi biết mình đang làm gì!
+[pickup2][still thinking he's got things covered- caling out] {thinkingB} Ben, ngậm mồm đi! {fearB} Bố tôi thuộc lực lượng tinh nhuệ mà, tôi biết mình 
+
+đang làm gì!
 105) BEN
 [pickup2][desperate for help] {fearD} LÀM ƠN!
 106) BEN
-[pickup2][still desperate for help - Pleading to Lee, (Starting at a quieter projection)] {fearC} Chỉ cần xem thử các anh có thể giúp thầy ấy không thôi! {surprisedA} Sau đó thì các anh có thể rời đi hay gì cũng được, {fearD} Tôi không quan tâm! Làm ơn đi!
+[pickup2][still desperate for help - Pleading to Lee, (Starting at a quieter projection)] {fearC} Chỉ cần xem thử các anh có thể giúp thầy ấy không thôi! {surprisedA} Sau đó thì các anh 
+
+có thể rời đi hay gì cũng được, {fearD} Tôi không quan tâm! Làm ơn đi!
 107) LEE
 [pickup2][Swinging the axe, trying to cut a cable]Arrgh!!
 108) MARK
-[pickup2][inspecting the extremely thick cable that attaches the bear trap to a tree URGENT] {fearA} Quên điều đó đi! Bọn tôi cũng dùng loại dây xích như thế ở căn cứ lực lượng không quân để di dời pháp lệnh đấy. {disgustA} Anh KHÔNG THỂ cắt qua nó được đâu!
+[pickup2][inspecting the extremely thick cable that attaches the bear trap to a tree URGENT] {fearA} Quên điều đó đi! Bọn tôi cũng dùng loại dây xích như thế ở căn cứ lực lượng 
+
+không quân để di dời pháp lệnh đấy. {disgustA} Anh KHÔNG THỂ cắt qua nó được đâu!
 109) KENNY
 [pickup2][FRANTIC - trying to abandon a man in a bear trap WHILE zombies are comming!! - ]Chúng ta phải làm thế!  Hết thời gian rồi! Đi thôi!
 110) KENNY
@@ -351,22 +397,27 @@ Kenny sẽ không bỏ lại chúng ta đâu.
 156) 
 Anh ấy còn có cả gia đình để trông coi nữa mà.
 157) MARK
-[pickup2] {thinkingB}{body-crouchRifle} Và họ còn là những người an toàn nhất trong cả nhóm đấy. {sadA} Đi ra ngoài một mình như thế sớm muộn gì cũng sẽ khiến tất cả đều bị giết mất.
+[pickup2] {thinkingB}{body-crouchRifle} Và họ còn là những người an toàn nhất trong cả nhóm đấy. {sadA} Đi ra ngoài một mình 
+
+như thế sớm muộn gì cũng sẽ khiến tất cả đều bị giết mất.
 158) 
 Sẽ tốt hơn nếu anh ấy không đi cùng chúng ta.
 159) MARK
 [pickup2][If Kenny leaves, that means-] {sadA}{body-crouchRifle} Và mất đi một tay súng nữa. {thinkingA} Dù là thế nào thì cũng đều tệ như nhau.
 160) MARK
-[pickup2][after saying "You know Kenny's been talking about taking off if he can get that RV running." ] {thinkingA}{body-crouchRifle} Tôi nghĩ là một nhóm thì chúng ta mạnh hơn. {sadA} Nếu cả nhóm bắt đầu bị chia cắt Thì không biết điều gì sẽ xảy ra nữa.
+[pickup2][after saying "You know Kenny's been talking about taking off if he can get that RV running." ] {thinkingA}{body-crouchRifle} Tôi nghĩ là một nhóm thì chúng ta mạnh hơn. {sadA} Nếu cả nhóm bắt đầu bị chia cắt thì 
+
+không biết điều gì sẽ xảy ra nữa.
 161) LEE
 [pickup2]["You know Kenny's been talking about taking off if he can get that RV running."] {normalD}{body-crouchAxe} Kenny sẽ không bỏ lại chúng ta đâu. {normalD} Anh ấy là một người tốt mà.
 162) LEE
 [pickup2]["You know Kenny's been talking about taking off if he can get that RV running." ] {sadA}{body-crouchAxe} Anh ấy còn phải trông coi cho vợ con của mình nữa mà.
 163) LEE
-[pickup2]["You know Kenny's been talking about taking off if he can get that RV running.
-" ] {thinkingA}{body-crouchAxe} Có lẽ sẽ tốt hơn nếu anh ta không đi cùng chúng ta. {disgustA} Và ta cũng sẽ có ít hơn ba miệng ăn để nuôi.
+[pickup2]["You know Kenny's been talking about taking off if he can get that RV running." ] {thinkingA}{body-crouchAxe} Có lẽ sẽ tốt hơn nếu anh ta không đi cùng chúng ta. {disgustA} Và ta cũng sẽ có 
+
+ít hơn ba miệng ăn để nuôi.
 164) LEE
-[pickup2][still weary from hunger - Mark is aiming hie rifle at a bird in a tree] {thinkingA}{body-crouchAxe} Cứ bắn đi! {disgustA} Đã trong tình thế này rồi thì chúng ta cần tận dụng mọi thứ có thể.
+[pickup2][still weary from hunger - Mark is aiming hie rifle at a bird in a tree] {thinkingA}{body-crouchAxe} Bắn đi! {disgustA} Đã trong tình thế này rồi thì chúng ta cần tận dụng mọi thứ có thể.
 167) MARK
 [pickup2][still weary from hunger - Mark is aiming his rifle at a bird in a tree] {painA}{body-crouchRifle} Ừ, Tôi biết... Chỉ là..  Tôi đói quá rồi.
 168) LEE
@@ -376,7 +427,9 @@ Sẽ tốt hơn nếu anh ấy không đi cùng chúng ta.
 172) MARK
 [pickup2][Alt - ][talking about how menacing Larry is.] {thinkingA} Là tôi thì chẳng muốn ở chung một phòng với lão ta chút nào cả!
 173) MARK
-[pickup2][talking about how menacing Larry is. ] {thinkingB}{body-crouchRifle} Và tôi biết Lilly nghĩ rằng lão đang trở nên yếu hơn, {disgustA} nhưng toàn thân lão chỉ toàn là cơ bắp không!
+[pickup2][talking about how menacing Larry is. ] {thinkingB}{body-crouchRifle} Và tôi biết Lilly nghĩ rằng lão đang trở nên yếu hơn, {disgustA} nhưng toàn thân lão chỉ 
+
+toàn là cơ bắp không!
 174) KENNY
 [pickup2][a bit out of breath from running to the scene in panic]Lee! Hai người ổn chứ?
 175) BEN
@@ -386,21 +439,29 @@ Sẽ tốt hơn nếu anh ấy không đi cùng chúng ta.
 177) LEE
 [pickup2][just coming on the scene seeing a man trapped in a bear trap!] {fearC} Chuyện quái gì đã xảy ra thế?
 178) KENNY
-[pickup2][forceful! trying to calm down the scared teen and the guy screaming in the beartrap] {angryA} Nhóc à, bình tĩnh đi! {fearB} Bọn tôi sẽ cố giúp các cậu, {disgustA} nhưng cậu cần phải ngậm cái mồm vào!
+[pickup2][forceful! trying to calm down the scared teen and the guy screaming in the beartrap] {angryA} Nhóc à, bình tĩnh đi! {fearB} Bọn tôi sẽ cố giúp các cậu, {disgustA} nhưng cậu cần phải 
+
+ngậm cái mồm vào!
 179) TRAVIS
-[pickup2][Scared!] {thinkingA} Đừng nghe họ nói, Ben! {fearC} Làm ơn, thả chúng tôi đi!  Chúng tôi không phải là mối đe dọa đâu!!
+[pickup2][Scared!] {thinkingA} Đừng nghe họ nói, Ben! {fearC} Làm ơn, thả chúng tôi đi!  Chúng tôi không phải là 
+
+mối đe dọa đâu!!
 180) TRAVIS
 [pickup2] {fearC} Làm ơn!  Chúng tôi sẽ không làm phiền các anh đâu, tôi thề!
 181) BEN
 [pickup2][scared- "Who raided your camp?" ] {fearC} Tô- Tôi không biết! {fearD} Những kẻ có súng!!
 182) BEN
-[pickup2][scared, explaining why they are in the woods and what happened] {fearC} Thầy Parker nói rằng chúng tôi nên tránh xa đường chính! {surprisedA} Chúng tôi đã cố cẩn thận rồi nhưng-
+[pickup2][scared, explaining why they are in the woods and what happened] {fearC} Thầy Parker nói rằng chúng tôi nên tránh xa đường chính! {surprisedA} Chúng tôi đã cố cẩn thận nhưng-
 183) DAVID
 [pickup2][In extreme pain - through the teeth] Rrrrrrrgghhh!!
 184) MARK
-[pickup2][urgent!  Inspecting the beartrap] {fearA} Lee, cái bẫy này đã được chỉnh sửa rồi.  Nó cần một công cụ làm riêng mới mở được.
+[pickup2][urgent!  Inspecting the beartrap] {fearA} Lee, cái bẫy này đã được chỉnh sửa rồi.  Nó cần một công cụ làm riêng 
+
+mới mở được.
 185) MARK
-[pickup2][urgent!  Inspecting the beartrap] {fearA} Lee, cái bẫy này đã được chỉnh sửa rồi.  Nó không thể mở được trừ khi đã hoàn toàn đóng lại.
+[pickup2][urgent!  Inspecting the beartrap] {fearA} Lee, cái bẫy này đã được chỉnh sửa rồi.  Nó không thể mở được trừ khi đã 
+
+hoàn toàn đóng lại.
 186) MARK
 [pickup2][seeing the desperate situation of two clueless kids and a man caught in a bear trap] {disgustB} Lee, không ổn. Chúng ta cần phải giúp họ.
 187) MARK
@@ -414,7 +475,9 @@ Sẽ tốt hơn nếu anh ấy không đi cùng chúng ta.
 191) LEE
 [pickup2] [trying to get as much information as possible before making a decision about the man in the bear trap] {fearA} Anh ta có bị cắn không?
 192) BEN
-[pickup2][panicing as Lee tries to leave them] {fearD} Không, không làm ơn!  Ít nhất thì hãy thử NHÌN qua cái bẫy đã! {sadD} Chỉ cần nhìn qua thôi và có lẽ anh có thể NÓI cho chúng tôi biết làm sao để lấy nó ra!
+[pickup2][panicing as Lee tries to leave them] {fearD} Không, không làm ơn!  Ít nhất thì hãy thử NHÌN qua cái bẫy đã! {sadD} Chỉ cần nhìn qua 
+
+thôi và có lẽ anh có thể NÓI cho chúng tôi biết làm sao để lấy nó ra!
 193) DAVID
 [pickup2][in PAIN, Lee & Crew have agreed to help and are starting to kneel down.] Làm ơn, giúp tôi với!
 194) DAVID
@@ -486,11 +549,11 @@ Chúng tôi sẽ thử xem!
 227) 
 Không phải vấn đề của chúng tôi.
 228) 
-Nhín vào
+Xem Xét
 231) 
-Nhìn vào
+Xem Xét
 237) 
-Nhìn vào
+Xem Xét
 233) DAVID
 [pickup2] ÔI MẸ KIẾP, TRỜI ƠI NHANH LÊN!
 234) LEE
