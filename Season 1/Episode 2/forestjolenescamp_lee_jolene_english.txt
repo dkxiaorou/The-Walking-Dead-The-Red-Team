@@ -1,7 +1,34 @@
+1) MARK
+{normalA} Tôi cứ nghĩ ta sẽ ổn nếu tránh xa khỏi bọn xác sống. {disgustA} Ai ngờ được 
+
+chúng lại khiến ta chết đói chứ.
+2) LEE
+{normalD} Lão ta nghĩ tôi là mối nguy cho nhóm.
+3) MARK
+{sadA} Thật vớ vẩn. Anh đã cứu mạng lão -- không, tất cả chúng ta -- {thinkingA} rất 
+
+nhiều lần trong những tháng vừa rồi.
+4) MARK
+{normalB} Ý tôi là -- khi anh tìm thấy Clementine, tại sao anh lại nhận lấy trách nhiệm đó?
+5) MARK
+{sadA} Vậy sao anh lại làm vậy, Lee?
+6) LEE
+{sadA} Con bé có lẽ sẽ chết nếu không có tôi.
+7) MARK
+{normalB} Mọi chuyện đang, ờ, {thinkingB} khá căng thẳng chỗ trại. Lily và Kenny rõ có những cách 
+
+làm việc khác nhau. {disgustA} Đáng lẽ đã không như vậy khi ở Robins.
+8) MARK
+{thinkingA} Và Larry cũng chẳng giúp gì cả. {disgustA} Ông ta bị sao thế không biết?
+
+==SplitFile==
+NameFILE|forestjolenescamp_lee_jolene_english.txt
 1) DANNY
 Lee, đừng khiến ả điên lên.
 2) JOLENE
-{FearB}Giết chóc ở khắp nơi. {CrazyD}Lấy tất cả bọn người chết bây muốn đi, bọn tao sẽ tạo thêm!
+{FearB}Giết chóc ở khắp nơi. {CrazyD}Lấy tất cả bọn người chết bây muốn đi, bọn tao sẽ 
+
+tạo thêm!
 3) JOLENE
 {body-Crossbow}{CrazyA}Cứ như bây có thể giết tao vậy. {CrazyB}Chúng không thể giết tao. {CrazyD}Chúng đã thử.
 4) LEE
@@ -19,15 +46,25 @@ Lee, đừng khiến ả điên lên.
 10) JOLENE
 [pickup2] {CrazyD}Cướp đồ của tao.  {AngryD}Cướp đi mọi thứ từ tao!
 11) JOLENE
-[pickup2] {body-Crossbow}{CrazyD}Tao sẽ dùng cái nỏ trên tay đây, và sẽ cho một mũi tên sắc nhọn, {CrazyA}cắm xuyên qua nhãn cầu của bọn mày.  {CrazyB}Và đâm sâu cmn vào não chúng mày.
+[pickup2] {body-Crossbow}{CrazyD}Tao sẽ dùng cái nỏ trên tay đây, và sẽ cho một mũi tên sắc nhọn, 
+
+{CrazyA}cắm xuyên qua nhãn cầu của bọn mày.  {CrazyB}Và đâm sâu cmn vào não chúng mày.
 12) JOLENE
 [pickup2] {body-Crossbow}{CrazyA}Rồi tao sẽ đến chỗ trang trại đó, {CrazyB}và bắn từng người mà tao nhìn thấy.
 13) JOLENE
-[pickup3] {body-Crossbow}{CrazyC}Mày biết gì không? {CrazyD} Tao đổi ý rồi... Tao sẽ bắn mũi tên này ngay vào HAI HÒN BI của bọn bây.  {HappyD}Đúng thế!  Xuyên thẳng qua.  {CrazyD}Xong treo nó lên cái cây đằng kia.
+[pickup3] {body-Crossbow}{CrazyC}Mày biết gì không? {CrazyD} Tao đổi ý rồi... Tao sẽ bắn mũi tên này ngay vào 
+
+HAI HÒN BI của bọn bây.  {HappyD}Đúng thế!  Xuyên thẳng qua.  {CrazyD}Xong treo nó lên cái cây đằng kia.
 14) JOLENE
-[pickup2] {CrazyA}Bọn mày không phải đàn ông... {CrazyB}bọn mày là quái vật.  {AngryB}Tất cả đàn ông đều là quái vật.  {FearB}Lấy đi những gì chúng muốn, và rồi hủy hoại tất cả.  {SadB}Lấy đi một lon đậu, {ThinkingA}lấy đi một cô bé nhỏ... {CrazyB}tất cả đều như nhau cả!
+[pickup2] {CrazyA}Bọn mày không phải đàn ông... {CrazyB}bọn mày là quái vật.  {AngryB}Tất cả đàn ông đều 
+
+là quái vật.  {FearB}Lấy đi những gì chúng muốn, và rồi hủy hoại tất cả.  {SadB}Lấy đi 
+
+một lon đậu, {ThinkingA}lấy đi một cô bé nhỏ... {CrazyB}tất cả đều như nhau cả!
 15) JOLENE
-[pickup2] {body-Crossbow}{CrazyC}Hoặc xuyên qua chân bây.  {HappyD}Và để lại bây cho bọn xác sống.  {CrazyD}Phải, đó là những gì bây xứng đáng.  Cả hai bọn bây!
+[pickup2] {body-Crossbow}{CrazyC}Hoặc xuyên qua chân bây.  {HappyD}Và để lại bây cho bọn xác sống.  
+
+{CrazyD}Phải, đó là những gì bây xứng đáng.  Cả hai bọn bây!
 16) JOLENE
 [pickup2] {DisgustB}Ồ tao biết mày.  {CrazyA}Tao biết mày là ai, {CrazyB}và tao biết mày đã làm gì.
 17) JOLENE
@@ -69,7 +106,9 @@ Con mẹ nó!  [BẮN Ả]
 35) JOLENE
 [pickup2]{body-Crossbow}{CrazyA}Chà đó là một câu hỏi hay đấy, thưa ngài.
 36) JOLENE
-[pickup2]{SadB}Chúng không đối xử tốt với con bé.  Một chút cũng không.  {FearB}Chúng đem con bé đi, vào sâu trong rừng.  {CrazyC}Không nói với tao là ở đâu.
+[pickup2]{SadB}Chúng không đối xử tốt với con bé.  Một chút cũng không.  {FearB}Chúng đem con bé đi, 
+
+vào sâu trong rừng.  {CrazyC}Không nói với tao là ở đâu.
 37) LEE
 [pickup2] {body-B}{FearC}Sao cô lại có một mình ở đây?  {ThinkingB}Chuyện gì đã xảy ra với cô?
 38) JOLENE
@@ -77,7 +116,9 @@ Con mẹ nó!  [BẮN Ả]
 39) JOLENE
 [pickup2]Nhưng nó lại không an toàn chút nào.  {AngryD}Không với tao, {CrazyE}và không đối với con gái tao.
 40) JOLENE
-[pickup2]{SadB}Và tao đã cầu xin chúng.  Bằng mọi cách mà tao có thể nghĩ tới.   {CrazyA}Chúng chỉ cười...  {CrazyD}Nên tao đã giết chúng.
+[pickup2]{SadB}Và tao đã cầu xin chúng.  Bằng mọi cách mà tao có thể nghĩ tới.   
+
+{CrazyA}Chúng chỉ cười...  {CrazyD}Nên tao đã giết chúng.
 41) 
 Cô là ai?
 42) 
@@ -91,7 +132,9 @@ Cô lấy mũ của Clementine từ đâu?!
 46) JOLENE
 [pickup2][sadly]Bằng cách này hay cách khác... {CrazyE}con bé sẽ trở về.
 47) LEE
-[pickup2] {body-B}{ThinkingB}Nghe này, bọn tôi có hai người, còn cô chỉ mỗi một mình.  {AngryB}Dù có gì xảy ra, {AngryC}một trong bọn tôi sẽ giết cô.
+[pickup2] {body-B}{ThinkingB}Nghe này, bọn tôi có hai người, còn cô chỉ mỗi một mình.  {AngryB}Dù có gì xảy ra, 
+
+{AngryC}một trong bọn tôi sẽ giết cô.
 48) DANNY
 [pickup2]  {AngryB}Chúng ta đã có một thỏa thuận!  {ThinkingB}Là các người phá vỡ nó trước!
 49) DANNY
@@ -107,7 +150,9 @@ Cô lấy mũ của Clementine từ đâu?!
 54) LEE
 [pickup2] {AngryC}Cô đã bắn anh ta ở trang trại.
 55) JOLENE
-[pickup2] {CrazyA}Có đéo mà tao làm ấy.  {CrazyB}Đó là bọn người KHÁC-- {CrazyC}chúng cũng khá thân với bạn trai của mày đằng kia.
+[pickup2] {CrazyA}Có đéo mà tao làm ấy.  {CrazyB}Đó là bọn người KHÁC-- {CrazyC}chúng cũng khá thân 
+
+với bạn trai của mày đằng kia.
 56) JOLENE
 [pickup3][follows 310403320] [hisses sarcastically] {CrazyD}Tao đoán mày đã gặp chúng rồi.  Chúng tốt thật nhỉ?
 57) JOLENE
@@ -131,7 +176,9 @@ Ai đã tấn công trang trại?!
 66) DANNY
 [pickup2]  {AngryB}CÂM MỒM VÀO! NGAY!
 67) JOLENE
-[pickup2] {body-Crossbow}{HappyD}Giờ có thể bọn mày đã không nghe rõ tao nói lúc nãy... {CrazyD}khi tao vẫn còn lịch sự hỏi... {AngryD}bỏ con mẹ nó súng xuống.
+[pickup2] {body-Crossbow}{HappyD}Giờ có thể bọn mày đã không nghe rõ tao nói lúc nãy... {CrazyD}khi tao vẫn còn 
+
+lịch sự hỏi... {AngryD}bỏ con mẹ nó súng xuống.
 68) LEE
 [pickup2][trying to make sense of this crazy talk]{ThinkingB}Cô đang nói cái quái gì thế?
 69) JOLENE
