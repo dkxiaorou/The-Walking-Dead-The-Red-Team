@@ -139,9 +139,13 @@ Không cần phải tìm đến cái chết. {HappyD}Tự nó đã tìm thấy t
 150) DANNY
 [a little nervous]{DisgustA}Để tôi xem thử.
 64) DANNY
-{NormalC}Chúng còn gì khác ở đây nữa? {ThinkingA}Hãy xem chúng ta có thể tìm thấy gì hữu dụng không và tiếp tục thôi.
+{NormalC}Chúng còn gì khác ở đây nữa? {ThinkingA}Hãy xem chúng ta có thể tìm thấy gì 
+
+hữu dụng không và tiếp tục thôi.
 152) DANNY
-{NormalC}Chúng còn gì khác ở đây nữa? {ThinkingA}Hãy xem chúng ta có thể tìm thấy gì hữu dụng không và tiếp tục thôi.
+{NormalC}Chúng còn gì khác ở đây nữa? {ThinkingA}Hãy xem chúng ta có thể tìm thấy gì 
+
+hữu dụng không và tiếp tục thôi.
 65) LEE
 {body-B}{DisgustA}Yuk.  {FearA}Mình không cần thứ đó.
 66) JOLENE
@@ -151,7 +155,9 @@ Không cần phải tìm đến cái chết. {HappyD}Tự nó đã tìm thấy t
 68) LEE
 {body-B}{ThinkingB}Cũng là điều mà tôi đang nghĩ.
 69) DANNY
-Dù sao cũng tìm xung quanh thử xem.  {ThinkingB}Có thể có thứ gì đó ở đây {AngryA}mà chúng đã trộm từ bọn tôi.
+Dù sao cũng tìm xung quanh thử xem.  {ThinkingB}Có thể có thứ gì đó ở đây {AngryA}mà chúng đã 
+
+trộm từ bọn tôi.
 70) DANNY
 {ThinkingA}Trại này quá nhỏ.  {NormalC}Không thể là nơi trú ẩn chính của chúng được.
 71) 
@@ -229,11 +235,15 @@ Nitroglycerine
 108) DANNY
 [pickup2] [slightly confused] Có lẽ vậy. Chúng không hay chia sẻ cho hàng xóm mình.
 109) DANNY
-[pickup2] Tin tôi đi, bọn khốn ích kỷ này không ngừng cướp đi. Có lẽ chỉ để nhắc cho chúng tôi rằng nó là của chúng.
+[pickup2] Tin tôi đi, bọn khốn ích kỷ này không ngừng cướp bóc. Có lẽ chỉ để nhắc cho 
+
+chúng tôi rằng nó là của chúng.
 110) DANNY
 [pickup2] [dimissivel and smarmy] {Body-A}{DisgustA}Pussy.
 111) LEE
-[pickup2]  {body-B}{AngryB}Cô ta nói cô ta không ở cùng bọn đã giết Mark.   {AngryC}Sao anh lại bảo cô ta đang nói dối?
+[pickup2]  {body-B}{AngryB}Cô ta nói cô ta không ở cùng bọn đã giết Mark.   {AngryC}Sao anh lại bảo cô ta 
+
+đang nói dối?
 112) DANNY
 [pickup2] {body-A}{AngryA}Because they're all in it together!  {AngryB}There's THEM... {ThinkingB}and there's US.  {DisgustA}Ain't no fucking Switzerland.
 113) LEE
@@ -263,7 +273,9 @@ Nitroglycerine
 125) LEE
 [pickup2] {Body-B}{SadA}Vậy thế thôi ư?  {ThinkingB}Ta quay lại hả?
 126) DANNY
-[pickup2]{Body-A}{AngryA}Nếu chúng không ở đây, tôi không biết chúng ở đâu nữa.  {ThinkingA}Và cũng không phải là ý hay nếu đi sâu vào rừng chỉ để tìm chúng.  {HappyA}Nên, ừ, ta quay trở lại thôi.
+[pickup2]{Body-A}{AngryA}Nếu chúng không ở đây, tôi không biết chúng ở đâu nữa.  {ThinkingA}Và cũng không phải là ý hay 
+
+nếu đi sâu vào rừng chỉ để tìm chúng.  {HappyA}Nên, ừ, ta quay trở lại thôi.
 127) DANNY
 [pickup2] [flat]{NormalC}Đi nào.
 128) 
@@ -287,7 +299,9 @@ Vì công lý.
 137) LEE
 [pickup2]{AngryA}Tôi chỉ không thể để cơ hội cho điều đó xảy ra một lần nữa.
 138) LEE
-[pickup2]{Body-B}{AngryB}Ả ta đã lấy chiếc mũ của Clementine.  {ThinkingB}Bằng cách nào đó, ả đã qua mặt bọn tôi.   {FearA}Ả đàn bà điên rồ đó hẳn... {FearB}cách con bé chỉ vài inch.
+[pickup2]{Body-B}{AngryB}Ả ta đã lấy chiếc mũ của Clementine.  {ThinkingB}Bằng cách nào đó, ả đã qua mặt bọn tôi.   
+
+{FearA}Ả đàn bà điên rồ đó hẳn... {FearB}cách con bé chỉ vài inch.
 139) DANNY
 [pickup2][shrugs]{Body-A}{HappyB}Tôi sẽ không khóc về điều đó.
 140) LEE
@@ -315,13 +329,19 @@ Cảm ơn, chắc vậy.
 157) LEE
 [pickup3][snooping]{ThinkingA}Có khói từ đống lửa.  {ThinkingB}Ai đó đã ở đây không lâu.
 158) DANNY
-[pickup3][admiring]{Body-A}{ThinkingA}Mà đó cũng là một phát bắn gọn... {HappyA}xuyên qua ngay giữa trán.  {HappyB}Một phát bắn tốt đấy.  {SadA}Nhưng, vẫn phí phạm thật.
+[pickup3][admiring]{Body-A}{ThinkingA}Mà đó cũng là một phát bắn gọn... {HappyA}xuyên qua ngay giữa trán.  
+
+{HappyB}Một phát bắn tốt.  {SadA}Nhưng, vẫn phí phạm thật.
 159) DANNY
-[pickup3]{Body-A}{HappyA}Tôi thấy có vẻ như anh dùng khẩu súng mà tôi đưa khá là thành thạo đấy.  {ThinkingA}Anh là thợ săn à?
+[pickup3]{Body-A}{HappyA}Tôi thấy có vẻ như anh dùng khẩu súng mà tôi đưa khá là thành thạo đấy.  
+
+{ThinkingA}Anh là thợ săn à?
 160) LEE
 [pickup3]{Body-B}{ThinkingA}Không, nhưng Lilly luôn giữ cho chúng tôi luyện tập thường xuyên.
 161) DANNY
-[pickup3]{Body-A}{ThinkingA}Lilly, nói đúng.  Anh đã nói cô ấy giữ cho mọi thứ vận hành.  {HappyA}Có vẻ như các anh đã chọn một người lãnh đạo tốt.
+[pickup3]{Body-A}{ThinkingA}Lilly, nói đúng.  Anh đã nói cô ấy giữ cho mọi thứ vận hành.  {HappyA}Có vẻ như 
+
+các anh đã chọn một người lãnh đạo tốt.
 162) LEE
 [pickup3][caught lying]{Body-B}{ThinkingB}Phải, {SurpriseA}nhưng, ờ, cô ấy {ThinkingA}cũng có huấn luyện chiến đấu.
 164) LEE
@@ -333,11 +353,17 @@ Cảm ơn, chắc vậy.
 166) DANNY
 [pickup3]{Body-A}{ThinkingA}Lilly, hở?  {HappyA}Nghe có vẻ như cô ấy là người điều hành nền "dân chủ" đó của các anh.
 167) JOLENE
-[pickup3][Follows  310534159 &310534164]Giờ là cuộc sống mà mọi người phải luôn lo sợ... những người mà ta từng gọi là bạn... Những người đã lấy đi... [Starts to break up]
+[pickup3][Follows  310534159 &310534164]Giờ là cuộc sống mà mọi người phải luôn lo sợ... những người mà ta từng 
+
+gọi là bạn... Những người đã lấy đi... [Starts to break up]
 168) JOLENE
-[pickup3]Đừng lo, cô bé nhỏ.  Bọn cướp đang để ý đến nông trại đó.  Miễn là chúng còn lấy đồ ăn từ đó, cháu sẽ ổn thôi.  Ta hứa.
+[pickup3]Đừng lo, cô bé nhỏ.  Bọn cướp đang để ý đến nông trại đó.  Miễn là chúng còn 
+
+lấy đồ ăn từ đó, cháu sẽ ổn thôi.  Ta hứa.
 169) JOLENE
-[pickup3][alt]Đừng lo, cô bé nhỏ.  Bọn cướp đang để ý đến nông trại đó.  Miễn là chúng còn lấy đồ ăn từ đó, cháu sẽ ổn thôi.  Ta hứa.
+[pickup3][alt]Đừng lo, cô bé nhỏ.  Bọn cướp đang để ý đến nông trại đó.  Miễn là chúng còn 
+
+lấy đồ ăn từ đó, cháu sẽ ổn thôi.  Ta hứa.
 170) 
 Hộp
 171) 
