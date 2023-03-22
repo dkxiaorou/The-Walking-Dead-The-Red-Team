@@ -79,7 +79,7 @@ Ra ngay nếu không tôi sẽ bắn!
 36) LILLY
 Chúng ta đã rời khỏi nơi còn tệ hơn ở đây mà vẫn còn sống.
 37) KENNY
-{surprisedA}Oh crap!
+{surprisedA}Ôi chà!
 38) LILLY
 [Bitter, under her breath]{fearA}...Không phải TẤT CẢ.
 39) BEN
@@ -91,11 +91,15 @@ Chúng ta đã rời khỏi nơi còn tệ hơn ở đây mà vẫn còn sống.
 42) CLEMENTINE
 {fearA}Lee, cháu không muốn giống những tên cướp đó. {sadB}Thứ này không thuộc về ta.
 43) KENNY
-{angryC}Này, ta không có thời gian cho chuyện này.  Có thích hay không, chúng ta vẫn CẦN đồ ăn.  {disgustA}Giờ thì qua đây và mở cốp ra, Lee.
+{angryC}Này, ta không có thời gian cho chuyện này.  Có thích hay không, chúng ta vẫn 
+
+CẦN đồ ăn.  {disgustA}Giờ thì qua đây và mở cốp ra, Lee.
 44) LILLY
 [Accusatory]{angryB}Ai bảo anh đưa ra quyết định vậy?
 45) KATJAA
-{fearA}Cô xin lỗi, cháu yêu, nhưng nó không còn là chuyện sai hay đúng nữa. Mà là chuyện sinh tồn.
+{fearA}Cô xin lỗi, cháu yêu, nhưng nó không còn là chuyện sai hay đúng nữa. 
+
+Mà là chuyện sinh tồn.
 46) KENNY
 [stern] {angryB}Đây không phải lựa chọn, Lee.  {angryC}Giờ qua đây và mở cốp xe đi.
 47) KATJAA
@@ -123,7 +127,9 @@ Nhu Yếu Phẩm
 55) LEE
 {happyA}Thêm thức ăn ở đây.
 56) LEE
-{happyB}Chiếc hoodie này có vẻ như cùng cỡ với cháu đấy.  {happyC}Sao cháu không lấy nó đi, trời có thể sẽ trở lạnh.
+{happyB}Chiếc hoodie này có vẻ như cùng cỡ với cháu đấy.  {happyC}Sao cháu không lấy nó đi, 
+
+trời có thể sẽ trở lạnh.
 57) CLEMENTINE
 {fearA}... Nó không phải của cháu.
 58) LEE
@@ -131,9 +137,13 @@ Nhu Yếu Phẩm
 181) 
 Giờ nó là của cháu.
 60) LEE
-{normalD}Thì, cứ nghĩ là cháu tạm giữ nó đi.  {happyB}Cháu có thể trả lại nếu chúng ta có gặp họ. Được chứ?
+{normalD}Thì, cứ nghĩ là cháu tạm giữ nó đi.  {happyB}Cháu có thể trả lại nếu chúng ta 
+
+có gặp họ. Được chứ?
 61) LEE
-{normalD}Chúng ta không giống bọn cướp đó, cháu à.  {thinkingA}Ta không làm đau ai để lấy chúng cả. Cháu hiểu chứ?
+{normalD}Chúng ta không giống bọn cướp đó, cháu à.  {thinkingA}Ta không làm đau ai để 
+
+lấy chúng cả. Cháu hiểu chứ?
 62) CLEMENTINE
 [reluctantly]{sadA}... Cháu đoán vậy.
 63) LEE
@@ -143,7 +153,9 @@ Giờ nó là của cháu.
 65) LEE
 {normalD}Nó khóa rồi.
 66) KENNY
-{angryB}Không được đâu, tôi đã thử rồi. {disgustA}Nhưng tôi nghe anh đã lấy chìa khóa ở đằng trước mà.
+{angryB}Không được đâu, tôi đã thử rồi. {disgustA}Nhưng tôi nghe anh đã lấy chìa khóa ở đằng 
+
+trước mà.
 67) LEE
 {normalA}Chỉ là pin thôi. {normalC} Rất nhiều loại pin khác nhau.
 68) CLEMENTINE
@@ -221,13 +233,19 @@ Mở Khóa
 100) LEE
 [pickup1][clearing the boxes out of the back of the car]Mình sẽ bê hộp cuối này.
 102) BEN
-[pickup1][agreeing that the car owners might be back any minute]Phải, có lẽ họ chỉ đi tìm trợ giúp thôi.  Đèn vẫn còn bật, hẳn là đã không quá lâu...
+[pickup1][agreeing that the car owners might be back any minute]Phải, có lẽ họ chỉ đi tìm trợ giúp thôi.  Đèn vẫn còn bật, 
+
+hẳn là đã không quá lâu...
 105) BEN
-[pickup1][agreeing that the car owners might be back any minute]Phải, có lẽ họ chỉ đi tìm trợ giúp thôi.  Đèn vẫn còn bật, hẳn là đã không quá lâu...
+[pickup1][agreeing that the car owners might be back any minute]Phải, có lẽ họ chỉ đi tìm trợ giúp thôi.  Đèn vẫn còn bật, 
+
+hẳn là đã không quá lâu...
 103) KENNY
 [pickup1][sure that the car owners are not coming back]Họ sẽ không đâu.
 104) LILLY
-[pickup1][arguing about the owners of the car, but still a bit lethargic]Anh đâu biết được.  Đèn vẫn còn bật, bất kể ai sở hữu chiếc xe này đang không ở quá xa.
+[pickup1][arguing about the owners of the car, but still a bit lethargic]Anh đâu biết được.  Đèn vẫn còn bật, bất kể ai sở hữu chiếc xe này đang 
+
+không ở quá xa.
 106) DOUG
 [pickup2] Này Lee, tôi xin lỗi vì đã bỏ lại chỗ nhà nghỉ.
 107) LEE
@@ -247,7 +265,9 @@ Phải. Và Clementine suýt nữa đã ăn một ít.
 117) LEE
 [pickup2] Phải, và Clementine suýt nữa đã ăn một ít.
 113) LEE
-[pickup2] Phải. Và Clementine... đã ăn một ít. Là lỗi của tôi, tôi đã hoảng và không ngăn được con bé.
+[pickup2] Phải. Và Clementine... đã ăn một ít. Là lỗi của tôi, tôi đã hoảng và không 
+
+ngăn được con bé.
 114) LEE
 [pickup2] Con bé không ngốc đâu, Doug.
 115) DOUG
@@ -255,35 +275,43 @@ Phải. Và Clementine suýt nữa đã ăn một ít.
 129) CARLEY
 [pickup2][exhale] Oof.
 116) LEE
-[pickup2] Tôi đã ngăn con bé. Tôi không thể để nó một mình được, Carley. Trong thế giới khốn nạn như lúc này. Nó che dấu những thứ không thể kể xiết ở mỗi ngã rẽ.
+[pickup2] Tôi đã ngăn con bé. Tôi không thể để nó một mình được, Carley. Trong thế giới khốn nạn 
+
+như lúc này. Nó che dấu những thứ không thể kể xiết ở mỗi ngã rẽ.
 118) DOUG
 [pickup] Trời ạ... thật kinh tởm. Clementine, con bé không biết, phải chứ? Con bé không nhìn thấy... hay...
 119) LEE
-[pickup2][cold, short] Yeah. They were.
+[pickup2][cold, short] Phải. Đúng là vậy.
 120) DOUG
-[pickup2] How the heck are we supposed to foresee something as insane as a cannibal family?
+[pickup2] Làm sao ta có thể ngờ trước được chuyện gì như gia đình ăn thịt người điên rồ chứ?
 122) LEE
 [pickup2] Tôi không biết nữa. Thực sự không biết.
 123) DOUG
-[pickup2] Well... I hope Clementine and Duck didn't realize...Or SEE anything...
+[pickup2] Vậy... Tôi mong là Clementine và Duck không nhận ra...
+
+Hay THẤY điều gì...
 124) CARLEY
-[pickup2] Này Lee, tôi muốn nói rằng tôi xin lỗi vì đã bỏ mặc chỗ nhà trọ, nhưng anh biết đấy.
+[pickup2] Này Lee, tôi muốn nói rằng tôi xin lỗi vì đã bỏ mặc chỗ nhà trọ, 
+
+nhưng anh biết đấy.
 126) CARLEY
 [pickup2] Họ thật sự đã giết người?...Để lấy thịt ư?
 127) CARLEY
-[pickup2] Oh my God, does she know?
+[pickup2] Ôi trời ơi, con bé có biết không?
 128) LEE
-[pickup2] She's not stupid, Carley.
+[pickup2] Nó không ngốc đâu, Carley.
 131) LEE
-[pickup2] She's not stupid, Carley.
+[pickup2] Nó không ngốc đâu, Carley.
 130) CARLEY
-[pickup2]But?
+[pickup2]Nhưng?
 132) CARLEY
-[pickup2]That is sick. God. Just, ugh. Clementine... she doesn't know, right?
+[pickup2]Thật kinh khủng. Chúa ơi. Chỉ là, ugh. Clementine... con bé không biết, phải chứ?
 133) CARLEY
 [pickup2] Làm thế quái nào ta có thể thấy trước được ĐIỀU ĐÓ? Thôi nào, Lee.
 134) CARLEY
-[pickup2] Well, I hope for Clem and Ducks' sake they didn't see any--or...God, they weren't exposed to...[trails off]
+[pickup2] Vậy, tôi mong rằng Clem và Ducks đã không thấy điều gì--hoặc...
+
+Chúa ơi, chúng vẫn chưa...[trails off]
 135) KENNY
 [pickup2][in pain] Em à, cứ đi tiếp đi để cho anh và Lee vài giây được không?
 136) KENNY
@@ -291,91 +319,115 @@ Phải. Và Clementine suýt nữa đã ăn một ít.
 137) LEE
 [pickup2] {sadA}Vì đã giết bố của Lilly à? {thinkingA}Ừ, tôi cũng nghĩ thế.
 138) LEE
-[pickup2][stern, NOt letting Kenny off the hook.] {angryA}You mean murdering Larry?
+[pickup2][stern, NOt letting Kenny off the hook.] {angryA}Ý anh là sát hại Larry ư?
 139) KENNY
 [pickup2] [in some pain, sincere, wondering about the future fallout out of a decision] {thinkingA}Anh nghĩ sao?
 140) 
-I'm with you.
+Tôi theo anh.
 141) 
-We fucked up.
+Chúng ta toi rồi.
 142) 
-It'll be fine.
+Sẽ ổn thôi.
 143) KENNY
-[pickup2] {sadB}I sure as shit hope so.
+[pickup2] {sadB}Tôi mong là thế.
 144) LEE
-[pickup2] {normalD}Lilly's a smart woman. She'll come around. It'll be fine.
+[pickup2] {normalD}Lilly là một người thông minh. Sẽ ổn thôi.
 145) LEE
-[pickup2] {thinkingA}I'm with you, Kenny. We will do what has to be done.
+[pickup2] {thinkingA}Tôi theo anh, Kenny. Chúng ta sẽ làm việc cần phải làm.
 146) KENNY
-[pickup2] [in an intimate conversation] {happyB}You're damn right.
+[pickup2] [in an intimate conversation] {happyB}Đúng rồi đấy.
 147) KENNY
-[pickup2] {sadA}You can't say that, man. The rest of us are alive, aren't we?
+[pickup2] {sadA}Anh không thể nói thế được, anh bạn. Những người còn lại vẫn còn sống mà, đúng chứ?
 148) LEE
-[pickup2] {sadB}We fucked up. We fucked up real good.
+[pickup2] {sadB}Chúng ta toi rồi. Thật sự toi rồi.
 149) KENNY
-[pickup2] {normalC}Well I think we did what had to be done. {thinkingA}And we'll keep doing it. For as long as it takes.
+[pickup2] {normalC}Thì tôi nghĩ là chúng ta đã làm việc cần phải làm. {thinkingA}Và ta sẽ tiếp tục làm thế. 
+
+Miễn là vẫn cần phải vậy.
 150) KENNY
-[pickup2] {angryC}Fuck you, man. You're alive because of me. {angryA}Why didn't you have my back?
+[pickup2] {angryC}Con mẹ anh ấy, anh còn sống là nhờ tôi. {angryA}Sao lại không hỗ trợ cho tôi?
 151) 
-You destroyed this group.
+Anh đã tàn phá nhóm này rồi.
 152) 
 Anh không phải là anh hùng.
 153) 
-You murdered Larry.
+Anh đã sát hại Larry.
 154) KENNY
-[pickup2] {angryA}I did what nobody else would.
+[pickup2] {angryA}Tôi làm điều mà không ai làm được.
 155) LEE
-[pickup2] {disgustedB}You destroyed this group, Kenny. There's no coming back from it.
+[pickup2] {disgustedB}Anh tàn phá nhóm này rồi, Kenny. Sẽ không thể rút lại nữa.
 156) LEE
-[pickup2] {sadA}Everything's going to be different now.
+[pickup2] {sadA}Mọi thứ giờ sẽ khác.
 157) LEE
-[pickup2] {normalD}Kenny, anh không phải một người xấu. {sadA}Nhưng đệt... giờ chúng ta phải làm cái quái gì đây?
+[pickup2] {normalD}Kenny, anh không phải một người xấu. {sadA}Nhưng đệt... giờ chúng ta phải làm 
+
+cái quái gì đây?
 158) LEE
 [pickup2] {sadA}Anh không phải là anh hùng. {angryA}Anh đã giết đi HAI mạng người trong kho chứa thịt đó.
 159) KENNY
-[pickup2] {disgustA}Well, maybe we should stay out of each others way for a while.
+[pickup2] {disgustA}Vậy, có lẽ tất cả nên tránh xa nhau một thời gian.
 160) LEE
-[pickup2] {sadA}I couldn't do it, Ken.
+[pickup2] {sadA}Tôi không làm được thế, Ken.
 161) KENNY
-[pickup2] {angryA}I don't care. You do what you have to do, {disgustA}I'm-a keep doing what needs to be done.
+[pickup2] {angryA}Tôi không quan tâm. Anh phải làm điều cần làm, {disgustA}và tôi vẫn sẽ tiếp tục làm 
+
+điều cần phải làm.
 162) KENNY
-[pickup2] {sadA}Fine, then. {disgustA}Fine. I saved Duck on the farm and didn't save Shawn. Now I kill someone before it can put your little girl in danger, and {fearA}I'm even more of a monster.
+[pickup2] {sadA}Vậy, được. {disgustA}Tốt thôi. Tôi đã cứu Duck ở chỗ trang trại và đã không cứu Shawn. 
+
+Giờ tôi đã giết một người mà có thể gây nguy hiểm cho đứa bé của anh, 
+
+và {fearA}và giờ bảo tôi còn tệ hơn cả quái vật.
 163) LEE
-[pickup2] [to clementine] {normalD}Scary day, huh.
+[pickup2] [to clementine] {normalD}Một ngày đáng sợ, nhỉ.
 164) CLEMENTINE
-[pickup2] {sadB}Yeah. It's okay now, though.
+[pickup2] {sadB}Vâng. Mà, giờ cũng ổn rồi ạ.
 165) CLEMENTINE
-[pickup2][scared, also do a flat, cold one]{sadB}Yes.
+[pickup2][scared, also do a flat, cold one]{sadB}Vâng.
 166) CLEMENTINE
 [pickup2] Những thứ này không phải của chúng ta.
 167) LILLY
-[pickup2] [cold] Nếu họ trở lại, thì chúng ta sẽ là những con quái vật vừa rời khỏi rừng và hủy hoại cuộc đời của họ.
+[pickup2] [cold] Nếu họ trở lại, thì chúng ta sẽ là những con quái vật vừa rời khỏi rừng 
+
+và hủy hoại cuộc đời của họ.
 168) KENNY
-[pickup2] {normalC}Whatever man, it's gonna get cold out eventually.
+[pickup2] {normalC}Sao cũng được, cuối cùng trời cũng trở lạnh thôi.
 169) LEE
-[pickup2] {normalC}She's good. Thanks.
+[pickup2] {normalC}Con bé ổn. Cảm ơn.
 170) KATJAA
-[pickup2][calling out] {normalC}Lee, there's a hoodie in here, could probably fit Clementine.
+[pickup2][calling out] {normalC}Lee, có một chiếc hoodie trong đó, có thể sẽ vừa với Clementine.
 171) DOUG
-[pickup2] ...Were you guys able to salvage anything good from the dairy?
+[pickup2] ...Mọi người có kịp lấy gì tốt từ trang trại không?
 172) DOUG
-[pickup2] It's just a basic camcorder. A Save Lots cheapie. Let me check it out, see if I can get it working.
+[pickup2] Chỉ là một cái máy quay đơn giản thôi. Hàng rẻ tiền của Save Lots. 
+
+Để tôi kiểm tra thử, xem có thể khiến nó hoạt động không
 173) CARLEY
-[pickup2] {happyB}Hey, Lee.  There were some batteries in the back.  I thought they might work in your camcorder.
+[pickup2] {happyB}Này, Lee.  Có chút pin ở phía sau.  Tôi nghĩ nó có thể khiến cho chiếc máy 
+
+quay của anh hoạt động.
 174) JOLENE
-[pickup2][crazy, screaming into a self-shot camcorder] JAKE, BART, LINDA and ALL YA'LL FUCKIN' SICKOS FROM THE SAVE-LOTS! THEY CALL YA'LL BANDITS! BUT YOU'RE FUCKING RAPIST MONSTERS--
+[pickup2][crazy, screaming into a self-shot camcorder] JAKE, BART, LINDA và TẤT CẢ BỌN BÂY ĐỀU LÀ LŨ BỆNH HOẠN TỪ SAVE-LOTS! 
+
+HỌ GỌI CHÚNG BÂY LÀ BỌN CƯỚP! NHƯNG BÂY LẠI LÀ LŨ QUÁI VẬT KHỐN NẠN--
 175) JOLENE
-[pickup2][quietly narrating a video from the bushes. like discovery channel. but by a crazy person] Look'ee here. Jake, you don't know about these folk yet do you... because you're too distracted by that stupid farm.
+[pickup2][quietly narrating a video from the bushes. like discovery channel. but by a crazy person] Nhìn kìa. Jake, mày vẫn chưa biết về những người này nhỉ... bởi vì mày đang 
+
+quá bận rộn với cái trang trại đó rồi.
 176) JOLENE
-[pickup2][quietly narrating a video from the bushes. like discovery channel. but by a crazy person] Oh darlin', baby. Look at you. Look. At. You. Oh, you need a mama, sweetheart. We won't let them bandits get you, will we... No.
+[pickup2][quietly narrating a video from the bushes. like discovery channel. but by a crazy person] Ôi con yêu, bé con. Nhìn con kìa. Nhìn. Con. Kìa. Ôi, con cần một người mẹ đấy. 
+
+Chúng ta sẽ không để bọn cướp bắt được con, sẽ... Không.
 177) LEE
-[pickup2] Not really. St. John's took everyting I had before the place got completely overrun with walkers.
+[pickup2] Không hẳn nhà John đã lấy đi mọi thứ tôi có trước khi nơi này hoàn toàn 
+
+tràn ngập xác sống.
 178) LEE
-[pickup2] It doesn't work.  You have any use for it, Doug?
+[pickup2] Nó không hoạt động.  Anh muốn dùng nó không, Doug?
 179) 
-We're not like the bandits.
+Chúng ta không giống như bọn cướp.
 180) 
-Just hold onto it for safe-keeping.
+Cháu cứ coi như là giữ tạm nó đi.
 182) DUCK
 [pickup2] {fearA}Bố ơi, xe của ai đây?
 183) KENNY
@@ -387,83 +439,98 @@ Just hold onto it for safe-keeping.
 186) CLEMENTINE
 [pickup2] Nếu nó không phải bị bỏ lại thì sao ạ? Nếu nó là CỦA người khác?
 187) LEE
-[pickup2] {angryA}No, Clementine is right. We can't rob from people, even if we don't know if they're around.
+[pickup2] {angryA}Không, Clementine nói đúng. Chúng ta không thể cướp từ người khác, kể cả chúng ta có 
+
+biết họ có ở gần không.
 188) KENNY
-[pickup2] {angryB}What?! Did you get some meal back there the rest of us missed out on?! We HAVE to take this stuff.
+[pickup2] {angryB}Sao?! Anh đã ăn gì ở chỗ mà chúng ta mới mới rời khỏi rồi à?! 
+
+Ta CẦN phải lấy chúng.
 189) 
-I don't want any part of it.
+Tôi không muốn phần nào của nó cả.
 190) 
-We'll survive without it.
+Chúng ta sẽ sống sót mà không cần nó.
 197) LEE
-[pickup2] {normalC}We'll survive without it.
+[pickup2] {normalC}Chúng ta sẽ sống sót mà không cần nó.
 191) KENNY
-[pickup2] {angryC}Suit yourself.
+[pickup2] {angryC}Tùy anh thôi.
 192) KENNY
-[pickup2][pissed] {thinkingA}Fine. Suit yourself.
+[pickup2][pissed] {thinkingA}Tốt thôi. Tùy anh.
 193) LEE
-[pickup2][sarcastic, mean] {angryA}You're on a real tear today, huh.
+[pickup2][sarcastic, mean] {angryA}Hôm nay anh hơi khốn nạn ấy nhỉ?
 194) KENNY
-[pickup2] {angryA}What do you mean by that?
+[pickup2] {angryA}Ý vậy là sao?
 195) LEE
-[pickup2] {angryC}Come on, Kenny. Between this and the meat locker you know what it means.
+[pickup2] {angryC}Thôi nào, Kenny. Giữa chuyện này và chỗ kho chứa thịt, anh biết mà.
 196) LEE
-[pickup2] {normalC}We'll find a way.
+[pickup2] {normalC}Chúng ta sẽ tìm ra cách.
 198) KENNY
-[pickup2] {angryC}The hell we will!
+[pickup2] {angryC}Có cái nịt ấy!
 199) LEE
-[pickup2] {angryA}Clementine and I don't wany any part of this.
+[pickup2] {angryA}Clementine và tôi không muốn phần nào của nó.
 200) KENNY
-[pickup2] {angryB}We're starving!
+[pickup2] {angryB}Chúng ta sắp chết đói rồi!
 201) KENNY
-[pickup2]{angryB}The rest of us are taking this stuff.
+[pickup2]{angryB}Vậy những người còn lại sẽ lấy nó.
 202) KENNY
-[pickup2][Kenny is still sore that Lee didnt have is back in the meatlocker, but Lee DID save Katjaa from Brenda]{angryA}I want to thank you for getting Katjaa out of that house, {disgustA}but that doesn't change what happened in the meat locker.
+[pickup2][Kenny is still sore that Lee didnt have is back in the meatlocker, but Lee DID save Katjaa from Brenda]{angryA}Tôi muốn cảm ơn anh vì đã cứu Katjaa ra khỏi căn nhà đó, {disgustA}nhưng nó 
+
+không làm thay đổi chuyện đã xảy ra chỗ kho chứa thịt.
 203) 
-You're on a tear today, huh.
+Hôm nay anh hơi khốn nạn ấy nhỉ.
 204) 
-We've done enough damage already.
+Chúng ta đã gây ra đủ thiệt hại rồi.
 205) LEE
-[pickup2]{angryB}We've done enough damage already.
+[pickup2]{angryB}Chúng ta đã gây ra đủ thiệt hại rồi.
 206) KATJAA
-[pickup2][taking a box from Kenny]{normalB}Yeah.  I got it.
+[pickup2][taking a box from Kenny]{normalB}Ừ.  Để em.
 207) BEN
 [pickup2][taking a box from Kenny]{normalB}Enh..
 208) KENNY
-[pickup2][in the background, Kenny gves out Boxes of stuff]{normalC}Got it?
+[pickup2][in the background, Kenny gves out Boxes of stuff]{normalC}Được chưa?
 209) KENNY
-[pickup2][in the background, Kenny gives out Boxes of stuff]{normalC}Here...
+[pickup2][in the background, Kenny gives out Boxes of stuff]{normalC}Đây...
 210) DOUG
-[pickup2][spooked by what he saw on the camcorder he just fixed] {normalC}Hey...Lee?  {happyB}You know that camcorder?  I got it working....you might wanna see this.
+[pickup2][spooked by what he saw on the camcorder he just fixed] {normalC}Này...Lee?  {happyB}Anh còn nhớ cái máy quay chứ?  Tôi khiến nó hoạt động rồi....
+
+anh sẽ muốn xem cái này đấy.
 211) LEE
-[pickup2]{happyA}Thanks.
+[pickup2]{happyA}Cảm ơn.
 212) LEE
 [pickup2][Spooked by what he sees on the camcorder][under his breath]...Ôi, đệt.
 213) CARLEY
-[pickup2][sweetly, giving batteries to Clem]Đây, cháu cũng có thể giữ vài viên... cho chiếc "vừa đi-vừa nói" của cháu.
+[pickup2][sweetly, giving batteries to Clem]Đây, cháu cũng có thể giữ vài viên... cho chiếc bộ đàm của cháu.
 214) DOUG
-[pickup2][awarkly hand Clem something to play with] {happyC}Here, Clem.  Want some... uhh.. batteries?
+[pickup2][awarkly hand Clem something to play with] {happyC}Đây, Clem.  Muốn... uhh.. vài viên pin không?
 215) LEE
-[pickup2]Good timing, Doug.
+[pickup2]Canh giờ chuẩn đấy, Doug.
 216) DOUG
-[pickup2]Hey, Lee.  I think I fixed this thing.  Just had to press a couple jumpers back in.  It needs some batteries, but it should work.
+[pickup2]Này, Lee.  Tôi nghĩ mình sửa được thứ này rồi.  Chỉ cần nhấn một vài nút 
+
+nhảy trở lại. Vẫn cần vài viên pin, nhưng nó sẽ hoạt động thôi.
 217) CARLEY
-[pickup2] {happyA}Sao anh không giữ nó đi. Đôi khi rất hữu ích nếu có một thứ gì đó ghi lại suy nghĩ của mình.
+[pickup2] {happyA}Sao anh không giữ nó đi. Đôi khi rất hữu ích nếu có một thứ gì đó 
+để ghi lại suy nghĩ của mình.
 218) LEE
 [pickup2] {normalA}Cô muốn nó không?
 219) CARLEY
-[pickup2] {sadA}Katjaa đã lấy được thứ này khi ở trong căn nhà đó.  Cổ nói nó ở cùng với đồ của anh.
+[pickup2] {sadA}Katjaa đã lấy được thứ này khi ở trong căn nhà đó.  
+
+Cổ nói nó ở cùng với đồ của anh.
 220) LEE
 [pickup2] {sadA}Ừ.  Tôi tìm thấy nó khi đang đi tìm những người đã bắn Mark.
 221) KATJAA
-[pickup2][remembering]Oh!  I was able to grab a couple of your things back while Brenda wasn't looking...
+[pickup2][remembering]Ồ! Tôi đã có thể lấy lại một vài thứ của anh trong khi Brenda không nhìn thấy...
 225) DOUG
-Let me check it out, see if I can get it working.
+Để tôi kiểm tra thử, xem có thể làm nó hoạt động không.
 226) DOUG
-[pickup2] It's just a basic camcorder. A Save Lots cheapie.
+[pickup2] Chỉ là một cái máy quay cơ bản. Bản rẻ tiền của Save Lots.
 227) LEE
-I think it's broken but, Danny seemed pretty interested in it until he found that out.
+Tôi nghĩ nó đã bị hỏng nhưng Danny có vẻ để ý đến nó cho đến khi 
+
+phát hiện ra nó.
 228) LEE
-You have any use for it, Doug?
+Có muốn dùng nó không, Doug?
 229) CARLEY
 [pickup3][Lee teasing her about her lack of bettry skills]Anh định cứ nhớ mãi vậy nhỉ?
 230) LEE
@@ -471,109 +538,161 @@ You have any use for it, Doug?
 231) CARLEY
 [pickup3][horrified by what she sees on the video tape]  Ôi, Chúa ơi.  Lee.  Anh sẽ muốn xem thứ này đấy...
 232) CARLEY
-[pickup3][handing Lee some batteries]Này. Có một vài viên pin trong số hộp đó.  Tôi đoán nó có thể làm máy quay video của anh hoạt động.
+[pickup3][handing Lee some batteries]Này. Có một vài viên pin trong số hộp đó.  Tôi đoán nó có thể làm 
+
+máy quay video của anh hoạt động.
 233) KENNY
-[pickup3][pissed, but keeping it between Lee & Kenny]Look, I don't know where you think we stand right now, so let me make it perfectly clear.
+[pickup3][pissed, but keeping it between Lee & Kenny]Nghe này, tôi không biết anh nghĩ chúng ta đang đứng ở đâu bây giờ, 
+
+vậy nên để tôi làm rõ cho anh.
 234) KENNY
-[pickup3][laying it down for Lee]Once we get back to the motor inn, I'm getting that RV running and me and my family are taking off... without you and that girl, got it?
+[pickup3][laying it down for Lee]Khi chúng ta quay lại chỗ nhà nghỉ, tôi sẽ cho chiếc RV đó chạy và sẽ 
+
+rời đi cùng gia đình... mà không có anh và con bé đó, hiểu chứ?
 235) LEE
-[pickup3][Stern & defensive]You MURDERED Larry.
+[pickup3][Stern & defensive]Anh đã SÁT HẠI Larry.
 236) LEE
-[pickup3]Yeah, I know.  I've got your back, we made the right choice, but what the hell happens now?
+[pickup3]Phải, tôi biết. Tôi đã hỗ trợ anh, chúng ta đã lựa chọn đúng, 
+
+nhưng giờ thì sao đây?
 237) LEE
-[pickup3][having kenny's back]It'll be fine.  Lilly will get over it.  She has to. You're a better leader for us anyway.
+[pickup3][having kenny's back]Sẽ ổn thôi.  Lilly rồi sẽ vượt qua được.  Cô ấy buộc phải vượt qua. 
+
+Dù sao anh cũng lãnh đạo tốt hơn nhiều.
 238) KENNY
-[pickup3][confiding in Lee about the RV]Listen, that RV back at the motor inn is just about ready to roll.  I want you to come with us.  I mean it.
+[pickup3][confiding in Lee about the RV]Nghe này, chiếc RV ở nhà nghỉ sắp có thể lăn bánh rồi. Tôi muốn anh đi cùng 
+
+với chúng tôi. Thật sự đấy.
 239) KENNY
-[pickup3][changing his mind about not bringing Lee in the RV] Listen, that RV back at the motor in is just about ready.  I've changed my mind. I want you to come with us when we leave.
+[pickup3][changing his mind about not bringing Lee in the RV] Nghe này, chiếc RV ở chỗ nhà nghỉ sắp sẵn sàng rồi.  Tôi đã đổi ý. 
+
+Tôi muốn anh đi cùng khi chúng tôi rời đi.
 240) LEE
-[pickup3][accepting the ride invitation] Okay, yeah.
+[pickup3][accepting the ride invitation] Được thôi.
 241) LEE
-[pickup3]Yeah?
+[pickup3]Vậy à?
 242) KENNY
-[pickup3][explaining why he changed his mind about Lee] Hell yeah.  We're a team, man.  Me and you!  By taking out Larry before he turned, you saved all of us in that meat locker!  And that saved my family too.  Yeah, I'd say you earned it!
+[pickup3][explaining why he changed his mind about Lee] Phải vậy chứ.  Chúng ta là một đội mà anh bạn.  Tôi và anh!  Bằng cách khử 
+
+Larry trước khi lão biến đổi, anh đã cứu tất cả chúng ta ở chỗ kho thịt!  
+
+Và cứu cả gia đình tôi nữa.  Phải tôi sẽ nói là anh xứng đáng!
 243) KENNY
-[pickup3]I don't care what I said to you before...
+[pickup3]Tôi không quan tâm trước đó đã nói gì với anh...
 244) LEE
-[pickup3]I saved your wife and kid!
+[pickup3]Tôi đã cứu vợ và con anh!
 245) KENNY
-[pickup3]You are a sad excuse for a man.  You constantly put me and my family last.
+[pickup3]Anh là một cái cớ buồn cho người đàn ông. Anh liên tục đặt tôi và 
+
+gia đình tôi cuối cùng.
 246) KENNY
-[pickup3]No, I saved them!  By making sure Larry didn't kill US!
+[pickup3]Không, tự tôi đã cứu họ!  Bằng cách chắc rằng Larry không 
+
+giết CHÚNG TA!
 247) KENNY
 Em à, đến đây mà xem!
 248) KENNY
 {happyC}Cả cốp đầy thức ăn và nhu yếu phẩm ngay đây!
 249) KENNY
-[pickup3][looting the car]{happyC}Okay, what have we got in here?
+[pickup3][looting the car]{happyC}Được rồi, chúng ta có gì trong đây?
 250) BEN
-[pickup3][looting the car]{happyC}Look, there's more food in that box!
+[pickup3][looting the car]{happyC}Nhìn kìa, có thêm thức ăn trong cái thùng đó!
 251) KATJAA
-[pickup3][looting the car]{happyC}They have antibiotics!  Is there any more?
+[pickup3][looting the car]{happyC}Có cả thuốc kháng sinh! Còn gì nữa không?
 252) DOUG
-[pickup3][looting the car]Any electronics?  Radios? Batteries?
+[pickup3][looting the car]Có dây điện?  Radio? Pin gì không?
 253) CARLEY
-[pickup3][looting the car]{thinkingA}See if there's any water...
+[pickup3][looting the car]{thinkingA}Nhìn xem có chút nước nào không...
 254) LEE
-[pickup3][follows 310423699]I never thought a laser pointer would be the thing that saved our lives.
+[pickup3][follows 310423699]Tôi chưa bao giờ nghĩ rằng một cây bút laser sẽ là thứ cứu mạng 
+
+chúng ta đấy.
 258) LEE
 [pickup3][follows 310423800]Nếu lúc đó cô không bắn Andy, chúng ta có lẽ đã không ra khỏi đó được.
 259) CLEMENTINE
 [pickup3] Chú Lee... Chú có cần phải giết những người đó không ạ?
 260) 
-Yes.  They were bad.
+Phải. Họ là người xấu.
 261) 
 Chú xin lỗi vì cháu đã thấy điều đó.
 262) 
-I shouldn't have done that
+Chú đáng lẽ không nên làm vậy
 263) CLEMENTINE
-[pickup3]... Yes.  I think so.
+[pickup3]... Vâng.  Cháu nghĩ vậy.
 264) LEE
-[pickup3]Yes.  They were bad men, Clementine.  They killed Mark and were going to kill all of us.  They had to be stopped. Understand?
+[pickup3]Phải.  Họ là người xấu, Clementine.  Họ đã giết Mark và cũng định giết chúng ta.  
+
+Họ phải bị ngăn lại. Cháu hiểu chứ?
 265) LEE
-[pickup3][feeing a bit guilty]Chú... Chú xin lỗi vì cháu phải thấy điều đó.   Nhưng chú làm thế chỉ để bảo vệ chúng ta.
+[pickup3][feeing a bit guilty]Chú... Chú xin lỗi vì cháu phải thấy điều đó.   Nhưng chú làm thế 
+
+chỉ để bảo vệ chúng ta.
 266) CLEMENTINE
 [pickup3]Bởi vì họ đã cố làm đau chúng ta ạ?
 267) LEE
 [pickup3]Phải.
 268) LEE
-[pickup3]I.. I wasnt thinking.  I was anrgy, and I was scared. But I did the wrong thing.  You should never kill somebody unless you absolutely have to, okay?
+[pickup3]Chú.. chú đã không suy nghĩ kỹ.  Chú đã nóng giận, và cũng đã sợ hãi. 
+
+Nhưng chú đã làm việc sai trái.  Cháu không nên giết bất kỳ ai 
+
+trừ khi việc đó là cần thiết, được chứ?
 269) CLEMENTINE
-[pickup3]Why did you?
+[pickup3]Sao chú làm vậy?
 270) LEE
-[pickup3][feeling guilty]I... I shouldn't have done that.  They were very bad men, Clementine, but that doesn't mean I had to kill them.
+[pickup3][feeling guilty]Chú... Chú đáng lẽ không nên làm vậy.  Bọn họ thật sự rất xấu xa, 
+
+Clementine, nhưng không có nghĩa chú cần phải giết họ.
 272) CLEMENTINE
-[pickup3][sad that people are dead, but]...I'm glad WE'RE still alive.
+[pickup3][sad that people are dead, but]...cháu mừng là CHÚNG TA vẫn còn sống.
 273) CLEMENTINE
-[pickup3]Lee... Are those bad people dead?
+[pickup3]Chú Lee... Những người xấu đó chết rồi ạ?
 274) 
-Yes.  Walkers probably got em.
+Ừ.  Xác sống có lẽ đã xử họ rồi.
 275) 
-We didn't kill them, so I don't know.
+Chúng ta không giết họ, vậy nên chú không biết.
 276) 
-No, they are alive and suffering.
+Không, họ còn sống và đang chịu sự đau khổ.
 277) LEE
-[pickup3]Yes.  Walkers probably got 'em.  They were very bad people and were punished for it.
+[pickup3]Ừ.  Xác sống có lẽ đã xử họ rồi.  Họ là những người rất xấu xa và 
+
+đã bị trừng phạt vì điều đó.
 278) LEE
-[pickup3]We didn't kill them, so I don't know.  They might have been able to get away from the walkers, but I'm sure they wont be coming after us.
+[pickup3]Chúng ta không giết họ, nên chú không biết.  Họ có lẽ đã thoát khỏi bọn xác sống, 
+
+nhưng chú chắc là họ sẽ không theo chúng ta.
 279) CLEMENTINE
-[pickup3]That's good.
+[pickup3]Vậy tốt ạ.
 280) LEE
-[pickup3]No, they are alive and suffering.  They were very bad people, but if they die, it won't be because I killed them.
+[pickup3]Không, họ còn sống và đang chịu sự đau khổ.  Họ là những người rất xấu xa, 
+
+nhưng nếu họ chết, sẽ không còn nữa vì chú đã giết họ.
 281) CLEMENTINE
-[pickup3][sad]It's okay.  We don't have to talk about it.
+[pickup3][sad]Nó ổn ạ.  Chúng ta không cần phải nói về chuyện đó.
 282) LILLY
-[pickup3][still fairly emotionless] You know, Dad told me about you... what you did to the senator... I didn't think you had it in you, but after tonight...
+[pickup3][still fairly emotionless] Anh biết không, bố đã nói với tôi về anh... về điều anh đã làm với 
+
+thượng nghị sĩ... tôi không nghĩ anh là như thế, nhưng sau chuyện 
+
+tối hôm nay...
 283) LILLY
-[pickup3]...I just hope you're doing it for the right reasons.
+[pickup3]...tôi chỉ mong là anh đã làm thế vì lý do đúng đắn.
 284) LILLY
-[pickup3]You know, my Dad told me about you... about what happened with the senator...
+[pickup3]Anh biết không, bố đã nói với tôi về anh... về chuyện đã xảy ra với 
+
+thượng nghị sĩ...
 285) LEE
-[pickup3] Lilly I-
+[pickup3] Lilly tôi-
 286) LILLY
-[pickup3]Look, I don't care what happened in your past.  Tonight I saw what kind of man you are.  You could have killed every one of them, but you didn't.  I think that says a lot.
+[pickup3]Nghe này, tôi không quan tâm chuyện gì đã xảy ra.  Tối nay tôi đã được thấy anh 
+
+là người như thế nào.  Anh đã có thể giết từng người bọn họ, nhưng anh không làm thế.  
+
+Tôi nghĩ việc đó đã nói lên hết rồi.
 287) LEE
-[pickup2] I stopped her. This fucking world, now. It's hiding just, unspeakable shit at every turn.
+[pickup2] Tôi đã ngăn lại. Thế giới chết tiệt bây giờ. Nó chỉ đang che dấu một đống hiểm nguy 
+
+ở từng ngã rẽ.
 289) 
 Thức Ăn
 290) 
