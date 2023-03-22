@@ -19,7 +19,9 @@
 3) LEE
 [Calling out, firm] {AngryC} Andy!
 4) ANDY
-[furious] {AngryB}Bọn đéo chúng bây nghĩ mình là ai chứ? {AngryC}Nhìn xem bọn bây đã làm gì!
+[furious] {AngryB}Bọn đéo chúng bây nghĩ mình là ai chứ? 
+
+{AngryC}Nhìn xem bọn bây đã làm gì đi!
 5) LEE
 {NormalC} Bình tĩnh đi.
 6) LEE
@@ -29,9 +31,13 @@
 8) ANDY
 {AngryC} Bình tĩnh á? Để làm gì, hở? {DisgustA}Tất cả những gì bọn tao muốn chỉ là chút xăng!
 9) ANDY
-{AngryA} Không!  Uh uh!  {AngryC} Là MÀY mới đúng!  {DisgustA} Những gì bọn tao muốn chỉ là một chút xăng để giữ cho bản thân an toàn.
+{AngryA} Không!  Uh uh!  {AngryC} Là MÀY mới đúng!  {DisgustA} Những gì bọn tao muốn chỉ là một chút xăng để 
+
+giữ cho bản thân an toàn.
 10) ANDY
-{AngryB}Mày nghĩ tao đang đùa giỡn à?!  Những gì bọn tao muốn là xăng. {DisgustA} Bọn tao đã hòa bình đến với chúng mày!
+{AngryB}Mày nghĩ tao đang đùa giỡn à?!  Những gì bọn tao muốn là xăng. 
+
+{DisgustA} Bọn tao đã hòa bình đến với chúng mày!
 11) CLEMENTINE
 Chúng đang tràn vào!
 12) LILLY
@@ -181,7 +187,9 @@ Con bò!
 86) LEE
 [pickup1][stern, tired having just beat the shit out of Andy, but Andy wont quit] Kết thúc rồi!
 87) ANDY
-[pickup1] [taunting lee, beat to shit, barely able to stand] Đệt mẹ mày.  Ngay khi Dan và mẹ tao ra ngoài này bọn mày sẽ chết chắc!!
+[pickup1] [taunting lee, beat to shit, barely able to stand] Đệt mẹ mày.  Ngay khi Dan và mẹ tao ra ngoài này bọn mày sẽ 
+
+chết chắc!!
 88) LEE
 [pickup1][ tired having just beat the shit out of Andy.][responding to: When Dan & Momma get here youre fucked!]Họ đều chết rồi.
 89) LEE
@@ -287,13 +295,17 @@ Bắn
 133) DOUG
 [pickup2][quiet]Ôi, Chúa ơi.  Chuyện gì đã xảy ra?
 134) LEE
-[pickup2][quiet]{FearA}Chúng tôi cần cậu giúp!
+[pickup2][quiet]{FearA}Chúng tôi cần giúp!
 135) DOUG
 [pickup2][quiet]{FearA}Lee?  Anh ổn chứ?
 136) LEE
-[pickup2][quiet] Chúng vẫn còn giữ Duck và Katjaa ở trong nhà và tôi méo biết Kenny đang ở đâu cả!
+[pickup2][quiet] Chúng vẫn còn giữ Duck và Katjaa ở trong nhà và tôi méo biết Kenny 
+
+đang ở đâu cả!
 167) LEE
-[pickup2][quiet] Chúng vẫn còn giữ Duck và Katjaa ở trong nhà và tôi méo biết Kenny đang ở đâu cả!
+[pickup2][quiet] Chúng vẫn còn giữ Duck và Katjaa ở trong nhà và tôi méo biết Kenny 
+
+đang ở đâu cả!
 137) DOUG
 [pickup2][quiet]{NormalB}Có, {SadA} nó là của Carley, nhưng... [trails off]
 138) LEE
@@ -309,9 +321,9 @@ Bọn người này điên rồi!
 143) 
 Ra khỏi đây đi!
 144) 
-Chúng tôi cần cậu giúp!
+Chúng tôi cần giúp!
 159) LEE
-[quiet]{FearA}Chúng tôi cần cậu giúp!
+[quiet]{FearA}Chúng tôi cần giúp!
 145) LEE
 [pickup2] [quiet]Larry chết rồi.  Mark cũng vậy. Chúng đã định giết hết và ăn thịt tất cả chúng ta!
 164) LEE
@@ -323,9 +335,13 @@ Chúng tôi cần cậu giúp!
 147) DOUG
 [pickup2][quiet - taking action]Được rồi, chúng tôi sẽ vào để giúp.
 148) LEE
-[pickup2]Cổng chính quá nguy hiểm, thử tìm quanh hàng rào xem có lối vào khác không. Tôi sẽ tiếp tục đi tìm Kenny.
+[pickup2]Cổng chính quá nguy hiểm, thử tìm quanh hàng rào xem có lối vào khác không. 
+
+Tôi sẽ tiếp tục đi tìm Kenny.
 166) LEE
-[pickup2]Cổng chính quá nguy hiểm, thử tìm quanh hàng rào xem có lối vào khác không. Tôi sẽ tiếp tục đi tìm Kenny.
+[pickup2]Cổng chính quá nguy hiểm, thử tìm quanh hàng rào xem có lối vào khác không. 
+
+Tôi sẽ tiếp tục đi tìm Kenny.
 150) LEE
 [pickup2][quiet]{NormalB}Còn lại hai
 151) LEE
@@ -335,7 +351,9 @@ Chúng tôi cần cậu giúp!
 153) CARLEY
 [pickup2][quiet]{AngryB}Đệt.  Bọn chúng có bao nhiêu người?
 154) CARLEY
-[pickup2][quiet]{AngryA}Ben, im lặng.  [to Lee]{ThinkingA} Nói tôi biết chuyện gì đang xảy ra Lee. Tôi có thể giúp.
+[pickup2][quiet]{AngryA}Ben, im lặng.  [to Lee]{ThinkingA} Nói tôi biết chuyện gì đang xảy ra Lee. 
+
+Tôi có thể giúp.
 157) CARLEY
 [pickup2][quiet]{FearA}Ừ, khi các anh không quay lại tôi nghĩ là {ThinkingA}đã có chuyện rồi.
 158) CARLEY
@@ -347,19 +365,23 @@ Chúng tôi cần cậu giúp!
 162) CARLEY
 [pickup2][quiet]{HappyC} Tôi không rời nhà mà không cầm theo nó.
 168) DOUG
-[pickup2[quiet]Lee, là anh à?   Chúng tôi nghe thấy tiếng la hét khi đang trên đường đến căn nhà!
+[pickup2[quiet]Lee, là anh à?   Chúng tôi nghe thấy tiếng la hét khi đang trên đường 
+
+đến căn nhà!
 169) CARLEY
 [pickup2][quiet]Lee, là anh à?
 171) BRENDA
 [Pickup 3] [calling out into the dark storm - Nevrous]Andy?  Danny, là con à? Có chuyện gì ngoài đó thế?
 172) LEE
-[pickup 3][pretending to be Andy, calling out to his mom in the house] Ừ, là tôi!
+[pickup 3][pretending to be Andy, calling out to his mom in the house] Vâng, là con!
 173) LEE
-[pickup3][calkling out to brenda as he approaches the house - threatening]Tôi để lại Danny ở chỗ chuồng rồi... Hắn đã nhận lấy những gì mình xứng đáng!
+[pickup3][calkling out to brenda as he approaches the house - threatening]Tôi để lại Danny ở chỗ chuồng rồi... Hắn đã nhận lấy những gì 
+
+mình xứng đáng!
 174) BRENDA
 [pickup3] [threatening through the screen door] Lùi lại, đừng vào trong đây!
 175) 
-Ừ, là tôi!
+Vâng, là con!
 176) 
 Tôi để lại Danny ở chỗ chuồng rồi...
 177) LEE
@@ -385,7 +407,9 @@ Katjaa và bọn nhóc đâu?!
 188) LEE
 [pickup3][laser pointer hitting his eye] Ah!
 189) BEN
-[pickup3][quiet, at the fence outside the house][keep energy levels at this range: 310506031]Bọn tôi nghe thấy tiếng la hét từ cái chuồng!  Có chuyện gì vậy?
+[pickup3][quiet, at the fence outside the house][keep energy levels at this range: 310506031]Bọn tôi nghe thấy tiếng la hét từ cái chuồng!  
+
+Có chuyện gì vậy?
 190) LEE
 [pickup3][quietly calling out to Carley!] Carley!
 191) DOUG
@@ -395,7 +419,9 @@ Katjaa và bọn nhóc đâu?!
 193) BEN
 [pickup3][hushed as Doug and Ben try to find their way to the back] Khoan đã, anh chắc chứ?
 194) LEE
-[pickup3][quiet - Match 310506033]Không, nếu chúng ta xông vào nhà, ta sẽ gây hỗn loạn mất. Hai người cố gắng tìm đường vòng ra phía sau. Tôi sẽ vào từ phía trước.
+[pickup3][quiet - Match 310506033]Không, nếu chúng ta xông vào nhà, ta sẽ gây hỗn loạn mất. Hai người cố gắng 
+
+tìm đường vòng ra phía sau. Tôi sẽ vào từ phía trước.
 196) BEN
 [pickup3][trying to quietly make his way through the corn field]Ow.
 201) BEN
