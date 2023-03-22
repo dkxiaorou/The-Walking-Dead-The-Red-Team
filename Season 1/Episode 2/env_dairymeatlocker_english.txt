@@ -73,25 +73,35 @@ Cả hai câm mồm đi!  Chúng ta không có thời gian cho việc này!
 312) LILLY
 [worried] Không! Bố, thôi nào! BỐ!
 22) LILLY
-Ôi Chúa ơi, ông ấy ngừng thở rồi. Tôi nghĩ ông ấy lại lên cơn đau tim rồi!
+Ôi Chúa ơi, ông ấy ngừng thở rồi. Tôi nghĩ ông ấy lại lên cơn 
+
+đau tim rồi!
 315) LILLY
-Ôi Chúa ơi, ông ấy ngừng thở rồi. Tôi nghĩ ông ấy lại lên cơn đau tim rồi!
+Ôi Chúa ơi, ông ấy ngừng thở rồi. Tôi nghĩ ông ấy lại lên cơn 
+
+đau tim rồi!
 23) KENNY
 Đệt!  Ông ta chết rồi ư?
 317) KENNY
 Đệt!  Ông ta chết rồi ư?
 24) KENNY
-Nghĩ về nó đi. Anh đã thấy kẻ tội nghiệp đó ở chỗ nhà nghỉ. Cách hắn biến đổi nhanh như thế nào.
+Nghĩ về nó đi. Anh đã thấy kẻ tội nghiệp đó ở chỗ nhà nghỉ. 
+
+Cách hắn biến đổi nhanh như thế nào.
 25) LILLY
 Anh đang nói gì vậy?
 26) KENNY
 Lilly, tôi rất tiếc. Tôi thật sự, rất rất tiếc.
 27) KENNY
-Nhưng trong vài phút nữa thôi, chúng ta sẽ bị kẹt trong một căn phòng cùng với một tên xác sống cao 6 foot 4 (tầm 1m95), nặng 300 pound đấy!
+Nhưng trong vài phút nữa thôi, chúng ta sẽ bị kẹt trong một căn phòng cùng với 
+
+một tên xác sống cao 6 foot 4 (1m95), nặng 300 pound đấy!
 28) LILLY
 [Shocked and offended]Đệt mẹ anh![stunned] Anh không thể nghiêm túc nói về điều này.
 29) KENNY
-Chúng ta sẽ thương tiếc cho ông ta sau. Nhưng bây giờ, chúng ta phải giữ cho ông ta khỏi việc sống dậy.
+Chúng ta sẽ thương tiếc cho ông ta sau. Nhưng bây giờ, chúng ta phải giữ cho 
+
+ông ta khỏi việc sống dậy.
 30) CLEMENTINE
 [scared] Khôônng!
 129) LILLY
@@ -113,7 +123,9 @@ Tôi xin lỗi, Lilly. Đó là cách duy nhất.
 38) 
 Chúng ta không thể giết ông ta nếu ông ta chưa chết!
 39) KENNY
-Anh nhớ đã khó khăn như thế nào cho anh để có thể kéo con quái vật đó ra khỏi Katjaa chứ? Và Larry to gấp hai lần nó đấy.
+Anh nhớ đã khó khăn như thế nào cho anh để có thể kéo con quái vật đó 
+
+ra khỏi Katjaa chứ? Và Larry to gấp hai lần nó đấy.
 40) KENNY
 Sẽ là ông ta hoặc chúng ta.
 41) KENNY
@@ -217,7 +229,9 @@ Cháu sẽ ổn thôi.
 81) LEE
 Tôi...
 82) KENNY
-[responding to Lee's silence] Ừ, tôi biết... Cái lỗ thông hơi khá là nhỏ, nhưng có lẽ Clementine có thể chui vừa?
+[responding to Lee's silence] Ừ, tôi biết... Cái lỗ thông hơi khá là nhỏ, nhưng có lẽ Clementine có thể 
+
+chui vừa?
 83) CLEMENTINE
 Cháu có thể tìm được...
 84) CLEMENTINE
@@ -301,15 +315,27 @@ Tên chó chết!!
 511) LEE
 [pickup2] Lilly, Tôi-Tôi xin lỗi...
 117) LILLY
-[furious] Anh CHƯA TỪNG ưa bố tôi! Ngay cả khi lúc ở tiệm thuốc khi mọi người nghĩ đứa nhóc của Kenny đã bị cắn, anh đã cố gắng hết sức để chống lại ông ấy... Nhưng việc này?! Anh không có quyền!!
+[furious] Anh CHƯA TỪNG ưa bố tôi! Ngay cả khi lúc ở tiệm thuốc khi mọi người nghĩ 
+
+đứa nhóc của Kenny đã bị cắn, anh đã cố gắng hết sức để chống lại ông ấy... 
+
+Nhưng việc này?! Anh không có quyền!!
 118) LEE
-Nghe này, Kenny... Lúc ở tiệm thuốc khi mà chúng ta đều nghĩ rằng Duck đã bị cắn... tôi đã có nghi ngờ nó... Có lẽ bây giờ chúng ta cũng nên làm giống vậy.
+Nghe này, Kenny... Lúc ở tiệm thuốc khi mà chúng ta đều nghĩ rằng Duck 
+
+đã bị cắn... tôi đã có nghi ngờ nó... Có lẽ bây giờ chúng ta 
+
+cũng nên làm giống vậy.
 119) KENNY
-Đừng nghĩ tôi đã quên những gì anh từng nói chỗ tiệm thuốc... khi tất cả đều nghĩ rằng Duck đã bị cắn...
+Đừng nghĩ tôi đã quên những gì anh từng nói chỗ tiệm thuốc... 
+
+khi tất cả đều nghĩ rằng Duck đã bị cắn...
 120) LEE
 Kenny, nghe này-
 121) KENNY
-Việc đó khác.  Duck không bị cắn. Nhưng, thôi nào,  ta đều BIẾT rằng gã này sẽ không qua khỏi.
+Việc đó khác.  Duck không bị cắn. Nhưng, thôi nào,  
+
+ta đều BIẾT rằng gã này sẽ không qua khỏi.
 122) LILLY
 Mẹ kiếp, Kenny!  Ông ấy chưa có chết!!
 123) LILLY
@@ -331,7 +357,9 @@ Bỏ tôi ra!!!
 128) LILLY
 Không làm ơn!!
 130) KENNY
-Tôi chỉ đang làm điều tương tự thôi.  Ngoại trừ việc Duck không bị cắn, và chúng ta đều BIẾT ông ta sẽ không thể qua khỏi.
+Tôi chỉ đang làm điều tương tự thôi.  Ngoại trừ việc Duck không bị cắn, 
+
+và chúng ta đều BIẾT ông ta sẽ không thể qua khỏi.
 131) LEE
 Chúng ta không thể giết ông ta nếu ông ta chưa chết, Kenny!
 132) LEE
@@ -401,15 +429,21 @@ Có vẻ như nó sẽ dẫn thẳng đến căn phòng phía sau đó...
 161) LEE
 [pickup1][after Ken kills larry and tries to appologize to Clem] Không phải bây giờ, Kenny.
 162) KENNY
-[After Killing Larry,hushed to not seem insensitive] ... Nghe này, Tôi không có ý nói như một tên khốn, nhưng ta vẫn phải tìm cách ra khỏi đây. Nếu những kẻ đó trở lại, ta đều sẽ chết hết.
+[After Killing Larry,hushed to not seem insensitive] ... Nghe này, Tôi không có ý nói như một tên khốn, nhưng ta vẫn phải tìm cách 
+
+ra khỏi đây. Nếu những kẻ đó trở lại, ta đều sẽ chết hết.
 163) KENNY
 [To Clem after Killing Larry]... Chú xin lỗi Clem...
 164) KENNY
-[After Killing Larry,hushed to not seem insensitive] [pointing]Nhìn xem, có một cái điều hòa ngay trên đó. Tôi muốn kéo nó ra khỏi tường nhưng Larry lại nghĩ... [looks over at Lilly and lowers his voice]
+[After Killing Larry,hushed to not seem insensitive] [pointing]Nhìn xem, có một cái điều hòa ngay trên đó. Tôi muốn kéo nó ra khỏi tường 
+
+nhưng Larry lại nghĩ... [looks over at Lilly and lowers his voice]
 165) LEE
 [pickup1][flat] Thôi được.
 166) KENNY
-[trying to remain quiet/stern]Nghe này tôi phải làm điều mình cần làm. Và anh không nên tranh luận nữa bởi chúng ta cần phải biến khỏi đây, vì vậy hãy thôi đi và giúp tôi.
+[trying to remain quiet/stern]Nghe này tôi phải làm điều mình cần làm. Và anh không nên tranh luận nữa bởi 
+
+chúng ta cần phải biến khỏi đây, vì vậy hãy thôi đi và giúp tôi.
 167) LEE
 [pickup1][to kenny afetr Kenny has fought with him/slightly hushed] Anh sẽ đánh gục tôi một lần nữa nếu tôi không đồng ý à?
 168) LEE
@@ -451,17 +485,25 @@ Giờ sao?
 205) KENNY
 [pickup2] Có ý tưởng nào không...?
 184) LEE
-[pickup2]Chỉ mỗi anh và tôi thôi...Lilly đang không trong tình trạng có thể giúp cứu gia đình anh.
+[pickup2]Chỉ mỗi anh và tôi thôi...Lilly đang không trong tình trạng có thể giúp 
+
+cứu gia đình anh.
 185) KENNY
-[pickup2]Xem xét những gì vừa xảy ra, cô ta có lẽ sẽ đứng về phía St. Johns để chống lại chúng ta..
+[pickup2]Xem xét những gì vừa xảy ra, cô ta có lẽ sẽ đứng về phía St. Johns 
+
+để chống lại chúng ta..
 186) LEE
 [pickup2]Katjaa và Duck.
 187) KENNY
 [pickup2]Chúng ta phải đến chỗ họ!
 188) KENNY
-[pickup2] [interrupting, vehement]No! [Beat]Chúng-Chúng cần Katjaa, nhớ chứ? Cô ấy là lý do mà bọn chúng đưa ta tới đây.
+[pickup2] [interrupting, vehement]No! [Beat]Chúng-Chúng cần Katjaa, nhớ chứ? Cô ấy là lý do mà bọn chúng đưa ta 
+
+tới đây.
 211) KENNY
-[pickup2] [interrupting, vehement]No! [Beat]Chúng-Chúng cần Katjaa, nhớ chứ? Cô ấy là lý do mà bọn chúng đưa ta tới đây.
+[pickup2] [interrupting, vehement]No! [Beat]Chúng-Chúng cần Katjaa, nhớ chứ? Cô ấy là lý do mà bọn chúng đưa ta 
+
+tới đây.
 189) LEE
 [pickup2]Anh không nghĩ rằng nhà St. Johns...[killed them...?]
 190) LEE
@@ -471,23 +513,43 @@ Giờ sao?
 192) LEE
 [pickup2]Anh có nghĩ chúng ta đã quá vội vàng không?
 193) KENNY
-[pickup2]Chỉ có một điều duy nhất quan trọng bây giờ... phắn khỏi nơi này.  Chúng ta phải làm điều cần làm.
+[pickup2]Chỉ có một điều duy nhất quan trọng bây giờ... phắn khỏi nơi này.  
+
+Chúng ta phải làm điều cần làm.
 194) LEE
 [pickup2]Anh có muốn vinh dự tới lục túi của Larry không?
 195) KENNY
-[pickup2]Tôi sẽ không lại gần Lilly, không phải lúc này. Nếu ai đó phải lục túi của lão, sẽ tốt hơn nếu là anh.
+[pickup2]Tôi sẽ không lại gần Lilly, không phải lúc này. Nếu ai đó phải lục túi 
+
+của lão, sẽ tốt hơn nếu là anh.
 196) LEE
-[pickup2][confrontational] Nghe này, nếu chúng ta muốn sống sót qua chuyện này, thì ta phải hợp tác cùng nhau.  Anh nghĩ Lilly có thể cùng hợp tác không sau khi cô ấy chứng kiến điều mà anh vừa làm?
+[pickup2][confrontational] Nghe này, nếu chúng ta muốn sống sót qua chuyện này, thì ta phải hợp tác cùng nhau.  
+
+Anh nghĩ Lilly có thể cùng hợp tác không sau khi cô ấy chứng kiến điều 
+
+mà anh vừa làm?
 197) LEE
-[pickup2][confrontational]Anh nói mạnh miệng như vậy, nhưng anh còn có thể làm "việc khó khăn" nếu đó là Katjaa hay Duck không?
+[pickup2][confrontational]Anh nói mạnh miệng như vậy, nhưng anh còn có thể làm "việc khó khăn" nếu 
+
+đó là Katjaa hay Duck không?
 198) LEE
-[pickup2]Mình biết là nó cần thiết, nhưng... ước gì Clem không phải chứng kiến chuyện này.  Không biết nó sẽ khiến con bé thấy như nào.
+[pickup2]Tôi biết là nó cần thiết, nhưng... ước gì Clem không phải chứng kiến chuyện này.  
+
+Không biết nó sẽ khiến con bé thấy như nào.
 199) KENNY
 [pickup2]Tôi không muốn nghe đâu, Lee.
 200) KENNY
-[pickup2][angry self-justification] Anh nghĩ tôi thích việc mình đã làm à? Tôi là kiểu người không thể trơ mắt nhìn gia đình, người thân mình ngã xuống. Nhưng nếu chúng ta muốn sống sót qua chuyện này, thì phải có gan đứng ra mà làm việc khó khăn. [under his breath] Hoặc ít nhất, một trong chúng ta phải làm thế.
+[pickup2][angry self-justification] Anh nghĩ tôi thích việc mình đã làm à? Tôi là kiểu người không thể trơ mắt nhìn 
+
+gia đình, người thân mình ngã xuống. Nhưng nếu chúng ta muốn sống sót qua chuyện này, 
+
+thì phải có gan đứng ra mà làm việc khó khăn. [under his breath] Hoặc ít nhất, 
+
+một trong chúng ta phải làm thế.
 201) KENNY
-[pickup2]Nếu cô ta muốn sống, thì cô ta sẽ hợp tác với ta.  Còn nếu không, thì kệ mẹ ả.
+[pickup2]Nếu cô ta muốn sống, thì cô ta sẽ hợp tác với ta.  
+
+Còn nếu không, thì kệ mẹ ả.
 203) KENNY
 [pickup2][defensive] Sao? Anh không muốn treo tôi lên móc thịt và để tôi thối rữa chứ?
 204) LEE
@@ -503,7 +565,9 @@ Giờ sao?
 210) KENNY
 [pickup2]Và không nghi ngờ gì, bọn chúng dùng Duck như một con bài để mặc cả.
 212) LEE
-[pickup2]Con bé đang còn trong tuổi học hỏi! Một điều như thế này sẽ dạy con bé điều gì?
+[pickup2]Con bé đang còn trong tuổi học hỏi! Một điều như thế này sẽ dạy con bé 
+
+điều gì?
 213) KENNY
 [pickup2]Cách để sinh tồn, vậy thôi.  Đó là bài học tốt nhất mà con bé có thể học.
 214) LEE
@@ -511,11 +575,15 @@ Giờ sao?
 215) KENNY
 [pickup2][resentful] Lão không phải là CHA của con bé.
 216) KENNY
-[pickup2]Đó là điều DUY NHẤT mà tôi đang nghĩ.  Và tôi vẫn nghĩ máy điều hòa là lựa chọn tốt nhất của chúng ta.
+[pickup2]Đó là điều DUY NHẤT mà tôi đang nghĩ.  Và tôi vẫn nghĩ máy điều hòa là lựa 
+
+chọn tốt nhất của chúng ta.
 217) LEE
 [pickup2]Có ý gì để ra khỏi đây không?
 218) KENNY
-[pickup2]Anh tới để giảng giải cho tôi một lần nữa? Hay đang hỏi ý kiến ​​​​của một người đàn ông về điều gì đó?
+[pickup2]Anh tới để giảng giải cho tôi một lần nữa? Hay đang hỏi ý kiến ​​​​của một 
+
+người đàn ông về điều gì đó?
 219) LEE
 [pickup2][metally steeling himself] Ôi trời.
 220) LEE
@@ -537,17 +605,27 @@ Giờ sao?
 512) LILLY
 [pickup2][devastated, in a whisper]Ông ấy lúc đó vẫn còn sống, Lee.  Ông ấy vẫn còn sống...
 227) LEE
-[pickup2]Giờ cô nên nghĩ đến việc cứu mạng của chính bản thân.  Đó là điều mà ông ấy sẽ muốn...
+[pickup2]Giờ cô nên nghĩ đến việc cứu mạng của chính bản thân.  
+
+Đó là điều mà ông ấy sẽ muốn...
 228) LILLY
 [pickup2] [choked sob]
 230) LILLY
 [pickup2] [choked sob]
 229) LEE
-[pickup2]Tôi rất tiếc, Lilly.  Tôi thực sự rất tiếc. Larry và tôi, chúng tôi có lẽ không hòa hợp nhau lắm, nhưng tôi biết rằng ông ấy sẽ làm mọi thứ để bảo vệ cô.  Ông ấy là một người bố tốt.
+[pickup2]Tôi rất tiếc, Lilly.  Tôi thực sự rất tiếc. Larry và tôi, chúng tôi có lẽ không 
+
+hòa hợp nhau lắm, nhưng tôi biết rằng ông ấy sẽ làm mọi thứ để bảo vệ cô.  
+
+Ông ấy là một người bố tốt.
 231) LEE
-[pickup2]Kenny... đã đưa ra quyết định tồi. Chắc chắn là quá vội vàng, nhưng... anh ta cũng ĐANG cố gắng bảo vệ chúng ta.
+[pickup2]Kenny... đã đưa ra quyết định tồi. Chắc chắn là quá vội vàng, 
+
+nhưng... anh ta cũng ĐANG cố gắng bảo vệ chúng ta.
 232) LILLY
-[pickup2][weary from weeping] Vớ vẩn. Anh ta chỉ quan tâm đến việc giữ cho GIA ĐÌNH của mình an toàn. Anh ta không quan tâm đến anh và tôi.
+[pickup2][weary from weeping] Vớ vẩn. Anh ta chỉ quan tâm đến việc giữ cho GIA ĐÌNH của mình an toàn. 
+
+Anh ta không quan tâm đến anh và tôi.
 233) LEE
 [pickup2][granting her point]Anh ta đặt gia đình lên hàng đầu, đương nhiên. Giống như Larry đã làm.
 234) LILLY
@@ -557,7 +635,9 @@ Giờ sao?
 236) LILLY
 [pickup2][weary and cold]Nói cách khác, cha tôi có ích cho các người khi chết hơn là còn sống.
 237) LEE
-[pickup2]Nếu ông ta còn sống và có chìa khóa để đưa chúng ta ra khỏi đây, cô có nghĩ lão sẽ giữ nó cho riêng mình không?
+[pickup2]Nếu ông ta còn sống và có chìa khóa để đưa chúng ta ra khỏi đây, 
+
+cô có nghĩ lão sẽ giữ nó cho riêng mình không?
 238) LILLY
 [pickup2][long sigh] Làm việc anh phải làm đi.
 239) LEE
@@ -589,11 +669,15 @@ Giờ sao?
 254) LILLY
 [pickup2][under her breath] Và đừng có nhìn tôi nữa.
 255) LILLY
-[pickup2]Anh ta có gia đình và anh thì có Clementine. Tôi không còn gì. Các người đã để không để lại cho tôi gì cả.
+[pickup2]Anh ta có gia đình và anh thì có Clementine. Tôi không còn gì. Các người đã 
+
+không để lại cho tôi gì cả.
 256) LILLY
 [pickup2][snapping]Để làm gì?
 257) LEE
-[pickup2]Tôi biết cô ghét Kenny... và cả tôi.  Nhưng anh ấy đã làm điều cần làm... vậy nên chúng ta có thể tiếp tục sống.
+[pickup2]Tôi biết cô ghét Kenny... và cả tôi.  Nhưng anh ấy đã làm điều cần làm... 
+
+vậy nên chúng ta có thể tiếp tục sống.
 258) LILLY
 [pickup2][snapping]Đệt mẹ anh!  Anh nghĩ ông ấy muốn ĐIỀU NÀY ư?
 259) LEE
@@ -605,13 +689,19 @@ Giờ sao?
 262) LEE
 [pickup2][trying to calm her] Tất nhiên là không, nhưng--
 263) LILLY
-[pickup2][interrupting]Anh không biết ông ấy muốn gì cả! Anh chưa từng hiểu ông ấy! Chưa từng cho ông một cơ hội!
+[pickup2][interrupting]Anh không biết ông ấy muốn gì cả! Anh chưa từng hiểu ông ấy! 
+
+Chưa từng cho ông một cơ hội!
 264) LEE
-[pickup2][louder, shutting her down] Có lẽ không! Có lẽ-Có lẽ tôi nên cố thử.  Nhưng tôi biết là ông ấy rất thương CÔ.
+[pickup2][louder, shutting her down] Có lẽ không! Có lẽ-Có lẽ tôi nên cố thử.  Nhưng tôi biết là 
+
+ông ấy rất thương CÔ.
 265) LEE
 [pickup2]Cô cần phải bình tĩnh lại, Lilly.
 266) LILLY
-[pickup2][weary] Tại sao? [Beat] Vì lợi ích của anh... để có thể cảm thấy tốt hơn về... về những gì anh ĐÃ LÀM?
+[pickup2][weary] Tại sao? [Beat] Vì lợi ích của anh... để có thể cảm thấy tốt hơn về... 
+
+về những gì anh ĐÃ LÀM?
 267) LILLY
 [pickup2][flat] Phải rồi.  Bởi vì anh rất là QUAN TÂM tôi mà...
 268) LEE
@@ -633,7 +723,9 @@ Giờ sao?
 277) LARRY
 [pickup2][ranting]Nào, lộ mặt đi! Bọn khốn hèn hạ!
 278) LARRY
-[pickup2][ranting]Bọn tao vẫn còn nhiều người đang trên đường đến! Để cho bọn tao ra ngay bây giờ nếu còn muốn sống!
+[pickup2][ranting]Bọn tao vẫn còn nhiều người đang trên đường đến! Để cho bọn tao ra ngay 
+
+bây giờ nếu còn muốn sống!
 279) LARRY
 [pickup2][ranting]Mày nghĩ ngày tận thế chết tiệt cho mày cái quyền chặt người ta lấy THỊT à?
 280) LARRY
@@ -657,9 +749,13 @@ Giờ sao?
 290) LEE
 [pickup2]Tìm thấy cách thoát chưa?
 291) KENNY
-[pickup2]Kiểm tra tất cả các bức tường xem? Có lẽ có một lỗ thông hơi hoặc một ống dẫn hoặc một cái gì đó.
+[pickup2]Kiểm tra tất cả các bức tường xem? Có lẽ có một lỗ thông hơi hoặc một 
+
+ống dẫn hoặc một cái gì đó.
 292) LARRY
-[pickup2][Normal tone of voice] Phải, ta muốn gây sự chú ý cho chúng [...up to a yell] để ta có thể giết mẹ hết bọn nó!
+[pickup2][Normal tone of voice] Phải, ta muốn gây sự chú ý cho chúng [...up to a yell] để ta có thể 
+
+giết mẹ hết bọn nó!
 293) LEE
 [pickup2][softly, trying to reason with him]Thôi nào, Larry.  Ông thực sự muốn gây sự chú ý cho bọn chúng à?
 294) KENNY
@@ -667,7 +763,9 @@ Giờ sao?
 295) LEE
 [pickup2]Vẫn chưa. Anh thì sao?
 296) KENNY
-[pickup2]Chẳng có gì cả.  Sàn nhà chắc như đá...nhưng tôi sẽ tìm tiếp.  Có lẽ có một cái lỗ ở đâu đó...
+[pickup2]Chẳng có gì cả.  Sàn nhà chắc như đá...nhưng tôi sẽ tìm tiếp.  
+
+Có lẽ có một cái lỗ ở đâu đó...
 297) KENNY
 [pickup2]Tìm ra lối thoát chưa?
 298) LEE
@@ -675,7 +773,9 @@ Giờ sao?
 299) LEE
 [pickup2]Đừng bỏ cuộc. Chúng ta phải tìm cách thoát khỏi đây.
 300) LEE
-[pickup2]Tất nhiên rồi, cháu yêu!  Hãy để mắt đến những con vít lộ ra hoặc những tấm bảng bị lỏng... bất cứ thứ gì có thể cạy ra để mở một lối thoát khỏi đây.
+[pickup2]Tất nhiên rồi, cháu yêu!  Hãy để mắt đến những con vít lộ ra hoặc những tấm bảng 
+
+bị lỏng... bất cứ thứ gì có thể cạy ra để mở một lối thoát khỏi đây.
 301) CLEMENTINE
 [pickup2]Cháu có thể giúp không?
 303) LEE
@@ -699,15 +799,23 @@ Giờ sao?
 320) LILLY
 [pickup2][sean edit] Ôi CHÚA ƠI! Ông ấy ngừng thở rồi... ôi trời ơi...
 321) KENNY
-[pickup2] [furious/panicked]Lee, lũ tâm thần đó đang giữ gia đình tôi, và chúng ta thì đang mắc kẹt trong cái kho chứa thịt chết tiệt! Chúng ta cần phải ra khỏi đây!!!
+[pickup2] [furious/panicked]Lee, lũ tâm thần đó đang giữ gia đình tôi, và chúng ta thì đang mắc kẹt 
+
+trong cái kho chứa thịt chết tiệt! Chúng ta cần phải ra khỏi đây!!!
 322) KENNY
 [pickup2][furious/panicked - Seeing that Lee has woken up]Lee!  Chúng ta cần phải ra khỏi đây!!
 323) KENNY
-[pickup2][frantic!  Trying to convince Lee that killing Larry NOW is the right thing -  Convinced that Lee is on his side.]Thôi nào Lee, tôi đúng về chuyện này! Tôi biết anh sẽ đứng về phía tôi. Anh luôn làm thế mà.
+[pickup2][frantic!  Trying to convince Lee that killing Larry NOW is the right thing -  Convinced that Lee is on his side.]Thôi nào Lee, tôi đúng về chuyện này! Tôi biết anh sẽ đứng về phía tôi. 
+
+Anh luôn làm thế mà.
 324) KENNY
-[pickup2][frantic!  Trying to convince Lee that killing Larry NOW is the right thing- Calling Lee out for never choosing sides.]Thôi nào, Lee. Anh không thể đứng giữa chuyện này được.  Anh cần phải về phía tôi lần này!
+[pickup2][frantic!  Trying to convince Lee that killing Larry NOW is the right thing- Calling Lee out for never choosing sides.]Thôi nào, Lee. Anh không thể đứng giữa chuyện này được.  
+
+Anh cần phải về phía tôi lần này!
 325) KENNY
-[pickup2][frantic!  Trying to convince Lee that killing Larry NOW is the right thing - Calling Lee out for always taking Lillys side.]Tôi biết chúng ta không đồng quan điểm về nhiều thứ, nhưng thôi nào, Lee... Lần này anh phải ủng hộ tôi. Tôi cần biết bạn đang đứng về phía tôi lần này.
+[pickup2][frantic!  Trying to convince Lee that killing Larry NOW is the right thing - Calling Lee out for always taking Lillys side.]Tôi biết chúng ta không đồng quan điểm về nhiều thứ, nhưng thôi nào, Lee... 
+
+Lần này anh phải ủng hộ tôi. Tôi cần biết anh đứng về phía tôi lần này.
 326) LILLY
 [pickup2][Frantically trying to save her father from a heart attack] Mẹ kiếp Lee!  Tôi CẦN anh!   Làm ơn giúp tôi!!
 327) KENNY
@@ -807,7 +915,9 @@ Giờ sao?
 379) LEE
 [pickup2][still coming out of his daze, attempting to console]Không, Clem. Nó không hoạt động như thế đâu...
 380) CLEMENTINE
-[pickup2][wretched]Là chú Mark!  Cháu đã ăn một phần của chú Mark!  Có phải cháu cũng sẽ biến đổi không...?
+[pickup2][wretched]Là chú Mark!  Cháu đã ăn một phần của chú Mark!  
+
+Có phải cháu cũng sẽ biến đổi không...?
 381) LARRY
 [pickup2][accusing] Nếu hắn ta đã ngăn chúng ta lại đúng lúc...!
 382) LILLY
@@ -815,7 +925,9 @@ Thôi nào, bố.  Giờ không phải lúc.
 388) LILLY
 Thôi nào, bố.  Giờ không phải lúc.
 383) CLEMENTINE
-[pickup2][wretched]Là... thịt người! Cháu đã ăn thịt từ một người! Có phải cháu cũng sẽ biến đổi không...?
+[pickup2][wretched]Là... thịt người! Cháu đã ăn thịt từ một người! 
+
+Có phải cháu cũng sẽ biến đổi không...?
 384) CLEMENTINE
 [pickup2][wretched]Đó-đó là Mark!  Họ đã cố khiến chúng ta ăn thịt Mark!
 385) LEE
@@ -827,27 +939,35 @@ Thôi nào, bố.  Giờ không phải lúc.
 389) CLEMENTINE
 [pickup2][wretched]Đó-đó là một con người!  Họ đã cố cho chúng ta ăn thịt một con người!
 390) LARRY
-[pickup2][furious, to the rest of the group]Tên khốn xấu xa đó đã MỜI ta ăn chỗ thịt, trong khi hắn đã biết đó là gì...
+[pickup2][furious, to the rest of the group]Tên khốn xấu xa đó đã MỜI ta ăn chỗ thịt, trong khi hắn đã biết 
+
+đó là gì...
 391) LILLY
 [pickup2][to Larry, not of warning]Bình tĩnh đi, bố.  Chúng ta sẽ xử lý chuyện đó sau.
 392) LARRY
 [pickup2][angry, of course]Phải... QUA CÁNH CỬA CHÓ CHẾT NÀY!
 393) LARRY
-[pickup2][sarcastic]Phải đấy, thằng chó -- chui vào một góc và suy nghĩ đi. Để những người còn lại trong bọn ta yên!
+[pickup2][sarcastic]Phải đấy, thằng chó -- chui vào một góc và suy nghĩ đi. Để những người 
+
+còn lại trong bọn ta yên!
 394) LEE
 [pickup2]Chúng ta cần phải suy nghĩ...
 395) LARRY
 [pickup2]Thằng chó đẻ này là người đã đưa chúng ta đến đây!
 396) KENNY
-[pickup2]Câm hết mẹ mồm đi được không?!
+[pickup2]Câm mẹ mồm đi được không?!
 397) LEE
 [pickup2][low, to Clem]Đừng sợ.  Sẽ ổn cả thôi...chú sẽ tìm cách đưa chúng ta ra khỏi đây...
 399) LARRY
 [pickup2]Tao sẽ xé đôi đầu mày ra và bắt mày phải nuốt nó!
 400) LARRY
-[ranting]Cố cho chúng ta ăn thịt một người trong nhóm cho bữa tối ư? Bọn man rợ tâm thần!
+[ranting]Cố cho chúng ta ăn thịt một người trong nhóm cho bữa tối ư? 
+
+Bọn man rợ tâm thần!
 401) LARRY
-[ranting]Cố cho chúng ta ăn thịt người cho bữa tối ư? Bọn man rợ tâm thần!
+[ranting]Cố cho chúng ta ăn thịt người cho bữa tối ư? 
+
+Bọn man rợ tâm thần!
 402) LARRY
 [pickup2][low and menacing]Vấn đề của mày là gì hả?
 403) LEE
@@ -869,7 +989,9 @@ Thôi nào, bố.  Giờ không phải lúc.
 411) LARRY
 [pickup2][low and menacing] Tao không tin mày.
 412) LARRY
-[pickup2][low and menacing]Nhưng biết gì không? Mày bị kẹt ở đây với tao.  Tao đã dự định sẽ sống thật lâu sau khi mày chết. Và nếu mày cũng biến đổi...
+[pickup2][low and menacing]Nhưng biết gì không? Mày bị kẹt ở đây với tao.  Tao đã dự định sẽ 
+
+sống thật lâu sau khi mày chết. Và nếu mày cũng biến đổi...
 413) LARRY
 [pickup2][very intimate]Tao sẽ là người đưa chiếc rìu đập xuyên qua hộp sọ mày.
 414) LARRY
@@ -901,13 +1023,17 @@ Thôi nào, bố.  Giờ không phải lúc.
 427) LILLY
 [pickup2][alarmed]Bố!  Bố không thể--
 428) LEE
-[pickup2][to himself]Tôi tự hỏi.... [louder, to the group]phải có một ống dẫn khí đằng sau thứ này... có thể đủ lớn để một trong số chúng ta chui vừa....
+[pickup2][to himself]Tôi tự hỏi.... [louder, to the group]phải có một ống dẫn khí đằng sau thứ này... 
+
+có thể đủ lớn để một trong số chúng ta chui vừa....
 429) KENNY
 [pickup2][dubious] Tôi không biết nữa, Lee... có vẻ khó mà thành công.
 430) CLEMENTINE
 [pickup2][hopeful]Chiếc điều hòa đó có gỡ ra được không ạ?
 431) LEE
-[pickup2][examining the unit]Chú nghĩ chú có thể tháo nó ra... nếu chú có thứ gì đó để mở ốc vít...
+[pickup2][examining the unit]Chú nghĩ chú có thể tháo nó ra... nếu chú có thứ gì đó 
+
+để mở ốc vít...
 432) LEE
 [pickup2][crestfallen]Tất nhiên là chúng đã lấy nó rồi. Đệt.
 433) LEE
@@ -915,7 +1041,9 @@ Thôi nào, bố.  Giờ không phải lúc.
 434) CLEMENTINE
 [pickup2][hopeful]Có thể có thứ gì khác chúng ta có thể dùng.  Cháu có một hòn đá.
 435) LEE
-[pickup2]Hòn đá sẽ không giúp được... [thinks]nhưng một ĐỒNG XU thì có thể.  Cháu có đồng xu nào không?
+[pickup2]Hòn đá sẽ không giúp được... [thinks]nhưng một ĐỒNG XU thì có thể.  
+
+Cháu có đồng xu nào không?
 436) CLEMENTINE
 [pickup2][disappointed]Uh-uh...
 437) LEE
@@ -925,25 +1053,41 @@ Thôi nào, bố.  Giờ không phải lúc.
 439) LEE
 [pickup2][to himself]Chỉ cần tháo những cái ốc vít này và gỡ bộ phận máy ra...
 440) LEE
-[pickup2][biting the bullet, slowly and clearly]Tôi nghĩ tôi có thể đã tìm thấy cách ra khỏi đây.  Nhưng tôi cần thứ gì đó để vặn ốc vít của chiếc điều hòa ra.
+[pickup2][biting the bullet, slowly and clearly]Tôi nghĩ tôi có thể đã tìm thấy cách ra khỏi đây.  Nhưng tôi cần thứ gì đó 
+
+để vặn ốc vít của chiếc điều hòa ra.
 441) LILLY
 [pickup2][flatly]Không.
 442) LEE
-[pickup2][uncomfortable]Nếu cô có thể có một thứ gì đó tôi có thể dùng như một cái tua vít...một đồng xu hay gì đó...
+[pickup2][uncomfortable]Nếu cô có thể có một thứ gì đó tôi có thể dùng như một cái tua vít...
+
+một đồng xu hay gì đó...
 443) LEE
-[pickup2][uncomfortable]Thế còn ÔNG ẤY?  Nghe này, tôi biết đây không phải là thời điểm thích hợp, nhưng...
+[pickup2][uncomfortable]Thế còn ÔNG ẤY?  Nghe này, tôi biết đây không phải là thời điểm thích hợp, 
+
+nhưng...
 444) LEE
-[pickup2][continuing, uncomfortable]...lúc còn ở chỗ nhà nghỉ, Larry đã đề cập đến điều gì đó về việc giữ vài đồng xu trong túi...
+[pickup2][continuing, uncomfortable]...lúc còn ở chỗ nhà nghỉ, Larry đã đề cập đến điều gì đó về việc 
+
+giữ vài đồng xu trong túi...
 445) LEE
-[pickup2][continuing, uncomfortable]...nếu Larry có một đồng xu hoặc thứ gì đó trong túi của ông ấy... thì đó có thể là thứ cứu mạng chúng ta.
+[pickup2][continuing, uncomfortable]...nếu Larry có một đồng xu hoặc thứ gì đó trong túi của ông ấy... 
+
+thì đó có thể là thứ cứu mạng chúng ta.
 446) LILLY
 [pickup2][under her breath] Tên "kền kền" khốn nạn...
 447) LEE
-Nhưng nếu chúng ta muốn thoát ra khỏi đây, ta sẽ cần cô giúp.  Và Larry...
+Nhưng nếu chúng ta muốn thoát ra khỏi đây, ta sẽ cần cô giúp.  
+
+Và Larry...
 449) LEE
-Nhưng nếu chúng ta muốn thoát ra khỏi đây, ta sẽ cần cô giúp.  Và Larry...
+Nhưng nếu chúng ta muốn thoát ra khỏi đây, ta sẽ cần cô giúp.  
+
+Và Larry...
 451) LEE
-Nhưng nếu chúng ta muốn thoát ra khỏi đây, ta sẽ cần cô giúp.  Và Larry...
+Nhưng nếu chúng ta muốn thoát ra khỏi đây, ta sẽ cần cô giúp.  
+
+Và Larry...
 448) LEE
 [pickup2][with sympathy]Tôi xin lỗi, Lilly...
 450) LEE
@@ -957,7 +1101,9 @@ Nhưng nếu chúng ta muốn thoát ra khỏi đây, ta sẽ cần cô giúp.  
 455) CLEMENTINE
 [pickup2][more sobbing]
 456) LEE
-[pickup2][consoling]Shh... Chú biết, chú biết. Nhưng cháu cần phải mạnh mẽ lúc này. Chú cần cháu phải mạnh mẽ. Nghĩ về gì đó khác đi... thứ gì đó đầy hy vọng.
+[pickup2][consoling]Shh... Chú biết, chú biết. Nhưng cháu cần phải mạnh mẽ lúc này. Chú cần cháu 
+
+phải mạnh mẽ. Nghĩ về gì đó khác đi... thứ gì đó đầy hy vọng.
 457) LEE
 [pickup3][somber - comforthing Clementine after larry's death]Như việc thoát được ra chẳng hạn.
 458) LEE
@@ -965,7 +1111,9 @@ Nhưng nếu chúng ta muốn thoát ra khỏi đây, ta sẽ cần cô giúp.  
 459) CLEMENTINE
 [pickup2]Đôi khi ạ.
 460) LEE
-[pickup3][The new read should be more somber]Chiếc "vừa đi-vừa nói" (bộ đàm) của cháu thì sao... những cuộc nói chuyện giả vờ với Bố và Mẹ mình.  Nó không khiến cháu thấy tốt hơn à?
+[pickup3][The new read should be more somber]Chiếc bộ đàm của cháu thì sao... những cuộc nói chuyện giả vờ với Bố 
+
+và Mẹ mình.  Nó không khiến cháu thấy tốt hơn à?
 461) LEE
 [pickup2][consoling her] Chú đang làm vậy đây!
 462) CLEMENTINE
@@ -979,7 +1127,9 @@ Nhưng nếu chúng ta muốn thoát ra khỏi đây, ta sẽ cần cô giúp.  
 466) KENNY
 [pickup2][distracted, not listening] Ôi trời ơi!  Chúng đang làm gì với Katjaa và Duck...?
 467) LEE
-[pickup2]Nếu ống dẫn đằng sau máy điều hòa đủ lớn, chúng ta có thể đã tìm được đường ra khỏi đây...
+[pickup2]Nếu ống dẫn đằng sau máy điều hòa đủ lớn, chúng ta có thể đã tìm được 
+
+đường ra khỏi đây...
 468) KENNY
 [pickup2][hopeful] Vậy à?
 469) LEE
@@ -1053,7 +1203,7 @@ Chúng ta không mạo hiểm được.
 517) 
 Vẫn chưa.
 518) 
-Tôi không biết.
+Chú không biết.
 519) 
 Cô nên nghĩ về cuộc đời của chính mình.
 520) 
@@ -1065,7 +1215,7 @@ Ra khỏi đây.
 525) 
 Một nơi an toàn.
 526) 
-Chiếc "vừa đi-vừa nói" (bộ đàm) của cháu ấy.
+Chiếc bộ đàm của cháu ấy.
 527) 
 Chỉ có anh và tôi thôi...
 528) 
@@ -1107,7 +1257,9 @@ Nói chuyện
 553) LARRY
 [pickup3][low and menacing - Follows #310420268 or # 310420266] Đừng quên... tao biết mày thật sự là ai.
 554) KENNY
-[pickup3][angry that Lee chose helping Larry, putting everyone at risk]Anh bị ngu à?! Ông ta sẽ biến đổi đấy!  Anh đang đẩy TẤT CẢ chúng ta vào nguy hiểm đấy tên khốn!
+[pickup3][angry that Lee chose helping Larry, putting everyone at risk]Anh bị ngu à?! Ông ta sẽ biến đổi đấy!  Anh đang đẩy TẤT CẢ chúng ta 
+
+vào nguy hiểm đấy tên khốn!
 555) KENNY
 [pickup3][angry that Lee chose helping Larry, putting everyone at risk]Anh điên mẹ rồi, Lee.
 556) LARRY
