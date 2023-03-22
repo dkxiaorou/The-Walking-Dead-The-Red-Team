@@ -21,4 +21,4 @@ Không, không hẳn ạ.
 11) LEE
 [pickup3][after Clem says something smells like "shit"] Này, đừng dùng từ đó, được chứ?
 12) CLEMENTINE
-[pickup1][When duck says Lee smells funny, Clem remembers what Lee said at Hershel's Barn]...Giống mùi phân vậy
+[pickup1][When duck says Lee smells funny, Clem remembers what Lee said at Hershel's Barn]...Giống mùi phân vậy!
