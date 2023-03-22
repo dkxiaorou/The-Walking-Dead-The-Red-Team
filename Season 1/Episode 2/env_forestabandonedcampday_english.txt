@@ -1,15 +1,23 @@
 1) ANDY
-[pickup3][ambient]Chúng tôi đã thiết lập một hệ thống tốt cho việc đó, nhưng nó chạy bằng xăng. Các bạn đang thực sự giúp ích chúng tôi.
+[pickup3][ambient]Chúng tôi đã thiết lập một hệ thống tốt cho việc đó, nhưng nó chạy bằng xăng. 
+
+Các bạn đang thực sự giúp ích chúng tôi.
 2) DANNY
-[pickup3]Và tính cả những loại rau quả mà chúng tôi trồng, thì chúng tôi đang có rất nhiều thức ăn.
+[pickup3]Và tính cả những loại rau quả mà chúng tôi trồng, thì chúng tôi đang có rất 
+
+nhiều thức ăn.
 3) MARK
 [pickup3]Vậy, ở trang trại đó... các anh thật sự có thức ăn à?
 4) ANDY
-[pickup3]Đúng vậy.  Tuy chúng tôi đã mất gần hết đàn gia súc, nhưng vẫn còn rất nhiều sữa, bơ và phô mai dự trữ.
+[pickup3]Đúng vậy.  Tuy chúng tôi đã mất gần hết đàn gia súc, nhưng vẫn còn rất nhiều sữa, 
+
+bơ và phô mai dự trữ.
 5) BEN
 [pickup3][ambient]Và bọn người chết... chúng không phá hủy gì cả ư?
 6) DOUG
-[pickup3]Được thôi.  Tôi cũng muốn ngó qua thử cái hàng rào điện mà bọn họ nói.  Nó có thể cho tôi một vài ý tưởng về thứ gì đó mà tôi có thể dựng lên ở nhà nghỉ.
+[pickup3]Được thôi.  Tôi cũng muốn ngó qua thử cái hàng rào điện mà bọn họ nói.  Nó có thể 
+
+cho tôi một vài ý tưởng về thứ gì đó mà tôi có thể dựng lên ở nhà nghỉ.
 7) LEE
 [pickup3][noticing doug is carrying something]Cậu có gì ở đó thế?
 8) DOUG
@@ -17,11 +25,15 @@
 9) LEE
 [pickup3][casual]Cảm ơn vì đã đi cùng, Doug.
 10) CARLEY
-[pickup3][casual]Thật tuyệt khi được rời khỏi chỗ nhà nghỉ một lúc.  Chuyện giữa  Lilly và Kenny đang bắt đầu trở nên lố bịch rồi.
+[pickup3][casual]Thật tuyệt khi được rời khỏi chỗ nhà nghỉ một lúc.  Chuyện giữa Lilly và Kenny đang 
+
+bắt đầu trở nên lố bịch rồi.
 11) CARLEY
 [pickup3]Cá nhân tôi thì tôi sẽ vui hơn nếu anh đảm nhiệm quản lý mọi thứ đấy.
 12) LEE
-[pickup3]Kenny giữ cho chúng ta có động lực.  Anh ấy tin vào hy vọng và biết tầm quan trọng của việc không từ bỏ điều đó. Tôi không trách anh ta vì điều đó được.
+[pickup3]Kenny giữ cho chúng ta có động lực.  Anh ấy tin vào hy vọng và biết tầm quan trọng 
+
+của việc không từ bỏ điều đó. Tôi không trách anh ta vì điều đó được.
 13) LEE
 [pickup3]Cách của Lilly thông minh hơn.  Không dễ gì, nhưng nó giúp cho ta còn sống.
 14) LEE
@@ -99,7 +111,11 @@ Giờ không phải lúc...
 50) 
 Cô biết chuyện gì mà...
 51) CARLEY
-[pickup3][trying to get lee to open up]Nghe này, trong nhiều năm qua tôi đã nhận báo cáo về những chuyện khá lộn xộn. Tôi đã thấy tình huống như của anh hàng trăm lần, điều đó không khiến anh trở thành người xấu đâu...
+[pickup3][trying to get lee to open up]Nghe này, trong nhiều năm qua tôi đã nhận báo cáo về những chuyện khá lộn xộn. 
+
+Tôi đã thấy tình huống như của anh hàng trăm lần, điều đó không khiến anh 
+
+trở thành người xấu đâu...
 52) CARLEY
 [pickup3]Thì, tôi luôn ở đây khi nào anh muốn nói chuyện...
 124) CARLEY
@@ -121,7 +137,9 @@ Tôi lớn lên ở Macon.
 59) LEE
 [pickup3]Tôi di chuyển đây đó rất nhiều.  Khó mà gọi được bất cứ nơi nào là nhà.
 60) ANDY
-[pickup3][responding to Lee's silence.] Thứ gì đó nói với tôi anh là một dân địa phương. Anh luôn có thể chỉ cần nói, anh biết chứ?
+[pickup3][responding to Lee's silence.] Thứ gì đó nói với tôi anh là một dân địa phương. Anh luôn có thể chỉ cần nói, 
+
+anh biết chứ?
 61) ANDY
 [pickup3][friendly]Hm. Nơi này đã trải qua những ngày tốt đẹp hơn, nhỉ?
 62) DANNY
@@ -143,7 +161,9 @@ Tôi.
 71) 
 Chung tay cùng nhau thôi.
 72) LEE
-[pickup3]Lilly.  Cô ấy quản lý nơi này khá chặt chẽ. Cô ấy và bố cô ấy là cựu quân nhân.
+[pickup3]Lilly.  Cô ấy quản lý nơi này khá chặt chẽ. Cô ấy và bố cô ấy 
+
+là cựu quân nhân.
 73) DOUG
 [pickup3]Chúng tôi đã thực sự làm nó khá là an toàn.
 74) BEN
@@ -161,7 +181,9 @@ Chung tay cùng nhau thôi.
 80) LEE
 [pickup3]Chúng tôi làm việc như một nhóm, tất cả mọi người đều hỗ trợ cho nhau.
 81) ANDY
-[pickup3]Tôi nghe rồi!  Tình thế như này mà ngoài kia lại có những tên ngốc chiến đấu tranh giành với nhau...  đúng là ngu ngốc mà.
+[pickup3]Tôi nghe rồi!  Tình thế như này mà ngoài kia lại có những tên ngốc chiến đấu tranh 
+
+giành với nhau...  đúng là ngu ngốc mà.
 82) DANNY
 [pickup3][friendly] Mà các anh có bao nhiêu người ở đó vậy?
 83) LEE
@@ -185,7 +207,9 @@ Chín người. Kể cả bọn trẻ.
 92) 
 [Thay đổi chủ đề]
 93) LEE
-[pickup3] Thì, nhóc này là người mới đến của chúng tôi, nhưng tất cả chúng tôi đều đang mong chờ một ít thức ăn. Chúng tôi thực sự cần nó.
+[pickup3] Thì, nhóc này là người mới đến của chúng tôi, nhưng tất cả chúng tôi đều đang 
+
+mong chờ một ít thức ăn. Chúng tôi thực sự cần nó.
 94) ANDY
 [pickup3]Chà, hy vọng chúng ta có thể giúp đỡ lẫn nhau!
 96) ANDY
@@ -193,13 +217,17 @@ Chín người. Kể cả bọn trẻ.
 95) MARK
 [pickup3][chiming in after Lee remians silent] Chúng tôi có nhiều người đang đói ở đó, những người đánh giá cao đề nghị của các anh.
 97) ANDY
-[pickup3]Chà, chúng tôi cũng muốn mời tất cả đến trang trại đấy.  Như tôi nói, bọn tôi có rất nhiều thức ăn, và nói thẳng thì, chúng tôi luôn có thể sử dụng thêm sự trợ giúp.
+[pickup3]Chà, chúng tôi cũng muốn mời tất cả đến trang trại đấy.  Như tôi nói, bọn tôi có 
+
+rất nhiều thức ăn, và nói thẳng thì, chúng tôi luôn có thể sử dụng thêm sự trợ giúp.
 98) BEN
 [pickup3]Vào mùa hè, tôi cũng thường giúp việc ở trang trại dê.
 99) DANNY
 [pickup3]  Ừ, tuyệt đấy. Mọi thứ đều có ích cả!
 100) ANDY
-[pickup3]Mẹ tôi đã quản lý trang trại từ... theo tôi nhớ thì từ rất lâu rồi, nhưng giờ nó đang trở nên- [hears a noise and cuts himself off]
+[pickup3]Mẹ tôi đã quản lý trang trại từ... theo tôi nhớ thì từ rất lâu rồi, 
+
+nhưng giờ nó đang trở nên- [hears a noise and cuts himself off]
 101) BANDIT1
 [pickup3][process: in the distance]Mày nghĩ mày đá tao ra khỏi chuyện này được à?
 102) ANDY
@@ -221,17 +249,23 @@ Chín người. Kể cả bọn trẻ.
 110) DANNY
 [pickup3][whispering]Ồ không, vẫn còn Nhiều lắm cơ.
 111) ANDY
-[pickup3][whispering]Đừng lo.  Danny và tôi sẽ bảo vệ các bạn nếu có chuyện xảy ra, nhưng hãy đợi chút xem và mong rằng bọn chúng sẽ rời đi.
+[pickup3][whispering]Đừng lo.  Danny và tôi sẽ bảo vệ các bạn nếu có chuyện xảy ra, nhưng hãy đợi 
+
+chút xem và mong rằng bọn chúng sẽ rời đi.
 112) BANDIT1
 [pickup3][process: in the distance]Mày và Gary luôn cố chiếm hết tất cả thôi!  Đừng tưởng rằng bọn tao không để ý.
 113) BANDIT2
 [pickup3][process: in the distance]Chẳng ai cố đá mày khỏi việc gì cả!
 114) BANDIT1
-[pickup3][process: in the distance]Đệt mẹ mày, mày BIẾT rằng chúng ta đều rất đói mà!  Và bọn bây thì chỉ lại chiếm hết cho bản thân mình!
+[pickup3][process: in the distance]Đệt mẹ mày, mày BIẾT rằng chúng ta đều rất đói mà!  Và bọn bây thì chỉ chiếm 
+
+hết cho bản thân mình!
 115) BANDIT2
 [pickup3][process: in the distance]Bình tĩnh đi, sự hoang tưởng của mày đang khiến mọi người khó chịu đấy!
 116) BANDIT2
-[pickup3][process: in the distance]Ừ đấy, và mày biết gì không, bọn tao đã ăn hết rồi!  Mày định làm đéo gì với chuyện đó?
+[pickup3][process: in the distance]Ừ đấy, và mày biết gì không, bọn tao đã ăn hết rồi!  
+
+Mày định làm đéo gì với chuyện đó?
 117) BANDIT1
 [pickup3][process: in the distance] ĐỆT MẸ MÀY!!
 118) BEN
@@ -245,11 +279,15 @@ Chín người. Kể cả bọn trẻ.
 122) BANDIT1
 [pickup3][process: in the distance ] Thằng khốn.
 123) ANDY
-[pickup3][serious.  Hushed but not whispered]Thế giới ngoài này trở nên mục rửa rồi. Đi nào, hãy đến trang trại nơi vẫn còn an toàn.
+[pickup3][serious.  Hushed but not whispered]Thế giới ngoài này trở nên mục rửa rồi. Đi nào, hãy đến trang trại nơi 
+
+vẫn còn an toàn.
 125) LEE
 [pickup3]Không chắc là mọi người có nhìn nhận như thế không.
 126) CARLEY
-[pickup3]Anh không cần phải làm thế. Bất cứ chuyện gì đã xảy ra trước khi mọi chuyện trở thành như này không còn quan trọng nữa.
+[pickup3]Anh không cần phải làm thế. Bất cứ chuyện gì đã xảy ra trước khi mọi chuyện 
+
+trở thành như này không còn quan trọng nữa.
 127) CARLEY
 [pickup3]Có lẽ anh đúng...
 128) LEE
@@ -265,11 +303,17 @@ Chín người. Kể cả bọn trẻ.
 133) DOUG
 [pickup3]Về cơ bản, điện có thể nấu chín từ trong ra ngoài, phải chứ?
 134) DOUG
-[pickup3]Vậy, nếu xác sống tiếp xúc với hàng rào, cuối cùng nó sẽ nấu chín bộ não của nó. Nhưng có lẽ cũng mất chút thời gian.
+[pickup3]Vậy, nếu xác sống tiếp xúc với hàng rào, cuối cùng nó sẽ nấu chín bộ não của nó. 
+
+Nhưng có lẽ cũng mất chút thời gian.
 135) DOUG
-[pickup3]Miễn là những xác sống đó không hoàn toàn bị mất nước và hàng rào đủ mạnh thì, phải, nghe có vẻ hợp lý.
+[pickup3]Miễn là những xác sống đó không hoàn toàn bị mất nước và hàng rào đủ mạnh thì, 
+
+phải, nghe có vẻ hợp lý.
 136) DOUG
-[pickup3][afterthought]...và mùi hẳn sẽ không được thơm lắm. ...Trừ khi nó có mùi như thịt khô... Trời ạ, ước gì có thể ăn chút thịt khô.
+[pickup3][afterthought]...và mùi hẳn sẽ không được thơm lắm. ...Trừ khi nó có mùi như thịt khô... 
+
+Trời ạ, ước gì có thể ăn chút thịt khô.
 137) DOUG
 [pickup3]Tôi đáng lẽ không nên từ chối thức ăn mà anh đã đưa trước đó.
 138) DOUG
@@ -281,14 +325,22 @@ Chín người. Kể cả bọn trẻ.
 141) BEN
 [pickup3][ambient]Thì.. giờ xăng là miễn phí, nhỉ?
 142) ANDY
-[pickup3][ambient]Đó là NẾU cậu có thể lấy được. Tôi thà tấp vào một trạm xăng và trả năm đô la ở máy bơm còn hơn cố gắng chiến đấu với một gã đã chết nào đó.
+[pickup3][ambient]Đó là NẾU cậu có thể lấy được. Tôi thà tấp vào một trạm xăng và trả năm 
+
+đô la ở máy bơm còn hơn cố gắng chiến đấu với một gã đã chết nào đó.
 143) MARK
-[pickup3]Trời ạ, anh nên thấy mọi người phát điên như thế nào ở căn cứ không quân. Khi nơi này tràn ngập, nó trở nên rất hỗn loạn!
+[pickup3]Trời ạ, anh nên thấy mọi người phát điên như thế nào ở căn cứ không quân. Khi nơi 
+
+này tràn ngập, nó trở nên rất hỗn loạn!
 144) MARK
-[pickup3][ambient]Anh biết không, cảm giác như mới hôm qua tôi đã phàn nàn về việc giá xăng tăng quá cao. Tôi đoán nó không là gì so với bây giờ.
+[pickup3][ambient]Anh biết không, cảm giác như mới hôm qua tôi đã phàn nàn về việc giá xăng tăng 
+
+quá cao. Tôi đoán nó không là gì so với bây giờ.
 145) BEN
 [pickup]Đó cũng là điều đã xảy ra trên xe bus.
 146) MARK
-[pickup3][ambient]Bằng cách nào đó, cuối cùng tôi lại bị nhốt trong một cái tủ đựng đồ của ban thường trực.
+[pickup3][ambient]Bằng cách nào đó, cuối cùng tôi lại bị nhốt trong một cái tủ đựng đồ của 
+
+ban thường trực.
 147) ANDY
 [pickup3][ambient]Hoặc tệ hơn, một đám người giếc chóc để tích trữ!
