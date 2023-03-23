@@ -1,41 +1,41 @@
 312660086) 
-Carley didn't have to die.
+Carley đã không phải chết.
 312660087) 
-Doug saved your life.
+Doug đã cứu mạng của cậu.
 312660088) 
-Anything ELSE you need to say?
+Còn gì KHÁC cậu muốn nói không?
 312660089) 
-Aren't many of us left.
+Không còn nhiều chúng ta lắm.
 312660097) LEE
-{sadA}Aren't many of us left.
+{sadA}Không còn nhiều chúng ta lắm.
 312660090) LEE
-{thinkingA}What are you doing out here?
+{thinkingA}Cậu đang làm gì ở đây?
 312660151) 
-What are you doing out here?
+Cậu đang làm gì ở đây?
 312660092) LEE
-{thinkingB}Anything else?
+{thinkingB}Còn gì khác không?
 312660093) BEN
-{fearA}I guess not.
+{fearA}Tôi đoán không.
 312660094) BEN
-{fearA}I, uh, couldn't be back there anymore. {sadB}I needed some air.
+{fearA}Tôi, uh, không thể quay về chỗ đó lần nữa. {sadB}Tôi cần chút không khí.
 312660095) BEN
-{sadC}I was thinking about talking to Kenny...
+{sadC}Tôi đang nghĩ về việc nói với Kenny...
 312660096) BEN
-{sadA}Yeah... {thinkingA}you, me and Kenny. Clementine. {fearB}The homeless dude, if he sticks around.
+{sadA}Ừ... {thinkingA}cậu, tôi và Kenny. Clementine. {fearB}Gã vô gia cư đó, nếu ông ấy đi cùng.
 312660098) 
-We're all homeless.
+Tất cả chúng ta đều vô gia cư.
 312660103) LEE
-{sadA}We're all homeless.
+{sadA}Tất cả chúng ta đều vô gia cư.
 312660099) 
-I don't know if we can count on Kenny.
+Tôi không biết nếu chúng ta có thể trông cậy vào Kenny hay không.
 312660112) LEE
-{sadB}I don't know if we can count on Kenny.
+{sadB}Tôi không biết nếu chúng ta có thể trông cậy vào Kenny hay không.
 312660100) 
-You going to be able to step up?
+Anh có thể đứng đầu không?
 312660101) BEN
-{sadA}Yeah... I guess not.
+{sadA}Ừ... Tôi đoán không.
 312660102) LEE
-{sadB}There's not much use in describing people by who they were.
+{sadB}Không còn quá nhiều lợi ích việc miêu tả người khác There's not much use in describing people by who they were.
 312660104) BEN
 {disgustA}You know what I mean.
 312660106) LEE
