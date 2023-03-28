@@ -37,46 +37,46 @@ Anh có thể đứng đầu không?
 312660102) LEE
 {sadB}Không còn quá nhiều lợi ích việc miêu tả người khác There's not much use in describing people by who they were.
 312660104) BEN
-{disgustA}You know what I mean.
+{disgustA}Anh biết ý của tôi mà.
 312660106) LEE
-{sadC}We just don't know.
+{sadC}Chúng tôi chỉ không biết.
 312660107) LEE
-{thinkingA}Why didn't you try to find them?
+{thinkingA}Tại sao anh không cố tìm chúng?
 312660108) BEN
-{thinkingA}I guess.
+{thinkingA}Tôi đoán vậy.
 312660109) LEE
-{angryA}Well, what happened to Kenny is different.
+{angryA}Thì, chuyện xảy ra với Kenny nó khác.
 312660110) BEN
 [pickup 2] [new read:Emphasis is off. Should be 'nobody would GO with me' not 'nobody would go WITH 
-me.']{fearA}I...{fearB}nobody would go with me. {sadB}It was a while ago.
+me.']{fearA}Tôi...{fearB}không ai chịu đi cùng tôi. {sadB}Nó là từ một lúc trước.
 312660111) BEN
-{thinkingA}He's driving the train okay.
+{thinkingA}Anh ấy lái tàu ổn mà.
 312660113) BEN
-{sadA}I lost everybody I've known 'cause of this. {sadB}I didn't even get back to my house. {sadC}Who knows what's up with my parents.
+{sadA}Tôi mất tất cả mọi người tôi biết vì việc này. {sadB}Tôi còn chưa về nhà của tôi. {sadC}Ai biết chuyện gì xảy ra với cha mẹ của tôi.
 312660114) LEE
-{thinkingB}Are you going to be able to step up?
+{thinkingB}Anh có thể đứng dậy không?
 312660115) LEE
-[a little firm] {angryA}Good. I hope that's true.
+[a little firm] {angryA}Tốt. Tôi mong nó trở thành sự thật.
 312660116) BEN
-{thinkingA}I can do just as much as anyone else.
+{thinkingA}Tôi có thể làm nhiều như những người khác.
 312660117) BEN
-{sadA}...I wish it was more than that. {fearA}Just us guys and Clementine. {sadB}It's not great.
+{sadA}...Tôi mong nó nhiều hơn thế. {fearA}Chỉ chúng ta đàn ông và Clementine. {sadB}Nó không tốt.
 312660118) BEN
-{sadA}Yeah.
+{sadA}Ừ.
 312660141) 
-Yeah.
+Ừ.
 312660119) LEE
-{thinkingA}See ya.
+{thinkingA}Chào cậu.
 312660120) LEE
-{thinkingA}Hey, Ben.
+{thinkingA}Này, Ben.
 312660121) BEN
-{fearA}Hey.
+{fearA}Chào.
 312660124) LEE
-{angryA}You got anything else you want to say?
+{angryA}Cậu có điều gì khác muốn nói không?
 312660125) BEN
 {sadB}...No.
 312660126) LEE
-{angryB}Good. You can never tell Kenny, you understand?
+{angryB}Tốt. Cậu không bao giờ được nói với Kenny, cậu hiểu chưa can never tell Kenny, you understand?
 312660127) BEN
 {fearB}But--
 312660128) LEE
