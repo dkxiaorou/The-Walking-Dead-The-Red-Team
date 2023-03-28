@@ -80,15 +80,15 @@ me.']{fearA}Tôi...{fearB}không ai chịu đi cùng tôi. {sadB}Nó là từ m�
 312660127) BEN
 {fearB}But--
 312660128) LEE
-{angryC}Do NOT. You don't sell us out to the bandits, they never attack, Duck never gets bitten. He'll kill you.
+{angryC}Không ĐƯỢC. Cậu không bán đứng bọn tôi cho bọn cướp, họ chưa bao giờ tấn công, Duck chưa bao giờ bị cắn. Anh ấy sẽ giết cậu.
 312660129) BEN
-{sadC}I just... I want him to know --
+{sadC}Tôi chỉ... tôi muốn anh ấy biết --
 312660130) LEE
-{angryB}Bullshit. You want to feel better.
+{angryB}Vớ vẩn. Cậu muốn bản thân cảm thấy tốt hơn.
 312660131) LEE
-[pickup2] {angryB}Doug saved your life, you know.
+[pickup2] {angryB}Doug đã cứu mạng của cậu, cậu biết mà.
 312660132) LEE
-[pickup2][cont] {sadB}Even if Clementine was the one he was actually worried about.
+[pickup2][cont] {sadB}Kể cả Clementine đã từng là người anh ấy đã từng để tâm tới the one he was actually worried about.
 312660133) BEN
 [pickup2] [distraught]{sadC} I know, I know... {sadD}I don't know if I can go on like this, man.
 312660134) LEE
@@ -98,15 +98,15 @@ me.']{fearA}Tôi...{fearB}không ai chịu đi cùng tôi. {sadB}Nó là từ m�
 312660136) BEN
 [pickup2] {fearB}She would've killed me instead.
 312660137) LEE
-[pickup2] [heavy] {sadB}Yeah, maybe.
+[pickup2] [heavy] {sadB}Ừ, chắc vậy.
 312660138) BEN
-[pickup2]{fearA} ...You still want to talk to me?
+[pickup2]{fearA} ...Anh vẫn muốn nói chuyện với tôi à?
 312660139) 
-Not really.
+Không hẳn.
 312660140) 
-Not much choice.
+Không còn quá nhiều lựa chọn.
 312660142) LEE
-[pickup2] [cold and dissmissive, do you still want to talk to me after i got everyone killed?] {angryA}Not really.
+[pickup2] [cold and dissmissive, do you still want to talk to me after i got everyone killed?] {angryA}Không hẳn.
 312660143) BEN
 [pickup2][sad] {sadC}I didn't think so.
 312660144) LEE
