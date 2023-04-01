@@ -1,4 +1,3 @@
-NameFILE|ui_openingcredits_english.txt
 1) 
 THE RED TEAM
 
