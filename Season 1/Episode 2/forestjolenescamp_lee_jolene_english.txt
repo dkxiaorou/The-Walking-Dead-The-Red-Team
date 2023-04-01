@@ -1,28 +1,3 @@
-1) MARK
-{normalA} Tôi cứ nghĩ ta sẽ ổn nếu tránh xa khỏi bọn xác sống. {disgustA} Ai ngờ được 
-
-chúng lại khiến ta chết đói chứ.
-2) LEE
-{normalD} Lão ta nghĩ tôi là mối nguy cho nhóm.
-3) MARK
-{sadA} Thật vớ vẩn. Anh đã cứu mạng lão -- không, tất cả chúng ta -- {thinkingA} rất 
-
-nhiều lần trong những tháng vừa rồi.
-4) MARK
-{normalB} Ý tôi là -- khi anh tìm thấy Clementine, tại sao anh lại nhận lấy trách nhiệm đó?
-5) MARK
-{sadA} Vậy sao anh lại làm vậy, Lee?
-6) LEE
-{sadA} Con bé có lẽ sẽ chết nếu không có tôi.
-7) MARK
-{normalB} Mọi chuyện đang, ờ, {thinkingB} khá căng thẳng chỗ trại. Lily và Kenny rõ có những cách 
-
-làm việc khác nhau. {disgustA} Đáng lẽ đã không như vậy khi ở Robins.
-8) MARK
-{thinkingA} Và Larry cũng chẳng giúp gì cả. {disgustA} Ông ta bị sao thế không biết?
-
-==SplitFile==
-NameFILE|forestjolenescamp_lee_jolene_english.txt
 1) DANNY
 Lee, đừng khiến ả điên lên.
 2) JOLENE
