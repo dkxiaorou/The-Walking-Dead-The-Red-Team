@@ -90,13 +90,13 @@ me.']{fearA}Tôi...{fearB}không ai chịu đi cùng tôi. {sadB}Nó là từ m�
 312660132) LEE
 [pickup2][cont] {sadB}Kể cả Clementine đã từng là người anh ấy đã từng để tâm tới the one he was actually worried about.
 312660133) BEN
-[pickup2] [distraught]{sadC} I know, I know... {sadD}I don't know if I can go on like this, man.
+[pickup2] [distraught]{sadC} Tôi biết, tôi biết... {sadD}Tôi không biết tôi có thể tiếp tục như thế này không nữa.
 312660134) LEE
-[pickup2] {angryA}Well, you're gonna. That's just the way it is.
+[pickup2] {angryA}Thì, cậu phải. Đó là như vậy rồi.
 312660135) LEE
-[pickup2] {angryB}Carley didn't have to die, you know.
+[pickup2] {angryB}Carley đã không phải chết, cậu biết mà.
 312660136) BEN
-[pickup2] {fearB}She would've killed me instead.
+[pickup2] {fearB}Cô ấy sẽ giết tôi.
 312660137) LEE
 [pickup2] [heavy] {sadB}Ừ, chắc vậy.
 312660138) BEN
@@ -108,28 +108,28 @@ Không còn quá nhiều lựa chọn.
 312660142) LEE
 [pickup2] [cold and dissmissive, do you still want to talk to me after i got everyone killed?] {angryA}Không hẳn.
 312660143) BEN
-[pickup2][sad] {sadC}I didn't think so.
+[pickup2][sad] {sadC}Tôi không nghĩ vậy.
 312660144) LEE
-[pickup2]{angryA}I don't have a lot of choice, unless you're going somewhere.
+[pickup2]{angryA}Tôi không có quá nhiều lựa chọn, trừ khi cậu đi nơi khác.
 312660145) BEN
-[pickup2]{fearA}I...I guess I'm not. [are you going anywhere? like, are you leaving the group since you fucked up so bad?]
+[pickup2]{fearA}Tôi...tôi đoán tôi không. [are you going anywhere? like, are you leaving the group since you fucked up so bad?]
 312660146) LEE
-[pickup2] {angryA}Yeah, I do. [want to talk to you, even though ben doesnt think you would want to]
+[pickup2] {angryA}Yeah, tôi có. [want to talk to you, even though ben doesnt think you would want to]
 312660147) BEN
-[pickup2] {sadC}I'm real sorry.
+[pickup2] {sadC}Tôi thực sự xin lỗi real sorry.
 312660148) LEE
-[pickup2] {sadB}Let's drop it for now, okay?
+[pickup2] {sadB}Hãy thả chuyện đó sang một bên, được không?
 312660150) BEN
-[pickup2] [maybe change to this?] Just thinking about talking to Kenny...
+[pickup2] [maybe change to this?] Chỉ đang nghĩ về việc nói chuyện với Kenny...
 312660152) 
-I'm serious about keeping your shit to yourself.
+Tôi nghiêm túc về việc giữ chuyện này với bản thân.
 312660153) LEE
-[pickup2] {angryB}I'm dead serious about you keeping your mistakes to yourself.
+[pickup2] {angryB}Tôi rất nghiêm túc về việc cậu giữ lỗi lầm của cậu cho bản thân dead serious about you keeping your mistakes to yourself.
 312660154) BEN
-[pickup2] {sadB}I can tell. [being reprimanded]
+[pickup2] {sadB}Tôi có thể thấy vậy. [being reprimanded]
 312660155) LEE
-[pickup2]{angryA} You get why, right?
+[pickup2]{angryA} Cậu biết tại sao, phải không?
 312660156) BEN
-[pickup2] {sadC}I guess.[small]
+[pickup2] {sadC}Tôi đoán.[small]
 312660157) LEE
-[pickup2] {angryB}You better.
+[pickup2] {angryB}Cậu nên.
