@@ -1,43 +1,43 @@
 312655905) CHUCK
-[outside train] {thinkingA}How ya doin?
+[outside train] {thinkingA}Anh sao rồi?
 312655906) LEE
 [firm][outside train] {normalD}Hey.
 312655907) 
-Don't talk to my girl anymore.
+Đừng nói chuyện với cô gái của tôi nữa.
 312655908) 
-Why did you say what you said to Clementine?
+Tại sao anh lại nói điều anh nói với Clementine?
 312655909) 
-Say what you said to ME, asshole.
+Nói điều anh nói với TÔI, thằng khốn.
 312655910) LEE
-[outside train]{angryA}Don't talk to my girl. Just stay away from her.
+[outside train]{angryA}Đừng nói chuyện với cô gái của tôi. Cứ tránh xa cô ấy ra.
 312655911) CHUCK
-[outside train] {angryA}Excuse me, son?
+[outside train] {angryA}Thứ lỗi tôi, con trai?
 312655917) CHUCK
-[outside train] {angryA}Excuse me, son?
+[outside train] {angryA}Thứ lỗi tôi, con trai?
 312655912) LEE
-[outside train] {angryB}I heard you told her she was going to die; that she was gonna end up like Duck. {angryC}Why'd you go and do that?
+[outside train] {angryB}Tôi đã nghe anh nói với cô ấy rằng cô ấy sẽ chết; rằng cô ấy sẽ như Duck. {angryC}Tại sao anh không đi và làm điều đó?
 312655913) CHUCK
-[outside train] {sadB}'Cause she is.
+[outside train] {sadB}Bởi vì cô ấy sẽ bị vậy.
 312655915) CHUCK
-[outside train] {sadB}'Cause she is.
+[outside train] {sadB}Bởi vì cô ấy sẽ bị vậy.
 312655914) LEE
-[outside train]{angryA}I don't care what reasons you had for doing it, {angryB}no reason to go and tell my girl she's gonna end up dead!
+[outside train]{angryA}Tôi không quan tâm lý do anh làm điều đó, {angryB}không có lý do gì để đi và nói với cô gái của tôi rằng cô ấy sẽ chết!
 312655916) LEE
-[outside train] {angryA}Say it to me asshole, what you said to my girl.
+[outside train] {angryA}Nói với tôi thằng khốn, điều anh nói cô gái của tôi.
 312655918) LEE
-[outside train] {angryA}Telling a little girl she's gonna die. {angryC}You want to scare people? Scare me, {angryA}mother fucker.
+[outside train] {angryA}Nói với một cô gái nhỏ rằng cô ấy sẽ chết. {angryC}Anh muốn doạ người khác à? Doạ tôi này, {angryA}thằng khốn nạn.
 312655919) CHUCK
-[outside train]{happyB}Okey dokey. {angryA}She's gonna die.
+[outside train]{happyB}Okey dokey. {angryA}Cô ấy sẽ chết.
 312655920) LEE
-[outside train] {angryB}Son of a bitch.
+[outside train] {angryB}Thằng chết tiệt.
 312655921) CHUCK
-[outside train] [semi sarcastic/flat, trying to get Lee's ire up]{disgustA} How was that?
+[outside train] [semi sarcastic/flat, trying to get Lee's ire up]{disgustA} Nó sao rồi?
 312655922) LEE
-[outside train] {angryC}How about I throw your sorry ass off this fucking train?
+[outside train] {angryC}Hay là tôi nếm cái xin lỗi của anh ra khỏi cái tàu cặc này?
 312655923) CHUCK
-[outside train] {thinkingB}Now we're both scared.
+[outside train] {thinkingB}Giờ cả hai chúng ta đều sợ.
 312655924) CHUCK
-{happyA}Now I've gone and done it. I've ticked off the papa goose.
+{happyA}Giờ I've gone and done it. I've ticked off the papa goose.
 312655925) CHUCK
 {thinkingB}Ya always hear about the mama goose but the papa goose is the one that'll sneak up and put a real dent in your behind.
 312655926) CHUCK
