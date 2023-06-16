@@ -1,7 +1,7 @@
 312639608) KATJAA
-{sadB}{body-a}Ken. It's... I think it's time.
+{sadB}{body-a}Ken. Cái đó ...Em nghĩ đã đến lúc rồi
 312639609) KENNY
-{sadA}{body-A}The boy's been bit. {disgustA}In case you haven't figured that out.
+{sadA}{body-A}Thằng bé đã bị nhiễm. {disgustA}Trong trường hợp anh chưa rõ.
 312639610) 
 What do you need?
 312639611) 
